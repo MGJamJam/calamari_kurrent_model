@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:10.560+02:00</Created>
+        <LastChange>2020-11-15T19:42:47.079+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745610" pageNr="45" tsid="49318648" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SNWYKWRCUHWDFTCYFLTEXLFX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSOWZVXCIFPAGVVPALWNQQQZ" imageId="14360790"/>
+    </Metadata>
+    <Page imageFilename="0060_page_321210_line_r1l36_docId_14155.jpg" imageWidth="552" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426121196" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 552,0 552,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 127,238 149,223 160,236 196,225 250,237 283,226 334,237 365,223 448,230 452,128 414,123 393,101 360,103 314,131 274,100 240,104 200,136 165,110 104,138"/>
+                <Baseline points="119,165 145,167 171,168 198,170 224,171 251,173 277,174 303,175 330,175 356,177 383,177 409,177 436,178"/>
+                <TextEquiv>
+                    <Unicode>Erbschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erbschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

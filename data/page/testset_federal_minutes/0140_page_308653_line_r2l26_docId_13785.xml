@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:21.017+02:00</Created>
+        <LastChange>2020-11-17T07:47:11.793+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744708" pageNr="85" tsid="49319254" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FARAVIIWCKAVWJZWAYWQTWSI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULJYFOLDUMLCGZEKZDZCXCXO" imageId="14360099"/>
+    </Metadata>
+    <Page imageFilename="0140_page_308653_line_r2l26_docId_13785.jpg" imageWidth="2087" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426360114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2087,0 2087,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 1987,214 1987,138 1873,122 1532,171 1346,115 819,151 763,100 646,151 489,102 283,166 100,118"/>
+                <Baseline points="111,195 204,195 297,195 390,195 483,195 577,195 670,195 763,195 856,195 949,195 1043,195 1136,195 1229,195 1322,195 1415,195 1509,195 1602,195 1695,195 1788,195 1881,195 1975,193"/>
+                <TextEquiv>
+                    <Unicode>bisherigen Lebensumstände dieser Person zu erhalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bisherigen Lebensumstände dieser Person zu erhalten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

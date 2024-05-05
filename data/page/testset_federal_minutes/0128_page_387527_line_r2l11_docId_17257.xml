@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:57:10.201+02:00</Created>
+        <LastChange>2020-11-09T08:23:44.297+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747586" pageNr="59" tsid="49318119" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ILYYIJDAIOICTYHHLTTYKPIK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCRBIUQUNBLXWYIGVVMMVLUG" imageId="14362766"/>
+    </Metadata>
+    <Page imageFilename="0128_page_387527_line_r2l11_docId_17257.jpg" imageWidth="2149" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425852129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2149,0 2149,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2003,227 2049,109 100,146"/>
+                <Baseline points="111,186 207,186 303,188 399,188 496,188 592,188 688,188 785,188 881,188 977,190 1074,190 1170,190 1266,190 1362,190 1459,190 1555,190 1651,190 1748,190 1844,190 1940,190 2037,190"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 28. Sitzung vom 17. März wird ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 28. Sitzung vom 17. März wird ver¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

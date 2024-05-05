@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:09.950+02:00</Created>
+        <LastChange>2020-08-22T11:15:22.946+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746324" pageNr="19" tsid="37759002" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JGOKQYQEGIPRYJRMKZEIIBHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TVXZXOCPXLOKQXELUPUBSFOO" imageId="14361504"/>
+    </Metadata>
+    <Page imageFilename="0031_page_377700_line_r3l28_docId_17247.jpg" imageWidth="545" imageHeight="302">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425948032" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 545,0 545,302 0,302"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,176 219,202 272,169 305,191 336,194 351,182 370,194 408,185 444,195 445,121 399,113 339,127 287,100 256,116 213,106 187,123 170,113 101,117"/>
+                <Baseline points="111,151 137,149 164,149 191,149 218,150 245,151 272,152 298,153 325,153 352,153 379,153 406,152 433,149"/>
+                <TextEquiv>
+                    <Unicode>werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

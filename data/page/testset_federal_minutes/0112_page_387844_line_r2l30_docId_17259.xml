@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:55:10.179+02:00</Created>
+        <LastChange>2020-11-09T08:19:00.797+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747500" pageNr="55" tsid="49318110" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XJQVDODQPMCAXXXDVHGIPPZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XCKQQTXNZPQFGQYAITILMHYU" imageId="14362680"/>
+    </Metadata>
+    <Page imageFilename="0112_page_387844_line_r2l30_docId_17259.jpg" imageWidth="858" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425851606" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 858,0 858,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 178,214 321,241 349,220 429,260 487,224 567,249 662,215 758,229 757,137 702,157 639,117 567,156 516,121 416,162 303,100 263,128 100,147"/>
+                <Baseline points="114,189 145,192 177,193 208,195 240,195 272,195 303,196 335,196 366,195 398,195 430,194 461,193 493,193 524,191 556,191 588,191 619,189 651,189 682,189 714,190 746,191"/>
+                <TextEquiv>
+                    <Unicode>nin) einzureichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nin) einzureichen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

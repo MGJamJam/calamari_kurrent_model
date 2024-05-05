@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:15:24.759+02:00</Created>
+        <LastChange>2020-08-22T11:18:09.315+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748304" pageNr="37" tsid="37760261" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VECZIPTECIAVZCDUXBCCNQGY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBDOSTWHVVQKLXJHLJAWOWUO" imageId="14363484"/>
+    </Metadata>
+    <Page imageFilename="0067_page_388829_line_r2l28_docId_17263.jpg" imageWidth="1975" imageHeight="392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425766173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1975,0 1975,392 0,392"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,240 1875,262 1875,180 1687,146 1012,189 792,100 629,187 100,183"/>
+                <Baseline points="113,220 200,222 287,222 375,224 462,224 550,224 637,224 724,224 812,223 899,222 987,222 1074,222 1161,220 1249,220 1336,220 1424,219 1511,218 1598,218 1686,218 1773,220 1861,220"/>
+                <TextEquiv>
+                    <Unicode>Die über diese Lieferungen mit den genann¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die über diese Lieferungen mit den genann¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

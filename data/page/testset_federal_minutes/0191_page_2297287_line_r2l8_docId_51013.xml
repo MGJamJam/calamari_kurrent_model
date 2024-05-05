@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:31.501+02:00</Created>
+        <LastChange>2020-10-11T21:49:12.287+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749766" pageNr="136" tsid="49313792" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SBNXBDOJFFXOQGBFDGDFCOEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBQVBKYDSSABDNZKEADKDRYK" imageId="14364938"/>
+    </Metadata>
+    <Page imageFilename="0191_page_2297287_line_r2l8_docId_51013.jpg" imageWidth="509" imageHeight="285">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425556056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 509,0 509,285 0,285"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,185 151,167 243,170 253,158 276,171 384,179 409,170 407,110 345,120 236,107 214,116 197,100 162,101 138,124 100,125"/>
+                <Baseline points="116,155 141,158 166,159 191,159 217,158 242,157 267,155 292,154 318,153 343,152 368,151 394,153 417,153"/>
+                <TextEquiv>
+                    <Unicode>P. No 3079.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P. No 3079.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

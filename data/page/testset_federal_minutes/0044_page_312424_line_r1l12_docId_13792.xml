@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:23.996+02:00</Created>
+        <LastChange>2020-08-22T07:33:39.759+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744709" pageNr="28" tsid="37714867" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MNYNOBBIOKIQWBXXDBVMQUPH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZZJFHQZVVKEATPOINOPCRLRN" imageId="14360100"/>
+    </Metadata>
+    <Page imageFilename="0044_page_312424_line_r1l12_docId_13792.jpg" imageWidth="2057" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426294731" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2057,0 2057,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 689,259 784,201 1957,214 1957,151 1854,117 1790,165 1396,112 1031,171 601,101 100,120"/>
+                <Baseline points="111,194 202,192 294,192 386,192 477,192 569,192 661,194 752,194 844,194 936,195 1028,196 1119,196 1211,198 1303,198 1394,198 1486,199 1578,200 1669,200 1761,200 1853,198 1945,198"/>
+                <TextEquiv>
+                    <Unicode>daß früheren Schlußnahmen zufolge die Feststellung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>daß früheren Schlußnahmen zufolge die Feststellung des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

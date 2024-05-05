@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:41.147+02:00</Created>
+        <LastChange>2020-11-18T18:05:16.737+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744565" pageNr="106" tsid="49319380" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WIQPQLXSWUPICVSJZFPJPBHM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBFBIGYFDKQOZHMKYZLNEPEC" imageId="14359956"/>
+    </Metadata>
+    <Page imageFilename="0168_page_303194_line_r1l5_docId_13780.jpg" imageWidth="2117" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426422994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2117,0 2117,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 1001,244 1197,194 1414,249 1700,199 1769,251 2016,223 2017,134 101,118"/>
+                <Baseline points="113,181 207,181 302,181 396,183 491,183 586,183 680,183 775,185 869,185 964,187 1059,187 1153,187 1248,189 1342,189 1437,189 1532,189 1626,191 1721,191 1815,191 1910,189 2005,189"/>
+                <TextEquiv>
+                    <Unicode>umgewandelt) sowie zum Verlust der bürgerli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>umgewandelt) sowie zum Verlust der bürgerli¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

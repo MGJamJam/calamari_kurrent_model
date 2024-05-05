@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:58.795+02:00</Created>
+        <LastChange>2020-08-22T07:35:07.229+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744814" pageNr="61" tsid="37715132" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPXHKXICYTIYUSWQLDZZHZTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHXEWXSRJKBDLYNZHZEKRXFK" imageId="14360205"/>
+    </Metadata>
+    <Page imageFilename="0091_page_312835_line_r1l36_docId_13794.jpg" imageWidth="2035" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426299126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2035,0 2035,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,262 662,265 922,202 1055,243 1180,192 1690,224 1935,184 1933,119 100,169"/>
+                <Baseline points="113,215 203,215 294,215 384,214 475,212 565,209 656,208 746,205 837,201 927,197 1018,194 1108,191 1199,187 1289,184 1380,181 1470,178 1561,175 1651,173 1742,173 1832,172 1923,173"/>
+                <TextEquiv>
+                    <Unicode>santen nicht einigen können, durch gegenwärtigen Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>santen nicht einigen können, durch gegenwärtigen Be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:13:47.003+02:00</Created>
+        <LastChange>2020-10-27T08:43:49.791+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748242" pageNr="31" tsid="49304063" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SKHMQECHSIPWUIOTNGNNDPPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPVGULCKFKAVORKYFRWFMLBX" imageId="14363422"/>
+    </Metadata>
+    <Page imageFilename="0055_page_392233_line_r2l30_docId_17267.jpg" imageWidth="2358" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425765377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2358,0 2358,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,241 2087,250 2257,238 2258,109 1978,171 1817,108 101,136"/>
+                <Baseline points="114,194 220,192 327,192 433,190 540,190 646,190 753,190 859,192 966,192 1072,194 1179,196 1285,196 1392,198 1498,200 1605,202 1711,202 1818,204 1924,204 2031,206 2137,206 2244,206"/>
+                <TextEquiv>
+                    <Unicode>schen Republik teilt mit, daß Philipp Dubois verhaftet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schen Republik teilt mit, daß Philipp Dubois verhaftet</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

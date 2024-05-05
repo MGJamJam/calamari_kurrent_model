@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:16:35.169+02:00</Created>
+        <LastChange>2020-08-22T11:24:49.803+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748352" pageNr="112" tsid="37762601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CZFOSDMXLWLYIHMCQHLTATTU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MSTQPPSDKJGEHLPVGLAVXDHG" imageId="14363532"/>
+    </Metadata>
+    <Page imageFilename="0117_page_377578_line_r2l1_docId_17274.jpg" imageWidth="1224" imageHeight="404">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425720332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1224,0 1224,404 0,404"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,262 726,259 822,304 912,252 1124,260 1123,175 870,196 740,163 701,191 435,100 376,134 201,120 100,180"/>
+                <Baseline points="115,253 164,251 214,251 264,251 314,251 364,251 413,250 463,249 513,249 563,249 613,249 662,249 712,249 762,249 812,249 862,249 911,249 961,248 1011,247 1061,247 1111,245"/>
+                <TextEquiv>
+                    <Unicode>32. Sitzung vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32. Sitzung vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

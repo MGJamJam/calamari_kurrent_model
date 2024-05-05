@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:03:30.324+02:00</Created>
+        <LastChange>2020-08-22T11:19:59.765+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747851" pageNr="88" tsid="37761056" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RXYHGZTQLJGVLXAAGACHEXZG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUVRISZKSVTUJUSSIUPEDDXF" imageId="14363031"/>
+    </Metadata>
+    <Page imageFilename="0182_page_387490_line_r1l15_docId_17258.jpg" imageWidth="2238" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425856221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2238,0 2238,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2138,220 2073,122 242,154 100,103"/>
+                <Baseline points="114,187 214,187 315,187 415,185 516,185 616,185 717,185 817,183 918,183 1018,183 1119,183 1219,181 1320,181 1420,181 1521,181 1621,181 1722,181 1822,181 1923,181 2023,181 2124,183"/>
+                <TextEquiv>
+                    <Unicode>zu bezahlen, und wünsche die Adresse derselben zu erhalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu bezahlen, und wünsche die Adresse derselben zu erhalten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

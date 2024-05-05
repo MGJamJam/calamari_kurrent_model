@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:43.303+02:00</Created>
+        <LastChange>2020-09-28T09:36:45.649+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519057" pageNr="67" tsid="49307486" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JSLBEZDDDTYFISORNMZHENPC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IORMLLGSWNPJXDMTVNEARLWK" imageId="15085990"/>
+    </Metadata>
+    <Page imageFilename="0092_page_2457221_line_r2l22_docId_51515.jpg" imageWidth="2404" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425245604" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2404,0 2404,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 2274,262 2304,101 2108,167 101,145 100,189"/>
+                <Baseline points="113,176 221,178 330,179 439,180 548,182 657,182 765,184 874,184 983,186 1092,187 1201,188 1309,190 1418,190 1527,192 1636,194 1745,196 1853,198 1962,200 2071,202 2180,206 2326,210"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="140,137 140,197 240,197 240,137"/>
+                    <TextEquiv>
+                        <Unicode>wie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="291,138 291,198 342,198 342,138"/>
+                    <TextEquiv>
+                        <Unicode>er</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="392,140 392,200 586,200 586,140"/>
+                    <TextEquiv>
+                        <Unicode>wisse,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="612,142 612,202 687,202 687,142"/>
+                    <TextEquiv>
+                        <Unicode>sei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="720,143 720,203 797,203 797,143"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="830,144 830,204 990,204 990,144"/>
+                    <TextEquiv>
+                        <Unicode>Frage</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1024,146 1024,206 1142,206 1142,146"/>
+                    <TextEquiv>
+                        <Unicode>über</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1184,148 1184,208 1260,208 1260,148"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1310,150 1310,210 1555,210 1555,150"/>
+                    <TextEquiv>
+                        <Unicode>Stellung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1597,154 1597,214 1682,214 1682,154"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1715,158 1715,218 2010,218 2010,158"/>
+                    <TextEquiv>
+                        <Unicode>anoaynient</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2044,165 2044,225 2287,225 2287,165"/>
+                    <TextEquiv>
+                        <Unicode>Gesellschaf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>wie er wisse, sei die Frage über die Stellung der anonymen Gesellschaf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wie er wisse, sei die Frage über die Stellung der anonymen Gesellschaf¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

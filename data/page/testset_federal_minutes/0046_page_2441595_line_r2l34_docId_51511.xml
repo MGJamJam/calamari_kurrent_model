@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:15.144+02:00</Created>
+        <LastChange>2020-08-22T11:30:02.541+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750485" pageNr="35" tsid="49309283" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DDTBEGWACKSNZZEDWUXWPJJF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NLNZXCPOIBDVPZAJPFGTWLGJ" imageId="14365643"/>
+    </Metadata>
+    <Page imageFilename="0046_page_2441595_line_r2l34_docId_51511.jpg" imageWidth="2187" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425308798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2187,0 2187,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 565,243 1526,187 1621,256 1747,180 2087,193 2087,130 1945,101 100,120"/>
+                <Baseline points="116,174 213,176 311,176 409,178 506,178 604,178 702,178 799,178 897,178 995,178 1093,178 1190,178 1288,176 1386,176 1483,176 1581,176 1679,176 1776,176 1874,178 1972,178 2070,180"/>
+                <TextEquiv>
+                    <Unicode>Unter Bezugnahme auf die diesseitige Notel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unter Bezugnahme auf die diesseitige Notel-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

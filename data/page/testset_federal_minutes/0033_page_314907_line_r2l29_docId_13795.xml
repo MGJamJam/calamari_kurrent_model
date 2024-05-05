@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:56:01.651+02:00</Created>
+        <LastChange>2020-11-16T11:52:11.855+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744687" pageNr="22" tsid="49319036" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SZTXCPCIHCFMBQEDTAHITIZL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AICHAHLPCWFJZZYRSRKQQXTZ" imageId="14360078"/>
+    </Metadata>
+    <Page imageFilename="0033_page_314907_line_r2l29_docId_13795.jpg" imageWidth="2154" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426293955" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2154,0 2154,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2054,205 1901,127 527,168 100,100"/>
+                <Baseline points="112,194 208,194 305,192 401,192 498,192 594,192 691,192 787,192 884,192 980,192 1077,194 1173,194 1270,194 1366,194 1463,194 1559,194 1656,194 1752,192 1849,192 1945,190 2042,188"/>
+                <TextEquiv>
+                    <Unicode>tärdepartements wird beschlossen, es sei genannten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tärdepartements wird beschlossen, es sei genannten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

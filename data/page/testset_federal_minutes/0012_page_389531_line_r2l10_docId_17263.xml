@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:50.294+02:00</Created>
+        <LastChange>2020-10-27T08:32:01.345+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748023" pageNr="9" tsid="49303974" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZBVWSNPWFKULEJINJPVEPYNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UKKYHQDCQWVQQKLOETQNVMXQ" imageId="14363203"/>
+    </Metadata>
+    <Page imageFilename="0012_page_389531_line_r2l10_docId_17263.jpg" imageWidth="2388" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425762390" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2388,0 2388,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 701,261 769,203 2288,197 2233,118 1921,100 100,133"/>
+                <Baseline points="113,193 221,191 329,191 437,189 545,189 653,189 761,187 869,187 977,187 1085,185 1193,185 1301,185 1409,185 1517,183 1625,183 1733,183 1841,183 1949,183 2057,183 2165,183 2273,185"/>
+                <TextEquiv>
+                    <Unicode>der Rückerstattung der dem Krankenhause in Wien aus der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Rückerstattung der dem Krankenhause in Wien aus der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

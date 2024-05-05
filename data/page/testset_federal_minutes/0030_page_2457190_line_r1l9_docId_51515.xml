@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:44.153+02:00</Created>
+        <LastChange>2020-09-28T08:31:18.807+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518995" pageNr="26" tsid="49307236" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HATLPXRTXILZPBREQAIPTUXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOSZQNFSYPAXFGNRNOAKTNYV" imageId="15085928"/>
+    </Metadata>
+    <Page imageFilename="0030_page_2457190_line_r1l9_docId_51515.jpg" imageWidth="771" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425239197" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 771,0 771,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 176,191 218,214 244,189 332,187 393,222 453,188 671,193 671,137 499,138 479,118 397,117 377,137 245,124 219,138 101,100 100,199"/>
+                <Baseline points="114,180 141,178 168,178 195,176 222,176 250,176 277,176 304,176 331,177 358,178 386,178 413,178 440,179 467,180 494,180 522,180 549,181 576,182 603,182 630,181 713,192"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="149,136 149,196 392,196 392,136"/>
+                    <TextEquiv>
+                        <Unicode>Nachkredit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="415,139 415,199 481,199 481,139"/>
+                    <TextEquiv>
+                        <Unicode>für</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="510,142 510,202 643,202 643,142"/>
+                    <TextEquiv>
+                        <Unicode>Militä</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Nachkredit für Militär¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nachkredit für Militär¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

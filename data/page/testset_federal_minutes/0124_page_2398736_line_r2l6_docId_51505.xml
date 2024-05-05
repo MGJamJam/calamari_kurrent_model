@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:40.213+02:00</Created>
+        <LastChange>2020-10-06T10:35:08.613+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750147" pageNr="75" tsid="49311732" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HFILXEMXBRDGHQLWQQUIPYUJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULUQNXKCUJMXGIGYGFAUEWFC" imageId="14365319"/>
+    </Metadata>
+    <Page imageFilename="0124_page_2398736_line_r2l6_docId_51505.jpg" imageWidth="879" imageHeight="387">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425435044" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 879,0 879,387 0,387"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,261 189,241 242,287 389,220 551,232 634,212 683,241 710,212 779,220 776,141 718,140 675,100 573,165 456,169 428,149 100,171"/>
+                <Baseline points="120,226 152,226 184,226 216,224 248,223 280,222 312,220 344,220 376,217 408,216 441,214 473,213 505,212 537,210 569,209 601,208 633,208 665,208 697,208 729,209 762,210"/>
+                <TextEquiv>
+                    <Unicode>Geologische &amp; meteorlo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geologische &amp; meteorlo-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

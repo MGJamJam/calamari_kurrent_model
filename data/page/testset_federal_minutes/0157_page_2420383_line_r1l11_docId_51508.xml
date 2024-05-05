@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:39.744+02:00</Created>
+        <LastChange>2020-08-22T11:33:15.742+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750748" pageNr="111" tsid="37765571" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZNMUWIYCPFNADKMDDUBXLFHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USAXDNDOHOGGCPCSFLSLJCLQ" imageId="14365906"/>
+    </Metadata>
+    <Page imageFilename="0157_page_2420383_line_r1l11_docId_51508.jpg" imageWidth="2216" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425383010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2216,0 2216,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 359,206 432,275 632,209 1665,245 2116,196 2116,113 100,157"/>
+                <Baseline points="114,207 213,207 312,207 412,207 511,207 611,207 710,207 809,205 909,205 1008,205 1108,203 1207,203 1306,203 1406,201 1505,201 1605,199 1704,198 1803,197 1903,195 2002,195 2102,193"/>
+                <TextEquiv>
+                    <Unicode>Mit Schreiben vom 12. ds., das gestern dem Herrn Randes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Schreiben vom 12. ds., das gestern dem Herrn Randes¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:53:10.277+02:00</Created>
+        <LastChange>2020-08-21T22:15:01.619+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744647" pageNr="64" tsid="37657189" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WQXOXJTLKSRUKHQBZHLDIDJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRBXVOTSVKOASIDGZPEKQLST" imageId="14360038"/>
+    </Metadata>
+    <Page imageFilename="0108_page_310774_line_r2l21_docId_13789.jpg" imageWidth="2134" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426357510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2134,0 2134,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1200,196 1401,250 1705,201 2033,266 2034,144 1621,100 1364,165 608,109 100,152"/>
+                <Baseline points="113,182 208,184 303,184 399,184 494,186 590,186 685,186 780,186 876,186 971,186 1067,187 1162,188 1257,188 1353,190 1448,190 1544,192 1639,194 1734,196 1830,198 1925,200 2021,204"/>
+                <TextEquiv>
+                    <Unicode>antragsgemäß die weitere Behandlung und Beurteilung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>antragsgemäß die weitere Behandlung und Beurteilung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

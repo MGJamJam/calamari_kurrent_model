@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:52.384+02:00</Created>
+        <LastChange>2020-08-22T11:25:17.392+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749522" pageNr="65" tsid="37762769" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OTKSJTYWAEIFJOZCLNAVSHNR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FDBSUBSVSHXIGFPUKPSRXXNZ" imageId="14364698"/>
+    </Metadata>
+    <Page imageFilename="0084_page_2301844_line_r2l12_docId_51012.jpg" imageWidth="2249" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425546315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2249,0 2249,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,233 1190,202 1555,256 2149,183 2084,100 100,170"/>
+                <Baseline points="113,212 214,212 315,210 416,210 517,208 618,206 719,204 820,202 921,201 1022,200 1124,198 1225,196 1326,194 1427,192 1528,190 1629,188 1730,187 1831,186 1932,184 2033,184 2135,182"/>
+                <TextEquiv>
+                    <Unicode>Mit Depesche vom 6 dieß übersendet der Generalagent in Neapel 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Depesche vom 6 dieß übersendet der Generalagent in Neapel 12</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:53.263+02:00</Created>
+        <LastChange>2020-10-07T07:45:08.276+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749715" pageNr="4" tsid="49312180" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CTZDWKEHJPQQETFNMXEVISKO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TUXQQCXNQOFHUFNVIQZDXAEM" imageId="14364891"/>
+    </Metadata>
+    <Page imageFilename="0006_page_2370987_line_r1l6_docId_51496.jpg" imageWidth="2368" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425479678" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2368,0 2368,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,220 2232,213 2267,125 100,162"/>
+                <Baseline points="115,191 222,191 329,191 436,189 543,189 650,187 757,185 864,184 971,183 1078,181 1185,179 1292,177 1399,175 1506,174 1613,173 1720,171 1827,171 1934,171 2041,169 2148,169 2255,171"/>
+                <TextEquiv>
+                    <Unicode>vertrages und ein Exemplar der Strenna del Commercio einsendet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vertrages und ein Exemplar der Strenna del Commercio einsendet,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

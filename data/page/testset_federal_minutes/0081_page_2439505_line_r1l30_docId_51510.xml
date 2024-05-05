@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:46.975+02:00</Created>
+        <LastChange>2020-10-06T07:34:21.690+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750525" pageNr="56" tsid="49310703" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QWMRUAMZBTBAWEOCPSSECFUL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOOTBGBXELTTOFIJYITNHQVN" imageId="14365683"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2439505_line_r1l30_docId_51510.jpg" imageWidth="2257" imageHeight="383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425375360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2257,0 2257,383 0,383"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,247 2133,256 2157,185 1331,187 1152,130 1056,179 963,100 853,174 268,112 100,182"/>
+                <Baseline points="115,228 216,226 318,226 419,226 521,224 622,224 724,224 825,224 927,222 1028,222 1130,222 1231,222 1333,222 1434,222 1536,222 1637,222 1739,222 1840,222 1942,222 2043,222 2145,222 2162,222"/>
+                <TextEquiv>
+                    <Unicode>Herr Hauptmann Henri Liardon von Montherod, in Lausanne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr Hauptmann Henri Liardon von Montherod, in Lausanne,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:35.329+02:00</Created>
+        <LastChange>2020-08-21T22:01:35.347+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744339" pageNr="11" tsid="37655002" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HWGSPUNTDCFQMAVRWRGJSBHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFMJMOTHJITDTEZTOBWAYICT" imageId="14359734"/>
+    </Metadata>
+    <Page imageFilename="0019_page_302887_line_r1l18_docId_13780.jpg" imageWidth="2063" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426409564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2063,0 2063,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 938,196 1108,251 1638,199 1805,252 1963,208 1963,122 1512,162 1439,100 1042,162 101,135"/>
+                <Baseline points="114,189 205,189 297,189 389,189 481,189 573,189 664,191 756,191 848,191 940,191 1032,193 1123,193 1215,193 1307,195 1399,195 1491,195 1582,195 1674,195 1766,195 1858,195 1950,195"/>
+                <TextEquiv>
+                    <Unicode>wirtschaftsdepartement zur Kenntnisnahme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wirtschaftsdepartement zur Kenntnisnahme.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

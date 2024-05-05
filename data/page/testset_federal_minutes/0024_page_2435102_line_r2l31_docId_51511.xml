@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:28.446+02:00</Created>
+        <LastChange>2020-08-22T11:29:25.298+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750422" pageNr="18" tsid="49309217" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MYUKQGEHZTVDGJQCSFKTWMJJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGIYFADNIVAASCGVURXFYKYB" imageId="14365580"/>
+    </Metadata>
+    <Page imageFilename="0024_page_2435102_line_r2l31_docId_51511.jpg" imageWidth="2324" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425306352" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2122,212 2224,198 2224,136 1135,100 100,159"/>
+                <Baseline points="115,196 219,194 324,194 429,192 534,190 639,190 743,188 848,188 953,186 1058,186 1163,184 1267,184 1372,182 1477,182 1582,182 1687,182 1791,182 1896,182 2001,182 2106,182 2211,182"/>
+                <TextEquiv>
+                    <Unicode>solches nicht gezählt werden kann, daß also die Vorausse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>solches nicht gezählt werden kann, daß also die Vorausse¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

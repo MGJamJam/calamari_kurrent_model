@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:16.961+02:00</Created>
+        <LastChange>2020-08-21T22:13:42.312+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744555" pageNr="38" tsid="37656971" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LJCOPHIJWPFOHQDBZSNELNVG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZSYHIJNUFPLMZDQXOIXHEOW" imageId="14359946"/>
+    </Metadata>
+    <Page imageFilename="0070_page_306548_line_r2l17_docId_13787.jpg" imageWidth="1880" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426353601" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1880,0 1880,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 191,257 267,200 884,242 1016,195 1128,256 1280,195 1780,198 1780,142 1607,103 1512,154 1431,105 1040,147 972,100 821,156 711,105 218,157 100,108"/>
+                <Baseline points="112,189 194,189 277,189 360,189 443,190 526,190 608,189 691,189 774,189 857,189 940,189 1022,189 1105,189 1188,189 1271,189 1354,189 1436,189 1519,189 1602,189 1685,189 1768,189"/>
+                <TextEquiv>
+                    <Unicode>Einer Zuschrift der Regierung des Kantons Bern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Einer Zuschrift der Regierung des Kantons Bern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

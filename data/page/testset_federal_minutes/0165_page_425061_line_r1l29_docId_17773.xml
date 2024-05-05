@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:02.275+02:00</Created>
+        <LastChange>2020-08-22T11:27:03.241+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749533" pageNr="74" tsid="37763460" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RANGVUSNZMQGKSNAWVKEXHMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFFDNHKFACQWAGWTNYWETMFE" imageId="14364709"/>
+    </Metadata>
+    <Page imageFilename="0165_page_425061_line_r1l29_docId_17773.jpg" imageWidth="2298" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425595623" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2298,0 2298,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 2197,243 2198,168 1882,124 101,131"/>
+                <Baseline points="114,178 222,180 331,184 440,185 549,186 658,188 767,190 876,192 985,192 1094,194 1203,196 1312,197 1421,198 1530,200 1639,200 1748,202 1857,204 1966,205 2075,206 2184,208"/>
+                <TextEquiv>
+                    <Unicode>Selbst wenn daher nachträglich eine solche provisori¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Selbst wenn daher nachträglich eine solche provisori¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

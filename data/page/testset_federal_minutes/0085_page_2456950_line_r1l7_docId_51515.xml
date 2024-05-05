@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:29.615+02:00</Created>
+        <LastChange>2020-09-28T09:31:00.806+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519050" pageNr="63" tsid="49307467" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RUIKYHJBYJFSAEZORAFCLHLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPWRYYHTPZHQCPIWXPXCIPVL" imageId="15085983"/>
+    </Metadata>
+    <Page imageFilename="0085_page_2456950_line_r1l7_docId_51515.jpg" imageWidth="482" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425245016" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 482,0 482,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,205 143,204 170,176 228,205 331,205 382,166 381,100 332,129 294,116 264,133 228,109 177,127 149,116 100,139 102,205"/>
+                <Baseline points="114,168 139,166 165,166 190,164 216,164 242,164 267,164 293,163 318,162 344,162 396,161"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="119,124 119,184 360,184 360,124"/>
+                    <TextEquiv>
+                        <Unicode>thumsache</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>thumsache.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>thumsache.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

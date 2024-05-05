@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:31:10.717+02:00</Created>
+        <LastChange>2020-10-27T09:24:09.336+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748914" pageNr="91" tsid="49304307" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CTAMPKEFXMDHYKRWFMHYZDLM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ALYJQRBBYPBFCSAVYAETPSSU" imageId="14364090"/>
+    </Metadata>
+    <Page imageFilename="0186_page_392629_line_r2l9_docId_17265.jpg" imageWidth="2375" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425773839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2375,0 2375,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,243 2275,200 2143,121 1761,101 1365,168 1182,107 100,159"/>
+                <Baseline points="115,205 222,205 329,205 436,205 544,203 651,203 758,203 866,201 973,201 1080,201 1188,199 1295,199 1402,199 1509,197 1617,197 1724,197 1831,195 1939,195 2046,195 2153,195 2261,193"/>
+                <TextEquiv>
+                    <Unicode>1) Ob den italienischen Ärzten in der Schweiz die freie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) Ob den italienischen Ärzten in der Schweiz die freie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

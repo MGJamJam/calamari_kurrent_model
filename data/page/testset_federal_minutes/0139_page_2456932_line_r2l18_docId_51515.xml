@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:12.132+02:00</Created>
+        <LastChange>2020-09-28T10:33:06.250+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519104" pageNr="103" tsid="49307626" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SDFKXASNZJCOKNZXCNDQCDHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBQYKRUTVHMRNZQSESPHAREN" imageId="15086037"/>
+    </Metadata>
+    <Page imageFilename="0139_page_2456932_line_r2l18_docId_51515.jpg" imageWidth="2339" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425251016" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2339,0 2339,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 2239,196 2136,101 100,136 101,219"/>
+                <Baseline points="115,187 220,185 326,185 431,183 537,181 642,181 748,179 853,177 959,177 1064,175 1170,173 1275,173 1381,171 1486,169 1592,169 1697,167 1803,165 1908,165 2014,165 2155,164 2261,164"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="129,145 129,205 474,205 474,145"/>
+                    <TextEquiv>
+                        <Unicode>Erlenbach,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="503,139 503,199 986,199 986,139"/>
+                    <TextEquiv>
+                        <Unicode>HeinrichKuof,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1015,133 1015,193 1312,193 1312,133"/>
+                    <TextEquiv>
+                        <Unicode>mehrfacher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1351,129 1351,189 1745,189 1745,129"/>
+                    <TextEquiv>
+                        <Unicode>Unterschlagung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1785,125 1785,185 1853,185 1853,125"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1893,124 1893,184 2189,184 2189,124"/>
+                    <TextEquiv>
+                        <Unicode>Geldpakete</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Erlenbach, Heinrich Ruof, mehrfacher Unterschlagung von Geldpaketen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erlenbach, Heinrich Ruof, mehrfacher Unterschlagung von Geldpaketen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

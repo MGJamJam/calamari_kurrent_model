@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:50.058+02:00</Created>
+        <LastChange>2020-10-11T21:31:10.483+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749652" pageNr="106" tsid="49313714" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IMPODMFHUAPLUHWOBAVBUUPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IMMRSOLQSZGRWPKBILXXLSNG" imageId="14364828"/>
+    </Metadata>
+    <Page imageFilename="0140_page_2298915_line_r1l6_docId_51012.jpg" imageWidth="2411" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425552218" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2411,0 2411,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,184 419,252 1014,195 2310,236 2311,105 2152,161 101,141"/>
+                <Baseline points="115,176 224,178 333,180 442,181 551,182 660,184 769,185 878,186 987,187 1096,188 1206,188 1315,190 1424,190 1533,192 1642,192 1751,192 1860,194 1969,194 2078,194 2187,196 2297,196"/>
+                <TextEquiv>
+                    <Unicode>Beförderung und gänzliche Geheimhaltung dieses Schrittes, damit Ganty-Vogel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beförderung und gänzliche Geheimhaltung dieses Schrittes, damit Ganty-Vogel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

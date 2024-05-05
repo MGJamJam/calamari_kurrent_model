@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:59:28.692+02:00</Created>
+        <LastChange>2020-08-22T11:19:02.128+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747683" pageNr="70" tsid="37760685" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZNQCBSMNRHFEEMTOTEGDYTQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PNJKSANZFXEYUEFINFCBMPWP" imageId="14362863"/>
+    </Metadata>
+    <Page imageFilename="0146_page_387953_line_r1l35_docId_17258.jpg" imageWidth="2070" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425853620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 1740,240 1970,220 1970,113 1779,169 1289,109 1031,172 258,104 100,165"/>
+                <Baseline points="113,199 205,199 297,199 389,197 481,197 574,199 666,199 758,199 850,199 942,199 1035,199 1127,201 1219,201 1311,201 1403,201 1496,201 1588,201 1680,201 1772,201 1864,201 1957,201"/>
+                <TextEquiv>
+                    <Unicode>Der Bundesrat hat nach Vorschlag des De-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Bundesrat hat nach Vorschlag des De-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

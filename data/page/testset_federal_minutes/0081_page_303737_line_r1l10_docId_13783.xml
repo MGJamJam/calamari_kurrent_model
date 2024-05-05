@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:58.661+02:00</Created>
+        <LastChange>2020-08-21T22:03:48.235+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744435" pageNr="52" tsid="37655328" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SHWHBMOKIHHDUILBZTDAFSCD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRGQZDGXKQLDCXKZUZDMLMCH" imageId="14359826"/>
+    </Metadata>
+    <Page imageFilename="0081_page_303737_line_r1l10_docId_13783.jpg" imageWidth="2248" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426415522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2248,0 2248,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 608,205 727,269 982,203 2148,214 2148,126 2044,114 1482,165 100,114"/>
+                <Baseline points="114,195 215,195 316,195 417,195 518,193 619,193 720,193 821,193 922,193 1023,191 1124,191 1225,191 1326,191 1427,189 1528,189 1629,189 1730,189 1831,189 1932,189 2033,187 2134,187"/>
+                <TextEquiv>
+                    <Unicode>von Fr. 700 pro 1886 durch Unterstüzung von Dürftigen ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Fr. 700 pro 1886 durch Unterstüzung von Dürftigen ihrer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

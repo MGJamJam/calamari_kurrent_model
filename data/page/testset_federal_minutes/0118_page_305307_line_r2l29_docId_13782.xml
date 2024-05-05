@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:58.472+02:00</Created>
+        <LastChange>2020-11-18T17:33:38.174+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744489" pageNr="79" tsid="49319355" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RDMKWDUWIAXCTVYOXSEUJTOE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWGFEYBDSRHQZLIFVRJJAWCJ" imageId="14359880"/>
+    </Metadata>
+    <Page imageFilename="0118_page_305307_line_r2l29_docId_13782.jpg" imageWidth="2152" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426419189" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2152,0 2152,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,241 2002,237 2052,135 100,145"/>
+                <Baseline points="114,196 210,198 306,198 402,198 498,198 595,198 691,198 787,198 883,197 979,196 1076,196 1172,196 1268,194 1364,194 1460,193 1557,192 1653,190 1749,190 1845,188 1941,187 2038,186"/>
+                <TextEquiv>
+                    <Unicode>Protokoll vom 17. Dezember, No. 5790) in Frankreich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokoll vom 17. Dezember, No. 5790) in Frankreich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

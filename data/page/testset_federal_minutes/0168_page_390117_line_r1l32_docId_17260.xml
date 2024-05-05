@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:02:10.233+02:00</Created>
+        <LastChange>2020-08-22T11:19:36.528+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747793" pageNr="79" tsid="37760901" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FPDLGJGPRIOKZBNLKKKUNONG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBDAUVEPYDYSXRJZBIZEPJCT" imageId="14362973"/>
+    </Metadata>
+    <Page imageFilename="0168_page_390117_line_r1l32_docId_17260.jpg" imageWidth="2386" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425854839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2386,0 2386,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,260 2286,262 2286,112 100,145"/>
+                <Baseline points="115,200 222,198 330,196 438,196 546,194 654,192 761,192 869,192 977,190 1085,190 1193,190 1300,190 1408,190 1516,190 1624,190 1732,190 1839,190 1947,190 2055,190 2163,192 2271,192"/>
+                <TextEquiv>
+                    <Unicode>auf die Opfer, die der Kanton und die Gemeinde Bellin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf die Opfer, die der Kanton und die Gemeinde Bellin¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

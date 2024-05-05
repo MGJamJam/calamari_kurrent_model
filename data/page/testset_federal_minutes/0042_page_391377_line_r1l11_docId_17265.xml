@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:12:00.203+02:00</Created>
+        <LastChange>2020-10-27T08:40:39.227+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748176" pageNr="25" tsid="49304031" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LKEZHPCKETZPRXUWQYPXAFQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FRXKQJDYCHVMBZSIFOANSVAJ" imageId="14363356"/>
+    </Metadata>
+    <Page imageFilename="0042_page_391377_line_r1l11_docId_17265.jpg" imageWidth="1384" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425764553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1384,0 1384,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,212 1284,202 1283,129 1072,146 970,100 809,151 619,119 100,136"/>
+                <Baseline points="114,183 171,181 229,179 287,177 345,175 403,175 461,173 519,173 577,172 635,171 693,171 750,171 808,171 866,171 924,171 982,171 1040,171 1098,171 1156,171 1214,171 1272,171 1300,174"/>
+                <TextEquiv>
+                    <Unicode>schreibung von Materiallieferungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schreibung von Materiallieferungen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

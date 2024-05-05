@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:23.784+02:00</Created>
+        <LastChange>2020-11-17T07:21:49.915+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744585" pageNr="42" tsid="49319211" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XTGHBUMIIJYAEIXITIYQUZKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EAHTRWETRCUYDQCQWDDCZTLB" imageId="14359976"/>
+    </Metadata>
+    <Page imageFilename="0079_page_310818_line_r1l26_docId_13789.jpg" imageWidth="2197" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426354136" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2197,0 2197,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2097,207 1909,101 1785,152 100,131"/>
+                <Baseline points="113,182 211,184 310,184 408,184 507,185 605,186 704,186 802,186 901,184 999,184 1098,184 1196,184 1295,184 1393,184 1492,184 1590,184 1689,182 1787,182 1886,182 1984,183 2083,184"/>
+                <TextEquiv>
+                    <Unicode>1886 und gegen das Urteil des Bezirksgerichtes von Gelter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1886 und gegen das Urteil des Bezirksgerichtes von Gelter¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

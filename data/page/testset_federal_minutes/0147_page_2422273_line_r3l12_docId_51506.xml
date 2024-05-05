@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:18.191+02:00</Created>
+        <LastChange>2020-08-22T11:32:58.726+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750721" pageNr="106" tsid="37765486" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DMNPQHUDKCSHKMYCZEUKEOLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLTZELYVLGNIQPUGHHTUEUCF" imageId="14365879"/>
+    </Metadata>
+    <Page imageFilename="0147_page_2422273_line_r3l12_docId_51506.jpg" imageWidth="2378" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425382333" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2378,0 2378,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 1880,236 2278,210 2278,148 1558,100 100,156"/>
+                <Baseline points="115,192 222,192 329,192 437,191 544,190 652,190 759,190 866,190 974,188 1081,188 1189,188 1296,188 1403,188 1511,188 1618,188 1726,188 1833,188 1940,190 2048,190 2155,190 2263,192"/>
+                <TextEquiv>
+                    <Unicode>Verdankung der geleisteten guten Dienste auf den Zeit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verdankung der geleisteten guten Dienste auf den Zeit-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

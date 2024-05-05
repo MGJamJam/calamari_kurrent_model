@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:26.640+02:00</Created>
+        <LastChange>2020-08-22T11:25:47.250+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749561" pageNr="78" tsid="37762958" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GIZVSKUGLFRDLYCQORNWDVCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXSVPGCAVEPPFEDAGCWBDRHL" imageId="14364737"/>
+    </Metadata>
+    <Page imageFilename="0101_page_2360289_line_r2l1_docId_51494.jpg" imageWidth="807" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425548146" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 807,0 807,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="105,242 152,210 191,221 312,195 387,227 415,201 456,209 509,184 541,210 613,187 661,219 707,184 703,100 545,139 308,122 253,125 209,163 170,138 100,158"/>
+                <Baseline points="116,210 144,205 173,202 202,198 231,195 260,193 289,190 318,187 347,185 376,184 405,182 433,181 462,180 491,180 520,178 549,178 578,177 607,176 636,176 665,174 694,174"/>
+                <TextEquiv>
+                    <Unicode>Großbrit. Gesandtschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Großbrit. Gesandtschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

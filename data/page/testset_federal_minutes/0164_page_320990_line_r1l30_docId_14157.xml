@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:30.479+02:00</Created>
+        <LastChange>2020-11-15T20:31:03.386+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746056" pageNr="112" tsid="49318730" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QOCGXTLQIOVPXEYSNIJYOLFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTYFHMCRQQWUBDCYVCQTHQSL" imageId="14361236"/>
+    </Metadata>
+    <Page imageFilename="0164_page_320990_line_r1l30_docId_14157.jpg" imageWidth="2177" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426130884" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2177,0 2177,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2007,231 2077,129 100,138"/>
+                <Baseline points="114,182 211,182 309,180 406,180 504,180 601,180 699,180 796,180 894,178 991,178 1089,178 1186,178 1284,178 1381,178 1479,178 1576,180 1674,180 1771,182 1869,182 1966,184 2064,186"/>
+                <TextEquiv>
+                    <Unicode>man zu Unterstellung des angeführten Ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>man zu Unterstellung des angeführten Ge-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

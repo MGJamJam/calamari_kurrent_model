@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:05.213+02:00</Created>
+        <LastChange>2020-11-17T08:10:56.576+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744797" pageNr="118" tsid="49319291" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QWEHCSLWOLMWFMIZNALWIXHE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKVZSNSOHBQSTXLZPJZPHPCG" imageId="14360188"/>
+    </Metadata>
+    <Page imageFilename="0189_page_308837_line_r2l19_docId_13785.jpg" imageWidth="690" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426364621" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 690,0 690,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 222,218 303,198 351,243 399,210 536,217 589,200 590,122 540,116 496,144 462,112 420,153 208,100 184,118 101,125"/>
+                <Baseline points="112,177 137,180 163,182 189,183 215,185 240,187 266,187 292,187 318,188 344,189 369,189 395,189 421,189 447,189 472,188 498,187 524,187 550,187 576,185 591,185"/>
+                <TextEquiv>
+                    <Unicode>22. Dezember.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22. Dezember.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

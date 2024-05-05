@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:30:47.859+02:00</Created>
+        <LastChange>2020-08-22T11:24:07.698+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748897" pageNr="34" tsid="37762341" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GHWNAPGBMVFSNMVJAWHQLDSI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RWPXDMKNOGKHTZLYDKFYHLVB" imageId="14364073"/>
+    </Metadata>
+    <Page imageFilename="0079_page_406100_line_r1l14_docId_17278.jpg" imageWidth="2332" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425629798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2332,0 2332,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,267 1892,248 2232,207 2230,101 100,166"/>
+                <Baseline points="115,232 220,226 325,224 430,220 535,217 640,214 745,212 850,211 955,210 1060,208 1166,206 1271,204 1376,204 1481,201 1586,199 1691,196 1796,194 1901,190 2006,186 2111,182 2217,176"/>
+                <TextEquiv>
+                    <Unicode>völlig gebrauchsfähig und wird es nach ärztlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>völlig gebrauchsfähig und wird es nach ärztlicher</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

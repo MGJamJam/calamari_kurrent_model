@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:54:53.436+02:00</Created>
+        <LastChange>2020-08-22T11:16:51.594+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747488" pageNr="16" tsid="37759711" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZURUMXNIYBFPZASHYWREEGBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNILLTGIBJFZNTRTISBUXBZG" imageId="14362668"/>
+    </Metadata>
+    <Page imageFilename="0045_page_407219_line_r1l12_docId_17277.jpg" imageWidth="2340" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425800839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2340,0 2340,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2136,250 2240,223 2240,142 696,114 491,178 386,120 199,187 100,123"/>
+                <Baseline points="115,214 220,212 326,212 431,212 537,210 643,210 748,210 854,210 959,210 1065,210 1171,210 1276,212 1382,212 1487,212 1593,210 1699,210 1804,210 1910,208 2015,208 2121,206 2227,204"/>
+                <TextEquiv>
+                    <Unicode>tements, wird auf Rechnung seines Gehaltes ein Vorschuß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tements, wird auf Rechnung seines Gehaltes ein Vorschuß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

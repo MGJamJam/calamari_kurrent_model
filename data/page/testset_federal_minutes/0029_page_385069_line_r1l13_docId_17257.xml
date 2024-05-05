@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:46:11.101+02:00</Created>
+        <LastChange>2020-11-09T07:37:14.839+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747066" pageNr="15" tsid="49318074" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XHHQKXMZBDJUYNSJQVRCQALK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FRVJLOQTQHHJRNCPRQUTQOWD" imageId="14362246"/>
+    </Metadata>
+    <Page imageFilename="0029_page_385069_line_r1l13_docId_17257.jpg" imageWidth="815" imageHeight="317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425845775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 815,0 815,317 0,317"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 148,212 280,176 319,207 372,181 395,202 448,184 562,217 649,181 715,184 715,107 618,128 568,105 501,123 473,100 341,131 224,133 181,105 100,123"/>
+                <Baseline points="113,168 142,168 171,170 201,170 230,170 260,170 289,170 318,170 348,170 377,170 407,170 436,170 465,170 495,170 524,170 554,170 583,170 612,170 642,169 671,168 701,168 743,168"/>
+                <TextEquiv>
+                    <Unicode>Advokaten, z. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Advokaten, z. K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

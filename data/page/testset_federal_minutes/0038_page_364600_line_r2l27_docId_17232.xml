@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:30.128+02:00</Created>
+        <LastChange>2020-11-15T19:33:54.058+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745497" pageNr="27" tsid="49318631" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YGSMGWFNJOCIACAHXKYVZTIL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSWFCGEWGYCFZLHSYYINBWTA" imageId="14360681"/>
+    </Metadata>
+    <Page imageFilename="0038_page_364600_line_r2l27_docId_17232.jpg" imageWidth="2116" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426118614" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2116,0 2116,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1590,191 1715,252 2016,200 1897,127 1379,100 1130,155 100,131"/>
+                <Baseline points="112,180 206,181 301,181 395,183 490,183 585,183 679,183 774,181 869,181 963,181 1058,181 1153,181 1247,181 1342,180 1437,181 1531,181 1626,181 1721,182 1815,183 1910,184 2005,186"/>
+                <TextEquiv>
+                    <Unicode>Tessin vom 22./28. Oktober weigert sich die Gemein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tessin vom 22./28. Oktober weigert sich die Gemein-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

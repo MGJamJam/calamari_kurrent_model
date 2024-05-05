@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:17.057+02:00</Created>
+        <LastChange>2020-08-22T11:26:36.384+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750118" pageNr="67" tsid="37763271" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EEPWVGDSRODVIFVYUNKWYQIF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HSJCVXOFSEEWSJKQQNQWLXYN" imageId="14365290"/>
+    </Metadata>
+    <Page imageFilename="0113_page_2393721_line_r3l15_docId_51503.jpg" imageWidth="2315" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425433913" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2315,0 2315,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 592,188 684,250 760,187 2215,189 2214,116 2098,100 100,151"/>
+                <Baseline points="114,184 218,184 322,182 427,182 531,182 636,182 740,180 844,180 949,180 1053,180 1158,180 1262,180 1366,180 1471,180 1575,180 1680,180 1784,180 1888,179 1993,178 2097,176 2202,176"/>
+                <TextEquiv>
+                    <Unicode>vorerwähnten Schreibens Weisungen an die Kommandanten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vorerwähnten Schreibens Weisungen an die Kommandanten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

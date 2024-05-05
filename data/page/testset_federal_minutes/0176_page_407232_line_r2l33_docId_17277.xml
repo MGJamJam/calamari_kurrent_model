@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:52.385+02:00</Created>
+        <LastChange>2020-08-22T11:26:51.116+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749228" pageNr="73" tsid="37763361" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LCXZMCXLRWWAOPUONQRDUISP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HWLROOICPTADVHMGSURNKFUR" imageId="14364404"/>
+    </Metadata>
+    <Page imageFilename="0176_page_407232_line_r2l33_docId_17277.jpg" imageWidth="2250" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425635659" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2250,0 2250,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,214 510,265 801,209 898,275 1720,196 2018,253 2150,226 2150,150 100,134"/>
+                <Baseline points="114,200 215,200 316,200 417,198 518,198 619,198 720,198 821,198 922,198 1023,198 1125,198 1226,198 1327,198 1428,198 1529,198 1630,198 1731,196 1832,196 1933,194 2034,192 2136,190"/>
+                <TextEquiv>
+                    <Unicode>Klasse in Herisau ohnehin wegen vorgerückten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Klasse in Herisau ohnehin wegen vorgerückten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

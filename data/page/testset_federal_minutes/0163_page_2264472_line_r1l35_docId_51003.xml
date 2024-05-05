@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:14.644+02:00</Created>
+        <LastChange>2020-11-16T08:26:46.664+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745677" pageNr="137" tsid="49318843" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QOWMGYONYPUBXBIVDHRGKPBA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVIDEPKOFZXTFKCGUBKPLRTX" imageId="14360857"/>
+    </Metadata>
+    <Page imageFilename="0163_page_2264472_line_r1l35_docId_51003.jpg" imageWidth="1124" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426202098" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1124,0 1124,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,242 145,210 597,211 650,242 685,208 820,207 961,233 1024,185 1024,100 963,137 875,140 817,101 745,144 573,131 522,169 450,140 368,172 217,170 177,133 100,168"/>
+                <Baseline points="113,196 157,198 202,198 247,198 292,198 337,196 382,196 427,196 472,196 517,195 562,194 606,194 651,194 696,194 741,194 786,194 831,194 876,194 921,194 966,194 1011,196"/>
+                <TextEquiv>
+                    <Unicode>zu verweisen (S. P. No 2355).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu verweisen (S. P. No 2355).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

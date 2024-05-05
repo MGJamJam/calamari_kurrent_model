@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:13:26.555+02:00</Created>
+        <LastChange>2020-08-22T11:23:42.646+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748229" pageNr="76" tsid="37762191" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HPVKILHGZXGZKIXAEILSAJAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTUYUBRSSYAHURIHEFARYHAB" imageId="14363409"/>
+    </Metadata>
+    <Page imageFilename="0080_page_396059_line_r1l10_docId_17271.jpg" imageWidth="625" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425715608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 625,0 625,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,245 134,237 165,256 214,214 317,224 358,199 525,206 524,129 502,123 463,123 422,146 377,118 288,102 216,125 158,100 100,112"/>
+                <Baseline points="114,189 140,189 166,189 193,189 219,189 246,189 272,189 298,187 325,187 351,187 378,187 404,187 430,187 457,187 483,187 510,189"/>
+                <TextEquiv>
+                    <Unicode>blissement.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>blissement.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

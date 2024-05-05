@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:04.527+02:00</Created>
+        <LastChange>2020-10-13T21:50:32.719+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749028" pageNr="55" tsid="49315362" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QUTOVBROVLISZNAWLNBIVMLM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SHEPWCXFMXTEUIOUZHMENQRW" imageId="14364204"/>
+    </Metadata>
+    <Page imageFilename="0122_page_406914_line_r1l18_docId_17278.jpg" imageWidth="2453" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425632831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2453,0 2453,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,270 422,198 693,258 2353,229 2353,147 2191,100 100,134"/>
+                <Baseline points="116,194 227,194 338,193 449,192 560,192 671,192 782,192 893,192 1004,192 1115,192 1227,192 1338,192 1449,192 1560,192 1671,192 1782,192 1893,192 2004,190 2115,190 2226,188 2338,188"/>
+                <TextEquiv>
+                    <Unicode>Police für Haftpflichtversicherung gegenüber Drittpersonen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Police für Haftpflichtversicherung gegenüber Drittpersonen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:51:06.462+02:00</Created>
+        <LastChange>2020-11-09T17:52:32.244+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747292" pageNr="97" tsid="49318251" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KWRUINOMXYBTLWMSGMECQNAP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JCRYCXYHLITVDBCKKMQYKOAG" imageId="14362472"/>
+    </Metadata>
+    <Page imageFilename="0191_page_382448_line_r2l19_docId_17254.jpg" imageWidth="2197" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425902613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2197,0 2197,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 1123,199 1495,260 1648,204 1978,236 2096,210 2097,145 101,124"/>
+                <Baseline points="114,177 212,177 311,178 409,179 508,179 606,179 705,179 803,181 902,181 1000,181 1099,181 1197,183 1296,183 1394,183 1493,183 1591,185 1690,185 1788,187 1887,187 1985,189 2084,189 2110,188"/>
+                <TextEquiv>
+                    <Unicode>Wunsch des dortigen Konsuls zur Wiederbesetzung desselben geschritten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wunsch des dortigen Konsuls zur Wiederbesetzung desselben geschritten,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:20.451+02:00</Created>
+        <LastChange>2020-11-16T07:20:49.448+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745380" pageNr="19" tsid="49318765" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DXAAFVEGFGXOJLXNFHJGIPFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=COAEFRJYDMWCBLSLEQKVTZTT" imageId="14360564"/>
+    </Metadata>
+    <Page imageFilename="0023_page_2254410_line_r1l36_docId_51002.jpg" imageWidth="2271" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426185643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2271,0 2271,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,226 1868,226 2171,164 1591,100 1525,150 578,106 100,157"/>
+                <Baseline points="114,197 216,197 318,195 420,195 522,193 625,193 727,191 829,189 931,188 1033,187 1136,185 1238,185 1340,185 1442,185 1544,185 1647,185 1749,187 1851,189 1953,191 2055,195 2158,199"/>
+                <TextEquiv>
+                    <Unicode>Art. 12. Die Postanstalt haftet für den Verlust oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art. 12. Die Postanstalt haftet für den Verlust oder</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:34.684+02:00</Created>
+        <LastChange>2020-08-22T11:09:09.510+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746061" pageNr="85" tsid="37756735" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CFOLOPKCHPTEBWVZNHGQIJRK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RYAFHFSOFJZIDDLDMODMXNJT" imageId="14361241"/>
+    </Metadata>
+    <Page imageFilename="0126_page_2304978_line_r1l25_docId_51010.jpg" imageWidth="2353" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426067018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2353,0 2353,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,176 2253,188 2218,110 101,133"/>
+                <Baseline points="113,170 219,172 325,174 431,174 538,176 644,176 750,177 857,178 963,178 1069,178 1176,178 1282,178 1388,178 1494,178 1601,178 1707,180 1813,180 1920,180 2026,182 2132,182 2239,184"/>
+                <TextEquiv>
+                    <Unicode>beiten auf den betreffenden Grundstücken bereits am 15. v. M. habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>beiten auf den betreffenden Grundstücken bereits am 15. v. M. habe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

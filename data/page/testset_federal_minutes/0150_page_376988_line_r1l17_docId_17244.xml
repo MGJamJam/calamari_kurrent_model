@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:28.623+02:00</Created>
+        <LastChange>2020-11-16T10:38:28.357+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745271" pageNr="86" tsid="49318969" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PPXATVDODLWOUJVSOYFLTJEC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CHIPQOCLXEQRMSMWJYRIREXJ" imageId="14360455"/>
+    </Metadata>
+    <Page imageFilename="0150_page_376988_line_r1l17_docId_17244.jpg" imageWidth="1861" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426250238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1861,0 1861,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,236 1651,218 1761,195 1761,119 1115,157 743,110 387,168 313,105 100,114"/>
+                <Baseline points="112,193 193,193 275,193 357,195 439,195 521,195 603,193 685,193 767,193 849,193 931,191 1012,191 1094,189 1176,189 1258,189 1340,189 1422,187 1504,187 1586,187 1668,187 1750,189"/>
+                <TextEquiv>
+                    <Unicode>Das Schweizerische Handelsregisterbüreau, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Schweizerische Handelsregisterbüreau, in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

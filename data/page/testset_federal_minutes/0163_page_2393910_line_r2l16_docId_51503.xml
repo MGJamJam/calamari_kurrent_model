@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:56.706+02:00</Created>
+        <LastChange>2020-10-06T10:56:23.398+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750262" pageNr="104" tsid="49311838" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JAXZHKFUMEUPDBCQHYSLNNMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UGKDYTNSGNPIBXECVZUHYNWK" imageId="14365420"/>
+    </Metadata>
+    <Page imageFilename="0163_page_2393910_line_r2l16_docId_51503.jpg" imageWidth="2310" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425439200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2310,0 2310,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 556,192 664,250 816,195 963,251 1096,199 1297,269 1527,200 1851,259 2210,210 2061,132 1511,161 1414,100 1298,164 1071,108 100,155"/>
+                <Baseline points="113,190 217,192 321,192 425,192 529,194 634,194 738,194 842,196 946,196 1050,196 1155,197 1259,198 1363,198 1467,198 1571,198 1676,198 1780,198 1884,197 1988,196 2092,196 2197,194 2232,195"/>
+                <TextEquiv>
+                    <Unicode>liche Versorgung, welche dem Heimatkanton zukomme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>liche Versorgung, welche dem Heimatkanton zukomme.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

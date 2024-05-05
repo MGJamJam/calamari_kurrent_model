@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:26.262+02:00</Created>
+        <LastChange>2020-08-21T22:12:51.495+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744474" pageNr="27" tsid="37656839" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JBSKVMUGWJGBWYYOFYJAWOTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KAERVNDQINENVSZCMDRCQBDH" imageId="14359865"/>
+    </Metadata>
+    <Page imageFilename="0044_page_307875_line_r1l24_docId_13787.jpg" imageWidth="1870" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426352052" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1870,0 1870,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 1150,197 1336,253 1415,199 1527,241 1770,206 1770,142 1539,116 1481,160 1148,106 839,156 773,100 494,164 100,108"/>
+                <Baseline points="111,196 193,196 275,196 357,194 440,194 522,194 604,194 687,194 769,194 851,193 934,192 1016,192 1098,192 1180,192 1263,192 1345,192 1427,192 1510,194 1592,194 1674,194 1757,194"/>
+                <TextEquiv>
+                    <Unicode>Das Departement glaubt die Regelung dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Departement glaubt die Regelung dieser</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

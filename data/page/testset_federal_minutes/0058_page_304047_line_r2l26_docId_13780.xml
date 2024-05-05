@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:42.929+02:00</Created>
+        <LastChange>2020-11-18T16:00:45.150+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744399" pageNr="34" tsid="49319324" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OAULJLTGOMDFWZAGOGSGJRWI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWMCJMHARQCTKFAJDIYCSZRY" imageId="14359790"/>
+    </Metadata>
+    <Page imageFilename="0058_page_304047_line_r2l26_docId_13780.jpg" imageWidth="2223" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426412969" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2223,0 2223,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 615,211 788,277 895,201 1428,260 1914,205 2123,268 2123,169 1956,114 903,173 443,104 100,171"/>
+                <Baseline points="114,202 213,202 313,202 413,200 513,200 613,200 712,200 812,200 912,200 1012,200 1112,200 1211,200 1311,200 1411,200 1511,200 1611,202 1710,202 1810,202 1910,204 2010,204 2110,206 2122,206"/>
+                <TextEquiv>
+                    <Unicode>werden könne, dagegen wird dasselbe an die Reg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>werden könne, dagegen wird dasselbe an die Reg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

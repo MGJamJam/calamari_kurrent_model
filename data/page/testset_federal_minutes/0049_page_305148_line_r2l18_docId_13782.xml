@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:14.033+02:00</Created>
+        <LastChange>2020-08-21T22:02:39.913+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744382" pageNr="28" tsid="37655171" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JGHIUQXQPEDKWMRLTHMEXCWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKGOBWTTCGEGUUQFAYDUOMBC" imageId="14359777"/>
+    </Metadata>
+    <Page imageFilename="0049_page_305148_line_r2l18_docId_13782.jpg" imageWidth="2129" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426412112" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2129,0 2129,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,239 2029,227 2029,146 1797,100 1630,163 1145,100 100,137"/>
+                <Baseline points="112,195 207,197 302,197 397,199 492,199 588,199 683,197 778,197 873,197 968,195 1064,195 1159,193 1254,193 1349,193 1444,191 1540,191 1635,191 1730,193 1825,193 1920,195 2016,197"/>
+                <TextEquiv>
+                    <Unicode>Die Beschlußfaßung über die mit Antrag vom 1. März</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Beschlußfaßung über die mit Antrag vom 1. März</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

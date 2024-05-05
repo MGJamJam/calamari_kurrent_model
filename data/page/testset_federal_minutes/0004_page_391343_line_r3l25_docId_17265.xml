@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:40.718+02:00</Created>
+        <LastChange>2020-08-22T11:16:07.385+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18747975" pageNr="4" tsid="37759354" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CSJLRSHSKABIYWJDZLQXGGSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JXXRVSWMOIVLIEYVHFBRMIWC" imageId="14363155"/>
+    </Metadata>
+    <Page imageFilename="0004_page_391343_line_r3l25_docId_17265.jpg" imageWidth="2298" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425761599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2298,0 2298,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2198,205 2150,127 101,144"/>
+                <Baseline points="115,183 218,181 322,181 425,181 529,181 632,181 736,181 839,183 943,183 1046,183 1150,184 1253,185 1357,185 1460,186 1564,187 1667,187 1771,187 1874,187 1978,187 2081,187 2185,185"/>
+                <TextEquiv>
+                    <Unicode>waltung im Thierachern an die dortige Einwohnergemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>waltung im Thierachern an die dortige Einwohnergemeinde</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

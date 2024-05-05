@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:25.895+02:00</Created>
+        <LastChange>2020-10-07T07:53:21.919+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749758" pageNr="13" tsid="49312216" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SGWQVGQOVDVDMSKILYHTAFQA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJLEUEGIXYRBWABIZAENMGGW" imageId="14364930"/>
+    </Metadata>
+    <Page imageFilename="0020_page_2377441_line_r1l48_docId_51498.jpg" imageWidth="2395" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425480894" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2395,0 2395,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,185 608,249 785,191 2294,217 2242,147 1700,100 101,139"/>
+                <Baseline points="118,176 226,176 334,178 442,179 550,180 658,182 766,183 874,184 982,186 1090,187 1198,188 1306,190 1414,192 1522,192 1630,194 1738,196 1846,198 1954,198 2062,200 2170,202 2278,204 2293,206"/>
+                <TextEquiv>
+                    <Unicode>der für die Erben zur Disposition stehe gegen Entlastung und Bestätigungs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der für die Erben zur Disposition stehe gegen Entlastung und Bestätigungs-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

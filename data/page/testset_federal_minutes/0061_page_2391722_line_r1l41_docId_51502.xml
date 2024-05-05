@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:32.583+02:00</Created>
+        <LastChange>2020-10-06T09:57:34.963+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749981" pageNr="35" tsid="49311601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BSOUVRFQPNJZFCUBWUSEQXAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HSZFXUABCDIKUOFYLAQPOUUU" imageId="14365153"/>
+    </Metadata>
+    <Page imageFilename="0061_page_2391722_line_r1l41_docId_51502.jpg" imageWidth="2340" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425429360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2340,0 2340,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1053,190 1156,258 1228,193 2214,212 2240,130 101,133"/>
+                <Baseline points="113,168 218,170 324,172 429,173 535,175 641,176 746,178 852,180 957,180 1063,182 1169,182 1274,184 1380,186 1485,186 1591,188 1697,190 1802,192 1908,193 2013,195 2119,198 2225,200"/>
+                <TextEquiv>
+                    <Unicode>Eintreibung der ausstehenden Guthaben keine Commission be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eintreibung der ausstehenden Guthaben keine Commission be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

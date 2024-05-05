@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:23.164+02:00</Created>
+        <LastChange>2020-10-11T21:12:54.299+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749557" pageNr="77" tsid="49313630" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HANBLDUTNQCLVJIOUNEWKNGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SZXAWNOBVHDUDDNHFVBDNOFP" imageId="14364733"/>
+    </Metadata>
+    <Page imageFilename="0099_page_2303297_line_r1l5_docId_51013.jpg" imageWidth="2288" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425548019" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2288,0 2288,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,225 2018,202 2188,184 2188,106 100,139"/>
+                <Baseline points="114,187 217,183 320,180 423,177 526,176 629,175 732,175 835,173 938,173 1041,173 1144,173 1247,173 1350,173 1453,173 1556,173 1659,173 1762,173 1865,173 1968,171 2071,169 2174,167 2195,168"/>
+                <TextEquiv>
+                    <Unicode>Gesandtschaft sub 27. dieß die Bemerkung, daß er nicht üblich sei, solche Ko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gesandtschaft sub 27. dieß die Bemerkung, daß er nicht üblich sei, solche Ko¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:35.902+02:00</Created>
+        <LastChange>2020-11-17T07:48:46.574+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744714" pageNr="87" tsid="49319257" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NTBXFYNWNDGQZRMLBJHYMREM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHISSOFTFNNDATIFUAKSIOVI" imageId="14360105"/>
+    </Metadata>
+    <Page imageFilename="0143_page_308235_line_r1l2_docId_13788.jpg" imageWidth="2259" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426360357" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2259,0 2259,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,244 2159,250 2159,143 1888,112 1712,184 1113,100 421,172 100,129"/>
+                <Baseline points="113,209 214,207 316,207 417,205 519,205 621,205 722,205 824,205 925,205 1027,205 1129,205 1230,205 1332,205 1433,205 1535,205 1637,205 1738,205 1840,205 1941,205 2043,205 2145,205 2182,204"/>
+                <TextEquiv>
+                    <Unicode>für den vorehelichen Sohn der Bertha Hartmann, von Möriken,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für den vorehelichen Sohn der Bertha Hartmann, von Möriken,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:03.629+02:00</Created>
+        <LastChange>2020-10-06T08:38:25.230+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750859" pageNr="137" tsid="49310883" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OTJJFPVGKVYQWYIOQSVWHZWX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CZUTBJEAZFSBMSDKTLEFWINA" imageId="14366017"/>
+    </Metadata>
+    <Page imageFilename="0196_page_2418791_line_r2l33_docId_51506.jpg" imageWidth="2289" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425386681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2289,0 2289,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 1081,192 1180,244 1274,189 1362,252 1423,191 1696,237 2189,147 1508,100 1450,150 100,155"/>
+                <Baseline points="113,186 216,188 319,188 422,188 525,188 628,188 731,187 834,186 937,186 1040,186 1144,184 1247,184 1350,184 1453,182 1556,182 1659,182 1762,182 1865,182 1968,182 2071,182 2175,182"/>
+                <TextEquiv>
+                    <Unicode>außer dem Bereiche des Vertrags liegend bezeichne und über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>außer dem Bereiche des Vertrags liegend bezeichne und über¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

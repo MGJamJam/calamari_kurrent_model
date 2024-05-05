@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:10.746+02:00</Created>
+        <LastChange>2020-11-09T08:25:42.428+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747628" pageNr="63" tsid="49318122" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TVAXLBFRGGTGYVSMZDDGGFDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDNKWPYFNIIMPSZMWMFXORNC" imageId="14362808"/>
+    </Metadata>
+    <Page imageFilename="0136_page_386439_line_r1l31_docId_17258.jpg" imageWidth="2230" imageHeight="382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425852734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2230,0 2230,382 0,382"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,242 1279,221 1401,282 1885,212 2069,262 2130,156 1998,105 1769,174 1616,100 1086,184 1028,130 469,165 384,112 100,191"/>
+                <Baseline points="114,219 214,217 314,216 414,215 514,213 614,213 714,213 814,211 914,211 1014,211 1115,211 1215,209 1315,209 1415,209 1515,209 1615,207 1715,207 1815,205 1915,205 2015,203 2116,201 2149,199"/>
+                <TextEquiv>
+                    <Unicode>mit dem 4. dieses Monats 40 Jahre im Dien¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit dem 4. dieses Monats 40 Jahre im Dien¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:07.541+02:00</Created>
+        <LastChange>2020-10-08T08:22:24.919+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749950" pageNr="61" tsid="49312369" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=COKEHDBEEITHOMGZDXNJVEII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRITLWDDIQMOFAKUCHBLJZQE" imageId="14365122"/>
+    </Metadata>
+    <Page imageFilename="0093_page_2370157_line_r2l7_docId_51496.jpg" imageWidth="2436" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425487415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2436,0 2436,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,241 2336,244 2336,100 2079,162 100,172"/>
+                <Baseline points="113,204 223,202 333,200 444,199 554,198 665,198 775,196 885,196 996,196 1106,196 1217,196 1327,194 1437,194 1548,194 1658,194 1769,194 1879,194 1989,194 2100,194 2210,194 2321,194"/>
+                <TextEquiv>
+                    <Unicode>schaftsbehörde mir ungern der Sentl Ausfolge bewilligen würde und jeden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schaftsbehörde mir ungern der Sentl Ausfolge bewilligen würde und jeden¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

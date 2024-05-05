@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:50:31.318+02:00</Created>
+        <LastChange>2020-11-09T17:49:44.837+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747264" pageNr="92" tsid="49318249" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OCRMBWBSZELCEZPRZHWOAUXX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJIIEQERRPLQLGSAYTONDNOU" imageId="14362444"/>
+    </Metadata>
+    <Page imageFilename="0180_page_385374_line_r2l18_docId_17255.jpg" imageWidth="2025" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425901964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2025,0 2025,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 544,209 759,272 842,215 941,262 1020,215 1903,231 1925,103 1340,115 1183,184 995,124 665,184 546,128 406,185 233,119 100,159"/>
+                <Baseline points="112,214 202,214 292,214 382,214 472,214 562,214 652,212 742,212 832,212 922,212 1012,212 1102,212 1192,210 1282,210 1372,210 1462,210 1552,210 1642,208 1732,208 1822,208 1912,208"/>
+                <TextEquiv>
+                    <Unicode>An das spanische Generalkonsulat, unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An das spanische Generalkonsulat, unter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

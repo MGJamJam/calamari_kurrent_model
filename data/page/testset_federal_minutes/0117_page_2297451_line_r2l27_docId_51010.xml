@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:16.108+02:00</Created>
+        <LastChange>2020-08-22T11:08:53.012+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746041" pageNr="78" tsid="37756643" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DTUHGCJMJKSYYZTENADIHJOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGXOYTKFRDSYSHCTIZQYQKKY" imageId="14361221"/>
+    </Metadata>
+    <Page imageFilename="0117_page_2297451_line_r2l27_docId_51010.jpg" imageWidth="2343" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426066045" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2343,0 2343,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2243,198 2243,114 101,113"/>
+                <Baseline points="114,168 219,170 325,172 431,172 536,174 642,174 748,174 853,176 959,176 1065,176 1171,176 1276,176 1382,176 1488,176 1593,176 1699,176 1805,176 1910,176 2016,178 2122,178 2228,178"/>
+                <TextEquiv>
+                    <Unicode>storbenen Witwe Quinche) gewählt, an die Stelle eines Posthalters und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>storbenen Witwe Quinche) gewählt, an die Stelle eines Posthalters und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

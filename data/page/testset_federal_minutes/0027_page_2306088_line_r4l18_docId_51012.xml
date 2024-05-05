@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:55.333+02:00</Created>
+        <LastChange>2020-08-22T11:23:25.523+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749393" pageNr="23" tsid="37762078" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPWDRQTCVJWVNOJDVVFHATIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUBSSCBDVGUDGHAAPLXCZYFP" imageId="14364569"/>
+    </Metadata>
+    <Page imageFilename="0027_page_2306088_line_r4l18_docId_51012.jpg" imageWidth="904" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425540497" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 904,0 904,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,188 166,212 215,193 328,212 366,184 402,219 470,181 771,196 804,190 803,100 741,138 374,118 341,143 308,110 220,100 150,139 100,136"/>
+                <Baseline points="115,167 148,171 182,171 216,172 249,173 283,173 317,173 350,173 384,173 418,173 452,171 485,171 519,171 553,169 586,169 620,169 654,169 687,169 721,169 755,169 789,171"/>
+                <TextEquiv>
+                    <Unicode>Schutz zu Theil werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schutz zu Theil werde.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

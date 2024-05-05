@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:08.675+02:00</Created>
+        <LastChange>2020-11-16T10:24:05.582+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745036" pageNr="62" tsid="49318940" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=REMNRDFUTMUHGCDBSQCJOTIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMYPHZYJSZWOPFCRUQNBRODC" imageId="14360393"/>
+    </Metadata>
+    <Page imageFilename="0109_page_372313_line_r2l18_docId_17242.jpg" imageWidth="1908" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426246697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1908,0 1908,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,205 1680,233 1808,210 1808,155 1586,100 862,118 752,166 100,142"/>
+                <Baseline points="113,190 197,190 281,190 365,190 449,190 533,190 617,190 701,190 785,190 869,190 954,188 1038,188 1122,188 1206,188 1290,188 1374,186 1458,186 1542,186 1626,186 1710,184 1795,184"/>
+                <TextEquiv>
+                    <Unicode>An Hrn. Furrer, ajinsteur in der Werkstätte der J. S. in Yverdon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Hrn. Furrer, ajinsteur in der Werkstätte der J. S. in Yverdon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

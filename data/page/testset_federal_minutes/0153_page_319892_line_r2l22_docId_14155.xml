@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:49.934+02:00</Created>
+        <LastChange>2020-08-22T07:37:57.621+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746011" pageNr="106" tsid="37715664" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UMNNGEKBOKPRZODOBOTZFCYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBAMZTQHVSKQMZKYRKVYJTXE" imageId="14361191"/>
+    </Metadata>
+    <Page imageFilename="0153_page_319892_line_r2l22_docId_14155.jpg" imageWidth="2032" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426130013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2032,0 2032,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1626,186 1932,236 1932,122 100,131"/>
+                <Baseline points="112,183 202,183 292,185 383,185 473,185 564,185 654,183 745,183 835,182 926,182 1016,182 1106,180 1197,180 1287,180 1378,181 1468,182 1559,183 1649,183 1740,185 1830,188 1921,191"/>
+                <TextEquiv>
+                    <Unicode>Monats Bericht über die Familien- und Nachlaß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monats Bericht über die Familien- und Nachlaß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

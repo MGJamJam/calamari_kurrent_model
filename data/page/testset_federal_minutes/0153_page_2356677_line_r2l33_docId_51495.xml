@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:16.478+02:00</Created>
+        <LastChange>2020-10-11T21:36:24.713+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749677" pageNr="114" tsid="49313733" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KMLVRBSDNEPXOEBRCHDTGNED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMRODAOFVBKSDCMSQMJMOQNK" imageId="14364853"/>
+    </Metadata>
+    <Page imageFilename="0153_page_2356677_line_r2l33_docId_51495.jpg" imageWidth="2356" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425553271" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2356,0 2356,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2256,197 2256,133 1842,100 1719,153 1633,102 1566,153 101,143"/>
+                <Baseline points="115,184 221,182 327,182 434,182 540,182 647,182 753,182 859,182 966,182 1072,182 1179,182 1285,184 1391,184 1498,184 1604,184 1711,184 1817,184 1923,184 2030,184 2136,184 2243,184 2275,184"/>
+                <TextEquiv>
+                    <Unicode>treffenden Abgeordneten in offizieller Stellung dem Leichenkondukt bei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>treffenden Abgeordneten in offizieller Stellung dem Leichenkondukt bei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:20:16.315+02:00</Created>
+        <LastChange>2020-10-27T09:01:06.350+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748485" pageNr="57" tsid="49304158" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IYYKAIPMGJPNWHTVKECNZIME&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UBVTBJZMSTEYHXQPDPVIXHVT" imageId="14363665"/>
+    </Metadata>
+    <Page imageFilename="0104_page_390939_line_r2l27_docId_17266.jpg" imageWidth="2302" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425768894" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2302,0 2302,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 2066,233 2201,209 2202,124 100,123"/>
+                <Baseline points="113,180 216,180 320,182 424,182 527,182 631,182 735,182 838,182 942,184 1046,184 1150,184 1253,184 1357,184 1461,184 1564,184 1668,184 1772,184 1875,184 1979,184 2083,184 2187,184"/>
+                <TextEquiv>
+                    <Unicode>12/24. August 1898 entwickelten Gedanken zu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12/24. August 1898 entwickelten Gedanken zu-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

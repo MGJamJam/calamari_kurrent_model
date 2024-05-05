@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:01.262+02:00</Created>
+        <LastChange>2020-10-06T10:58:05.903+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750266" pageNr="106" tsid="49311845" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RQTAVDWSXIHMCTSODMNFTJAR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OEEBASKZSBLFPWAGLFQGTQLV" imageId="14365424"/>
+    </Metadata>
+    <Page imageFilename="0165_page_2389116_line_r2l16_docId_51502.jpg" imageWidth="2341" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425439462" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2341,0 2341,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 1598,228 2200,188 2240,100 100,156"/>
+                <Baseline points="115,189 220,189 326,189 431,187 537,187 643,187 748,186 854,185 959,185 1065,185 1171,183 1276,183 1382,183 1487,181 1593,181 1699,179 1804,179 1910,177 2015,177 2121,175 2227,173"/>
+                <TextEquiv>
+                    <Unicode>Konsulate verursachen, die eine Maßnahme von Seite der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Konsulate verursachen, die eine Maßnahme von Seite der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

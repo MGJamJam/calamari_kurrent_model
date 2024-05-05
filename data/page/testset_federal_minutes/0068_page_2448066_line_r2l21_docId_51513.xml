@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:58.729+02:00</Created>
+        <LastChange>2020-08-22T11:30:37.953+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750539" pageNr="53" tsid="49309352" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SJTSIGASUDTWUPGNCBDBBCGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDXCQRIKSVPPSHDMSZKUUMLS" imageId="14365697"/>
+    </Metadata>
+    <Page imageFilename="0068_page_2448066_line_r2l21_docId_51513.jpg" imageWidth="2280" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425311308" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2280,0 2280,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 979,271 1306,215 1374,272 1433,213 2180,204 2180,115 2088,166 1872,116 901,157 731,100 612,157 101,147"/>
+                <Baseline points="115,192 217,190 320,190 422,190 525,190 627,190 730,190 832,190 935,190 1037,190 1140,190 1242,190 1345,190 1447,192 1550,192 1652,192 1755,192 1857,194 1960,194 2062,196 2165,196"/>
+                <TextEquiv>
+                    <Unicode>Konsulat im Vizza verwaltet. Er hat die Stadt aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Konsulat im Vizza verwaltet. Er hat die Stadt aber</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:57:11.422+02:00</Created>
+        <LastChange>2020-08-22T11:17:58.282+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747587" pageNr="28" tsid="37760164" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JVNJUKRZVCYTNNKNMPWKFRXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ESYYYPNHYCZIPGYHVTIYGDYR" imageId="14362767"/>
+    </Metadata>
+    <Page imageFilename="0082_page_401179_line_r1l15_docId_17276.jpg" imageWidth="2349" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425802491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2349,0 2349,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,272 571,209 915,271 1229,219 1322,279 1452,221 2249,226 2248,148 2133,100 1855,171 1656,107 100,163"/>
+                <Baseline points="115,221 221,218 327,217 433,215 539,213 645,211 751,211 857,209 963,208 1069,207 1175,205 1281,205 1387,203 1493,201 1599,201 1705,198 1811,196 1917,193 2023,191 2129,188 2235,185"/>
+                <TextEquiv>
+                    <Unicode>weigerung eines Wirtschaftspatentes wird unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>weigerung eines Wirtschaftspatentes wird unter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

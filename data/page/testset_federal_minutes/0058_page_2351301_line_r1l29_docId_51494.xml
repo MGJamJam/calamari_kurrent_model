@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:58.577+02:00</Created>
+        <LastChange>2020-08-22T11:24:26.747+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749465" pageNr="45" tsid="37762461" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UTVFKZZAKKNNYBGAPNPBAMOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMQZDGIHBSCWBTIAEKAPDKHH" imageId="14364641"/>
+    </Metadata>
+    <Page imageFilename="0058_page_2351301_line_r1l29_docId_51494.jpg" imageWidth="2365" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425543504" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2365,0 2365,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2138,234 2265,206 2265,112 100,156"/>
+                <Baseline points="114,191 220,191 327,191 434,191 541,191 648,191 754,191 861,191 968,191 1075,189 1182,189 1288,189 1395,189 1502,189 1609,189 1716,187 1822,187 1929,187 2036,187 2143,187 2250,187"/>
+                <TextEquiv>
+                    <Unicode>von ihm behauptet, aber nicht auf sichere Weise z. B. durch amtlicher In¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von ihm behauptet, aber nicht auf sichere Weise z. B. durch amtlicher In¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:15.856+02:00</Created>
+        <LastChange>2020-08-22T07:33:37.328+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744707" pageNr="27" tsid="37714860" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QDXAHRHRGXJXHUEVRRKFFRQN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEUFZUOXMUXUCZDXIVZDNRTJ" imageId="14360098"/>
+    </Metadata>
+    <Page imageFilename="0043_page_309518_line_r1l3_docId_13790.jpg" imageWidth="557" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426294601" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 557,0 557,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,190 182,194 255,229 330,179 404,195 428,177 457,177 456,111 371,142 334,106 288,119 236,100 197,125 100,136"/>
+                <Baseline points="113,173 138,173 164,174 189,175 215,175 240,174 266,173 291,173 317,172 342,171 368,171 393,170 419,169 445,169"/>
+                <TextEquiv>
+                    <Unicode>einzuholen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>einzuholen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

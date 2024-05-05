@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:03:05.497+02:00</Created>
+        <LastChange>2020-11-17T08:15:03.368+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744815" pageNr="127" tsid="49319297" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TJEHJHYGRGXIYTABMBREVCJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QVRZAQJJIRFXSUPKPZVKPJYZ" imageId="14360206"/>
+    </Metadata>
+    <Page imageFilename="0199_page_307531_line_r2l30_docId_13787.jpg" imageWidth="2051" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426365881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2051,0 2051,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 1704,237 1951,202 1951,151 522,109 349,168 268,100 100,159"/>
+                <Baseline points="112,190 203,190 294,190 385,190 477,190 568,190 659,190 751,190 842,190 933,190 1025,190 1116,190 1207,188 1298,188 1390,188 1481,188 1572,187 1664,186 1755,186 1846,184 1938,184"/>
+                <TextEquiv>
+                    <Unicode>und Auslieferung des vom Untersuchungsrichter der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und Auslieferung des vom Untersuchungsrichter der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

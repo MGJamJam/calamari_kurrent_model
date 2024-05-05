@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:45.060+02:00</Created>
+        <LastChange>2020-11-12T08:00:24.097+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746864" pageNr="113" tsid="49318508" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GIDRKGESUDLCIMKREJDGMKAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UVWCIZDCFEWAARTMPUGTZKBY" imageId="14362044"/>
+    </Metadata>
+    <Page imageFilename="0196_page_368071_line_r1l26_docId_17237.jpg" imageWidth="1997" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426013962" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1997,0 1997,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,203 1877,191 1897,134 100,123"/>
+                <Baseline points="113,182 201,181 290,181 378,181 467,179 556,179 644,179 733,178 822,177 910,176 999,175 1088,175 1176,173 1265,173 1354,172 1442,172 1531,172 1620,170 1708,170 1797,170 1886,170"/>
+                <TextEquiv>
+                    <Unicode>felden wohnhaften mittellosen Fabrikarbeiterin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>felden wohnhaften mittellosen Fabrikarbeiterin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

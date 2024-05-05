@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:49.328+02:00</Created>
+        <LastChange>2020-11-16T14:26:03.691+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744771" pageNr="47" tsid="49319060" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BREMIRHRDQKOOCYEUYVFLUMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IUVCIOCTZVXRFALTFYVJUASZ" imageId="14360162"/>
+    </Metadata>
+    <Page imageFilename="0073_page_314226_line_r1l15_docId_13795.jpg" imageWidth="2064" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426297216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2064,0 2064,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 1964,214 1903,109 782,156 100,100"/>
+                <Baseline points="112,178 204,180 296,182 388,184 480,184 572,184 664,186 756,186 848,184 940,184 1032,184 1124,184 1216,184 1308,184 1400,184 1492,184 1584,186 1676,186 1768,188 1860,190 1952,194"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug ans Landwirtschafts- und ans Fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug ans Landwirtschafts- und ans Fi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

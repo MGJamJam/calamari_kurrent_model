@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:11:18.304+02:00</Created>
+        <LastChange>2020-08-22T11:17:17.590+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748150" pageNr="22" tsid="37759892" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PLGXLZEOVCWJQODDFLRIXAXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXCNRNNMZLTCSHYYYASPAHZU" imageId="14363330"/>
+    </Metadata>
+    <Page imageFilename="0037_page_394520_line_r3l32_docId_17268.jpg" imageWidth="951" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425764184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 951,0 951,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,248 296,205 364,207 412,247 520,201 581,222 851,207 850,126 779,134 721,100 676,126 607,100 525,151 311,141 226,102 100,132"/>
+                <Baseline points="114,192 150,192 186,194 222,194 258,194 295,194 331,192 367,192 403,192 439,192 476,190 512,190 548,190 584,190 620,190 657,190 693,190 729,190 765,190 801,192 838,194"/>
+                <TextEquiv>
+                    <Unicode>R. Antrag vom 20. dies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>R. Antrag vom 20. dies.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:44.343+02:00</Created>
+        <LastChange>2020-09-22T15:27:52.267+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519154" pageNr="137" tsid="49307770" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=APMTQYWPJNPJHCAXLWXKCLJU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJKKULNZQOHYPMAQIGNXPFIM" imageId="15086087"/>
+    </Metadata>
+    <Page imageFilename="0189_page_2457144_line_r1l30_docId_51515.jpg" imageWidth="2405" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425256203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2405,0 2405,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 2305,188 2219,100 100,136 100,213"/>
+                <Baseline points="114,173 222,173 331,173 440,173 549,173 658,173 766,173 875,173 984,173 1093,173 1202,173 1310,173 1419,173 1528,173 1637,173 1746,173 1854,173 1963,173 2072,173 2181,173 2290,171"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="129,133 129,193 2290,193 2290,133"/>
+                    <TextEquiv>
+                        <Unicode>divihNeHatvötBet-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>divihNeHatvötBet-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

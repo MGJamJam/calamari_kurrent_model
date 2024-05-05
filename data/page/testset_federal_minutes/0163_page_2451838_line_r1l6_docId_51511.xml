@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:59.476+02:00</Created>
+        <LastChange>2020-08-22T11:33:17.960+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750775" pageNr="118" tsid="49309715" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SRMEJLFEQXOIOZXAIPOLQQUO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAZAJDHGUBIPOAWBGFSSYECV" imageId="14365933"/>
+    </Metadata>
+    <Page imageFilename="0163_page_2451838_line_r1l6_docId_51511.jpg" imageWidth="515" imageHeight="294">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425320572" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 515,0 515,294 0,294"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 239,192 278,173 310,193 414,192 415,154 388,153 334,100 312,122 268,127 251,140 230,126 207,142 194,131 167,136 142,111 101,113"/>
+                <Baseline points="114,182 140,185 166,189 192,191 218,192 244,193 271,194 297,194 323,192 349,191 375,189 402,188"/>
+                <TextEquiv>
+                    <Unicode>Breisatzung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Breisatzung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

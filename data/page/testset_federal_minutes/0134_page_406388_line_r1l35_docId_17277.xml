@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:53.927+02:00</Created>
+        <LastChange>2020-08-22T11:25:42.750+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749070" pageNr="63" tsid="37762927" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VVMAIANDDANIWJRRKXETDQII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WGMJAXQUBECXCKPPNXMYRLVS" imageId="14364246"/>
+    </Metadata>
+    <Page imageFilename="0134_page_406388_line_r1l35_docId_17277.jpg" imageWidth="2301" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425633958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2301,0 2301,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 2201,252 2201,154 1890,122 100,162"/>
+                <Baseline points="118,205 221,205 324,205 427,205 531,205 634,205 737,205 841,205 944,205 1047,205 1151,207 1254,207 1357,205 1460,205 1564,205 1667,205 1770,205 1874,205 1977,205 2080,203 2184,203"/>
+                <TextEquiv>
+                    <Unicode>die Einsprecher behufs Erledigung ihrer Forderungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Einsprecher behufs Erledigung ihrer Forderungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

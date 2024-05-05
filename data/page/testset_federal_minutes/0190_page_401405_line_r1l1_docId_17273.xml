@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:23:38.862+02:00</Created>
+        <LastChange>2020-08-22T11:26:49.064+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748610" pageNr="185" tsid="37763349" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GOCUILOBAVUNUOWYBWTRDRGS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNMQDXBYXPRNWHOJOVPYNCLD" imageId="14363790"/>
+    </Metadata>
+    <Page imageFilename="0190_page_401405_line_r1l1_docId_17273.jpg" imageWidth="1802" imageHeight="417">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425730056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1802,0 1802,417 0,417"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,313 1702,303 1701,161 1570,112 1309,174 947,102 838,181 582,200 314,115 100,132"/>
+                <Baseline points="114,237 192,239 271,240 350,241 428,241 507,241 586,241 664,241 743,241 822,239 901,239 979,238 1058,237 1137,237 1215,235 1294,235 1373,235 1451,235 1530,235 1609,235 1688,235"/>
+                <TextEquiv>
+                    <Unicode>12. Sitzung vom 19. Februar 1901.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12. Sitzung vom 19. Februar 1901.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:07.955+02:00</Created>
+        <LastChange>2020-08-22T11:16:01.711+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746924" pageNr="21" tsid="37759304" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FIYRXRKTEOUHWQSWNVFUKJRP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADGWOKPTFLXVEJSOFCOWMGIS" imageId="14362104"/>
+    </Metadata>
+    <Page imageFilename="0037_page_381329_line_r1l13_docId_17252.jpg" imageWidth="1767" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425891738" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1767,0 1767,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 651,258 968,189 1181,239 1667,217 1667,147 1566,112 1348,160 1205,106 987,158 605,151 543,100 100,139"/>
+                <Baseline points="112,183 189,183 266,183 343,183 420,183 497,183 574,183 651,185 728,185 805,185 883,186 960,186 1037,187 1114,188 1191,188 1268,188 1345,189 1422,189 1499,189 1576,188 1654,188"/>
+                <TextEquiv>
+                    <Unicode>mäß die Vornahme einer Lohnpfändung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mäß die Vornahme einer Lohnpfändung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

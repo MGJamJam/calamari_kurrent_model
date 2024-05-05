@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:29:49.520+02:00</Created>
+        <LastChange>2020-08-22T11:21:21.737+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748855" pageNr="87" tsid="37761486" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SSZFGDMUCQRPAXVGGBUCYJXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMKWPVIBZGNCVKMIBHCLYJOM" imageId="14364031"/>
+    </Metadata>
+    <Page imageFilename="0175_page_392037_line_r1l19_docId_17267.jpg" imageWidth="2294" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425773231" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2294,0 2294,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 466,261 830,195 2124,253 2194,124 100,151"/>
+                <Baseline points="114,184 217,184 320,184 423,186 527,186 630,186 733,188 837,188 940,190 1043,190 1147,190 1250,192 1353,192 1456,193 1560,194 1663,194 1766,194 1870,194 1973,196 2076,194 2180,194"/>
+                <TextEquiv>
+                    <Unicode>schen Justizdepartements wird diesem Begehren auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schen Justizdepartements wird diesem Begehren auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

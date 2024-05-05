@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:31.429+02:00</Created>
+        <LastChange>2020-10-27T07:37:11.152+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748006" pageNr="17" tsid="49315773" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GNJCEJYSJVDJIUPGQIMFPTVG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQAGQKJDLBTJLNDERQIVDFGR" imageId="14363186"/>
+    </Metadata>
+    <Page imageFilename="0017_page_395758_line_r1l25_docId_17272.jpg" imageWidth="2244" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425707486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2244,0 2244,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2144,230 2144,155 2010,107 100,160"/>
+                <Baseline points="115,198 215,200 316,200 417,200 517,200 618,200 719,200 819,200 920,200 1021,198 1122,198 1222,198 1323,198 1424,196 1524,196 1625,196 1726,196 1826,196 1927,196 2028,196 2129,196"/>
+                <TextEquiv>
+                    <Unicode>vu le rapport de son département de justice et police;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vu le rapport de son département de justice et police;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

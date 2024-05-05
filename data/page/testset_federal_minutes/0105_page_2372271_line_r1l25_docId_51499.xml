@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:32.810+02:00</Created>
+        <LastChange>2020-10-08T08:28:17.579+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749983" pageNr="69" tsid="49312389" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EOVGEVHDBIVOENFODBIEABWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DTBKZHYNMWNHRYVATMFRFKWT" imageId="14365155"/>
+    </Metadata>
+    <Page imageFilename="0105_page_2372271_line_r1l25_docId_51499.jpg" imageWidth="2135" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425488498" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2135,0 2135,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 2035,179 1971,100 100,165"/>
+                <Baseline points="115,195 210,194 305,193 400,191 496,191 591,189 686,189 782,187 877,187 972,185 1068,185 1163,183 1258,183 1353,181 1449,180 1544,179 1639,177 1735,175 1830,173 1925,171 2021,169 2047,171"/>
+                <TextEquiv>
+                    <Unicode>meine und nicht speziell gegen das schweiz. Polytechnikum verfügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>meine und nicht speziell gegen das schweiz. Polytechnikum verfügt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

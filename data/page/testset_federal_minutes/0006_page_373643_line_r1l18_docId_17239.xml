@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:04:07.838+02:00</Created>
+        <LastChange>2020-08-22T07:32:43.954+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744834" pageNr="6" tsid="37714723" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LETFXOKQFZLFOHVWGJMQGDKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SLBMGXQZOSLDQWHGIGUAWMHU" imageId="14360225"/>
+    </Metadata>
+    <Page imageFilename="0006_page_373643_line_r1l18_docId_17239.jpg" imageWidth="1194" imageHeight="285">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426239071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1194,0 1194,285 0,285"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,173 1094,167 1083,117 919,100 172,134 100,102"/>
+                <Baseline points="107,150 156,150 205,150 254,150 303,150 352,149 401,149 450,149 499,149 548,148 597,148 646,148 695,147 744,147 793,146 842,146 891,145 940,144 989,144 1038,143 1087,142"/>
+                <TextEquiv>
+                    <Unicode>Zone überlassen wir Ihnen bestmögliche Reguli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zone überlassen wir Ihnen bestmögliche Reguli¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

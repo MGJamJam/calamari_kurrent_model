@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:49.519+02:00</Created>
+        <LastChange>2020-08-22T11:16:05.092+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746479" pageNr="47" tsid="37759334" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SYXPPEFAQVCRRYBKUPEBDXVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DFNCWISRVFKQUOZXEZTJDCVC" imageId="14361659"/>
+    </Metadata>
+    <Page imageFilename="0074_page_364760_line_r2l12_docId_17234.jpg" imageWidth="1958" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426004873" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1958,0 1958,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 1858,241 1858,100 1508,168 1129,103 1016,171 100,126"/>
+                <Baseline points="113,196 199,196 286,198 372,198 459,198 546,198 632,198 719,198 805,196 892,196 979,196 1065,196 1152,194 1238,194 1325,194 1412,194 1498,196 1585,196 1671,198 1758,199 1845,202"/>
+                <TextEquiv>
+                    <Unicode>Nach Eingang der im Sinne des Art. 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach Eingang der im Sinne des Art. 7</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

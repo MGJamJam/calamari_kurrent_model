@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:03.059+02:00</Created>
+        <LastChange>2020-08-22T11:25:36.518+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749945" pageNr="59" tsid="37762889" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VVRPHLCPHOSJLKMYCUZQHZLV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKXKBIQTVISIMDXRSDCYXRWP" imageId="14365117"/>
+    </Metadata>
+    <Page imageFilename="0091_page_2356296_line_r1l32_docId_51496.jpg" imageWidth="2328" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425487131" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2012,219 2228,177 2228,103 679,156 322,105 100,167"/>
+                <Baseline points="115,197 220,193 325,191 430,189 535,187 640,187 745,185 850,185 955,185 1060,185 1165,185 1270,185 1375,185 1480,187 1585,187 1690,187 1795,185 1900,185 2005,183 2110,181 2215,179"/>
+                <TextEquiv>
+                    <Unicode>sendung ihrer drei Belege nebst dem Kaufschein für das uneheliche Kind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sendung ihrer drei Belege nebst dem Kaufschein für das uneheliche Kind</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

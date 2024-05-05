@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:07.617+02:00</Created>
+        <LastChange>2020-10-06T08:13:33.165+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750709" pageNr="103" tsid="49310806" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ICGBYRQRFVJNQWCYUUDEDKAY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XISFSHQPNTMTMJMBEPBEKQAL" imageId="14365867"/>
+    </Metadata>
+    <Page imageFilename="0143_page_2425592_line_r2l22_docId_51508.jpg" imageWidth="2348" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425381940" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2348,0 2348,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1266,182 1323,235 2240,190 2248,128 100,144"/>
+                <Baseline points="115,181 221,181 327,181 433,181 539,181 645,181 751,181 857,181 963,179 1069,179 1175,179 1281,179 1387,179 1493,177 1599,177 1705,177 1811,177 1917,176 2023,175 2129,175 2235,175"/>
+                <TextEquiv>
+                    <Unicode>terin 25. die auf Gesuch der französischen Botschaft vom 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>terin 25. die auf Gesuch der französischen Botschaft vom 11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

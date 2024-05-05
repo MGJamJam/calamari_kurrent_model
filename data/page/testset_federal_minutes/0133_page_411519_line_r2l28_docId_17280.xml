@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:50.884+02:00</Created>
+        <LastChange>2020-08-22T11:25:40.195+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749067" pageNr="62" tsid="37762914" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EZYSXMFIBYJSFZNZBTOWDMPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJYONEWLEKDFGCHFZMNRVNTX" imageId="14364243"/>
+    </Metadata>
+    <Page imageFilename="0133_page_411519_line_r2l28_docId_17280.jpg" imageWidth="2097" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425633818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2097,0 2097,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,231 1732,243 1997,219 1996,114 100,150"/>
+                <Baseline points="114,203 207,203 301,203 394,205 488,203 581,203 675,203 768,201 862,201 955,199 1049,199 1142,197 1236,195 1329,195 1423,193 1516,193 1610,193 1703,193 1797,193 1890,193 1984,193"/>
+                <TextEquiv>
+                    <Unicode>Wenn nun auch zugegeben werden kann, daß die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wenn nun auch zugegeben werden kann, daß die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

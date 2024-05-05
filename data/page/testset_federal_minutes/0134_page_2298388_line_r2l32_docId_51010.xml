@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:52.032+02:00</Created>
+        <LastChange>2020-08-22T11:09:26.848+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746079" pageNr="92" tsid="37756829" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZTNDGAOTMQALOONPARMPJMYM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSTHAGZGWBSRETBVLXSBFVTP" imageId="14361259"/>
+    </Metadata>
+    <Page imageFilename="0134_page_2298388_line_r2l32_docId_51010.jpg" imageWidth="2318" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426067912" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2318,0 2318,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 194,251 322,196 1796,225 2190,204 2218,143 100,137"/>
+                <Baseline points="113,184 217,186 322,186 426,186 531,188 635,188 740,188 844,188 949,188 1053,188 1158,188 1262,190 1367,190 1471,190 1576,190 1680,190 1785,190 1889,190 1994,191 2098,192 2203,192"/>
+                <TextEquiv>
+                    <Unicode>Es wurde beschlossen: diese Druckschrift den betreffenden Akten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es wurde beschlossen: diese Druckschrift den betreffenden Akten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

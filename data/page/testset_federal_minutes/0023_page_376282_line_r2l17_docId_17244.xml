@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:06.907+02:00</Created>
+        <LastChange>2020-08-22T07:33:15.761+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744866" pageNr="15" tsid="37714799" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GOMMRZZAJDNZHQIBSHNCQKUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAQSXQXNIXVSZIYKXFCBJPQC" imageId="14360257"/>
+    </Metadata>
+    <Page imageFilename="0023_page_376282_line_r2l17_docId_17244.jpg" imageWidth="1976" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426240254" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1976,0 1976,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 1876,214 1875,146 1412,109 465,164 369,101 246,155 100,112"/>
+                <Baseline points="112,189 199,191 287,192 374,193 462,193 550,193 637,193 725,193 812,193 900,193 988,193 1075,191 1163,191 1250,191 1338,191 1426,189 1513,189 1601,189 1688,189 1776,189 1864,191"/>
+                <TextEquiv>
+                    <Unicode>Laut Depesche das schweiz. Vizekonsulats in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Laut Depesche das schweiz. Vizekonsulats in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

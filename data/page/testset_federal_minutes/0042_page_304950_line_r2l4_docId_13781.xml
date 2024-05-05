@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:41:49.800+02:00</Created>
+        <LastChange>2020-11-18T15:53:38.293+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744372" pageNr="25" tsid="49319315" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MCMSASJQQLYRJJPDWFKVRGNQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ESNLZXPWOSLOXSWSWCLITUGJ" imageId="14359767"/>
+    </Metadata>
+    <Page imageFilename="0042_page_304950_line_r2l4_docId_13781.jpg" imageWidth="2217" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426411611" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2217,0 2217,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 2117,216 2117,135 1916,109 1671,169 1316,100 101,157"/>
+                <Baseline points="113,194 212,194 312,194 411,194 511,194 611,194 710,194 810,194 909,194 1009,194 1109,194 1208,194 1308,194 1407,194 1507,194 1607,194 1706,194 1806,196 1905,196 2005,196 2105,198 2168,200"/>
+                <TextEquiv>
+                    <Unicode>seinem Fuhrwerk, die beim Uebergang der Maria¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>seinem Fuhrwerk, die beim Uebergang der Maria¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

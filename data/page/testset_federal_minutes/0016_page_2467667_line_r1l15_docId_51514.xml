@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:11.832+02:00</Created>
+        <LastChange>2020-09-17T10:20:42.566+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750402" pageNr="11" tsid="49309191" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CWEKAAKVJQQPTNOOLZQILUZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWZDEKBPCVVGJKOCPIBIGXEM" imageId="14365560"/>
+    </Metadata>
+    <Page imageFilename="0016_page_2467667_line_r1l15_docId_51514.jpg" imageWidth="1481" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425305350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1481,0 1481,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,243 1351,264 1381,100 1269,190 871,152 811,196 724,144 645,199 517,166 100,202"/>
+                <Baseline points="114,230 176,232 239,232 302,232 364,230 427,230 490,230 552,228 615,228 678,226 741,226 803,226 866,224 929,224 991,226 1054,226 1117,226 1179,229 1242,230 1305,235 1386,238"/>
+                <TextEquiv>
+                    <Unicode>wesend Herr. Bundesrat Hammer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wesend Herr. Bundesrat Hammer,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

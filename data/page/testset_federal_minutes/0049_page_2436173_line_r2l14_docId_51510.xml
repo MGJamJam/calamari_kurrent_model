@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:32.465+02:00</Created>
+        <LastChange>2020-08-22T11:29:57.998+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750426" pageNr="33" tsid="37764637" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RIHDHMUZYWIGQSJAAASRZCLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JTMQDVCCOXCGCYUPXUSXILKN" imageId="14365585"/>
+    </Metadata>
+    <Page imageFilename="0049_page_2436173_line_r2l14_docId_51510.jpg" imageWidth="2345" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425372217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2345,0 2345,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 1917,219 2245,171 2180,108 100,115"/>
+                <Baseline points="115,161 220,161 326,163 432,163 538,163 644,163 749,163 855,163 961,165 1067,165 1173,165 1278,165 1384,165 1490,167 1596,167 1702,167 1807,169 1913,169 2019,169 2125,171 2231,173"/>
+                <TextEquiv>
+                    <Unicode>denselben Anspruch bezüglich des in Thonen gelegenen Thei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>denselben Anspruch bezüglich des in Thonen gelegenen Thei-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

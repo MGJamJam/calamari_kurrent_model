@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:55:43.780+02:00</Created>
+        <LastChange>2020-11-17T07:41:46.397+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744682" pageNr="75" tsid="49319246" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GIMSXSBOYUQVJAEPECVYBAHZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRFEIQAUTRVHPOTWIYFLWPTT" imageId="14360073"/>
+    </Metadata>
+    <Page imageFilename="0127_page_310540_line_r2l9_docId_13788.jpg" imageWidth="2203" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426358863" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2203,0 2203,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 615,255 877,196 2103,232 2041,131 1821,100 1683,162 100,114"/>
+                <Baseline points="114,188 212,188 311,188 410,190 509,190 608,190 706,190 805,190 904,192 1003,192 1102,192 1200,192 1299,192 1398,192 1497,192 1596,192 1694,192 1793,192 1892,192 1991,192 2090,192 2107,190"/>
+                <TextEquiv>
+                    <Unicode>unter den üblichen Kautelen zu verabfolgen. Herr Suter er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unter den üblichen Kautelen zu verabfolgen. Herr Suter er¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

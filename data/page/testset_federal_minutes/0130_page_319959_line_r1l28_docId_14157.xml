@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:15.883+02:00</Created>
+        <LastChange>2020-11-15T20:11:11.295+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745907" pageNr="90" tsid="49318706" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HHVGOMNKDXKEPRIUIKNOAOMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RWUTXAHFWIBYMSERAPXGZDJR" imageId="14361087"/>
+    </Metadata>
+    <Page imageFilename="0130_page_319959_line_r1l28_docId_14157.jpg" imageWidth="2210" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426127884" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2210,0 2210,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,237 2110,208 2110,138 1842,104 1272,153 847,100 722,162 100,104"/>
+                <Baseline points="114,174 213,176 312,178 411,178 510,180 609,180 708,182 807,182 906,182 1005,182 1105,182 1204,182 1303,182 1402,180 1501,180 1600,180 1699,180 1798,180 1897,180 1996,180 2096,180"/>
+                <TextEquiv>
+                    <Unicode>Ad Projekt 34. Grubenwald. Die pfahlre9ichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ad Projekt 34. Grubenwald. Die pfahlre9ichen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

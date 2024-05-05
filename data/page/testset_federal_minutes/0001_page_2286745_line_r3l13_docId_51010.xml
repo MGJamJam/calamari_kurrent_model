@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:13.890+02:00</Created>
+        <LastChange>2020-11-15T17:21:48.898+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745784" pageNr="1" tsid="49318512" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WQVPSLVEVEPCECLRPABEKLCU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRRXFUZKTLIADAGUOKZKCJYI" imageId="14360964"/>
+    </Metadata>
+    <Page imageFilename="0001_page_2286745_line_r3l13_docId_51010.jpg" imageWidth="2253" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426054944" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2253,0 2253,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2153,198 2153,148 1349,100 1285,156 100,140"/>
+                <Baseline points="114,192 215,192 316,190 417,190 519,190 620,190 721,188 823,188 924,188 1025,188 1127,186 1228,186 1329,186 1430,186 1532,186 1633,186 1734,186 1836,186 1937,186 2038,186 2165,187"/>
+                <TextEquiv>
+                    <Unicode>Die Regierung von Uri berichtet sub 27. v. M./ 3. dß, daß sie von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Regierung von Uri berichtet sub 27. v. M./ 3. dß, daß sie von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

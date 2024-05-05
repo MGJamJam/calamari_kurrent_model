@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:35.676+02:00</Created>
+        <LastChange>2020-11-16T08:05:12.915+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745574" pageNr="101" tsid="49318819" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YJCNLVRCGWWMLRQZYNKMYPNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AMZEWRCMALXJKHIYTHEHFGML" imageId="14360754"/>
+    </Metadata>
+    <Page imageFilename="0115_page_2254635_line_r3l27_docId_51003.jpg" imageWidth="2373" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426196996" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2373,0 2373,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 1960,246 2273,166 928,170 427,100 100,160"/>
+                <Baseline points="115,205 222,203 329,203 436,203 543,203 650,203 757,203 864,203 971,203 1078,204 1186,205 1293,205 1400,207 1507,207 1614,208 1721,209 1828,211 1935,211 2042,213 2149,213 2257,215"/>
+                <TextEquiv>
+                    <Unicode>für die siebente Infanteriedivision anwerben lassen und sei um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für die siebente Infanteriedivision anwerben lassen und sei um</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:03.047+02:00</Created>
+        <LastChange>2020-11-17T08:06:00.814+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744775" pageNr="109" tsid="49319284" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KSVBVAAOSVJMDMEZEKWNJMXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EITYEWJUFRUCIMHEVUPDSERH" imageId="14360166"/>
+    </Metadata>
+    <Page imageFilename="0176_page_306702_line_r1l13_docId_13785.jpg" imageWidth="2291" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426363356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2291,0 2291,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 1182,249 1520,196 1765,256 2191,196 2048,120 542,110 451,165 100,115"/>
+                <Baseline points="114,190 217,190 320,190 423,190 526,190 630,190 733,190 836,190 939,190 1042,190 1146,190 1249,190 1352,190 1455,190 1558,190 1662,190 1765,190 1868,190 1971,190 2074,190 2178,188"/>
+                <TextEquiv>
+                    <Unicode>derung " Maschinist resp. Heizer" wieder herzustellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>derung " Maschinist resp. Heizer" wieder herzustellen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

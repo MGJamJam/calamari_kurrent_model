@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:30:44.273+02:00</Created>
+        <LastChange>2020-11-12T06:57:25.272+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746237" pageNr="3" tsid="49318376" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQIJXPYLDILVUQKJYFTMULLU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=REGZBEFJJGOFOTHFKJSMEXCY" imageId="14361417"/>
+    </Metadata>
+    <Page imageFilename="0003_page_368216_line_r2l29_docId_17237.jpg" imageWidth="2042" imageHeight="333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425999019" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2042,0 2042,333 0,333"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 1942,206 1942,146 1794,100 1298,151 100,109"/>
+                <Baseline points="111,172 201,172 292,173 383,173 474,173 565,173 656,173 747,173 838,173 929,172 1020,172 1110,172 1201,170 1292,170 1383,170 1474,170 1565,172 1656,172 1747,173 1838,175 1929,178"/>
+                <TextEquiv>
+                    <Unicode>Organisation das Postdepartement das Nähe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Organisation das Postdepartement das Nähe¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

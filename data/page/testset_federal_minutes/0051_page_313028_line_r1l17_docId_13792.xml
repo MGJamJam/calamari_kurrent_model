@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:58:10.315+02:00</Created>
+        <LastChange>2020-11-16T14:15:29.760+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744722" pageNr="33" tsid="49319047" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XPYTHWLAWLMKXHFXLWHKKPYG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSYVPLWIAPSIRJRZPSCUKQMP" imageId="14360113"/>
+    </Metadata>
+    <Page imageFilename="0051_page_313028_line_r1l17_docId_13792.jpg" imageWidth="1701" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426295414" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1701,0 1701,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,254 389,219 476,263 643,190 842,246 1139,172 1601,195 1598,112 1520,100 1377,146 975,100 100,157"/>
+                <Baseline points="111,229 188,225 266,219 344,215 422,210 500,205 578,201 655,199 733,195 811,192 889,189 967,186 1045,184 1122,182 1200,180 1278,180 1356,178 1434,178 1512,178 1590,178"/>
+                <TextEquiv>
+                    <Unicode>für heute e solle aus d. Engadin Samnaun u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für heute e solle aus d. Engadin Samnaun u</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:41.105+02:00</Created>
+        <LastChange>2020-10-08T08:01:45.791+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749839" pageNr="35" tsid="49312291" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TYIUXDEHNAZWZIAJVBKDTHAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJLPCTUQDBNGABPDIPFQOVIB" imageId="14365011"/>
+    </Metadata>
+    <Page imageFilename="0054_page_2349739_line_r2l29_docId_51496.jpg" imageWidth="2308" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425483867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2308,0 2308,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 2028,248 2208,223 2207,100 1776,175 1317,121 100,171"/>
+                <Baseline points="114,215 218,214 322,213 426,212 530,211 634,210 738,209 842,207 946,207 1050,205 1154,205 1258,203 1362,203 1466,203 1570,203 1674,203 1778,203 1882,203 1986,203 2090,205 2194,205"/>
+                <TextEquiv>
+                    <Unicode>des Jacques Samuel Louis Blanchard von Bruxtems-Mezery, z. Z. in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Jacques Samuel Louis Blanchard von Bruxtems-Mezery, z. Z. in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

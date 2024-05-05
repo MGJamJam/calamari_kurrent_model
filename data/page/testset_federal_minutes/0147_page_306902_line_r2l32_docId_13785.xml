@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:58:11.468+02:00</Created>
+        <LastChange>2020-11-17T07:50:29.577+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744723" pageNr="89" tsid="49319260" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JDQBAGLYBICGLSEFEKBANJHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRHXZQPRYNOBVCIXKBKOTZDN" imageId="14360114"/>
+    </Metadata>
+    <Page imageFilename="0147_page_306902_line_r2l32_docId_13785.jpg" imageWidth="2237" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426360616" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2237,0 2237,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 2091,260 2137,101 1469,175 1281,116 840,170 100,121"/>
+                <Baseline points="113,198 213,198 314,196 414,196 515,196 616,196 716,196 817,196 917,196 1018,196 1119,196 1219,196 1320,196 1420,196 1521,196 1622,196 1722,198 1823,198 1923,198 2024,196 2125,196"/>
+                <TextEquiv>
+                    <Unicode>die vom K. Amtsgericht Nürnberg wegen Diebstahls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die vom K. Amtsgericht Nürnberg wegen Diebstahls</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

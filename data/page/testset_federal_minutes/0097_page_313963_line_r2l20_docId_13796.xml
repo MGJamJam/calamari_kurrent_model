@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:50.271+02:00</Created>
+        <LastChange>2020-11-15T19:57:41.298+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745768" pageNr="70" tsid="49318676" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XWSWEYKBXVVHXKKATHIWLPOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNFBKDBTCDLMTKXURTRCZJEQ" imageId="14360948"/>
+    </Metadata>
+    <Page imageFilename="0097_page_313963_line_r2l20_docId_13796.jpg" imageWidth="2168" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426125008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2168,0 2168,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2068,225 2068,141 1691,109 1405,160 1183,101 290,164 100,115"/>
+                <Baseline points="112,188 209,188 306,190 403,190 500,190 598,190 695,190 792,190 889,190 986,190 1084,188 1181,188 1278,188 1375,188 1472,188 1570,188 1667,190 1764,190 1861,192 1958,192 2056,196"/>
+                <TextEquiv>
+                    <Unicode>Kulturentschädigung zu Gunsten von Mitgliedern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kulturentschädigung zu Gunsten von Mitgliedern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

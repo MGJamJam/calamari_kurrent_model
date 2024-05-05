@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:58.838+02:00</Created>
+        <LastChange>2020-11-18T16:03:11.460+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744408" pageNr="39" tsid="49319330" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FGADKIZIPJDOQHEAMEIDZWCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWWPFCQVBZXBDUOBBDALJCAM" imageId="14359799"/>
+    </Metadata>
+    <Page imageFilename="0063_page_304837_line_r1l34_docId_13783.jpg" imageWidth="1960" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426413628" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1960,0 1960,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,269 879,217 1837,258 1860,128 100,160"/>
+                <Baseline points="114,208 200,208 287,208 374,208 460,207 547,206 634,206 720,206 807,206 894,204 981,204 1067,204 1154,204 1241,202 1327,202 1414,201 1501,200 1587,200 1674,198 1761,198 1848,196"/>
+                <TextEquiv>
+                    <Unicode>"11,032.64 für die für die Zufahrt zum Roh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"11,032.64 für die für die Zufahrt zum Roh¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

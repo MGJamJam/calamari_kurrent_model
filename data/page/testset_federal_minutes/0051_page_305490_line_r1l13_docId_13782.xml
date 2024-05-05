@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:20.264+02:00</Created>
+        <LastChange>2020-11-18T15:57:51.783+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744385" pageNr="30" tsid="49319320" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HOSYIIPGYZYARDOOTFWOICBS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WGXMOUIXRMFBLXAXCVAMTEOJ" imageId="14359780"/>
+    </Metadata>
+    <Page imageFilename="0051_page_305490_line_r1l13_docId_13782.jpg" imageWidth="2206" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426412399" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2206,0 2206,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 1991,244 2105,236 2106,137 352,152 101,100"/>
+                <Baseline points="112,184 211,186 310,188 409,190 508,190 607,192 706,192 805,192 904,192 1003,192 1103,192 1202,192 1301,192 1400,192 1499,192 1598,192 1697,192 1796,192 1895,194 1994,196 2094,198"/>
+                <TextEquiv>
+                    <Unicode>Paris mit Depesche vom 25. ds. Mts. zur Kenntnis, daß die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Paris mit Depesche vom 25. ds. Mts. zur Kenntnis, daß die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

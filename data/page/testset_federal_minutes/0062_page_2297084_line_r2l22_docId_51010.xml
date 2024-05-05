@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:24.726+02:00</Created>
+        <LastChange>2020-11-15T17:40:25.102+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745917" pageNr="42" tsid="49318537" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MBUEORDKSFNFDBUBVKKBTAOF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDZZMFAUPWSSSFJXFPHWQXVL" imageId="14361097"/>
+    </Metadata>
+    <Page imageFilename="0062_page_2297084_line_r2l22_docId_51010.jpg" imageWidth="2192" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426060960" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2192,0 2192,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 2091,240 2092,151 1817,119 101,110"/>
+                <Baseline points="114,176 212,176 310,178 408,178 506,180 605,180 703,182 801,182 899,183 997,184 1096,184 1194,186 1292,186 1390,186 1488,187 1587,188 1685,188 1783,188 1881,188 1979,188 2078,188"/>
+                <TextEquiv>
+                    <Unicode>Mit Schreiben vom 11. April / 16. Mai übermittelt die Regierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Schreiben vom 11. April / 16. Mai übermittelt die Regierung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

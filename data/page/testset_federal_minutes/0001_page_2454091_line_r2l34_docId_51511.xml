@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:43.029+02:00</Created>
+        <LastChange>2020-08-22T11:28:48.153+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750363" pageNr="1" tsid="49309140" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NMEUOREBONNNTUBVNHXHXURY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QOAFREIBGMULDDTXAKUMBNUI" imageId="14365521"/>
+    </Metadata>
+    <Page imageFilename="0001_page_2454091_line_r2l34_docId_51511.jpg" imageWidth="2344" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425303977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2344,0 2344,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 2185,274 2244,186 2102,131 782,160 698,100 617,157 392,100 101,148"/>
+                <Baseline points="113,182 218,183 324,184 430,186 536,188 642,190 747,192 853,193 959,195 1065,197 1171,199 1276,200 1382,203 1488,205 1594,206 1700,209 1805,211 1911,213 2017,216 2123,217 2229,220"/>
+                <TextEquiv>
+                    <Unicode>sterium um Bewilligung der Auslieferung des Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sterium um Bewilligung der Auslieferung des Franz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

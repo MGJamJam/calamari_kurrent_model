@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:58.449+02:00</Created>
+        <LastChange>2020-08-22T11:07:31.217+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745954" pageNr="52" tsid="37756123" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YOPMKTYWOFAIGRYYFBSAVJLT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFMRFEOOFYXDJEISIJEJSASZ" imageId="14361134"/>
+    </Metadata>
+    <Page imageFilename="0079_page_2272728_line_r1l32_docId_51007.jpg" imageWidth="2346" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426062444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2346,0 2346,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 2105,198 2246,130 100,112"/>
+                <Baseline points="114,179 219,175 325,172 431,169 537,169 643,167 749,167 855,167 961,167 1067,167 1173,167 1278,169 1384,169 1490,169 1596,171 1702,171 1808,171 1914,169 2020,169 2126,167 2232,165"/>
+                <TextEquiv>
+                    <Unicode>ihrer Aufstellung in Bellinzona zur Zeit des abgewichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ihrer Aufstellung in Bellinzona zur Zeit des abgewichen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

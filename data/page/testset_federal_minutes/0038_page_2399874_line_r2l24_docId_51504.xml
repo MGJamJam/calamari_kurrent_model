@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:46.735+02:00</Created>
+        <LastChange>2020-08-22T11:24:28.270+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749919" pageNr="21" tsid="37762469" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VHQCSPSTOZJHNPXLVDVHWRQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WIJGBVRJWIYNFVDSSCZAICYL" imageId="14365091"/>
+    </Metadata>
+    <Page imageFilename="0038_page_2399874_line_r2l24_docId_51504.jpg" imageWidth="2046" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425427401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2046,0 2046,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1801,237 1946,197 1946,140 483,147 405,100 100,148"/>
+                <Baseline points="113,180 203,180 294,180 385,180 476,180 567,180 658,180 749,180 840,182 931,182 1022,182 1112,182 1203,184 1294,184 1385,184 1476,184 1567,186 1658,186 1749,186 1840,186 1931,186"/>
+                <TextEquiv>
+                    <Unicode>Dem Gesandten die Billigung seines bisherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dem Gesandten die Billigung seines bisherigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:43.230+02:00</Created>
+        <LastChange>2020-08-22T07:36:23.924+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745582" pageNr="105" tsid="37715375" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MWBRTCTUOOQQKOLCBPKVWMQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSAKONIORJUJEYIXBBZCTZAH" imageId="14360762"/>
+    </Metadata>
+    <Page imageFilename="0119_page_2262947_line_r1l9_docId_51004.jpg" imageWidth="601" imageHeight="297">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426197501" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 601,0 601,297 0,297"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,168 187,195 220,164 323,161 367,197 408,161 501,166 499,100 451,107 423,129 388,103 367,115 321,103 296,128 100,137"/>
+                <Baseline points="115,157 141,157 168,156 194,155 221,154 247,153 274,152 301,150 327,149 354,147 380,147 407,147 433,147 460,147 487,149"/>
+                <TextEquiv>
+                    <Unicode>wegen d. Zurük¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wegen d. Zurük¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:46.197+02:00</Created>
+        <LastChange>2020-08-22T11:23:01.147+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749705" pageNr="2" tsid="37761950" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TLHETIOCLMXSOVKENDCJGSBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YEWNWQAINEJICFIWWJMRNWDG" imageId="14364881"/>
+    </Metadata>
+    <Page imageFilename="0003_page_2371730_line_r1l31_docId_51498.jpg" imageWidth="821" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425479371" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 821,0 821,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,177 228,170 284,227 367,166 539,167 632,195 720,174 721,115 100,110"/>
+                <Baseline points="114,165 143,165 173,165 203,165 232,165 262,165 292,165 321,165 351,165 381,165 411,165 440,165 470,165 500,165 529,167 559,167 589,167 618,167 648,169 678,169 708,171"/>
+                <TextEquiv>
+                    <Unicode>Vortrag v. 26. dieß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vortrag v. 26. dieß.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

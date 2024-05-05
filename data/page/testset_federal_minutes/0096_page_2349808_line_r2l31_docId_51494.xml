@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:17.107+02:00</Created>
+        <LastChange>2020-10-11T21:12:05.512+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749550" pageNr="75" tsid="49313624" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=REBTITHJQLJOEGTCPXEBGYFU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MAIJCZOCXCPRGBYLKODGZUWU" imageId="14364726"/>
+    </Metadata>
+    <Page imageFilename="0096_page_2349808_line_r2l31_docId_51494.jpg" imageWidth="2320" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425547720" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2320,0 2320,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2161,241 2220,117 100,155"/>
+                <Baseline points="114,190 218,190 323,190 427,190 532,190 637,190 741,190 846,188 950,188 1055,188 1160,188 1264,188 1369,186 1473,186 1578,186 1683,186 1787,186 1892,186 1996,186 2101,186 2206,186 2241,180"/>
+                <TextEquiv>
+                    <Unicode>rektion und die Regierung von Bern, betreffend Abweisung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rektion und die Regierung von Bern, betreffend Abweisung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:21.668+02:00</Created>
+        <LastChange>2020-11-16T08:42:33.559+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745749" pageNr="161" tsid="49318860" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VRSXXHIYCEIIVZTINQOAKJWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMPOBWIHURDHTPOVSMESNWDR" imageId="14360929"/>
+    </Metadata>
+    <Page imageFilename="0195_page_2255160_line_r2l29_docId_51002.jpg" imageWidth="2475" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426205427" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2475,0 2475,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 2374,221 2366,119 101,124"/>
+                <Baseline points="115,186 227,184 339,182 451,182 564,182 676,182 788,182 901,184 1013,185 1125,186 1238,188 1350,190 1462,192 1574,193 1687,194 1799,196 1911,196 2024,196 2136,196 2248,194 2361,194"/>
+                <TextEquiv>
+                    <Unicode>22 d. M., wurde beschlossen, hierauf zu erwiedern, daß laut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22 d. M., wurde beschlossen, hierauf zu erwiedern, daß laut</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

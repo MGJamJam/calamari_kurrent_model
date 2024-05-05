@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:04.743+02:00</Created>
+        <LastChange>2020-09-21T14:48:07.522+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750705" pageNr="96" tsid="49309584" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WGRWKUSJBCAWXYPFWQHYSQNR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUOIDIRHBSYEAJTWBCMUQUJN" imageId="14365863"/>
+    </Metadata>
+    <Page imageFilename="0135_page_2440319_line_r1l17_docId_51512.jpg" imageWidth="2416" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425317393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2416,0 2416,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 434,252 1400,186 1591,250 2316,194 2316,141 2013,108 100,141"/>
+                <Baseline points="113,189 222,189 332,187 441,187 551,187 660,187 770,187 879,188 989,189 1098,189 1208,189 1317,189 1427,189 1536,189 1646,189 1755,187 1865,187 1974,187 2084,185 2193,183 2303,181"/>
+                <TextEquiv>
+                    <Unicode>eologno zu bezahlen habe, ist die Vorlage des Departements</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>eologno zu bezahlen habe, ist die Vorlage des Departements</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

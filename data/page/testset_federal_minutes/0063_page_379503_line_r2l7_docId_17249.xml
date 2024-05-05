@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:43.066+02:00</Created>
+        <LastChange>2020-11-10T07:41:29.323+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746415" pageNr="40" tsid="49318301" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SYGFKROTIXZFNFSMVISUAFOU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ROXTHHUOELWGVYCPPPPQVXWN" imageId="14361595"/>
+    </Metadata>
+    <Page imageFilename="0063_page_379503_line_r2l7_docId_17249.jpg" imageWidth="2124" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425951057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2124,0 2124,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,235 1995,220 2023,112 100,144"/>
+                <Baseline points="114,202 208,200 303,198 398,198 493,196 588,196 683,194 778,194 873,192 968,191 1063,190 1157,188 1252,188 1347,186 1442,186 1537,184 1632,184 1727,182 1822,182 1917,180 2012,180 2064,181"/>
+                <TextEquiv>
+                    <Unicode>zu 3 Tagen Gefängnis und 70 Fr. Buße, und Lokomotiv¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu 3 Tagen Gefängnis und 70 Fr. Buße, und Lokomotiv¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

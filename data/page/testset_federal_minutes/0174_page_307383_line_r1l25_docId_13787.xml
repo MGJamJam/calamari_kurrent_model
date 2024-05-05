@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:56.034+02:00</Created>
+        <LastChange>2020-11-17T08:04:57.036+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744772" pageNr="108" tsid="49319283" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CURZJMIHFQXVNKWMVDTLFYNK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TIXMRJWZNOLQUXNCEMEQAISV" imageId="14360163"/>
+    </Metadata>
+    <Page imageFilename="0174_page_307383_line_r1l25_docId_13787.jpg" imageWidth="1965" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426363219" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1965,0 1965,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 1865,221 1865,143 1485,100 345,157 100,105"/>
+                <Baseline points="114,182 200,182 287,184 374,184 461,184 548,184 635,184 722,184 809,182 896,182 983,182 1069,180 1156,180 1243,180 1330,180 1417,178 1504,178 1591,178 1678,178 1765,180 1852,180"/>
+                <TextEquiv>
+                    <Unicode>Im weitern gab der Nationalrat folgende Bemerkung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im weitern gab der Nationalrat folgende Bemerkung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

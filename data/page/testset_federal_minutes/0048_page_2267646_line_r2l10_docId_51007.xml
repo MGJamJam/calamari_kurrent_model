@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:54.892+02:00</Created>
+        <LastChange>2020-08-22T11:06:30.923+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745887" pageNr="31" tsid="37755810" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FSNJWEQIRYZCNWMRVQOASJJQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYUJWLEYEJGZGRNFMCVIMNVZ" imageId="14361067"/>
+    </Metadata>
+    <Page imageFilename="0048_page_2267646_line_r2l10_docId_51007.jpg" imageWidth="2069" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426059356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2069,0 2069,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 891,198 980,243 1039,196 1969,185 1968,113 1839,106 1751,150 1586,100 1460,150 100,133"/>
+                <Baseline points="114,192 206,192 298,192 390,190 482,190 574,190 666,188 758,188 850,188 942,186 1034,186 1126,186 1218,184 1310,184 1402,182 1494,182 1586,180 1678,178 1770,178 1862,176 1954,174"/>
+                <TextEquiv>
+                    <Unicode>Nach einer längern Erörterung der Frage kommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach einer längern Erörterung der Frage kommt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

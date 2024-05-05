@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:33:22.921+02:00</Created>
+        <LastChange>2020-08-22T11:25:03.165+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748997" pageNr="50" tsid="37762684" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KUHZVHSFNKCUFABGWGWHNJPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRWLBMLYMRVPVLVXZQISOMKA" imageId="14364173"/>
+    </Metadata>
+    <Page imageFilename="0111_page_406269_line_r1l36_docId_17278.jpg" imageWidth="2410" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425632126" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2410,0 2410,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 344,279 580,205 763,269 1402,206 2310,250 2243,117 100,142"/>
+                <Baseline points="113,200 222,200 331,198 440,198 549,198 659,198 768,198 877,198 986,200 1095,200 1205,200 1314,200 1423,202 1532,202 1641,202 1751,202 1860,202 1969,202 2078,202 2187,202 2297,202"/>
+                <TextEquiv>
+                    <Unicode>erwidern, die Schweiz besitze keine besondere Gesetz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erwidern, die Schweiz besitze keine besondere Gesetz¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

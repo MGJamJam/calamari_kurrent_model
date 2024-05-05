@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:02.513+02:00</Created>
+        <LastChange>2020-08-22T11:17:24.851+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746492" pageNr="60" tsid="37759931" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XRRSOAMJOANULVNGWPROPMNO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOULCVOJKPJRDPHEWMJEPWTV" imageId="14361672"/>
+    </Metadata>
+    <Page imageFilename="0090_page_378319_line_r1l29_docId_17246.jpg" imageWidth="896" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425954092" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 896,0 896,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 276,178 340,195 464,177 562,205 633,175 796,189 796,118 750,140 622,100 535,140 376,102 300,129 176,101 100,118"/>
+                <Baseline points="113,179 146,175 180,173 213,170 247,169 280,167 314,167 347,167 381,167 414,167 448,167 481,167 515,169 548,169 582,169 615,169 649,169 682,169 716,167 749,167 783,165"/>
+                <TextEquiv>
+                    <Unicode>schoben und vorbehalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schoben und vorbehalten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

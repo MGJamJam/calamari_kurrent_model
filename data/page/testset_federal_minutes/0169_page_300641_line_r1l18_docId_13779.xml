@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:44.143+02:00</Created>
+        <LastChange>2020-08-21T22:06:42.537+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744567" pageNr="107" tsid="37655786" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YOFHOPZHIUIRRVZVRFFKUMZT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHTOKPHSGKNKDFUGWBIHJYHU" imageId="14359958"/>
+    </Metadata>
+    <Page imageFilename="0169_page_300641_line_r1l18_docId_13779.jpg" imageWidth="2128" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426423139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2128,0 2128,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 469,183 543,244 675,188 770,249 841,195 1113,244 1446,197 1587,246 2028,199 2028,130 1756,111 100,125"/>
+                <Baseline points="113,179 208,179 303,177 398,177 493,177 588,177 683,177 778,177 873,177 968,177 1064,177 1159,177 1254,177 1349,177 1444,177 1539,177 1634,177 1729,177 1824,177 1919,175 2015,175"/>
+                <TextEquiv>
+                    <Unicode>zur Verlängerung der in Eisenbahnkonzessionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zur Verlängerung der in Eisenbahnkonzessionen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

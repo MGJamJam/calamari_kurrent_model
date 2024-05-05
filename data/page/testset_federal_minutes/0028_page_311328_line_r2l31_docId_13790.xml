@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:55:30.503+02:00</Created>
+        <LastChange>2020-11-16T11:49:50.020+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744677" pageNr="20" tsid="49319032" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ICXVASAAHVQMXYZQXMLIFPBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XUBIENYRIJRNADSQJJZRAHYP" imageId="14360068"/>
+    </Metadata>
+    <Page imageFilename="0028_page_311328_line_r2l31_docId_13790.jpg" imageWidth="2269" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426293687" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2269,0 2269,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 1967,255 2168,219 2169,155 101,115"/>
+                <Baseline points="114,178 216,178 318,176 420,176 522,176 624,178 726,178 828,180 930,182 1032,184 1135,186 1237,188 1339,190 1441,192 1543,194 1645,196 1747,197 1849,198 1951,200 2053,200 2156,200"/>
+                <TextEquiv>
+                    <Unicode>der Alkoholverwaltung dem Finanz- und Zolldepartement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Alkoholverwaltung dem Finanz- und Zolldepartement</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

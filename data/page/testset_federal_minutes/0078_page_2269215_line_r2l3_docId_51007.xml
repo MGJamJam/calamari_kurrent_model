@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:56.320+02:00</Created>
+        <LastChange>2020-11-15T17:46:22.222+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745951" pageNr="51" tsid="49318545" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ELBLCIIDJPWBKNZTHZWPKVWQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGZEJQXBZVMEPGBFIYASNJBZ" imageId="14361131"/>
+    </Metadata>
+    <Page imageFilename="0078_page_2269215_line_r2l3_docId_51007.jpg" imageWidth="2178" imageHeight="304">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426062292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2178,0 2178,304 0,304"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2035,186 2078,126 100,129"/>
+                <Baseline points="114,178 211,176 309,176 406,174 504,174 601,172 699,172 796,171 894,170 991,170 1089,170 1186,170 1284,170 1381,170 1479,170 1576,170 1674,170 1771,170 1869,170 1966,172 2064,172 2111,172"/>
+                <TextEquiv>
+                    <Unicode>Mit Note (ohne Datum gibt der englische Geschäfts¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Note (ohne Datum gibt der englische Geschäfts¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

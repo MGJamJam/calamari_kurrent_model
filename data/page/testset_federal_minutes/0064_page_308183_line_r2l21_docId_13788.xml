@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:35.437+02:00</Created>
+        <LastChange>2020-08-21T22:13:29.619+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744537" pageNr="35" tsid="37656942" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HPAHWJUXWTMQCDWCKBNBIBBR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXFWPYBMSKZHEGSCFZWOTNRC" imageId="14359928"/>
+    </Metadata>
+    <Page imageFilename="0064_page_308183_line_r2l21_docId_13788.jpg" imageWidth="2243" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426353191" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2243,0 2243,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 787,254 1865,193 1995,251 2143,204 2143,120 100,129"/>
+                <Baseline points="114,193 214,195 315,195 416,195 517,195 618,195 718,195 819,193 920,191 1021,191 1122,189 1222,188 1323,187 1424,185 1525,185 1626,185 1726,185 1827,185 1928,185 2029,185 2130,187"/>
+                <TextEquiv>
+                    <Unicode>zuständigen preußischen Ministerien davon überzeugt haben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zuständigen preußischen Ministerien davon überzeugt haben,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

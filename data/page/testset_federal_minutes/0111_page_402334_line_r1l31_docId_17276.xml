@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:59:15.982+02:00</Created>
+        <LastChange>2020-08-22T11:18:48.986+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747676" pageNr="44" tsid="37760591" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VOWYMMZECFZTSDWLNZCNVQTT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YYFFCYBHPPBOLSPIEZXBFTND" imageId="14362856"/>
+    </Metadata>
+    <Page imageFilename="0111_page_402334_line_r1l31_docId_17276.jpg" imageWidth="2066" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425804849" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2066,0 2066,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,245 1966,213 1886,129 101,121"/>
+                <Baseline points="113,182 205,186 297,188 389,190 481,192 573,194 665,194 757,196 849,196 941,196 1033,196 1125,196 1217,198 1309,198 1401,198 1493,198 1585,198 1677,198 1769,200 1861,200 1953,202"/>
+                <TextEquiv>
+                    <Unicode>Schließlich wünscht der Staatsrat noch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schließlich wünscht der Staatsrat noch die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

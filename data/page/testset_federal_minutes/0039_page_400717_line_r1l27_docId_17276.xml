@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:54:35.391+02:00</Created>
+        <LastChange>2020-08-22T11:16:39.983+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747468" pageNr="13" tsid="37759620" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OEADYXBRDQCVLNTUFIRHOSSB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRIHNURAQBQSMEJONNSDEVXG" imageId="14362648"/>
+    </Metadata>
+    <Page imageFilename="0039_page_400717_line_r1l27_docId_17276.jpg" imageWidth="2331" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425800415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2331,0 2331,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2231,199 2230,121 1466,102 100,158"/>
+                <Baseline points="114,197 219,195 324,195 429,193 534,191 640,191 745,191 850,189 955,189 1060,189 1166,189 1271,189 1376,189 1481,189 1586,189 1692,187 1797,187 1902,187 2007,187 2112,187 2218,185"/>
+                <TextEquiv>
+                    <Unicode>migung des vorgelegten Schreibensentwurfs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>migung des vorgelegten Schreibensentwurfs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

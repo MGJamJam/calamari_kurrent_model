@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:48.056+02:00</Created>
+        <LastChange>2020-10-11T21:30:41.260+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749649" pageNr="105" tsid="49313709" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UZHJVFRHHVWHAEZUJBONPDYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ANZYMVTFMTHCWVDWENZWGBHK" imageId="14364825"/>
+    </Metadata>
+    <Page imageFilename="0139_page_2365991_line_r1l28_docId_51494.jpg" imageWidth="2347" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425552082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2347,0 2347,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 2247,194 1934,109 100,146"/>
+                <Baseline points="113,173 219,173 325,175 431,175 537,175 643,177 749,177 855,177 961,179 1067,179 1173,179 1279,181 1385,181 1491,181 1597,181 1703,182 1809,183 1915,183 2021,183 2127,185 2233,185"/>
+                <TextEquiv>
+                    <Unicode>dernissen noch nicht genügt ist, auf jeden Fall aber auf Grund einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dernissen noch nicht genügt ist, auf jeden Fall aber auf Grund einer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:44.433+02:00</Created>
+        <LastChange>2020-08-22T11:30:27.484+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750521" pageNr="47" tsid="49309329" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UDRAQHVOTZABYDHAUIVAMKYY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZPQBCOPPCWEUISEIOLROAQO" imageId="14365679"/>
+    </Metadata>
+    <Page imageFilename="0061_page_2442837_line_r2l16_docId_51512.jpg" imageWidth="2359" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425310466" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2359,0 2359,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 2259,195 2171,122 100,136"/>
+                <Baseline points="114,175 220,175 327,175 433,173 540,173 647,173 753,173 860,175 966,175 1073,175 1180,176 1286,177 1393,178 1499,179 1606,181 1713,181 1819,183 1926,185 2032,187 2139,189 2246,191"/>
+                <TextEquiv>
+                    <Unicode>sich verständigt, so daß die vom Friedensrichter von Genf durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sich verständigt, so daß die vom Friedensrichter von Genf durch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

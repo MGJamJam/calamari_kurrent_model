@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:46.677+02:00</Created>
+        <LastChange>2020-08-22T07:37:55.800+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746007" pageNr="105" tsid="37715659" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FEDUMKKWHQHYBHBQGWGNMUEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHIFFKAUGXECAFIZADQWZRFL" imageId="14361187"/>
+    </Metadata>
+    <Page imageFilename="0152_page_313931_line_r2l7_docId_13796.jpg" imageWidth="2029" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426129865" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2029,0 2029,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1929,195 1928,127 1459,100 100,137"/>
+                <Baseline points="112,190 202,189 292,188 382,186 472,186 563,184 653,184 743,182 833,182 923,182 1014,180 1104,180 1194,178 1284,178 1374,177 1465,176 1555,174 1645,174 1735,172 1825,170 1916,168"/>
+                <TextEquiv>
+                    <Unicode>Ansuchen der Ehegatten eine Vorschiebung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ansuchen der Ehegatten eine Vorschiebung der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:02.983+02:00</Created>
+        <LastChange>2020-11-16T16:16:50.130+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745260" pageNr="113" tsid="49319131" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KLDQKGHREVSJDYCQMCTPQUCJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DBYCFSORHLSTATXWNGLTENKQ" imageId="14360444"/>
+    </Metadata>
+    <Page imageFilename="0172_page_312595_line_r1l6_docId_13794.jpg" imageWidth="2013" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426306461" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2013,0 2013,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,235 1913,197 1912,144 1729,108 1482,164 1272,100 1022,158 100,133"/>
+                <Baseline points="112,186 201,188 290,188 380,188 469,188 559,188 648,188 737,188 827,188 916,188 1006,188 1095,186 1184,186 1274,186 1363,186 1453,186 1542,185 1631,185 1721,185 1810,185 1900,185"/>
+                <TextEquiv>
+                    <Unicode>stallung einer Röhrenleitung und Viehtränke auf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stallung einer Röhrenleitung und Viehtränke auf der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

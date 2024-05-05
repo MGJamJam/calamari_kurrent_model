@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:15.030+02:00</Created>
+        <LastChange>2020-10-13T21:52:08.647+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749036" pageNr="57" tsid="49315368" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UMFFBIZPUHAZUZCFBMNWGVEU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXFZMLJTGKXRWXYECDIBMSNV" imageId="14364212"/>
+    </Metadata>
+    <Page imageFilename="0124_page_401544_line_r2l5_docId_17276.jpg" imageWidth="2409" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425633080" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2409,0 2409,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,218 724,275 847,209 2309,233 2309,146 1113,101 992,162 838,102 457,166 199,103 100,163"/>
+                <Baseline points="113,200 222,198 331,196 440,196 549,194 658,194 767,194 876,194 985,194 1094,194 1204,194 1313,194 1422,194 1531,194 1640,194 1749,194 1858,194 1967,194 2076,192 2185,192 2295,192"/>
+                <TextEquiv>
+                    <Unicode>der hiesigen Hochschule, über die internationalen Unionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der hiesigen Hochschule, über die internationalen Unionen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

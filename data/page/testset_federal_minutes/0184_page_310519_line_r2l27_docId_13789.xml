@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:43.782+02:00</Created>
+        <LastChange>2020-11-17T08:09:25.903+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744789" pageNr="115" tsid="49319288" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HODWDMWMHPJJMBYXITJVNJLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EEXCCWQUPPCSOHXQZNRQOBRU" imageId="14360180"/>
+    </Metadata>
+    <Page imageFilename="0184_page_310519_line_r2l27_docId_13789.jpg" imageWidth="1870" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426364166" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1870,0 1870,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 349,251 562,213 649,265 1020,215 1731,246 1770,137 1467,174 1147,114 1058,167 947,113 504,167 100,107"/>
+                <Baseline points="112,193 194,195 276,196 358,197 441,197 523,199 605,199 688,199 770,201 852,201 935,201 1017,201 1099,201 1181,201 1264,201 1346,201 1428,201 1511,201 1593,201 1675,201 1758,201 1778,200"/>
+                <TextEquiv>
+                    <Unicode>Der rußischen Gesantschaft werden die mit Note</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der rußischen Gesantschaft werden die mit Note</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

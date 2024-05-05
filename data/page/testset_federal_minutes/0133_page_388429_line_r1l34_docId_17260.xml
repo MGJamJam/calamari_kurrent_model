@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:57:47.127+02:00</Created>
+        <LastChange>2020-08-22T11:18:41.265+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747612" pageNr="62" tsid="37760541" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HNWSLLJELCLUECDMRMZYHYLF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGBDELQZCCOWBIEDQYHZCMZS" imageId="14362792"/>
+    </Metadata>
+    <Page imageFilename="0133_page_388429_line_r1l34_docId_17260.jpg" imageWidth="338" imageHeight="298">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425852605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 338,0 338,298 0,298"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 126,188 134,196 142,191 148,198 158,192 174,197 190,186 199,196 209,188 236,195 238,100 212,105 208,101 172,120 142,116 101,130"/>
+                <Baseline points="108,173 138,176 168,177 198,176 228,177"/>
+                <TextEquiv>
+                    <Unicode>id.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>id.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

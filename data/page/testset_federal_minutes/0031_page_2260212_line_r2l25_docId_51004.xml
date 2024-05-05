@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:38.018+02:00</Created>
+        <LastChange>2020-11-16T07:24:02.764+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745393" pageNr="26" tsid="49318768" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OWUFBYDMTQWXCCDBVIDHLPFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZGRDCWSTKNMRCKNGZEOTJJB" imageId="14360577"/>
+    </Metadata>
+    <Page imageFilename="0031_page_2260212_line_r2l25_docId_51004.jpg" imageWidth="2289" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426186523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2289,0 2289,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1881,257 2188,212 2189,162 1147,167 1064,100 727,169 100,134"/>
+                <Baseline points="113,187 216,189 319,189 422,191 525,192 628,193 731,195 834,195 937,197 1040,197 1144,199 1247,199 1350,201 1453,201 1556,203 1659,203 1762,203 1865,203 1968,203 2071,203 2175,203 2209,204"/>
+                <TextEquiv>
+                    <Unicode>und des Divisionsarztes Dr. Bremer, welche auf Versezung des Mar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und des Divisionsarztes Dr. Bremer, welche auf Versezung des Mar¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

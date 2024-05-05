@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:36.450+02:00</Created>
+        <LastChange>2020-08-21T22:07:15.961+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744590" pageNr="118" tsid="37655871" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JPXYLESGLZHSZZZJGZBNIDTN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEFEAZGGQPLROXQMHWTLLMGN" imageId="14359981"/>
+    </Metadata>
+    <Page imageFilename="0185_page_305402_line_r1l40_docId_13782.jpg" imageWidth="1974" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426424695" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1974,0 1974,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 1874,229 1873,132 1653,102 1224,161 1038,100 477,169 345,110 100,137"/>
+                <Baseline points="117,207 204,205 291,203 378,201 465,201 552,201 639,199 726,199 813,199 900,197 987,197 1074,197 1161,197 1248,197 1335,195 1422,195 1509,195 1596,195 1683,195 1770,193 1857,193"/>
+                <TextEquiv>
+                    <Unicode>An Petenten: der Bundesrat könne sich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Petenten: der Bundesrat könne sich mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

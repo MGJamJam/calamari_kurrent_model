@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:21.070+02:00</Created>
+        <LastChange>2020-08-22T11:09:56.425+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746109" pageNr="103" tsid="37756997" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FNUWZSLQDACUSODECMPJGNJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZMWYIRLBAJBBNOLPMSQZUFP" imageId="14361289"/>
+    </Metadata>
+    <Page imageFilename="0149_page_2289324_line_r1l14_docId_51010.jpg" imageWidth="2338" imageHeight="310">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426069410" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2338,0 2338,310 0,310"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 2108,207 2238,137 101,119"/>
+                <Baseline points="113,159 218,161 324,161 429,163 535,165 640,166 746,167 851,169 957,170 1062,171 1168,173 1273,173 1379,175 1484,175 1590,175 1695,177 1801,177 1906,177 2012,179 2117,179 2223,179"/>
+                <TextEquiv>
+                    <Unicode>von wissenschaftlichen Werken französischer gelehrten Gesellschaften in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von wissenschaftlichen Werken französischer gelehrten Gesellschaften in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

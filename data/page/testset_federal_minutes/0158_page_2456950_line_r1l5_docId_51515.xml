@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:48.991+02:00</Created>
+        <LastChange>2020-09-28T10:43:17.659+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519123" pageNr="118" tsid="49307680" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BAOSNFTVDEYCYWHIWWRCZBPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FRLNBDESDIKHCSERHMPSLNWY" imageId="15086056"/>
+    </Metadata>
+    <Page imageFilename="0158_page_2456950_line_r1l5_docId_51515.jpg" imageWidth="768" imageHeight="315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425253151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 768,0 768,315 0,315"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 149,179 234,174 269,195 384,171 438,201 479,176 580,174 619,193 668,171 668,122 621,133 602,114 520,108 493,124 449,108 427,130 346,116 244,135 217,108 187,127 141,100 100,119 100,215"/>
+                <Baseline points="113,162 140,164 167,164 194,164 221,164 248,164 275,164 302,164 329,164 356,164 383,164 410,164 437,164 464,164 491,164 518,164 545,164 572,164 599,164 626,164 653,162 710,163"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="120,124 120,184 278,184 278,124"/>
+                    <TextEquiv>
+                        <Unicode>Dockau</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="340,124 340,184 442,184 442,124"/>
+                    <TextEquiv>
+                        <Unicode>betr.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="458,124 458,184 661,184 661,124"/>
+                    <TextEquiv>
+                        <Unicode>Zurücknahe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Docteau, betr. Zurücknahe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Docteau, betr. Zurücknahe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

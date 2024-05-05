@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:05.793+02:00</Created>
+        <LastChange>2020-11-15T17:37:19.739+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745897" pageNr="35" tsid="49318532" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YEHDTMCQQNVWRONDHREASDQK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YJYZWQZMMXXBLJVDSUZCCUBM" imageId="14361077"/>
+    </Metadata>
+    <Page imageFilename="0053_page_2291561_line_r2l16_docId_51010.jpg" imageWidth="2353" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426059982" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2353,0 2353,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 1892,248 2253,162 101,116"/>
+                <Baseline points="114,184 220,184 326,184 432,184 538,184 645,184 751,186 857,186 963,186 1069,188 1176,188 1282,190 1388,192 1494,192 1600,194 1707,196 1813,196 1919,198 2025,200 2131,200 2238,202"/>
+                <TextEquiv>
+                    <Unicode>Briefes des Präfekten de la Nièvre, der obige Weigerung enthält, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Briefes des Präfekten de la Nièvre, der obige Weigerung enthält, um</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

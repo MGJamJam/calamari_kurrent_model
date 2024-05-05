@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:15.788+02:00</Created>
+        <LastChange>2020-08-21T22:12:34.331+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744443" pageNr="22" tsid="37656801" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RPRBCKKQLSBRCLEKTVMFSBFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RNFYCFVWUCXFDQYWQMBBSDBW" imageId="14359834"/>
+    </Metadata>
+    <Page imageFilename="0035_page_310227_line_r1l28_docId_13789.jpg" imageWidth="2127" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426351390" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2127,0 2127,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 1380,206 1501,257 2027,188 2027,128 1772,110 100,115"/>
+                <Baseline points="112,175 207,179 302,181 397,181 492,183 587,183 682,183 777,185 872,183 967,183 1063,183 1158,183 1253,183 1348,181 1443,181 1538,181 1633,181 1728,181 1823,181 1918,181 2014,181"/>
+                <TextEquiv>
+                    <Unicode>die Tatsache gegründet worden, daß die Gesellschaft pro 1885</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Tatsache gegründet worden, daß die Gesellschaft pro 1885</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

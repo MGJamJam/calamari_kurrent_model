@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:07.473+02:00</Created>
+        <LastChange>2020-08-22T11:16:14.033+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18747991" pageNr="6" tsid="37759404" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TWXDHRRSEPUGOUZWZUPDGCBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AEDQVUBWYWHCZZBYPNSBFONE" imageId="14363171"/>
+    </Metadata>
+    <Page imageFilename="0007_page_390883_line_r1l21_docId_17265.jpg" imageWidth="2194" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425761902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2194,0 2194,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,231 1933,224 2094,208 2094,119 100,142"/>
+                <Baseline points="114,177 212,175 310,175 408,175 507,173 605,173 703,173 802,173 900,173 998,175 1097,175 1195,175 1293,175 1391,175 1490,175 1588,175 1686,175 1785,175 1883,175 1981,174 2080,173"/>
+                <TextEquiv>
+                    <Unicode>genügenden Anhaltspunkte vorliegen, die eine strafrechtliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>genügenden Anhaltspunkte vorliegen, die eine strafrechtliche</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

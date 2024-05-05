@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:58.985+02:00</Created>
+        <LastChange>2020-11-17T07:16:47.900+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744547" pageNr="36" tsid="49319202" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VFMALLNIOVIYLCFQJNADQYIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCZQZKNLAIHOAZDJPJEHTVMU" imageId="14359938"/>
+    </Metadata>
+    <Page imageFilename="0067_page_308947_line_r2l13_docId_13786.jpg" imageWidth="1474" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426353330" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1474,0 1474,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 320,259 933,211 1230,254 1374,207 1320,155 935,141 871,100 709,168 451,130 273,180 100,131"/>
+                <Baseline points="113,202 175,202 237,202 300,202 362,202 425,202 487,202 549,202 612,202 674,202 737,200 799,200 861,200 924,200 986,200 1049,200 1111,199 1173,198 1236,198 1298,198 1361,200"/>
+                <TextEquiv>
+                    <Unicode>Plan zu skizzieren und auszuführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Plan zu skizzieren und auszuführen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

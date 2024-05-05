@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:16.617+02:00</Created>
+        <LastChange>2020-08-22T11:22:08.088+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748041" pageNr="25" tsid="37761692" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BJTUZYDMJJHVXVJZWGBHWNDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUJGUFMAVLNWQDYDYVMXDIAV" imageId="14363221"/>
+    </Metadata>
+    <Page imageFilename="0027_page_378490_line_r1l20_docId_17274.jpg" imageWidth="1390" imageHeight="290">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425708603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1390,0 1390,290 0,290"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,171 1290,174 1289,111 1143,102 100,135"/>
+                <Baseline points="107,164 165,163 224,161 283,159 342,157 400,156 459,155 518,154 577,152 635,152 694,151 753,151 812,149 870,149 929,148 988,146 1047,146 1105,145 1164,143 1223,142 1282,142"/>
+                <TextEquiv>
+                    <Unicode>sondern in vielen Fällen auch ökonomischer, ja direkt pekuniärer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sondern in vielen Fällen auch ökonomischer, ja direkt pekuniärer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

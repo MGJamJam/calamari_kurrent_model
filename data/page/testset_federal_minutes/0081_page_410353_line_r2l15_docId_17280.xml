@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:30:59.418+02:00</Created>
+        <LastChange>2020-08-22T11:24:12.102+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748904" pageNr="36" tsid="37762372" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KYZXKLMZCZGODXBOXSHUUCNY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DASGFZGYWZYVHPWGXTRZAZIF" imageId="14364080"/>
+    </Metadata>
+    <Page imageFilename="0081_page_410353_line_r2l15_docId_17280.jpg" imageWidth="2312" imageHeight="384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425630051" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2312,0 2312,384 0,384"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,274 2212,220 2212,156 1847,100 1745,154 100,149"/>
+                <Baseline points="115,205 219,205 323,205 427,205 531,205 636,203 740,203 844,201 948,199 1052,199 1157,197 1261,197 1365,195 1469,195 1573,195 1678,195 1782,195 1886,195 1990,196 2094,197 2199,199"/>
+                <TextEquiv>
+                    <Unicode>nahme, an letzteres mit den Beilagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nahme, an letzteres mit den Beilagen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

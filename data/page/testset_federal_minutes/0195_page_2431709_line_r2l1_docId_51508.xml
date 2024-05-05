@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:01.230+02:00</Created>
+        <LastChange>2020-10-06T08:37:38.269+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750856" pageNr="136" tsid="49310881" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PGZCOOFVERCFZKDFYRATEIMM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QGZDZNCUWQTLCMTVWFAMNZKY" imageId="14366014"/>
+    </Metadata>
+    <Page imageFilename="0195_page_2431709_line_r2l1_docId_51508.jpg" imageWidth="813" imageHeight="423">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425386536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 813,0 813,423 0,423"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,252 157,251 216,283 302,252 408,263 439,296 498,259 582,261 649,323 709,286 713,131 649,100 579,166 414,211 333,195 281,211 228,157 181,156 101,198"/>
+                <Baseline points="115,243 144,243 173,244 202,245 231,245 260,245 289,245 318,247 347,247 376,247 406,248 435,249 464,249 493,250 522,251 551,252 580,253 609,253 638,255 667,257 697,259"/>
+                <TextEquiv>
+                    <Unicode>Beschwerde Gravelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beschwerde Gravelle</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

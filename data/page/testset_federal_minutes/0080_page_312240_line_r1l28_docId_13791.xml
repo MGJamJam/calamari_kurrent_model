@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:39.576+02:00</Created>
+        <LastChange>2020-11-16T14:28:20.517+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744788" pageNr="53" tsid="49319064" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GEQOQZEASUXJZIWIPITUWKDC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDTTYVYKQFEMWXNMHVZALIQY" imageId="14360179"/>
+    </Metadata>
+    <Page imageFilename="0080_page_312240_line_r1l28_docId_13791.jpg" imageWidth="1559" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426298025" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1559,0 1559,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 863,219 986,263 1181,193 1408,229 1458,203 1459,126 1193,162 954,113 221,144 100,108"/>
+                <Baseline points="112,184 178,185 245,188 312,190 379,191 445,192 512,193 579,193 646,194 712,194 779,194 846,193 913,193 979,193 1046,191 1113,191 1180,190 1246,190 1313,190 1380,188 1447,188"/>
+                <TextEquiv>
+                    <Unicode>Aversalentschädigung von Fr. 500 bewilligt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aversalentschädigung von Fr. 500 bewilligt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

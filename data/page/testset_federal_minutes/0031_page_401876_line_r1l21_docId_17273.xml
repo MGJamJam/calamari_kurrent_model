@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:34.677+02:00</Created>
+        <LastChange>2020-08-22T11:22:15.862+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748052" pageNr="29" tsid="37761725" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FZVXELQJOOHYXCVCQMOVKVQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHOGLMDJADKDZDXJSPPKHRQM" imageId="14363232"/>
+    </Metadata>
+    <Page imageFilename="0031_page_401876_line_r1l21_docId_17273.jpg" imageWidth="1218" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425709130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1218,0 1218,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 265,195 506,260 647,201 747,248 851,216 993,237 1118,207 1118,108 841,133 696,102 615,139 500,100 100,151"/>
+                <Baseline points="113,198 162,196 212,196 261,195 311,195 361,195 410,193 460,193 510,193 559,192 609,192 659,192 708,192 758,192 808,192 857,192 907,192 957,193 1006,193 1056,193 1106,193"/>
+                <TextEquiv>
+                    <Unicode>An die Franz. Botschaft z. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Franz. Botschaft z. K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:22.602+02:00</Created>
+        <LastChange>2020-08-22T11:06:56.584+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745915" pageNr="41" tsid="37755910" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DLQSHFGCQGSFAOZNJCQDTCFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NTHVGSOBQXEKLUMYNTSEGRHB" imageId="14361095"/>
+    </Metadata>
+    <Page imageFilename="0061_page_2301429_line_r3l3_docId_51010.jpg" imageWidth="1635" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426060781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1635,0 1635,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 1535,220 1535,133 100,103"/>
+                <Baseline points="113,189 183,189 253,191 324,191 394,191 465,191 535,191 605,191 676,191 746,191 817,191 887,191 957,191 1028,191 1098,191 1169,191 1239,191 1309,193 1380,193 1450,195 1521,195"/>
+                <TextEquiv>
+                    <Unicode>2.) Der Gesandtschaft hievon Kenntniß zu geben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.) Der Gesandtschaft hievon Kenntniß zu geben,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

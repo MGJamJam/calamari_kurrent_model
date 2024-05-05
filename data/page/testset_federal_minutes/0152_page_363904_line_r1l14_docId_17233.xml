@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:15.024+02:00</Created>
+        <LastChange>2020-08-22T11:18:31.898+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746732" pageNr="91" tsid="37760469" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EUULVHZFYFTAQMFJTRBBYVSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUUPXRKALBAVQGPNDUXLOOIF" imageId="14361912"/>
+    </Metadata>
+    <Page imageFilename="0152_page_363904_line_r1l14_docId_17233.jpg" imageWidth="1031" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426010744" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1031,0 1031,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,242 215,211 565,252 594,224 645,251 929,216 931,119 905,115 682,161 609,119 519,145 349,115 280,142 104,106"/>
+                <Baseline points="117,182 156,184 196,186 236,189 276,191 316,194 356,196 396,198 436,200 476,202 516,203 555,204 595,205 635,206 675,206 715,206 755,206 795,204 835,203 875,201 915,198"/>
+                <TextEquiv>
+                    <Unicode>An Genf z. Bericht:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Genf z. Bericht:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:54.888+02:00</Created>
+        <LastChange>2020-10-27T08:46:38.403+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748284" pageNr="34" tsid="49304081" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RODQTSXFBNTMSALQJYXNDADJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIPHOARTQEKUBRZATGNCLEKQ" imageId="14363464"/>
+    </Metadata>
+    <Page imageFilename="0063_page_391329_line_r2l12_docId_17265.jpg" imageWidth="1035" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425765782" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1035,0 1035,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 485,234 773,206 832,236 856,212 934,220 935,164 792,144 722,100 631,143 359,112 101,129"/>
+                <Baseline points="115,180 155,180 195,182 235,182 276,183 316,184 356,184 397,184 437,184 477,184 518,184 558,184 598,184 638,184 679,184 719,184 759,185 800,186 840,186 880,186 921,188 971,189"/>
+                <TextEquiv>
+                    <Unicode>An Basel per Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Basel per Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

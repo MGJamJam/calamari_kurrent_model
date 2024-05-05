@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:04:11.379+02:00</Created>
+        <LastChange>2020-11-16T09:42:28.854+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744840" pageNr="7" tsid="49318870" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OSQQHMZRSDUEYUWQWCGGEFHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSFBBITYZZPSDZPFXZTMBZQO" imageId="14360231"/>
+    </Metadata>
+    <Page imageFilename="0007_page_375737_line_r1l23_docId_17239.jpg" imageWidth="1950" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426239193" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1950,0 1950,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 1850,205 1785,112 100,136"/>
+                <Baseline points="111,174 197,175 283,177 370,178 456,180 542,181 629,181 715,183 801,183 888,184 974,184 1060,184 1147,184 1233,184 1319,183 1406,183 1492,181 1578,181 1665,180 1751,178 1838,178"/>
+                <TextEquiv>
+                    <Unicode>Nichtbeachtung der Vorschriften dieses Gesetzes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nichtbeachtung der Vorschriften dieses Gesetzes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

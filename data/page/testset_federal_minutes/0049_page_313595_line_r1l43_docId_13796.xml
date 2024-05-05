@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:16.366+02:00</Created>
+        <LastChange>2020-08-22T07:34:44.093+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745555" pageNr="36" tsid="37715064" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TRMBYCKGLQICSOEXTZJHIMPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUWUKJSVBXMUSYDFBDUEEZAR" imageId="14360735"/>
+    </Metadata>
+    <Page imageFilename="0049_page_313595_line_r1l43_docId_13796.jpg" imageWidth="2023" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426119902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2023,0 2023,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1923,236 1923,165 1589,128 923,173 770,100 100,157"/>
+                <Baseline points="112,201 206,201 301,201 396,199 490,199 585,199 680,199 774,199 869,199 964,199 1058,199 1153,199 1248,199 1342,199 1437,199 1532,199 1626,199 1721,199 1816,199 1911,199"/>
+                <TextEquiv>
+                    <Unicode>2,785), über die Vorgänge, die die Unterbringung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2,785), über die Vorgänge, die die Unterbringung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

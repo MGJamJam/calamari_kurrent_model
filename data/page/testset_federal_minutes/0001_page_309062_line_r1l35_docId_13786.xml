@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:12.945+02:00</Created>
+        <LastChange>2020-08-25T08:25:33.685+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744330" pageNr="1" tsid="38150182" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UIIOJTPYCZPPXWOVEGITXXFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQAOSPOLGNJBWCYRGKGODBXE" imageId="14359725"/>
+    </Metadata>
+    <Page imageFilename="0001_page_309062_line_r1l35_docId_13786.jpg" imageWidth="2176" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426348481" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2176,0 2176,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 903,266 1219,200 1740,256 1822,204 1931,273 2076,208 1766,119 100,149"/>
+                <Baseline points="44,184 210,183 308,185 405,185 503,187 600,187 698,187 795,189 893,189 990,189 1088,191 1185,191 1283,191 1380,193 1478,193 1575,193 1673,193 1770,195 1868,195 1965,195 2063,197"/>
+                <TextEquiv>
+                    <Unicode>Gerichten auf den Prozeß einlassen wolle. Auf Anregen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gerichten auf den Prozeß einlassen wolle. Auf Anregen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

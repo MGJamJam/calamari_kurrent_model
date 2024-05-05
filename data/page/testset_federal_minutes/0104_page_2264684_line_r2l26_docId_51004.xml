@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:13.418+02:00</Created>
+        <LastChange>2020-11-16T07:55:34.766+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745552" pageNr="91" tsid="49318814" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PPIGPRWLLTOEWYNRNGDXTCTU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJDPQTNQLAVPWJDBJBRPBKRX" imageId="14360732"/>
+    </Metadata>
+    <Page imageFilename="0104_page_2264684_line_r2l26_docId_51004.jpg" imageWidth="1261" imageHeight="314">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426195632" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1261,0 1261,314 0,314"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,174 433,170 514,213 572,176 677,177 714,214 788,174 903,204 1048,176 1103,205 1161,166 1161,124 940,107 746,138 497,100 271,130 153,101 100,129"/>
+                <Baseline points="114,158 165,158 217,158 269,158 320,158 372,160 424,160 475,160 527,160 579,160 631,160 682,162 734,162 786,162 837,162 889,162 941,162 992,162 1044,162 1096,162 1148,160 1193,159"/>
+                <TextEquiv>
+                    <Unicode>ad 2. Mittheilung an Zürich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ad 2. Mittheilung an Zürich.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

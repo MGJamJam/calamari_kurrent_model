@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:10.467+02:00</Created>
+        <LastChange>2020-08-22T11:33:27.281+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750788" pageNr="122" tsid="49309737" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LPNRBMRDRZWQHHPFLERJHDWQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBZRXMHUFRIPPLKRDDFKMUML" imageId="14365946"/>
+    </Metadata>
+    <Page imageFilename="0168_page_2436706_line_r2l7_docId_51511.jpg" imageWidth="2331" imageHeight="401">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425321143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2331,0 2331,401 0,401"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 966,271 1193,218 1302,283 1386,222 2050,292 2123,245 2227,301 2231,131 2138,194 276,163 207,100 101,157"/>
+                <Baseline points="114,189 219,192 324,195 429,197 534,200 639,203 744,205 849,207 954,209 1059,211 1164,213 1269,215 1374,217 1479,219 1584,221 1689,223 1794,225 1899,226 2004,227 2109,229 2214,231"/>
+                <TextEquiv>
+                    <Unicode>bürgerrechts wird gemäß Antrag unter gleichzeitiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bürgerrechts wird gemäß Antrag unter gleichzeitiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

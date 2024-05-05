@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:13:50.141+02:00</Created>
+        <LastChange>2020-11-16T16:24:36.283+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745310" pageNr="125" tsid="49319144" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KDVVOLPKWYAEJASKTHPYJUVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ENAVFKGTKBJEJRYUCHXSFGCF" imageId="14360494"/>
+    </Metadata>
+    <Page imageFilename="0188_page_309614_line_r1l35_docId_13790.jpg" imageWidth="2099" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426308200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2099,0 2099,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 1999,233 1999,141 1808,109 1676,164 1295,100 992,155 100,104"/>
+                <Baseline points="113,183 206,185 300,185 393,185 487,186 581,187 674,187 768,185 861,185 955,185 1049,185 1142,185 1236,185 1329,185 1423,183 1517,183 1610,183 1704,183 1797,183 1891,185 1985,185"/>
+                <TextEquiv>
+                    <Unicode>Gesantschaften oder Konsulate, wo solche bestehen), nach Ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gesantschaften oder Konsulate, wo solche bestehen), nach Ent-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

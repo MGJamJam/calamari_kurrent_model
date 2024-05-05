@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:06:21.143+02:00</Created>
+        <LastChange>2020-11-16T10:01:23.083+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744898" pageNr="26" tsid="49318897" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CCMUESSJIEATHKBUNMTLUWLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKOZMXTTNCWGYBEJMARTIVRV" imageId="14360289"/>
+    </Metadata>
+    <Page imageFilename="0044_page_374250_line_r2l18_docId_17243.jpg" imageWidth="2136" imageHeight="312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426241816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2136,0 2136,312 0,312"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 2036,175 1896,105 100,126"/>
+                <Baseline points="111,170 206,170 302,170 397,170 493,170 589,168 684,168 780,166 875,166 971,164 1067,162 1162,162 1258,160 1353,160 1449,158 1545,158 1640,158 1736,156 1831,156 1927,158 2023,158"/>
+                <TextEquiv>
+                    <Unicode>in Olten widerfahrener Beschimpfung und Mißhandlung durch den dortigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Olten widerfahrener Beschimpfung und Mißhandlung durch den dortigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

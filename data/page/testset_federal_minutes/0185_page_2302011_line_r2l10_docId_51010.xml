@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:36.110+02:00</Created>
+        <LastChange>2020-11-15T18:23:28.375+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746191" pageNr="129" tsid="49318601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BAUAHIMWKOVBELCFNPNSKNGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RPFSLBSNUGYXPTIDEQJUKRKF" imageId="14361371"/>
+    </Metadata>
+    <Page imageFilename="0185_page_2302011_line_r2l10_docId_51010.jpg" imageWidth="2358" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426073326" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2358,0 2358,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 1361,182 1543,238 2258,132 100,143"/>
+                <Baseline points="113,182 219,184 326,184 432,184 539,182 646,182 752,182 859,180 965,180 1072,178 1179,178 1285,176 1392,176 1498,174 1605,174 1712,172 1818,172 1925,172 2031,170 2138,170 2245,170 2279,172"/>
+                <TextEquiv>
+                    <Unicode>malitäten durch eine unlängst erlassene Verfügung aufgehoben worden. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>malitäten durch eine unlängst erlassene Verfügung aufgehoben worden. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

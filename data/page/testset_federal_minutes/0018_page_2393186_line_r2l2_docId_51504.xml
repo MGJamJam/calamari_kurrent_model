@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:04.386+02:00</Created>
+        <LastChange>2020-10-06T09:00:53.304+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749867" pageNr="8" tsid="49311519" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MPVMEIQGYTHYPWSKIRNRBEQX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OZJPHSUFKMIJPVRKFXKZHKIM" imageId="14365039"/>
+    </Metadata>
+    <Page imageFilename="0018_page_2393186_line_r2l2_docId_51504.jpg" imageWidth="762" imageHeight="315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425425615" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 762,0 762,315 0,315"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,210 390,180 447,186 478,215 585,178 630,199 662,184 659,100 564,106 540,131 487,103 450,132 406,114 323,134 284,113 249,137 143,121 100,145"/>
+                <Baseline points="115,186 141,186 168,184 194,184 221,183 248,182 274,182 301,180 327,180 354,178 381,178 407,178 434,176 460,176 487,174 514,173 540,171 567,170 593,169 620,167 647,166"/>
+                <TextEquiv>
+                    <Unicode>Württemb. Konsulat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Württemb. Konsulat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

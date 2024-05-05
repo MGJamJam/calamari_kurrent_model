@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:13:55.265+02:00</Created>
+        <LastChange>2020-08-22T11:23:50.100+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748245" pageNr="80" tsid="37762244" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XNOZKKQBRNFWRMDUSVDWVEBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PXTYCZQOAWEWRJONRALNZYMC" imageId="14363425"/>
+    </Metadata>
+    <Page imageFilename="0084_page_397370_line_r2l6_docId_17270.jpg" imageWidth="1531" imageHeight="384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1531,0 1531,384 0,384"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 353,227 499,273 574,225 872,222 965,274 1144,240 1257,284 1351,217 1431,235 1430,163 1366,122 1280,152 1208,100 1072,172 942,121 606,174 500,118 168,126 100,174"/>
+                <Baseline points="114,222 179,222 244,222 309,222 374,222 440,222 505,222 570,220 635,220 700,218 766,218 831,216 896,216 961,214 1026,214 1092,212 1157,212 1222,212 1287,212 1352,213 1418,214"/>
+                <TextEquiv>
+                    <Unicode>An die Bahndirektion per Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Bahndirektion per Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

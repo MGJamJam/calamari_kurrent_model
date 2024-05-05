@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:06.094+02:00</Created>
+        <LastChange>2020-08-22T11:33:23.852+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750783" pageNr="120" tsid="49309726" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PROTCUCSJLOOBGEPXQKHMIAY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CCCIMEVERGOGUIXIZMIZBUVM" imageId="14365941"/>
+    </Metadata>
+    <Page imageFilename="0166_page_2445252_line_r1l36_docId_51511.jpg" imageWidth="2281" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425320893" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2281,0 2281,381 0,381"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 345,266 974,215 1038,267 1274,211 1373,281 1480,209 2181,202 2180,100 1999,165 100,172"/>
+                <Baseline points="114,202 216,204 319,206 421,206 524,208 627,208 729,208 832,206 934,206 1037,204 1140,204 1242,202 1345,200 1447,200 1550,198 1653,197 1755,196 1858,196 1960,196 2063,196 2166,196"/>
+                <TextEquiv>
+                    <Unicode>der leztern gleichen Tages vorgenommen hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der leztern gleichen Tages vorgenommen hat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

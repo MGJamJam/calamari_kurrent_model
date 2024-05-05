@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:16.323+02:00</Created>
+        <LastChange>2020-11-17T07:08:10.109+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744470" pageNr="26" tsid="49319191" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ALYKGRKSYMRTGZMGXKDMJRBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCTVHVFDFYYTTOPOMKTHCTYN" imageId="14359861"/>
+    </Metadata>
+    <Page imageFilename="0043_page_307995_line_r2l18_docId_13787.jpg" imageWidth="1099" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426351921" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1099,0 1099,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 185,180 267,218 337,175 403,216 461,189 514,226 597,175 716,230 866,179 948,196 999,167 999,107 883,143 788,109 551,133 415,104 342,134 221,100 100,143"/>
+                <Baseline points="112,170 155,168 199,168 243,166 286,166 330,166 374,166 417,166 461,166 505,166 549,166 592,166 636,166 680,166 723,166 767,168 811,168 854,168 898,167 942,166 986,166"/>
+                <TextEquiv>
+                    <Unicode>irachtkorps zu organisiren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>irachtkorps zu organisiren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

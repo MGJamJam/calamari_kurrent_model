@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:42.518+02:00</Created>
+        <LastChange>2020-09-21T09:24:00.101+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750518" pageNr="46" tsid="49309324" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IEWMUQPGONAQWSDVHRQLNDIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFWWBFDSEVXVKQKDWOBFYACP" imageId="14365676"/>
+    </Metadata>
+    <Page imageFilename="0060_page_2442314_line_r2l30_docId_51512.jpg" imageWidth="1953" imageHeight="393">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425310339" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1953,0 1953,393 0,393"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 304,271 525,220 623,293 735,220 1139,223 1201,270 1294,226 1346,278 1853,235 1853,156 1090,174 1024,128 659,184 490,100 351,176 100,170"/>
+                <Baseline points="114,209 200,211 286,213 372,213 459,215 545,215 631,215 718,215 804,215 890,215 977,213 1063,213 1149,213 1235,213 1322,213 1408,213 1494,213 1581,215 1667,215 1753,217 1864,221"/>
+                <TextEquiv>
+                    <Unicode>Am Ertheilung der Bewilligung zur Auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am Ertheilung der Bewilligung zur Auf¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

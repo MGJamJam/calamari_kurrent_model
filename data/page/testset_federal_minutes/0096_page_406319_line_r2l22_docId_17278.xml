@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:07.858+02:00</Created>
+        <LastChange>2020-08-22T11:18:20.434+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747626" pageNr="36" tsid="37760366" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JBQSTDNXIVQASQOFUROIXCZE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNHNJCWCFLWOSRFFZIEMSWSL" imageId="14362806"/>
+    </Metadata>
+    <Page imageFilename="0096_page_406319_line_r2l22_docId_17278.jpg" imageWidth="443" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 443,0 443,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,238 132,239 140,230 174,237 203,213 251,236 295,222 307,230 343,225 336,103 312,116 289,100 214,160 183,148 100,157"/>
+                <Baseline points="116,204 142,201 168,198 194,198 221,196 247,196 273,195 299,193 326,190"/>
+                <TextEquiv>
+                    <Unicode>z. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>z. R.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

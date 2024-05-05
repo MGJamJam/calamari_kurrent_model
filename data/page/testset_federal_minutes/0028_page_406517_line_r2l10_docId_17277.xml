@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:53:54.742+02:00</Created>
+        <LastChange>2020-08-22T11:16:19.532+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747406" pageNr="11" tsid="37759457" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FIXHSSJGHTEROHACKADMOOIO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVTLKZYOBVTHLYFASFGWTEJV" imageId="14362586"/>
+    </Metadata>
+    <Page imageFilename="0028_page_406517_line_r2l10_docId_17277.jpg" imageWidth="2234" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425800142" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2234,0 2234,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,217 1418,265 1586,191 2134,205 2134,149 100,117"/>
+                <Baseline points="115,200 215,200 315,198 415,198 516,198 616,198 716,198 817,198 917,198 1017,198 1118,198 1218,198 1318,198 1418,198 1519,196 1619,196 1719,196 1820,194 1920,192 2020,192 2121,190"/>
+                <TextEquiv>
+                    <Unicode>diese in kürzester Zeit ermächtigen, von den im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>diese in kürzester Zeit ermächtigen, von den im</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

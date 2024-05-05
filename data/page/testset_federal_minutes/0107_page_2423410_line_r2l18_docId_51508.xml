@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:46.032+02:00</Created>
+        <LastChange>2020-08-22T11:31:45.782+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750602" pageNr="75" tsid="37765143" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LUMRIPTTWIFWVHAWZOLVYBMM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSAWANUCSDPHLVRYKUJQMQHP" imageId="14365760"/>
+    </Metadata>
+    <Page imageFilename="0107_page_2423410_line_r2l18_docId_51508.jpg" imageWidth="2300" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425378064" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2300,0 2300,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 2200,186 2148,100 100,140"/>
+                <Baseline points="114,177 217,175 321,175 424,173 528,173 632,171 735,171 839,171 942,169 1046,169 1150,169 1253,167 1357,167 1460,167 1564,167 1668,165 1771,165 1875,165 1978,163 2082,163 2186,163"/>
+                <TextEquiv>
+                    <Unicode>chen Ordnung aufmerksam machen, wenn die An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>chen Ordnung aufmerksam machen, wenn die An-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

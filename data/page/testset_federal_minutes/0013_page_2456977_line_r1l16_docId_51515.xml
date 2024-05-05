@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:10.371+02:00</Created>
+        <LastChange>2020-09-28T08:14:42.917+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518978" pageNr="11" tsid="49307161" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QMBSLFLWUUNVXKZBJQALMCJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRMVVRRPREQKQFFYXLRDIGKJ" imageId="15085911"/>
+    </Metadata>
+    <Page imageFilename="0013_page_2456977_line_r1l16_docId_51515.jpg" imageWidth="2393" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425237002" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2393,0 2393,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,184 2293,213 2248,115 100,132 100,184"/>
+                <Baseline points="115,171 223,173 331,173 439,175 547,175 655,175 763,175 871,177 979,177 1087,177 1196,177 1304,177 1412,179 1520,179 1628,179 1736,181 1844,181 1952,183 2060,183 2168,185 2303,187"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="138,131 138,191 186,191 186,131"/>
+                    <TextEquiv>
+                        <Unicode>am</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="258,133 258,193 291,193 291,133"/>
+                    <TextEquiv>
+                        <Unicode>1.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="315,135 315,195 589,195 589,135"/>
+                    <TextEquiv>
+                        <Unicode>September</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="647,135 647,195 759,195 759,135"/>
+                    <TextEquiv>
+                        <Unicode>1859</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="808,137 808,197 1034,197 1034,137"/>
+                    <TextEquiv>
+                        <Unicode>entlassen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1082,137 1082,197 1098,197 1098,137"/>
+                    <TextEquiv>
+                        <Unicode>u</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1147,137 1147,197 1268,197 1268,137"/>
+                    <TextEquiv>
+                        <Unicode>keine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1317,138 1317,198 1429,198 1429,138"/>
+                    <TextEquiv>
+                        <Unicode>Nur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1470,139 1470,199 1802,199 1802,139"/>
+                    <TextEquiv>
+                        <Unicode>aufgefunden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1842,142 1842,202 2028,202 2028,142"/>
+                    <TextEquiv>
+                        <Unicode>worden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2076,144 2076,204 2189,204 2189,144"/>
+                    <TextEquiv>
+                        <Unicode>sei,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2205,146 2205,206 2245,206 2245,146"/>
+                    <TextEquiv>
+                        <Unicode>da</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>am 1. September 1859 entlassen u keine Schur aufgefunden worden sei, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>am 1. September 1859 entlassen u keine Schur aufgefunden worden sei, daß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

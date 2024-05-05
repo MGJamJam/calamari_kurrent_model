@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:01.319+02:00</Created>
+        <LastChange>2020-10-06T10:06:24.355+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750020" pageNr="46" tsid="49311628" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TXDMXERTRARLFWZBRQJAPVON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BPNSSROZDLUGLQQTDOQFSBNX" imageId="14365192"/>
+    </Metadata>
+    <Page imageFilename="0075_page_2396419_line_r1l12_docId_51505.jpg" imageWidth="2310" imageHeight="384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425430869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2310,0 2310,384 0,384"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,243 1993,258 2210,227 2209,100 2092,171 1441,123 885,189 802,127 100,189"/>
+                <Baseline points="115,230 219,228 323,226 427,224 531,222 635,220 739,220 843,218 947,218 1051,216 1155,216 1259,214 1363,214 1467,212 1571,212 1675,210 1779,210 1883,208 1987,208 2091,208 2195,206"/>
+                <TextEquiv>
+                    <Unicode>Belegen zum Bezuge der dem Vögtling vermöge Te¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Belegen zum Bezuge der dem Vögtling vermöge Te¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

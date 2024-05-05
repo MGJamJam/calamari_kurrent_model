@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:40.559+02:00</Created>
+        <LastChange>2020-08-22T11:23:40.727+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749164" pageNr="28" tsid="37762174" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FNHKCFUOUXLKXWLXNCBGZANJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMJDNTTSRQIYCMZHMBYZDDAS" imageId="14364340"/>
+    </Metadata>
+    <Page imageFilename="0052_page_410104_line_r1l31_docId_17282.jpg" imageWidth="1788" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589206" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1788,0 1788,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,250 407,217 478,276 615,220 786,264 946,210 1028,272 1238,198 1688,234 1687,120 100,156"/>
+                <Baseline points="115,209 192,207 270,205 348,205 426,203 504,203 582,203 660,201 738,201 816,199 894,199 971,199 1049,197 1127,197 1205,195 1283,195 1361,193 1439,191 1517,190 1595,189 1673,187"/>
+                <TextEquiv>
+                    <Unicode>seiner Jahresbesoldung von Fr. 1050</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>seiner Jahresbesoldung von Fr. 1050</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

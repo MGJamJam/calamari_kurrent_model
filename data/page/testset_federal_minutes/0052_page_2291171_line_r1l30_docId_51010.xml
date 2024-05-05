@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:03.392+02:00</Created>
+        <LastChange>2020-08-22T11:06:38.778+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745896" pageNr="34" tsid="37755839" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=APMAVKQQGIXFEYTDTWYYAUJF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILEPAFBMJCAXIUZYEPPUAIDY" imageId="14361076"/>
+    </Metadata>
+    <Page imageFilename="0052_page_2291171_line_r1l30_docId_51010.jpg" imageWidth="935" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426059827" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 935,0 935,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,182 308,181 360,215 462,193 491,223 618,185 768,220 834,192 835,113 750,112 724,138 652,107 495,132 348,130 323,103 231,128 205,102 101,100"/>
+                <Baseline points="115,170 150,172 185,172 220,174 255,174 291,174 326,176 361,176 396,176 431,177 467,178 502,178 537,178 572,178 607,178 643,180 678,180 713,180 748,180 783,180 819,180"/>
+                <TextEquiv>
+                    <Unicode>An Aargau zum Bericht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Aargau zum Bericht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

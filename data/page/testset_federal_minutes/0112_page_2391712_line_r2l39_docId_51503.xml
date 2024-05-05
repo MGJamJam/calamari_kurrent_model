@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:14.740+02:00</Created>
+        <LastChange>2020-10-06T10:27:03.441+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750115" pageNr="66" tsid="49311706" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZGGASDPNQIVFKLEGQNGULVXL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ASXQYJGHKYLEWXQTCLSFEBQK" imageId="14365287"/>
+    </Metadata>
+    <Page imageFilename="0112_page_2391712_line_r2l39_docId_51503.jpg" imageWidth="2231" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425433770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2231,0 2231,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 2131,189 2130,119 1425,169 1310,100 908,172 100,164"/>
+                <Baseline points="114,202 214,202 314,200 414,200 514,198 615,198 715,198 815,196 915,196 1015,194 1116,194 1216,194 1316,192 1416,192 1516,190 1617,188 1717,188 1817,186 1917,184 2017,182 2118,178"/>
+                <TextEquiv>
+                    <Unicode>6., Nöthigenfalls wird das Büreau und die politische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6., Nöthigenfalls wird das Büreau und die politische</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:23.249+02:00</Created>
+        <LastChange>2020-08-21T22:05:54.842+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744530" pageNr="91" tsid="37655661" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NFBPJWTSRWEESCWXTFFCDONK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQAPDWJHQNLLFKHVXICGIVSD" imageId="14359921"/>
+    </Metadata>
+    <Page imageFilename="0145_page_305802_line_r2l20_docId_13781.jpg" imageWidth="2177" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426420832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2177,0 2177,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 2076,266 2077,164 1897,140 101,131"/>
+                <Baseline points="113,178 210,178 308,178 405,180 503,180 600,180 698,182 795,182 893,184 990,184 1088,186 1185,186 1283,188 1380,188 1478,190 1575,190 1673,192 1770,194 1868,194 1965,196 2063,198"/>
+                <TextEquiv>
+                    <Unicode>Ausschreibung im allgemeinen schweizerischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausschreibung im allgemeinen schweizerischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

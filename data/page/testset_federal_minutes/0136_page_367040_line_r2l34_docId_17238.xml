@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:38:21.200+02:00</Created>
+        <LastChange>2020-11-12T07:40:36.587+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746680" pageNr="79" tsid="49318470" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DGGDBKKMFGVPFMBJWQIVDVGP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPQJXTCLSUDNUOYDEYWVXQYF" imageId="14361860"/>
+    </Metadata>
+    <Page imageFilename="0136_page_367040_line_r2l34_docId_17238.jpg" imageWidth="1725" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426009052" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1725,0 1725,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,246 561,208 992,275 1289,206 1407,249 1625,224 1625,113 100,133"/>
+                <Baseline points="113,196 188,196 263,194 338,194 413,194 488,194 563,194 638,196 713,196 788,196 863,198 938,198 1013,198 1088,198 1163,198 1238,198 1313,198 1388,196 1463,195 1538,193 1613,190"/>
+                <TextEquiv>
+                    <Unicode>Projekt Chitello (Tabelle Bericht und Plan.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Projekt Chitello (Tabelle Bericht und Plan.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

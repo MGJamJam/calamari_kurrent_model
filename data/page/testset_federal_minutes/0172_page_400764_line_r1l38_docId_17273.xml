@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:21:59.645+02:00</Created>
+        <LastChange>2020-08-22T11:26:20.084+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748549" pageNr="167" tsid="37763168" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JRBNSELBURPAPVEPKZCDVJRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBNQPVOOMRDRBBYXCMOYJGKM" imageId="14363729"/>
+    </Metadata>
+    <Page imageFilename="0172_page_400764_line_r1l38_docId_17273.jpg" imageWidth="2190" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425727862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2190,0 2190,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,214 555,271 627,206 2090,191 2089,116 1898,102 100,139"/>
+                <Baseline points="114,192 212,194 310,196 408,196 506,196 605,194 703,194 801,192 899,192 997,190 1096,188 1194,186 1292,184 1390,182 1488,182 1587,180 1685,180 1783,178 1881,180 1979,180 2078,182"/>
+                <TextEquiv>
+                    <Unicode>sämtliche Offiziere der Stäbe und Trainabteilungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sämtliche Offiziere der Stäbe und Trainabteilungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

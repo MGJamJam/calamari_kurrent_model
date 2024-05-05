@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:16.908+02:00</Created>
+        <LastChange>2020-10-12T21:21:37.142+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749484" pageNr="70" tsid="49314565" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QHHLMFXSMZRRXPFRDYFCIWCK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQJMLDERRGHLDLCAPRSYAZRL" imageId="14364660"/>
+    </Metadata>
+    <Page imageFilename="0152_page_410445_line_r1l35_docId_17281.jpg" imageWidth="2251" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425595061" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2251,0 2251,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,216 459,270 856,208 922,270 1038,187 1569,259 2121,208 2151,119 1747,165 1305,104 1225,164 850,105 769,168 311,104 100,160"/>
+                <Baseline points="113,201 214,200 315,199 416,197 517,197 619,197 720,195 821,195 922,195 1023,195 1125,195 1226,193 1327,193 1428,193 1529,191 1631,191 1732,189 1833,187 1934,185 2035,183 2137,181 2165,183"/>
+                <TextEquiv>
+                    <Unicode>ins Benehmen gesetzt. Derselbe hat ihm unterm 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ins Benehmen gesetzt. Derselbe hat ihm unterm 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

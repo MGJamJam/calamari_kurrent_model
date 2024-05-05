@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:41.953+02:00</Created>
+        <LastChange>2020-08-22T11:25:15.923+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749995" pageNr="38" tsid="37762763" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FRVDIGDKSTILKEMKDTZGWABX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYBFTHGWIELOIDCCSNLVOLWH" imageId="14365167"/>
+    </Metadata>
+    <Page imageFilename="0066_page_2401098_line_r1l38_docId_51505.jpg" imageWidth="2412" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425429790" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2412,0 2412,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 1251,246 1517,186 1731,255 2288,192 2311,100 100,162"/>
+                <Baseline points="119,204 227,202 336,200 445,198 554,198 663,196 771,194 880,194 989,192 1098,190 1207,190 1315,188 1424,188 1533,187 1642,186 1751,186 1859,184 1968,184 2077,184 2186,184 2295,182"/>
+                <TextEquiv>
+                    <Unicode>Konzessionsbestimmungen demselben entsprochen hat, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Konzessionsbestimmungen demselben entsprochen hat, das</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

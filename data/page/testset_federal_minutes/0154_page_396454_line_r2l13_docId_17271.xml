@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:20:23.128+02:00</Created>
+        <LastChange>2020-10-27T08:13:04.779+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748488" pageNr="149" tsid="49315929" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WWUUOZYEPLLVMGHHIURQIZAN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ARYRKCHSUNBPUOLSXMUVPSCR" imageId="14363668"/>
+    </Metadata>
+    <Page imageFilename="0154_page_396454_line_r2l13_docId_17271.jpg" imageWidth="2445" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425725426" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2445,0 2445,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2077,205 2236,271 2345,241 2345,101 1762,169 1478,105 100,128"/>
+                <Baseline points="115,193 225,193 336,195 447,195 558,195 669,195 779,195 890,195 1001,195 1112,195 1223,195 1333,195 1444,195 1555,195 1666,193 1777,193 1887,193 1998,193 2109,193 2220,193 2331,193"/>
+                <TextEquiv>
+                    <Unicode>leute Karl Gottlieb und Anna Knecht, beide in Schaff¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>leute Karl Gottlieb und Anna Knecht, beide in Schaff¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

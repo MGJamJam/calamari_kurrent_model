@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:10:25.946+02:00</Created>
+        <LastChange>2020-08-22T11:17:04.532+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748121" pageNr="18" tsid="37759797" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QYSVXZELPHWWJGKLUYVWQQTZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLQWFAHHQHIXLFCLKTYFTHLV" imageId="14363301"/>
+    </Metadata>
+    <Page imageFilename="0031_page_389132_line_r2l22_docId_17263.jpg" imageWidth="1330" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425763566" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1330,0 1330,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 436,210 543,256 671,200 744,246 840,200 1080,244 1143,195 1230,207 1230,130 1141,100 977,151 619,120 551,156 464,117 262,144 185,108 101,143"/>
+                <Baseline points="113,186 168,186 223,186 278,186 333,186 389,186 444,186 499,186 554,186 609,186 665,186 720,188 775,188 830,188 885,188 941,188 996,188 1051,188 1106,188 1161,188 1217,188"/>
+                <TextEquiv>
+                    <Unicode>stanz ins Einvernehmen setzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stanz ins Einvernehmen setzen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

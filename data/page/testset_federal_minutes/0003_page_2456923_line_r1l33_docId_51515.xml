@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:27:48.824+02:00</Created>
+        <LastChange>2020-09-22T15:26:40.368+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518954" pageNr="3" tsid="49307125" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DTCKRXJVYWWBFNXXVDMGALPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMKJXKRDQNIENEGFQWSJXWWV" imageId="15085887"/>
+    </Metadata>
+    <Page imageFilename="0003_page_2456923_line_r1l33_docId_51515.jpg" imageWidth="2268" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425235766" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2268,0 2268,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,207 1891,223 2168,193 2168,100 100,135 101,207"/>
+                <Baseline points="115,190 216,190 318,190 420,190 522,190 624,190 726,188 828,188 930,186 1032,186 1134,184 1235,184 1337,182 1439,182 1541,180 1643,180 1745,180 1847,180 1949,180 2051,180 2153,180"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="132,150 132,210 261,210 261,150"/>
+                    <TextEquiv>
+                        <Unicode>Mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="305,150 305,210 563,210 563,150"/>
+                    <TextEquiv>
+                        <Unicode>Schreiben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="616,149 616,209 712,209 712,149"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="767,148 767,208 799,208 799,148"/>
+                    <TextEquiv>
+                        <Unicode>3</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="842,146 842,206 940,206 940,146"/>
+                    <TextEquiv>
+                        <Unicode>dieß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="993,144 993,204 1251,204 1251,144"/>
+                    <TextEquiv>
+                        <Unicode>übermacht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1294,142 1294,202 1381,202 1381,142"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1413,140 1413,200 1822,200 1822,140"/>
+                    <TextEquiv>
+                        <Unicode>niederländische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1865,140 1865,200 2144,200 2144,140"/>
+                    <TextEquiv>
+                        <Unicode>General¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mit Schreiben vom 3 dieß übermacht das niederländische General¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

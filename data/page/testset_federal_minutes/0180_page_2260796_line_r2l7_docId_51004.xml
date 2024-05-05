@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:49.181+02:00</Created>
+        <LastChange>2020-08-22T07:38:06.827+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745715" pageNr="150" tsid="37715698" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FVERRKRKURYQKJSCLZXFOJMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IGODEYAUIRNBRBERAADXAKKR" imageId="14360895"/>
+    </Metadata>
+    <Page imageFilename="0180_page_2260796_line_r2l7_docId_51004.jpg" imageWidth="2333" imageHeight="396">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426203799" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2333,0 2333,396 0,396"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,296 359,238 682,291 2086,251 2233,234 2233,180 311,198 100,100"/>
+                <Baseline points="115,231 220,231 325,229 430,229 536,229 641,229 746,227 852,227 957,227 1062,225 1168,225 1273,225 1378,223 1483,223 1589,223 1694,223 1799,221 1905,221 2010,221 2115,221 2221,223"/>
+                <TextEquiv>
+                    <Unicode>zählung, einer Berechnung der eidg. Volkszählungskosten u. eines Musters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zählung, einer Berechnung der eidg. Volkszählungskosten u. eines Musters</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:41:36.811+02:00</Created>
+        <LastChange>2020-08-21T22:02:17.061+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744367" pageNr="23" tsid="37655113" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WPFKGYFBOTIGJEJUWETNUIYT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGKOAYRWXIGFXMRBOGQSPYEN" imageId="14359762"/>
+    </Metadata>
+    <Page imageFilename="0038_page_305285_line_r2l3_docId_13781.jpg" imageWidth="2226" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426411346" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2226,0 2226,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2014,252 2126,213 2126,131 100,173"/>
+                <Baseline points="112,209 212,207 312,205 412,205 512,203 612,203 712,203 812,203 912,203 1012,203 1112,203 1212,203 1312,203 1412,203 1512,203 1612,203 1712,203 1812,201 1912,201 2012,199 2112,199"/>
+                <TextEquiv>
+                    <Unicode>teilt in seiner Zuschrift vom 5. ds. Mts. mit, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>teilt in seiner Zuschrift vom 5. ds. Mts. mit, daß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

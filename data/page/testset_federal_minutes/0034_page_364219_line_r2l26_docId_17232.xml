@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:16.283+02:00</Created>
+        <LastChange>2020-11-15T19:32:08.989+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745485" pageNr="25" tsid="49318629" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YBOGUPEQOKUJZCXAQAMCCWON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPJYHSZWTCTERJWSIGNRQDZE" imageId="14360669"/>
+    </Metadata>
+    <Page imageFilename="0034_page_364219_line_r2l26_docId_17232.jpg" imageWidth="1956" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426118348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1956,0 1956,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1856,221 1798,144 1190,100 1064,153 101,139"/>
+                <Baseline points="111,188 197,188 284,188 371,188 457,188 544,190 631,190 717,191 804,191 891,193 978,193 1064,194 1151,196 1238,196 1324,196 1411,197 1498,197 1584,197 1671,197 1758,197 1845,196"/>
+                <TextEquiv>
+                    <Unicode>das der Wechselfälschung und das betrügeri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das der Wechselfälschung und das betrügeri-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:15.834+02:00</Created>
+        <LastChange>2020-10-27T07:42:09.394+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748078" pageNr="37" tsid="49315801" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZTNUTOGIJABMTSFQKCMZQBTE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKGYNMLHFUQMDGIUUXWSNJVH" imageId="14363258"/>
+    </Metadata>
+    <Page imageFilename="0039_page_396918_line_r1l16_docId_17272.jpg" imageWidth="1552" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425710394" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1552,0 1552,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 1452,239 1451,141 1298,156 1214,106 859,161 784,109 516,160 211,100 100,146"/>
+                <Baseline points="115,197 181,195 247,193 313,193 379,191 445,189 511,189 577,187 643,187 709,187 776,187 842,187 908,187 974,187 1040,187 1106,187 1172,187 1238,187 1304,187 1370,187 1437,189 1455,192"/>
+                <TextEquiv>
+                    <Unicode>Interesse nachweisen können;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Interesse nachweisen können;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

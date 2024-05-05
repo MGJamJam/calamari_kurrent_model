@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:30.692+02:00</Created>
+        <LastChange>2020-09-28T09:53:04.384+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519083" pageNr="87" tsid="49307569" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KZIHFEKDPJMFQZXJRJHDJCME&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SASHKNVEMMNUHYOJUIDNVIMY" imageId="15086016"/>
+    </Metadata>
+    <Page imageFilename="0118_page_2457180_line_r1l7_docId_51515.jpg" imageWidth="2336" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425248716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2336,0 2336,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 2236,189 2025,100 100,115 100,187"/>
+                <Baseline points="113,172 218,172 323,172 429,174 534,174 640,174 745,174 850,174 956,174 1061,174 1167,174 1272,174 1377,174 1483,174 1588,174 1694,174 1799,174 1904,174 2010,176 2115,176 2221,176"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="107,132 107,192 161,192 161,132"/>
+                    <TextEquiv>
+                        <Unicode>21</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="197,132 197,192 458,192 458,132"/>
+                    <TextEquiv>
+                        <Unicode>Dezember</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="493,134 493,194 601,194 601,134"/>
+                    <TextEquiv>
+                        <Unicode>as.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="629,134 629,194 745,194 745,134"/>
+                    <TextEquiv>
+                        <Unicode>über</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="780,134 780,194 853,194 853,134"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="906,134 906,194 1607,194 1607,134"/>
+                    <TextEquiv>
+                        <Unicode>Trennungsangelegenheit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1643,134 1643,194 1724,194 1724,134"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1760,134 1760,194 1922,194 1922,134"/>
+                    <TextEquiv>
+                        <Unicode>Union</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1975,136 1975,196 2218,196 2218,136"/>
+                    <TextEquiv>
+                        <Unicode>Vorme-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>21 Dezember a. p. über die Trennungsangelegenheit der Union Vormer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>21 Dezember a. p. über die Trennungsangelegenheit der Union Vormer-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

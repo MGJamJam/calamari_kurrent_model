@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:38.610+02:00</Created>
+        <LastChange>2020-08-22T11:32:27.394+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750671" pageNr="92" tsid="37765334" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PPWNNUOLGXBKGMWWFPFEADFF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBQDLLEURZTJYSDASODQJCKH" imageId="14365829"/>
+    </Metadata>
+    <Page imageFilename="0130_page_2411870_line_r2l20_docId_51506.jpg" imageWidth="828" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425380403" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 828,0 828,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,230 224,177 492,195 632,175 669,194 728,171 727,137 587,145 555,120 513,138 325,138 285,100 215,132 100,145"/>
+                <Baseline points="115,179 144,177 174,176 204,175 234,174 264,173 294,171 324,171 354,171 384,169 414,169 443,169 473,169 503,167 533,167 563,167 593,167 623,167 653,167 683,168 713,169"/>
+                <TextEquiv>
+                    <Unicode>zu vereinbaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu vereinbaren.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

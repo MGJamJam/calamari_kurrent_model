@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:54:10.789+02:00</Created>
+        <LastChange>2020-11-16T11:46:15.179+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744661" pageNr="13" tsid="49319027" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HKSDBRGITGLEUZTSWZIWXBSN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NLKYYPGUUTPOFZMFEGVRXDKS" imageId="14360052"/>
+    </Metadata>
+    <Page imageFilename="0020_page_310226_line_r2l18_docId_13790.jpg" imageWidth="2158" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426292682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2158,0 2158,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 2058,230 2003,121 1517,162 757,107 661,167 100,109"/>
+                <Baseline points="112,184 208,186 305,188 402,188 498,190 595,190 692,190 788,190 885,190 982,190 1079,190 1175,190 1272,190 1369,190 1465,190 1562,190 1659,192 1755,192 1852,194 1949,196 2046,198"/>
+                <TextEquiv>
+                    <Unicode>ber (S. No. 6565), betreffend die Nachlaβangelegenheit der un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ber (S. No. 6565), betreffend die Nachlaβangelegenheit der un¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

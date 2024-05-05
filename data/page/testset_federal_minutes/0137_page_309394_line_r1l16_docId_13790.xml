@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:08:06.536+02:00</Created>
+        <LastChange>2020-08-22T07:36:27.414+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744950" pageNr="89" tsid="37715384" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PFVDZUNOUGMQEACQXEEJZJVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TRLXCPESKZSTTGDXRLRIPRDQ" imageId="14360341"/>
+    </Metadata>
+    <Page imageFilename="0137_page_309394_line_r1l16_docId_13790.jpg" imageWidth="2158" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426303140" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2158,0 2158,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2058,212 2058,139 1960,110 790,166 571,112 211,161 101,100"/>
+                <Baseline points="114,179 210,181 307,181 403,182 500,183 597,185 693,185 790,187 886,189 983,189 1080,191 1176,191 1273,191 1369,191 1466,191 1563,191 1659,191 1756,189 1852,188 1949,185 2046,183"/>
+                <TextEquiv>
+                    <Unicode>die nötigen Ergänzungen zur Bedingung für die zweite Na-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die nötigen Ergänzungen zur Bedingung für die zweite Na-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

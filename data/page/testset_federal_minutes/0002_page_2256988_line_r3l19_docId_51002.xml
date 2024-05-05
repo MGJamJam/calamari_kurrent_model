@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:34.037+02:00</Created>
+        <LastChange>2020-11-16T07:11:49.210+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745352" pageNr="2" tsid="49318757" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HJVKBJNDAVGJMIUTCIOLKVAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWBJVALQBPAAMYRWNBOFRXOT" imageId="14360536"/>
+    </Metadata>
+    <Page imageFilename="0002_page_2256988_line_r3l19_docId_51002.jpg" imageWidth="2318" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426183246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2318,0 2318,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 2090,231 2218,156 1865,108 1792,166 286,153 222,100 100,157"/>
+                <Baseline points="114,198 218,194 323,192 427,190 532,190 636,190 741,190 845,190 950,190 1054,192 1159,192 1263,194 1368,196 1472,196 1577,198 1681,198 1786,200 1890,200 1995,200 2099,198 2204,198"/>
+                <TextEquiv>
+                    <Unicode>Der Bundesrath habe nicht wohl weiter gehen können und dürfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Bundesrath habe nicht wohl weiter gehen können und dürfen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

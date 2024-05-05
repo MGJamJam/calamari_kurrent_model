@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:46:16.333+02:00</Created>
+        <LastChange>2020-11-18T17:35:23.656+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744499" pageNr="83" tsid="49319357" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YXINHYPLMAAPXXGMFFEUIIVN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTYSZOQRJJFLWHVVRRQYQKOH" imageId="14359890"/>
+    </Metadata>
+    <Page imageFilename="0124_page_303446_line_r1l29_docId_13781.jpg" imageWidth="2124" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426419708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2124,0 2124,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,171 241,223 2024,223 1985,105 100,106"/>
+                <Baseline points="112,172 207,172 302,172 397,172 492,172 587,172 682,172 777,172 872,174 967,174 1062,174 1157,174 1252,174 1347,174 1442,174 1537,174 1632,174 1727,174 1822,174 1917,174 2012,176"/>
+                <TextEquiv>
+                    <Unicode>demjenigen vom 26. September 1885 (Prot. Nr. 4668)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>demjenigen vom 26. September 1885 (Prot. Nr. 4668)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

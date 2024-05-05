@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:47:31.303+02:00</Created>
+        <LastChange>2020-08-22T11:18:37.499+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747128" pageNr="68" tsid="37760512" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QXQEOSVVKJOPWSOYEPSIHERF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZBASYWWKGDJCKVOLLXMWWTAV" imageId="14362308"/>
+    </Metadata>
+    <Page imageFilename="0124_page_380680_line_r2l4_docId_17251.jpg" imageWidth="1557" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425898505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1557,0 1557,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 468,252 731,200 915,267 1093,213 1168,251 1261,197 1457,196 1456,108 1379,151 1097,153 1039,111 841,152 775,100 625,156 100,137"/>
+                <Baseline points="112,193 178,193 245,191 311,191 378,191 445,191 511,191 578,191 644,191 711,191 778,191 844,191 911,191 977,191 1044,189 1110,189 1177,188 1244,187 1310,185 1377,182 1444,181"/>
+                <TextEquiv>
+                    <Unicode>Untersuchungsakten gehen zurück.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Untersuchungsakten gehen zurück.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

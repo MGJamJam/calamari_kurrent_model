@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:27.525+02:00</Created>
+        <LastChange>2020-08-22T11:22:32.706+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748084" pageNr="39" tsid="37761806" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OMHVGWOCLOHMVMSGIZKNMNWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMXSBFRYHOFPDJFJQUVQJPIZ" imageId="14363264"/>
+    </Metadata>
+    <Page imageFilename="0041_page_378448_line_r2l38_docId_17274.jpg" imageWidth="1400" imageHeight="270">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425710688" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1400,0 1400,270 0,270"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,153 1300,159 1300,108 1217,100 100,104"/>
+                <Baseline points="107,137 166,140 225,142 284,144 344,146 403,147 462,147 522,147 581,147 640,147 700,147 759,147 818,146 877,144 937,144 996,142 1055,141 1115,140 1174,138 1233,137 1293,135"/>
+                <TextEquiv>
+                    <Unicode>so daß kein Bedürfnis mehr besteht, fremde Ärzte zuzulassen, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>so daß kein Bedürfnis mehr besteht, fremde Ärzte zuzulassen, so</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:30:35.283+02:00</Created>
+        <LastChange>2020-08-22T11:24:00.783+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748887" pageNr="33" tsid="37762297" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KXHJZNYKLFAVVIPTQOYXRVPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KERKYRIWLQJEGBTJNUTGTYRE" imageId="14364063"/>
+    </Metadata>
+    <Page imageFilename="0075_page_401960_line_r1l43_docId_17276.jpg" imageWidth="2408" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425629636" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2408,0 2408,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,237 2192,240 2308,223 2308,153 1501,100 1299,168 817,106 100,164"/>
+                <Baseline points="113,198 222,200 331,198 440,198 549,198 658,198 767,198 876,197 985,196 1094,196 1204,196 1313,194 1422,194 1531,194 1640,194 1749,192 1858,192 1967,192 2076,192 2185,192 2295,194"/>
+                <TextEquiv>
+                    <Unicode>siert sind, wird auf Grund und unter den Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>siert sind, wird auf Grund und unter den Be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

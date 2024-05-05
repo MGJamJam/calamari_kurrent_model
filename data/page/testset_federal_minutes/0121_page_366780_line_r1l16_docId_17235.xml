@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:29.517+02:00</Created>
+        <LastChange>2020-11-12T07:35:51.920+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746632" pageNr="69" tsid="49318459" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UIAITVZPBDQQBJKPOANMSGJH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIHSEFJKEMROGYVPPTIMCNXG" imageId="14361812"/>
+    </Metadata>
+    <Page imageFilename="0121_page_366780_line_r1l16_docId_17235.jpg" imageWidth="2155" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426007660" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2155,0 2155,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,218 2055,210 1983,100 100,140"/>
+                <Baseline points="112,196 208,193 305,190 401,188 498,186 594,184 691,182 787,182 884,180 980,180 1077,178 1173,178 1270,178 1366,178 1463,178 1559,176 1656,176 1752,176 1849,178 1945,178 2042,178"/>
+                <TextEquiv>
+                    <Unicode>reichen. Im fernern wird der Südostbahngesellschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>reichen. Im fernern wird der Südostbahngesellschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

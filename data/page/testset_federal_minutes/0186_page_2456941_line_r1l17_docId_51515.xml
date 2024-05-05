@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:38.750+02:00</Created>
+        <LastChange>2020-09-22T15:27:51.286+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519151" pageNr="136" tsid="49307761" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EWWJCONRFKXSLRBHJCCEDKFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FZMPALIAIGFLKKAGUMMTRLMV" imageId="15086084"/>
+    </Metadata>
+    <Page imageFilename="0186_page_2456941_line_r1l17_docId_51515.jpg" imageWidth="746" imageHeight="313">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425256050" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 746,0 746,313 0,313"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 138,188 540,193 556,176 646,170 646,127 602,100 553,130 518,106 483,131 415,112 390,134 219,138 173,114 100,115 100,213"/>
+                <Baseline points="113,169 139,169 165,167 191,167 217,167 243,167 269,166 295,165 321,165 347,165 373,165 399,165 425,165 451,165 477,165 503,165 529,165 555,165 581,165 607,163 633,163"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="104,127 104,187 225,187 225,127"/>
+                    <TextEquiv>
+                        <Unicode>bens</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="263,125 263,185 338,185 338,125"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="398,125 398,185 444,185 444,125"/>
+                    <TextEquiv>
+                        <Unicode>2.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="466,125 466,185 557,185 557,125"/>
+                    <TextEquiv>
+                        <Unicode>dieß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bens vom 2. dieß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

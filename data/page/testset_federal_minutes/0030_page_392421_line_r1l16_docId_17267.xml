@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:10:16.963+02:00</Created>
+        <LastChange>2020-08-22T11:17:03.110+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748116" pageNr="17" tsid="37759786" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CYGLWJUZCAHITLNOJUFOIKKH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLUSYGFLKCPYBQFNEBOPYOBW" imageId="14363296"/>
+    </Metadata>
+    <Page imageFilename="0030_page_392421_line_r1l16_docId_17267.jpg" imageWidth="2112" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425763433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2112,0 2112,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,247 245,195 1732,259 2012,214 2012,129 1906,120 102,130"/>
+                <Baseline points="115,188 209,188 303,188 397,188 491,189 586,190 680,190 774,192 868,192 962,194 1057,194 1151,196 1245,196 1339,198 1433,199 1528,200 1622,200 1716,202 1810,202 1904,202 1999,204"/>
+                <TextEquiv>
+                    <Unicode>In Art. 16 ist dem Bundesrat das Recht einzuräu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Art. 16 ist dem Bundesrat das Recht einzuräu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

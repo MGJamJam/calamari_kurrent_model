@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:06.214+02:00</Created>
+        <LastChange>2020-11-12T07:27:38.633+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746553" pageNr="58" tsid="49318441" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SCSSAYPRAJTIGOOAMKUTANKB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EIOCDARFALEVLXKHOCOAYIOE" imageId="14361733"/>
+    </Metadata>
+    <Page imageFilename="0096_page_367304_line_r2l3_docId_17236.jpg" imageWidth="2125" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426006232" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2125,0 2125,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 384,253 482,194 1319,238 1609,192 1771,243 2025,195 2025,116 1815,162 1685,104 1489,156 995,100 100,127"/>
+                <Baseline points="112,195 207,195 302,195 397,195 492,193 587,193 682,193 777,191 872,191 967,191 1062,191 1157,189 1252,189 1347,189 1442,187 1537,187 1632,187 1727,187 1822,187 1917,185 2012,185"/>
+                <TextEquiv>
+                    <Unicode>das Schreiben des Bundesrates vom 15. Dezember</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das Schreiben des Bundesrates vom 15. Dezember</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

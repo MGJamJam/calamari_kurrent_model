@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:01.775+02:00</Created>
+        <LastChange>2020-08-21T22:03:50.370+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744436" pageNr="53" tsid="37655334" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BAALZPLEDKAZJBCEHVRISCCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOIFLZQTBMGLGAWZVJZDEOKK" imageId="14359827"/>
+    </Metadata>
+    <Page imageFilename="0082_page_304042_line_r2l24_docId_13781.jpg" imageWidth="2100" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426415647" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2100,0 2100,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,259 294,208 1860,237 2000,204 2000,141 1579,100 431,168 100,119"/>
+                <Baseline points="114,204 207,203 301,202 395,202 488,202 582,202 676,200 769,200 863,200 957,200 1051,200 1144,200 1238,200 1332,199 1425,198 1519,198 1613,198 1706,197 1800,196 1894,196 1988,194"/>
+                <TextEquiv>
+                    <Unicode>erhalten die Bewilligung zum Erwerb eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erhalten die Bewilligung zum Erwerb eines</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

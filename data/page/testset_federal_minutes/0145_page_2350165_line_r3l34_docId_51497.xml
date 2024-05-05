@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:00.936+02:00</Created>
+        <LastChange>2020-10-08T08:59:04.056+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750097" pageNr="92" tsid="49312462" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CXOJIJLSKZBQASSREAMFIWOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXUGFVWPADQFGDISQPVYPSLY" imageId="14365269"/>
+    </Metadata>
+    <Page imageFilename="0145_page_2350165_line_r3l34_docId_51497.jpg" imageWidth="2425" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425491678" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2425,0 2425,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,238 2235,219 2325,111 100,120"/>
+                <Baseline points="115,192 224,188 334,186 444,184 554,182 664,182 773,180 883,180 993,180 1103,180 1213,180 1322,180 1432,180 1542,180 1652,180 1762,180 1871,180 1981,178 2091,176 2201,174 2311,172"/>
+                <TextEquiv>
+                    <Unicode>se der gegenwärtigen geeigneten Eisenbahnanschlüsse in Luzern, keine Folge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>se der gegenwärtigen geeigneten Eisenbahnanschlüsse in Luzern, keine Folge</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

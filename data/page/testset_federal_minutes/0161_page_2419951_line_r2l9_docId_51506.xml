@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:48.153+02:00</Created>
+        <LastChange>2020-08-22T11:33:22.924+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750759" pageNr="115" tsid="37765609" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FBCEJJEMTVTELQOFNRIGRIEQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IODIOTIMHCCMLTYDSNKIJAAG" imageId="14365917"/>
+    </Metadata>
+    <Page imageFilename="0161_page_2419951_line_r2l9_docId_51506.jpg" imageWidth="2269" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425383567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2269,0 2269,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,247 784,198 929,274 1043,218 1237,266 1337,205 1451,266 2133,211 2169,145 1963,100 1694,161 375,156 258,103 100,156"/>
+                <Baseline points="114,197 216,197 318,197 420,197 522,197 624,197 726,199 828,199 930,199 1032,199 1135,201 1237,201 1339,201 1441,201 1543,201 1645,201 1747,201 1849,201 1951,199 2053,197 2156,195"/>
+                <TextEquiv>
+                    <Unicode>scheins für deßen in Ermattingen gebornes Kind, er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>scheins für deßen in Ermattingen gebornes Kind, er</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

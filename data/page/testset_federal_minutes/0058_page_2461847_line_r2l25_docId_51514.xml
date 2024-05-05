@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:38.078+02:00</Created>
+        <LastChange>2020-08-22T11:30:21.020+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750514" pageNr="44" tsid="49309319" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CZHBYLLIYLLNGIDJQHJDBPYS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMJACVYKMBSLFLQIHEOHJNXU" imageId="14365672"/>
+    </Metadata>
+    <Page imageFilename="0058_page_2461847_line_r2l25_docId_51514.jpg" imageWidth="2363" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425310029" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2363,0 2363,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 2263,190 2213,100 100,168"/>
+                <Baseline points="115,192 221,190 328,188 435,188 541,186 648,186 755,184 861,184 968,182 1075,182 1182,181 1288,180 1395,180 1502,179 1608,178 1715,178 1822,178 1928,178 2035,178 2142,178 2249,178"/>
+                <TextEquiv>
+                    <Unicode>amte seinem Gesuch von 24. März abhin betreffend die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>amte seinem Gesuch von 24. März abhin betreffend die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

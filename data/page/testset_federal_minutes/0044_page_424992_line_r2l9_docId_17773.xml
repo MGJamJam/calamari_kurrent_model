@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:12.932+02:00</Created>
+        <LastChange>2020-10-12T20:45:02.322+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749135" pageNr="23" tsid="49314377" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IVFBGIXYQTLNXHUEGVWPWUBH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXBOSSZWSRVLQQIZQUSGGFUU" imageId="14364311"/>
+    </Metadata>
+    <Page imageFilename="0044_page_424992_line_r2l9_docId_17773.jpg" imageWidth="2557" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425588493" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2557,0 2557,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2018,242 2430,227 2457,139 100,160"/>
+                <Baseline points="115,199 237,197 359,195 482,193 604,193 727,191 849,191 971,191 1094,191 1216,193 1339,193 1461,193 1584,193 1706,193 1828,195 1951,195 2073,195 2196,195 2318,193 2441,193"/>
+                <TextEquiv>
+                    <Unicode>vertrag für das Beamtenwohnhaus auf Bärberg, für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vertrag für das Beamtenwohnhaus auf Bärberg, für die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:12.944+02:00</Created>
+        <LastChange>2020-11-17T07:21:14.952+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744580" pageNr="41" tsid="49319210" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MLWPPEENQFLVEWLWOPYJZPIJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWYWOAXXSYBTPAZJOFVALOXZ" imageId="14359971"/>
+    </Metadata>
+    <Page imageFilename="0078_page_306974_line_r2l24_docId_13785.jpg" imageWidth="2219" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426354010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2219,0 2219,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 1436,247 1702,193 1776,242 1895,192 2014,247 2119,203 2119,128 100,155"/>
+                <Baseline points="113,189 212,189 312,187 412,187 511,187 611,187 711,187 810,187 910,187 1010,187 1110,187 1209,187 1309,187 1409,187 1508,187 1608,187 1708,187 1807,187 1907,187 2007,187 2107,187"/>
+                <TextEquiv>
+                    <Unicode>genötigt sei, sich anderswo niederzulassen. Das poli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>genötigt sei, sich anderswo niederzulassen. Das poli-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

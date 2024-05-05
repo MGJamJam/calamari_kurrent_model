@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:39:07.162+02:00</Created>
+        <LastChange>2020-08-22T11:27:25.357+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749294" pageNr="82" tsid="37763642" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CNGNKPRKMBVOERQLEDDSQJDR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MELRRLOJXZDCPHYSRHFPRPTT" imageId="14364470"/>
+    </Metadata>
+    <Page imageFilename="0195_page_402154_line_r1l5_docId_17275.jpg" imageWidth="2105" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425636878" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2105,0 2105,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 1608,253 2005,175 595,165 237,100 101,151"/>
+                <Baseline points="114,192 207,192 301,194 395,194 489,195 583,196 677,198 771,199 865,200 959,202 1053,204 1146,204 1240,206 1334,207 1428,208 1522,210 1616,210 1710,212 1804,212 1898,212 1992,214"/>
+                <TextEquiv>
+                    <Unicode>über die Mittagszeit fortzusetzen und denselben </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>über die Mittagszeit fortzusetzen und denselben </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

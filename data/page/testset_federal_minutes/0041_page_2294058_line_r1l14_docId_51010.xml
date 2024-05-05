@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:40.700+02:00</Created>
+        <LastChange>2020-08-22T11:06:17.742+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745871" pageNr="26" tsid="37755757" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HYYPUKXRLCVZECSOZTRTVHII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYXURSQUMISNUIKLMWWXHJMZ" imageId="14361051"/>
+    </Metadata>
+    <Page imageFilename="0041_page_2294058_line_r1l14_docId_51010.jpg" imageWidth="2198" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426058495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2198,0 2198,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 1078,255 1294,200 2098,209 2098,125 100,139"/>
+                <Baseline points="114,183 212,185 311,187 409,189 508,189 606,191 705,193 803,193 902,195 1000,197 1099,197 1197,199 1296,199 1394,199 1493,201 1591,201 1690,201 1788,203 1887,203 1985,204 2084,205"/>
+                <TextEquiv>
+                    <Unicode>Das Departement legt, den Entwurf einer dießfälligen Zuschrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Departement legt, den Entwurf einer dießfälligen Zuschrift</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

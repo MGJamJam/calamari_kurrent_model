@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:21.837+02:00</Created>
+        <LastChange>2020-08-22T07:33:22.687+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744872" pageNr="18" tsid="37714815" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BWCVYXGOOWUZIEXAFWJJQICO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJNWAHIALLOVGCGJTQXRRBVK" imageId="14360263"/>
+    </Metadata>
+    <Page imageFilename="0027_page_372511_line_r1l18_docId_17242.jpg" imageWidth="1737" imageHeight="315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426240684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1737,0 1737,315 0,315"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 1637,186 1614,125 100,100"/>
+                <Baseline points="113,166 188,166 264,165 339,165 415,163 491,163 566,163 642,163 717,163 793,163 869,163 944,163 1020,163 1095,163 1171,163 1247,163 1322,165 1398,165 1473,165 1549,165 1625,165"/>
+                <TextEquiv>
+                    <Unicode>Handelsstatistik im I. Quartal 1893 zur Kenntnisnahme vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Handelsstatistik im I. Quartal 1893 zur Kenntnisnahme vor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

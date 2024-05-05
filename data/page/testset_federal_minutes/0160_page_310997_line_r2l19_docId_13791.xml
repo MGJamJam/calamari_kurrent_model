@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:47.325+02:00</Created>
+        <LastChange>2020-11-16T16:12:05.410+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745161" pageNr="105" tsid="49319122" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VIJRYDRHZCPTAWGSGXZENPGN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UGVYFVFIYLAZERVPENXBCTQV" imageId="14360410"/>
+    </Metadata>
+    <Page imageFilename="0160_page_310997_line_r2l19_docId_13791.jpg" imageWidth="2049" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426305298" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2049,0 2049,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 659,188 741,241 964,182 1460,228 1949,174 1525,104 1048,100 891,158 100,108"/>
+                <Baseline points="113,171 204,174 295,176 386,177 477,179 569,179 660,179 751,179 842,179 933,179 1025,177 1116,177 1207,176 1298,176 1389,176 1481,174 1572,174 1663,174 1754,174 1845,176 1937,176"/>
+                <TextEquiv>
+                    <Unicode>dieses Jahres verlangt sei, ein Bundesbeitrag im bisherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dieses Jahres verlangt sei, ein Bundesbeitrag im bisherigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

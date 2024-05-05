@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:34.632+02:00</Created>
+        <LastChange>2020-09-28T09:06:55.401+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519021" pageNr="44" tsid="49307345" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MCEMZQEBUHYOQXLOISIVZAOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWDILBSRGFKVRUTQLWHDCMTO" imageId="15085954"/>
+    </Metadata>
+    <Page imageFilename="0056_page_2457044_line_r1l10_docId_51515.jpg" imageWidth="2323" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425241901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2323,0 2323,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,183 1921,235 2223,192 2223,112 100,136 100,183"/>
+                <Baseline points="113,176 217,176 322,176 427,178 532,178 637,178 741,178 846,178 951,180 1056,180 1161,180 1265,180 1370,180 1475,182 1580,182 1685,182 1789,182 1894,184 1999,184 2104,184 2209,186"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="106,136 106,196 130,196 130,136"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="187,136 187,196 236,196 236,136"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="269,136 269,196 351,196 351,136"/>
+                    <TextEquiv>
+                        <Unicode>sei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="383,137 383,197 465,197 465,137"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="506,138 506,198 579,198 579,138"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="629,138 629,198 760,198 760,138"/>
+                    <TextEquiv>
+                        <Unicode>Hr.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="776,139 776,199 1062,199 1062,139"/>
+                    <TextEquiv>
+                        <Unicode>Ingenieur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1104,140 1104,200 1324,200 1324,140"/>
+                    <TextEquiv>
+                        <Unicode>Poncini</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1365,142 1365,202 1668,202 1668,142"/>
+                    <TextEquiv>
+                        <Unicode>ausgestellte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1708,142 1708,202 1954,202 1954,142"/>
+                    <TextEquiv>
+                        <Unicode>Rechnung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1987,144 1987,204 2101,204 2101,144"/>
+                    <TextEquiv>
+                        <Unicode>über</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2150,145 2150,205 2215,205 2215,145"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1., es sei die von Hrn. Ingenieur Poncini ausgestellte Rechnung über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1., es sei die von Hrn. Ingenieur Poncini ausgestellte Rechnung über die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

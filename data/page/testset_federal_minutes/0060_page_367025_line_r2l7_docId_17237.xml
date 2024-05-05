@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:00.361+02:00</Created>
+        <LastChange>2020-11-12T07:15:52.022+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746433" pageNr="38" tsid="49318417" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TTOTNPYOWQRTKNSMREATKWML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTAUSNBZSZDENTYJUGDEKNYR" imageId="14361613"/>
+    </Metadata>
+    <Page imageFilename="0060_page_367025_line_r2l7_docId_17237.jpg" imageWidth="691" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426003705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 691,0 691,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 296,217 348,238 511,214 548,244 591,239 590,100 100,113"/>
+                <Baseline points="17,199 113,207 138,205 164,204 190,204 216,204 242,202 268,202 293,202 319,202 345,202 371,202 397,202 423,202 448,202 474,202 500,202 526,202 552,202 578,202 632,205"/>
+                <TextEquiv>
+                    <Unicode>(Bauwesen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Bauwesen)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

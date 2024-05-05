@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:52.399+02:00</Created>
+        <LastChange>2020-10-06T10:54:55.162+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750256" pageNr="102" tsid="49311829" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UYDHKHLKUBFGEXUWDZXEYPZF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DFKZRLBNMOLOECJIMTXOOUNF" imageId="14365414"/>
+    </Metadata>
+    <Page imageFilename="0161_page_2397964_line_r2l2_docId_51503.jpg" imageWidth="2309" imageHeight="387">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425438912" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2309,0 2309,387 0,387"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,251 2209,243 2079,147 805,193 599,100 407,188 248,123 100,187"/>
+                <Baseline points="114,235 218,235 322,235 426,235 530,237 634,237 738,237 842,237 946,237 1050,239 1154,239 1258,239 1362,239 1466,241 1570,241 1674,241 1778,243 1882,243 1986,245 2090,247 2194,247"/>
+                <TextEquiv>
+                    <Unicode>Mit Berufung auf dießseitiges vom 6. v. M. /:. P. No 1049 :/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Berufung auf dießseitiges vom 6. v. M. /:. P. No 1049 :/</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:48.947+02:00</Created>
+        <LastChange>2020-11-16T07:27:25.183+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745401" pageNr="30" tsid="49318772" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BCMFHAWQXYAQAVRLGFHSMEQD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UPLVFOWBOLKLEWHSGFABVGZD" imageId="14360585"/>
+    </Metadata>
+    <Page imageFilename="0036_page_2254192_line_r2l23_docId_51005.jpg" imageWidth="2303" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426187088" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2303,0 2303,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 2203,187 1863,101 100,121"/>
+                <Baseline points="113,184 216,182 320,182 424,180 528,180 632,178 735,178 839,178 943,178 1047,178 1151,178 1254,176 1358,176 1462,176 1566,176 1670,176 1773,178 1877,178 1981,178 2085,178 2189,178 2216,177"/>
+                <TextEquiv>
+                    <Unicode>französischen Gesandtschaft die Auswirkung der requirirten Kriminalproze¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>französischen Gesandtschaft die Auswirkung der requirirten Kriminalproze¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:39.282+02:00</Created>
+        <LastChange>2020-08-22T07:33:33.838+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744881" pageNr="21" tsid="37714850" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DUUFIHAIYWMYZSKUCEGPSFUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SUADNPHGNTQMKGDOXNBECSHL" imageId="14360272"/>
+    </Metadata>
+    <Page imageFilename="0032_page_372836_line_r1l16_docId_17243.jpg" imageWidth="1902" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426241110" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1902,0 1902,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,258 251,204 1754,243 1801,232 1802,124 1716,164 1625,111 1536,166 1441,108 1321,170 1061,100 770,165 536,105 101,122"/>
+                <Baseline points="113,193 196,193 280,193 364,193 448,193 532,193 615,193 699,193 783,193 867,193 951,193 1034,193 1118,195 1202,195 1286,195 1370,195 1453,197 1537,197 1621,199 1705,199 1789,201"/>
+                <TextEquiv>
+                    <Unicode>Entscheid des B. Rates v. 23. Mai 1893 im Falle Moser),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Entscheid des B. Rates v. 23. Mai 1893 im Falle Moser),</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

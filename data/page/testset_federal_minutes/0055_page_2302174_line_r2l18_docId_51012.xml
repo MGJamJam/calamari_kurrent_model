@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:52.254+02:00</Created>
+        <LastChange>2020-10-11T20:53:23.005+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749458" pageNr="43" tsid="49313562" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GXRLAKDPIZBOJOCZROJLEFSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KLPTOLDNOXKIYHLCPPYMDQGO" imageId="14364634"/>
+    </Metadata>
+    <Page imageFilename="0055_page_2302174_line_r2l18_docId_51012.jpg" imageWidth="868" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425543270" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 868,0 868,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,193 643,179 698,229 768,185 767,126 672,100 629,133 465,139 435,115 337,113 300,136 100,144"/>
+                <Baseline points="114,182 146,181 178,178 210,177 242,176 274,174 306,174 338,173 370,172 402,172 434,172 466,172 498,172 530,172 562,172 594,172 626,172 658,170 690,170 722,170 754,168 791,169"/>
+                <TextEquiv>
+                    <Unicode>" Nr. 77 von Zug.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>" Nr. 77 von Zug.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

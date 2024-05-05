@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:10.843+02:00</Created>
+        <LastChange>2020-09-28T10:50:27.010+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519135" pageNr="126" tsid="49307713" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LIBCFTUCRODCQCGPFKKZZKSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQPWQTCYPBUGIHXLLHXBKVPF" imageId="15086068"/>
+    </Metadata>
+    <Page imageFilename="0170_page_2456995_line_r2l16_docId_51515.jpg" imageWidth="2244" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425254670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2244,0 2244,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2106,216 2144,100 2011,149 100,142 100,202"/>
+                <Baseline points="114,188 214,189 315,190 416,190 517,190 618,190 718,190 819,190 920,190 1021,190 1122,190 1222,190 1323,190 1424,190 1525,190 1626,189 1726,188 1827,188 1928,188 2029,188 2130,188 2155,192"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="131,148 131,208 230,208 230,148"/>
+                    <TextEquiv>
+                        <Unicode>Von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="287,150 287,210 429,210 429,150"/>
+                    <TextEquiv>
+                        <Unicode>einer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="478,150 478,210 685,210 685,150"/>
+                    <TextEquiv>
+                        <Unicode>Depesche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="728,150 728,210 794,210 794,150"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="827,150 827,210 1034,210 1034,150"/>
+                    <TextEquiv>
+                        <Unicode>eidgenß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1092,150 1092,210 1523,210 1523,150"/>
+                    <TextEquiv>
+                        <Unicode>Geschäftsträgers</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1565,149 1565,209 1606,209 1606,149"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1639,148 1639,208 1756,208 1756,148"/>
+                    <TextEquiv>
+                        <Unicode>Wicn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1813,148 1813,208 1888,208 1888,148"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1945,148 1945,208 1996,208 1996,148"/>
+                    <TextEquiv>
+                        <Unicode>1.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2012,148 2012,208 2128,208 2128,148"/>
+                    <TextEquiv>
+                        <Unicode>lauf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Von einer Depesche des eidgenöß: Geschäftsträgers in Wien vom 1. lauf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von einer Depesche des eidgenöß: Geschäftsträgers in Wien vom 1. lauf.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

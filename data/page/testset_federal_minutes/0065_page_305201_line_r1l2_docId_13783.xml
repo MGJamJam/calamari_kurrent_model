@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:04.836+02:00</Created>
+        <LastChange>2020-11-18T16:04:06.316+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744411" pageNr="40" tsid="49319332" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QQNMYQHBTEBZLLKLAGFHZNXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFSCPGRRIPNZMEQPNGOWXDAF" imageId="14359802"/>
+    </Metadata>
+    <Page imageFilename="0065_page_305201_line_r1l2_docId_13783.jpg" imageWidth="2236" imageHeight="416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426413858" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2236,0 2236,416 0,416"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,281 1766,293 2136,262 2136,155 1896,201 1495,100 1196,207 460,122 100,202"/>
+                <Baseline points="114,248 214,246 315,246 415,245 516,244 616,244 717,244 817,244 918,244 1018,246 1119,246 1219,246 1320,246 1420,246 1521,246 1621,246 1722,244 1822,244 1923,242 2023,240 2124,238"/>
+                <TextEquiv>
+                    <Unicode>migung unterbreitet. (Zu vergl. Bundesbeschluß vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>migung unterbreitet. (Zu vergl. Bundesbeschluß vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:35.499+02:00</Created>
+        <LastChange>2020-11-12T07:59:29.080+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746855" pageNr="111" tsid="49318504" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XAUIQKYQKPOSXWLZNMFMVFSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIJCONVKCTWTBUUCHUTSZEBD" imageId="14362035"/>
+    </Metadata>
+    <Page imageFilename="0193_page_367613_line_r1l23_docId_17236.jpg" imageWidth="2001" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426013646" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2001,0 2001,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,220 1863,201 1901,122 100,120"/>
+                <Baseline points="113,177 201,177 290,177 379,177 468,177 557,177 645,176 734,175 823,175 912,174 1001,174 1089,174 1178,172 1267,172 1356,171 1445,171 1533,171 1622,171 1711,169 1800,169 1889,169"/>
+                <TextEquiv>
+                    <Unicode>bünden unterm 15. dies eingesantes Urteil des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bünden unterm 15. dies eingesantes Urteil des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

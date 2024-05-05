@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:18.497+02:00</Created>
+        <LastChange>2020-11-17T08:07:51.814+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744782" pageNr="112" tsid="49319285" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PLFJIQJNDDXIFDMCCWTBATSM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWFGQETEQVYDBRJMMZPVCSFO" imageId="14360173"/>
+    </Metadata>
+    <Page imageFilename="0181_page_306868_line_r2l10_docId_13787.jpg" imageWidth="2145" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426363761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2145,0 2145,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 213,255 426,202 2045,222 2044,116 1166,164 504,114 384,170 100,123"/>
+                <Baseline points="113,196 208,196 304,196 400,196 496,196 592,196 688,196 784,196 880,194 976,194 1072,194 1167,194 1263,194 1359,192 1455,192 1551,192 1647,192 1743,192 1839,192 1935,190 2031,190"/>
+                <TextEquiv>
+                    <Unicode>definitiven Kriegsverwaltungsreglements. Lezteres ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>definitiven Kriegsverwaltungsreglements. Lezteres ist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

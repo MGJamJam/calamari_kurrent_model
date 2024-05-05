@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:46:13.151+02:00</Created>
+        <LastChange>2020-11-18T17:35:06.478+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744497" pageNr="82" tsid="49319356" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPROWEXOSAVOLOGEPOASSTCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AFJFXLRWKARZBKNYFQKZIPPA" imageId="14359888"/>
+    </Metadata>
+    <Page imageFilename="0123_page_303490_line_r2l27_docId_13781.jpg" imageWidth="1784" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426419588" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1784,0 1784,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 1601,243 1684,230 1684,107 1122,158 881,100 790,160 647,106 100,128"/>
+                <Baseline points="112,190 190,190 268,188 346,188 424,188 502,190 580,190 658,190 736,190 814,192 892,192 970,192 1048,192 1126,192 1204,190 1282,190 1360,188 1438,186 1516,184 1594,180 1672,176"/>
+                <TextEquiv>
+                    <Unicode>Auf Antrag des Departements wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf Antrag des Departements wird</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

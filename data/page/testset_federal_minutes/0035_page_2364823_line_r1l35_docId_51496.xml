@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:58.590+02:00</Created>
+        <LastChange>2020-10-08T07:46:17.520+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749797" pageNr="24" tsid="49312248" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GEGWZEBBAZXMQTTPYMCOBOXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJJBXBEWCAGNAGEDUNMUZOAN" imageId="14364969"/>
+    </Metadata>
+    <Page imageFilename="0035_page_2364823_line_r1l35_docId_51496.jpg" imageWidth="2272" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425482336" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2272,0 2272,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 259,260 1641,196 1742,251 2171,203 2172,132 100,148"/>
+                <Baseline points="113,193 215,191 317,191 419,189 521,189 624,187 726,187 828,187 930,187 1032,189 1135,189 1237,189 1339,191 1441,191 1543,193 1646,193 1748,193 1850,195 1952,195 2054,195 2157,195 2184,193"/>
+                <TextEquiv>
+                    <Unicode>Die Italienische Gesandtschaft stellt sub 31. August das Gesuch um Veri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Italienische Gesandtschaft stellt sub 31. August das Gesuch um Veri¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

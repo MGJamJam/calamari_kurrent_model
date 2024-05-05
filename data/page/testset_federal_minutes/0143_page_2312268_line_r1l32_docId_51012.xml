@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:56.584+02:00</Created>
+        <LastChange>2020-08-22T11:27:05.141+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749659" pageNr="109" tsid="37763475" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ATIZDEMAUHDXMEPZNLRSYHSK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJFREEZZENSNBBAKJESMMIJN" imageId="14364835"/>
+    </Metadata>
+    <Page imageFilename="0143_page_2312268_line_r1l32_docId_51012.jpg" imageWidth="2366" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425552613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2366,0 2366,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,180 304,241 561,178 808,231 1827,187 1957,246 2266,199 2203,136 1776,111 101,136"/>
+                <Baseline points="113,172 219,172 326,170 433,170 540,170 647,170 754,172 861,172 968,172 1075,174 1182,174 1288,176 1395,177 1502,178 1609,180 1716,180 1823,182 1930,182 2037,184 2144,184 2251,184"/>
+                <TextEquiv>
+                    <Unicode>terbringung von Anträgen in dem Sinne, daß mit Frankreich Unter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>terbringung von Anträgen in dem Sinne, daß mit Frankreich Unter¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

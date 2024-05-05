@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:28.079+02:00</Created>
+        <LastChange>2020-10-06T08:32:09.211+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750812" pageNr="128" tsid="49310857" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NDKSIMPRSJSYPCUMLQWYOZCW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWKVNDQQCOGLSHLLSPUZEBCB" imageId="14365970"/>
+    </Metadata>
+    <Page imageFilename="0179_page_2447852_line_r1l34_docId_51510.jpg" imageWidth="1876" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425385436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1876,0 1876,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1165,177 1579,189 1641,240 1776,183 1249,113 259,141 159,100 100,141"/>
+                <Baseline points="114,175 196,175 279,175 361,175 444,175 526,173 609,173 691,173 774,171 856,171 939,171 1021,171 1104,171 1186,171 1269,171 1351,173 1434,173 1516,175 1599,177 1681,179 1764,183"/>
+                <TextEquiv>
+                    <Unicode>In die Eisenbahn-Akten Sammlung:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In die Eisenbahn-Akten Sammlung:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

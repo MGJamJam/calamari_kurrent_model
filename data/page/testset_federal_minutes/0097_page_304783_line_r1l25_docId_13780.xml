@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:50.281+02:00</Created>
+        <LastChange>2020-08-21T22:04:19.792+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744460" pageNr="63" tsid="37655425" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MZXNABDNZOELRJLNXFKDWRYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XROMCECZUEMCCAVTDLBYJZOL" imageId="14359851"/>
+    </Metadata>
+    <Page imageFilename="0097_page_304783_line_r1l25_docId_13780.jpg" imageWidth="2179" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426417044" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2179,0 2179,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2079,216 2079,126 1961,116 100,132"/>
+                <Baseline points="113,177 210,176 308,175 405,174 503,173 601,173 698,173 796,173 893,173 991,175 1089,175 1186,175 1284,177 1381,177 1479,177 1577,177 1674,177 1772,177 1869,177 1967,177 2065,177"/>
+                <TextEquiv>
+                    <Unicode>mlingen nur in einem wesentlichen Punkte ab¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mlingen nur in einem wesentlichen Punkte ab¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

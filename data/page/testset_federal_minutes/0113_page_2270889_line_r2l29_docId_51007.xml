@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:07.866+02:00</Created>
+        <LastChange>2020-11-15T17:57:47.936+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746031" pageNr="75" tsid="49318563" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ITJNHKJRMUTABMCMMEMDCGLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SISRCNLBIZAYNARODGIHHFVS" imageId="14361211"/>
+    </Metadata>
+    <Page imageFilename="0113_page_2270889_line_r2l29_docId_51007.jpg" imageWidth="2126" imageHeight="300">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426065634" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2126,0 2126,300 0,300"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,163 1700,199 2025,181 2026,132 101,119"/>
+                <Baseline points="114,155 208,159 303,161 398,161 493,163 588,163 683,165 778,165 873,165 968,165 1063,165 1157,165 1252,165 1347,166 1442,167 1537,167 1632,167 1727,167 1822,169 1917,169 2012,171"/>
+                <TextEquiv>
+                    <Unicode>Liebst Vorschlägen zu einem Vizekonsul einzusenden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Liebst Vorschlägen zu einem Vizekonsul einzusenden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

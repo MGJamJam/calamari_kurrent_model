@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:39.258+02:00</Created>
+        <LastChange>2020-08-22T11:26:49.537+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749640" pageNr="101" tsid="37763353" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IUXNPXSLEJEAASJJERVSSQZO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EODUXOMYBGTEJPYFSDZBMEQH" imageId="14364816"/>
+    </Metadata>
+    <Page imageFilename="0135_page_2307043_line_r2l37_docId_51012.jpg" imageWidth="2363" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425551436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2363,0 2363,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 222,193 1240,207 1290,259 1375,206 1892,258 2263,205 2198,139 1851,125 101,147"/>
+                <Baseline points="115,185 221,185 328,187 435,187 541,187 648,189 755,189 861,191 968,191 1075,193 1182,193 1288,195 1395,195 1502,197 1608,197 1715,199 1822,199 1928,199 2035,201 2142,201 2249,201"/>
+                <TextEquiv>
+                    <Unicode>Bern vorgesehenen Bericht wegen ungenügendem Fortgange der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bern vorgesehenen Bericht wegen ungenügendem Fortgange der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

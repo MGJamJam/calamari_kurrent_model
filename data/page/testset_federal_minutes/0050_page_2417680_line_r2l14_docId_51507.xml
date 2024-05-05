@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:34.879+02:00</Created>
+        <LastChange>2020-10-06T07:17:35.614+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750430" pageNr="34" tsid="49310646" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XXLWYILAKFLDKWYKOSRMNKEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DSYTWLGWRYXYQQXGIGRCHINL" imageId="14365588"/>
+    </Metadata>
+    <Page imageFilename="0050_page_2417680_line_r2l14_docId_51507.jpg" imageWidth="2364" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425372368" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2364,0 2364,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,210 742,188 823,246 892,186 2264,173 2126,110 1431,100 100,154"/>
+                <Baseline points="115,188 221,186 328,184 435,184 542,182 649,180 755,180 862,178 969,178 1076,176 1183,174 1289,174 1396,173 1503,172 1610,172 1717,170 1823,170 1930,168 2037,168 2144,168 2251,166"/>
+                <TextEquiv>
+                    <Unicode>dessen Behandlung noch im Laufe gegenwärtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dessen Behandlung noch im Laufe gegenwärtiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

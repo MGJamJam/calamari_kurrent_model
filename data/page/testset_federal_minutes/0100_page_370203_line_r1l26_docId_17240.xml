@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:36.263+02:00</Created>
+        <LastChange>2020-11-16T10:20:05.960+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744989" pageNr="55" tsid="49318935" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OQGLYXRBMZRYBMZBQYYLSEPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TZBNJRYPGSLUFBCZGDAGJTXZ" imageId="14360380"/>
+    </Metadata>
+    <Page imageFilename="0100_page_370203_line_r1l26_docId_17240.jpg" imageWidth="1971" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426245703" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1971,0 1971,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 1106,240 1250,182 1367,228 1559,180 1666,239 1871,203 1832,105 100,133"/>
+                <Baseline points="112,174 199,174 286,172 374,172 461,172 549,172 636,174 723,174 811,174 898,174 986,176 1073,176 1160,176 1248,176 1335,176 1423,176 1510,176 1597,176 1685,176 1772,174 1860,172"/>
+                <TextEquiv>
+                    <Unicode>gen daß die Steigerung nicht eher stattfinde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gen daß die Steigerung nicht eher stattfinde,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

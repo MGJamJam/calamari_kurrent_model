@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:46.371+02:00</Created>
+        <LastChange>2020-08-22T11:22:18.606+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748060" pageNr="31" tsid="37761738" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OAZBXQPQACQBMMMFLHJIYTLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ETYBMWUJYWYOWQPRHHJRREFI" imageId="14363240"/>
+    </Metadata>
+    <Page imageFilename="0033_page_380170_line_r2l20_docId_17274.jpg" imageWidth="523" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425709403" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 523,0 523,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,251 130,248 191,207 231,218 251,203 304,225 341,207 372,232 423,214 421,132 359,139 299,109 255,152 181,100 162,121 100,141"/>
+                <Baseline points="115,190 141,189 168,188 194,188 221,187 247,186 274,186 300,185 327,184 353,184 380,184 407,186"/>
+                <TextEquiv>
+                    <Unicode>zu leben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu leben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

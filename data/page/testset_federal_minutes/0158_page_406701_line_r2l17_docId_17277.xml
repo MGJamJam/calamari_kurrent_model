@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:02:49.917+02:00</Created>
+        <LastChange>2020-08-22T11:20:10.610+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747822" pageNr="59" tsid="37761120" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JCUJRDGRJZBHKLCCOEZKAQDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HUCGHCBJZKFPDAVRXETOJXEP" imageId="14363002"/>
+    </Metadata>
+    <Page imageFilename="0158_page_406701_line_r2l17_docId_17277.jpg" imageWidth="2319" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425807520" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2319,0 2319,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,244 1894,261 2219,237 2218,168 2085,100 1649,183 350,122 100,191"/>
+                <Baseline points="113,216 217,216 322,216 426,216 531,216 636,216 740,214 845,214 949,214 1054,214 1159,214 1263,214 1368,212 1472,212 1577,210 1682,210 1786,208 1891,206 1995,204 2100,202 2205,200"/>
+                <TextEquiv>
+                    <Unicode>ratsbeschlusses vom 28. März 1901 an den Bundesan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ratsbeschlusses vom 28. März 1901 an den Bundesan¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

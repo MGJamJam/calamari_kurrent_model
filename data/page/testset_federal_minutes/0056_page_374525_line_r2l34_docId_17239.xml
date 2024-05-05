@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:02.532+02:00</Created>
+        <LastChange>2020-08-22T07:34:16.047+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744917" pageNr="31" tsid="37714979" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FDKDOBMCHSSJCEXPWFYZGTVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYCIRQIWFMDJPLJCPHQVRZJF" imageId="14360308"/>
+    </Metadata>
+    <Page imageFilename="0056_page_374525_line_r2l34_docId_17239.jpg" imageWidth="2055" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426242503" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2055,0 2055,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 1955,196 1887,121 1113,157 100,102"/>
+                <Baseline points="113,176 204,178 296,178 387,178 479,178 570,178 662,178 753,178 845,178 936,180 1028,180 1119,180 1211,180 1302,180 1394,180 1485,181 1577,182 1668,182 1760,182 1851,184 1943,184"/>
+                <TextEquiv>
+                    <Unicode>den Geschäftsbetrieb von Auswanderungsagentu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Geschäftsbetrieb von Auswanderungsagentu¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:57.080+02:00</Created>
+        <LastChange>2020-10-06T08:25:57.398+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750771" pageNr="119" tsid="49310836" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DOLFAEWQNVWEYOVRBCQAFDOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBGCSQNJHKUMNYJLGQPWPYSY" imageId="14365929"/>
+    </Metadata>
+    <Page imageFilename="0165_page_2442910_line_r2l40_docId_51510.jpg" imageWidth="1428" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425384112" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1428,0 1428,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 364,207 449,246 582,197 1163,204 1229,246 1328,211 1328,129 1257,107 1092,164 1030,119 922,165 842,100 599,166 539,130 457,170 343,108 100,143"/>
+                <Baseline points="113,209 173,205 233,202 293,199 353,197 413,197 473,195 533,195 593,195 653,195 713,195 773,197 833,197 893,197 953,198 1013,199 1073,199 1133,197 1193,197 1253,195 1313,195"/>
+                <TextEquiv>
+                    <Unicode>1876 D. 17. Januar 1877 als erledigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1876 D. 17. Januar 1877 als erledigt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

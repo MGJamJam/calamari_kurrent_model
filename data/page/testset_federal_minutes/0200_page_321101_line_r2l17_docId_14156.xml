@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:58.092+02:00</Created>
+        <LastChange>2020-11-15T20:46:45.806+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746214" pageNr="134" tsid="49318753" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BNSZGPHUCVIVDNHKYMVNOCHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZYZUVKHKRQJBKEMAIMBTBYN" imageId="14361394"/>
+    </Metadata>
+    <Page imageFilename="0200_page_321101_line_r2l17_docId_14156.jpg" imageWidth="2238" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426134021" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2238,0 2238,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 2138,238 2138,160 1871,100 1584,170 1126,112 100,152"/>
+                <Baseline points="114,200 214,196 315,193 415,191 516,190 617,190 717,190 818,190 918,190 1019,191 1120,192 1220,194 1321,194 1421,196 1522,196 1623,196 1723,196 1824,196 1924,194 2025,192 2126,190"/>
+                <TextEquiv>
+                    <Unicode>Eisenbahndepartement beantragten Aenderun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisenbahndepartement beantragten Aenderun¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

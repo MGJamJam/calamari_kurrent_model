@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:55.304+02:00</Created>
+        <LastChange>2020-08-22T11:18:57.337+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748435" pageNr="50" tsid="37760650" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RIWXBUFMVZOWUHCPXSWCICPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJVQRCVOUGXPMCMXSJVVGDFB" imageId="14363615"/>
+    </Metadata>
+    <Page imageFilename="0094_page_390979_line_r2l41_docId_17265.jpg" imageWidth="869" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425767988" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 869,0 869,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 769,209 769,124 686,119 652,143 607,116 564,143 477,100 386,143 254,121 193,143 100,135"/>
+                <Baseline points="114,183 146,184 178,185 210,186 242,187 274,187 306,187 338,187 370,187 402,185 435,185 467,185 499,185 531,185 563,184 595,184 627,185 659,185 691,185 723,187 756,189"/>
+                <TextEquiv>
+                    <Unicode>walter in Solothurn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>walter in Solothurn,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

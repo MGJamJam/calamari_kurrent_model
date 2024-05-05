@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:33.116+02:00</Created>
+        <LastChange>2020-08-22T11:24:16.096+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749901" pageNr="18" tsid="37762398" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GCXCDBGZORNOTFNPASXOESTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMVPDDIIIPSRQHXNHBNACNEX" imageId="14365073"/>
+    </Metadata>
+    <Page imageFilename="0031_page_2392766_line_r3l21_docId_51502.jpg" imageWidth="953" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425426941" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 953,0 953,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 164,203 281,199 381,233 421,195 457,215 613,208 671,248 721,210 852,209 853,161 801,130 708,159 650,122 583,161 458,139 365,161 227,100 101,143"/>
+                <Baseline points="113,191 149,189 185,189 221,189 258,189 294,189 330,189 367,189 403,190 439,191 476,191 512,191 548,193 584,193 621,193 657,195 693,195 730,195 766,197 802,197 839,197"/>
+                <TextEquiv>
+                    <Unicode>Gallen per Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gallen per Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

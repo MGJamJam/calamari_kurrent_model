@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:55.442+02:00</Created>
+        <LastChange>2020-08-22T11:09:29.383+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746082" pageNr="94" tsid="37756842" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KRYXUKOAXBBEJEDAWLJHRGEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKXUBRGCQTZCJMOBLOZOMUUE" imageId="14361262"/>
+    </Metadata>
+    <Page imageFilename="0136_page_2268918_line_r1l7_docId_51007.jpg" imageWidth="767" imageHeight="315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426068169" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 767,0 767,315 0,315"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 140,215 168,187 187,206 268,206 340,187 439,207 521,188 555,207 580,185 667,182 667,129 533,116 514,135 346,147 259,109 215,131 169,100 100,130"/>
+                <Baseline points="116,174 142,175 169,176 196,176 223,177 250,178 276,178 303,178 330,178 357,180 384,180 410,180 437,180 464,180 491,178 518,178 544,178 571,178 598,178 625,176 652,176"/>
+                <TextEquiv>
+                    <Unicode>Requisitionsschreiben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Requisitionsschreiben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:48.287+02:00</Created>
+        <LastChange>2020-11-18T15:45:21.676+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744344" pageNr="13" tsid="49319308" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WXCMSWUMNLOPBOPLCJOGLPRB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBRQLDWFOZAHZRXLJHBYFNWU" imageId="14359739"/>
+    </Metadata>
+    <Page imageFilename="0023_page_302120_line_r1l125_docId_13778.jpg" imageWidth="361" imageHeight="290">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426409859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 361,0 361,290 0,290"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,185 127,177 150,190 163,179 183,189 197,182 203,188 223,176 259,182 261,111 251,111 225,130 207,130 185,121 173,123 153,104 129,109 103,100"/>
+                <Baseline points="101,164 138,165 166,166 194,167 222,168 250,171 273,174"/>
+                <TextEquiv>
+                    <Unicode>2100.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2100.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

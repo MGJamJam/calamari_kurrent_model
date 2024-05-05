@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:20.257+02:00</Created>
+        <LastChange>2020-09-17T10:26:25.080+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750412" pageNr="15" tsid="49309203" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RUHXQOXFVADBIIWHKEKRMQKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAEDOUAVFYIVYRCEZQLHJASA" imageId="14365570"/>
+    </Metadata>
+    <Page imageFilename="0020_page_2470856_line_r2l12_docId_51514.jpg" imageWidth="2024" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425305875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2024,0 2024,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,177 240,252 327,184 845,245 1349,202 1449,252 1899,218 1924,163 101,126"/>
+                <Baseline points="114,168 203,171 293,174 383,178 473,180 563,182 652,184 742,186 832,188 922,190 1012,192 1101,192 1191,194 1281,196 1371,196 1461,198 1550,200 1640,202 1730,204 1820,206 1967,211"/>
+                <TextEquiv>
+                    <Unicode>Ausgabensumme daher nicht ausreichen werde."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausgabensumme daher nicht ausreichen werde."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:49.517+02:00</Created>
+        <LastChange>2020-11-16T07:39:22.706+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745456" pageNr="56" tsid="49318790" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DIARASFDLNBMMGNAGADQVLLI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRFYJLHJBRMTBQWMPJQBMTLB" imageId="14360640"/>
+    </Metadata>
+    <Page imageFilename="0065_page_2253989_line_r2l7_docId_51005.jpg" imageWidth="2278" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426190768" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2278,0 2278,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,234 1894,228 2178,195 2178,122 100,156"/>
+                <Baseline points="114,195 216,194 319,193 421,191 524,189 627,189 729,187 832,187 934,187 1037,187 1140,185 1242,185 1345,185 1447,185 1550,185 1653,185 1755,185 1858,185 1960,183 2063,183 2166,183"/>
+                <TextEquiv>
+                    <Unicode>gerichtliches Aktenstück mit dem Bemerken zurück, daß im dortigen Kanton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gerichtliches Aktenstück mit dem Bemerken zurück, daß im dortigen Kanton</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

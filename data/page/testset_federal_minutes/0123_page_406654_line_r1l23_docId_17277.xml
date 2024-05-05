@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:00:18.076+02:00</Created>
+        <LastChange>2020-11-02T19:43:44.691+01:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747714" pageNr="49" tsid="49318023" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BPRXELDFBDIBKTDGPWVEGVFV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZPFDKRCBSEPYHOQXFSKGOZNN" imageId="14362894"/>
+    </Metadata>
+    <Page imageFilename="0123_page_406654_line_r1l23_docId_17277.jpg" imageWidth="2152" imageHeight="426">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425805873" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2152,0 2152,426 0,426"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,282 1665,293 2015,266 2052,152 1841,196 1688,100 1304,209 1203,150 900,220 100,185"/>
+                <Baseline points="114,251 210,253 306,255 402,255 498,255 595,255 691,255 787,255 883,255 979,255 1076,254 1172,253 1268,252 1364,251 1460,249 1557,247 1653,247 1749,245 1845,243 1941,241 2038,239"/>
+                <TextEquiv>
+                    <Unicode>Protokoll-Auszug ans Departement des Innern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokoll-Auszug ans Departement des Innern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

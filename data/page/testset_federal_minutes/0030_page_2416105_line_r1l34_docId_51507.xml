@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:50.287+02:00</Created>
+        <LastChange>2020-10-06T07:09:41.318+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750373" pageNr="22" tsid="49310606" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OTAQXOEQYDFBQALKZZCEFPEZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBOUSHUCSOSXUKCXWPSRSGEF" imageId="14365531"/>
+    </Metadata>
+    <Page imageFilename="0030_page_2416105_line_r1l34_docId_51507.jpg" imageWidth="2365" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425370638" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2365,0 2365,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2265,210 1954,108 1825,165 1034,163 969,100 100,155"/>
+                <Baseline points="116,197 222,199 329,199 436,199 543,198 650,197 756,197 863,197 970,197 1077,197 1184,195 1290,195 1397,195 1504,195 1611,195 1718,195 1824,195 1931,197 2038,197 2145,198 2252,199 2286,199"/>
+                <TextEquiv>
+                    <Unicode>Bahn, über diese Betriebsverwaltung sei Rechnung ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bahn, über diese Betriebsverwaltung sei Rechnung ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:24:15.265+02:00</Created>
+        <LastChange>2020-10-27T08:26:06.193+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748634" pageNr="192" tsid="49315984" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DCXQGWILOZPZZQXUACLBVRWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ACQRUNFWHCSIXTKHQCPEGOQR" imageId="14363814"/>
+    </Metadata>
+    <Page imageFilename="0199_page_396072_line_r1l12_docId_17271.jpg" imageWidth="2366" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425730902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2366,0 2366,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2266,221 2266,121 100,126"/>
+                <Baseline points="115,191 221,191 328,191 435,191 542,191 649,191 755,191 862,191 969,191 1076,191 1183,191 1289,191 1396,191 1503,193 1610,193 1717,193 1823,193 1930,193 2037,193 2144,193 2251,193"/>
+                <TextEquiv>
+                    <Unicode>mé d'indemnité, tandis qu’a d’autres propriétaires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mé d'indemnité, tandis qu’a d’autres propriétaires</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

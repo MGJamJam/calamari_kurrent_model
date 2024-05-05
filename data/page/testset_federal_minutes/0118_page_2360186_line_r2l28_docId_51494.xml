@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:01.160+02:00</Created>
+        <LastChange>2020-10-11T21:21:05.338+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749600" pageNr="89" tsid="49313674" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NRDWZDLYUIEBTJOUBKPUZVHA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZYVGNFKTCICDXDDYYHDSYFN" imageId="14364776"/>
+    </Metadata>
+    <Page imageFilename="0118_page_2360186_line_r2l28_docId_51494.jpg" imageWidth="2358" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425549561" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2358,0 2358,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2258,221 2258,156 2125,110 100,150"/>
+                <Baseline points="114,196 220,194 327,194 433,192 540,192 646,192 753,191 859,190 966,190 1072,190 1179,190 1285,190 1392,190 1498,188 1605,188 1711,188 1818,186 1924,186 2031,184 2137,183 2244,182"/>
+                <TextEquiv>
+                    <Unicode>Walliser-Gränzlandsägern die Visagebühr von reisenden Engländern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Walliser-Gränzlandsägern die Visagebühr von reisenden Engländern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

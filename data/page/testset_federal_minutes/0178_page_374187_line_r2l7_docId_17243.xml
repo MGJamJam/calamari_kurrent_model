@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:02.923+02:00</Created>
+        <LastChange>2020-11-16T10:48:11.641+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745316" pageNr="99" tsid="49318990" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CUITSKVVPCUNSSQMDJHVMTEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQWHZVYVJDNIEKOVGKKELVEJ" imageId="14360500"/>
+    </Metadata>
+    <Page imageFilename="0178_page_374187_line_r2l7_docId_17243.jpg" imageWidth="461" imageHeight="287">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426251869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 461,0 461,287 0,287"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,171 138,168 155,177 167,169 196,187 227,176 261,185 279,165 298,172 315,166 334,180 361,176 359,124 326,130 294,114 239,119 219,100 148,117 100,105"/>
+                <Baseline points="113,167 139,165 165,164 191,161 217,159 243,159 269,157 295,157 321,159 347,161"/>
+                <TextEquiv>
+                    <Unicode>" 320.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>" 320.-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

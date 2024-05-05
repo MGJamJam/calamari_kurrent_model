@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:52.416+02:00</Created>
+        <LastChange>2020-09-28T09:40:26.773+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519062" pageNr="71" tsid="49307499" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QSWZNGQBVTJZDLHITIBAOOEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QSYSHQNYPXQMGYMIWAYGTGGH" imageId="15085995"/>
+    </Metadata>
+    <Page imageFilename="0097_page_2457035_line_r3l22_docId_51515.jpg" imageWidth="2300" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2300,0 2300,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,179 442,243 531,180 2200,193 2200,116 101,135 100,179"/>
+                <Baseline points="115,169 218,171 322,171 425,171 529,172 633,173 736,173 840,175 943,175 1047,176 1151,177 1254,178 1358,179 1461,179 1565,181 1669,181 1772,183 1876,183 1979,183 2083,185 2187,185"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="116,131 116,191 327,191 327,131"/>
+                    <TextEquiv>
+                        <Unicode>übrigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="380,131 380,191 610,191 610,131"/>
+                    <TextEquiv>
+                        <Unicode>Einsender</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="654,133 654,193 725,193 725,133"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="769,135 769,195 1246,195 1246,135"/>
+                    <TextEquiv>
+                        <Unicode>Mŭstergewehren,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1263,138 1263,198 1344,198 1344,138"/>
+                    <TextEquiv>
+                        <Unicode>für</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1370,139 1370,199 1502,199 1502,139"/>
+                    <TextEquiv>
+                        <Unicode>deren</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1564,143 1564,203 2032,203 2032,143"/>
+                    <TextEquiv>
+                        <Unicode>Bereitwilligkeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2094,145 2094,205 2173,205 2173,145"/>
+                    <TextEquiv>
+                        <Unicode>zŭr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>übrigen Einsender von Mustergewehren, für deren Bereitwilligkeit zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>übrigen Einsender von Mustergewehren, für deren Bereitwilligkeit zur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

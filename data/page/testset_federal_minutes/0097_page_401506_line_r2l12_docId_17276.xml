@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:15.534+02:00</Created>
+        <LastChange>2020-11-02T19:37:26.315+01:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747632" pageNr="37" tsid="49318016" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YTVYJJVUANMGUZKESKRPGFRK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTKIJOUYVIIKHTQEQEUAZOWW" imageId="14362812"/>
+    </Metadata>
+    <Page imageFilename="0097_page_401506_line_r2l12_docId_17276.jpg" imageWidth="1289" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1289,0 1289,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,257 306,204 646,191 1189,216 1189,150 1073,101 1016,154 925,102 821,160 703,111 541,110 437,171 278,100 100,142"/>
+                <Baseline points="114,203 167,201 220,201 273,199 326,199 379,197 432,197 485,196 538,195 591,195 645,195 698,195 751,195 804,195 857,195 910,195 963,195 1016,195 1069,195 1122,197 1176,197"/>
+                <TextEquiv>
+                    <Unicode>Gallen und Graubünden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gallen und Graubünden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

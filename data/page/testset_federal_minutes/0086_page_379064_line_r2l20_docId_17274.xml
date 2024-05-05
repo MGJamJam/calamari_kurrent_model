@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:06.785+02:00</Created>
+        <LastChange>2020-08-22T11:23:53.912+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748253" pageNr="82" tsid="37762265" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IPBPARARFRYSNOABMMQKQQNA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VZOWVTGEWMDYDZREFKPQBDQS" imageId="14363433"/>
+    </Metadata>
+    <Page imageFilename="0086_page_379064_line_r2l20_docId_17274.jpg" imageWidth="2208" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716304" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2208,0 2208,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 2108,215 2108,136 1834,100 1488,157 1333,104 1192,166 100,115"/>
+                <Baseline points="115,191 214,195 313,197 412,199 511,201 610,201 709,201 808,201 907,201 1006,199 1105,199 1204,197 1303,197 1402,195 1501,195 1600,195 1699,195 1798,195 1897,195 1996,195 2095,197"/>
+                <TextEquiv>
+                    <Unicode>An die Gürbethalbahn in Bern, per Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Gürbethalbahn in Bern, per Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:27.009+02:00</Created>
+        <LastChange>2020-11-15T19:50:21.371+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745690" pageNr="55" tsid="49318662" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PGMYCEFETUJFDSIVKBECKAPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IBUDWXHGJKHUKFIGVZFMTBGJ" imageId="14360870"/>
+    </Metadata>
+    <Page imageFilename="0077_page_320503_line_r1l23_docId_14155.jpg" imageWidth="2070" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426122866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,228 1970,204 1868,112 100,134"/>
+                <Baseline points="112,197 204,194 296,192 388,190 481,188 573,188 665,187 757,187 850,187 942,187 1034,187 1126,188 1219,188 1311,188 1403,190 1495,190 1588,190 1680,190 1772,191 1864,191 1957,190"/>
+                <TextEquiv>
+                    <Unicode>wärter vor S–O–S des am 12. Juli dieses Jahres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wärter vor S–O–S des am 12. Juli dieses Jahres</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

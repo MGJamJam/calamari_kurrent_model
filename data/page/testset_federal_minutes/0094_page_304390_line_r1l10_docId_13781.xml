@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:40.750+02:00</Created>
+        <LastChange>2020-08-21T22:04:12.568+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744454" pageNr="60" tsid="37655400" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PFHLVNYQQUPKWDCSIGJDAXPA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDKMDGQMXHVAFJXAIIJCICJR" imageId="14359845"/>
+    </Metadata>
+    <Page imageFilename="0094_page_304390_line_r1l10_docId_13781.jpg" imageWidth="2203" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426416633" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2203,0 2203,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 2103,250 2103,100 1100,178 100,144"/>
+                <Baseline points="113,209 211,209 310,209 409,209 508,209 607,207 706,207 805,207 904,207 1003,207 1102,207 1200,205 1299,205 1398,205 1497,206 1596,207 1695,207 1794,207 1893,209 1992,209 2091,211"/>
+                <TextEquiv>
+                    <Unicode>sene österreich-chilenische oder auch der belgisch-chi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sene österreich-chilenische oder auch der belgisch-chi-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

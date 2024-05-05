@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:45.891+02:00</Created>
+        <LastChange>2020-08-22T11:07:18.929+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745940" pageNr="47" tsid="37756047" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WWWJNYJJSFXVXZOSISAWKBBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNYFEALSRYKJJQVPVJLKKUYJ" imageId="14361120"/>
+    </Metadata>
+    <Page imageFilename="0073_page_2304660_line_r1l13_docId_51010.jpg" imageWidth="1012" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426061720" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1012,0 1012,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 311,182 354,220 455,193 506,221 679,181 912,182 912,117 877,100 790,146 593,110 552,137 417,134 330,101 209,125 100,111"/>
+                <Baseline points="113,174 152,174 191,174 230,175 270,176 309,176 348,176 388,176 427,176 466,176 506,176 545,177 584,178 623,178 663,178 702,178 741,178 781,178 820,176 859,176 899,176"/>
+                <TextEquiv>
+                    <Unicode>des Rekurses gestellt werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Rekurses gestellt werde.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

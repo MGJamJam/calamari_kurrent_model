@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:43.129+02:00</Created>
+        <LastChange>2020-10-11T21:40:53.843+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749702" pageNr="123" tsid="49313754" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PVKMMQYRBSJJKMRMINCICFMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FWLXLFNCABEXMRHIBBWEJNNW" imageId="14364878"/>
+    </Metadata>
+    <Page imageFilename="0167_page_2367142_line_r1l25_docId_51494.jpg" imageWidth="2368" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425554486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2368,0 2368,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 742,192 849,253 932,193 1045,254 1279,192 1857,253 2268,195 2268,140 2064,108 1869,168 1577,100 1389,162 649,101 101,150"/>
+                <Baseline points="114,184 221,184 328,184 435,184 542,186 649,186 756,186 863,188 970,188 1077,188 1184,190 1291,190 1398,192 1505,192 1612,192 1719,192 1826,194 1933,194 2040,194 2147,192 2254,192"/>
+                <TextEquiv>
+                    <Unicode>kordat über Bestimmung und Gewähr der Viehhauptmängel verlezt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kordat über Bestimmung und Gewähr der Viehhauptmängel verlezt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

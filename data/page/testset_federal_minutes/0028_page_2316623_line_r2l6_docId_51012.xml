@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:57.622+02:00</Created>
+        <LastChange>2020-08-22T11:23:27.235+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749396" pageNr="24" tsid="37762091" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VQYPGLNAAOCSNZZVNUDJYDYE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPWSTMXVDKSTVNGIPKQQKCUA" imageId="14364572"/>
+    </Metadata>
+    <Page imageFilename="0028_page_2316623_line_r2l6_docId_51012.jpg" imageWidth="1792" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425540640" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1792,0 1792,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 1674,236 1692,142 1085,148 1013,101 926,149 562,101 101,133"/>
+                <Baseline points="115,174 193,176 271,176 349,176 427,178 505,178 583,178 661,180 739,180 817,182 896,182 974,184 1052,184 1130,186 1208,186 1286,188 1364,188 1442,190 1520,192 1598,192 1677,194"/>
+                <TextEquiv>
+                    <Unicode>An Joh. Kleinwitz, in Strassburg, per Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Joh. Kleinwitz, in Strassburg, per Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

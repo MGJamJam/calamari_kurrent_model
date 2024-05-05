@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:33.637+02:00</Created>
+        <LastChange>2020-09-22T15:27:50.320+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519148" pageNr="134" tsid="49307749" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EQOZSMKSOPVNWOUPDLBRKPBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MNYQSJCAUMVCZBDVDOSHDWFC" imageId="15086081"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2457221_line_r2l10_docId_51515.jpg" imageWidth="1258" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425255783" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1258,0 1258,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 796,176 856,220 1157,180 1158,136 895,108 610,130 580,100 468,129 290,102 101,125 100,172"/>
+                <Baseline points="113,162 164,162 216,162 267,162 319,162 371,162 422,162 474,162 525,164 577,164 629,165 680,166 732,166 783,168 835,168 887,168 938,168 990,170 1041,170 1093,170 1145,170"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="119,122 119,182 210,182 210,122"/>
+                    <TextEquiv>
+                        <Unicode>wie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="247,122 247,182 330,182 330,122"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="383,124 383,184 723,184 723,124"/>
+                    <TextEquiv>
+                        <Unicode>Rekurrenten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="775,129 775,189 1159,189 1159,129"/>
+                    <TextEquiv>
+                        <Unicode>mitzutheilen.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>wie den Rekurrenten mitzutheilen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

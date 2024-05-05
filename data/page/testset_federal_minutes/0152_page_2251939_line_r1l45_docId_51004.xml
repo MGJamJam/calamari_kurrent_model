@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:52.426+02:00</Created>
+        <LastChange>2020-08-22T07:37:24.923+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745653" pageNr="132" tsid="37715562" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GAAOSJOPHGTRZFUPXTAYYUNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FEVRPUYGLEZXUGGHSNNCWEHU" imageId="14360833"/>
+    </Metadata>
+    <Page imageFilename="0152_page_2251939_line_r1l45_docId_51004.jpg" imageWidth="2353" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426201325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2353,0 2353,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 1358,195 1448,253 1730,188 2022,248 2253,193 2205,100 1987,159 100,127"/>
+                <Baseline points="117,187 223,187 329,189 435,189 541,189 647,189 753,189 859,189 965,189 1071,187 1177,187 1283,187 1389,187 1495,187 1601,187 1707,185 1813,185 1919,185 2025,185 2131,185 2237,187"/>
+                <TextEquiv>
+                    <Unicode>nach den gemachten sachbezüglichen Erfahrungen, eine Vermehrung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach den gemachten sachbezüglichen Erfahrungen, eine Vermehrung der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

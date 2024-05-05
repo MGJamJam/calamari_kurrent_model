@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:46.465+02:00</Created>
+        <LastChange>2020-08-22T11:30:28.707+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750524" pageNr="48" tsid="49309331" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BNLNVHGMAGAWMLBASDVADKRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJFWQQRNJREOPLWHCUAVMESJ" imageId="14365682"/>
+    </Metadata>
+    <Page imageFilename="0062_page_2466209_line_r2l10_docId_51514.jpg" imageWidth="744" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425310603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 744,0 744,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,208 165,196 210,220 242,186 330,176 644,179 643,118 613,105 594,124 442,138 412,109 351,135 307,108 263,150 203,149 136,100 100,109"/>
+                <Baseline points="114,176 139,178 165,178 191,176 217,176 243,176 268,175 294,174 320,174 346,172 372,171 397,170 423,170 449,170 475,169 501,168 526,168 552,169 578,170 604,170 630,172"/>
+                <TextEquiv>
+                    <Unicode>Liquidation des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Liquidation des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:22.900+02:00</Created>
+        <LastChange>2020-11-16T10:49:57.587+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745327" pageNr="102" tsid="49318994" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BZXYXOYFIYMYTMHVRMNVESIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JOHVHVPFMUAUOGTKWWSQFWUX" imageId="14360511"/>
+    </Metadata>
+    <Page imageFilename="0184_page_370190_line_r1l13_docId_17240.jpg" imageWidth="2101" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252294" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2101,0 2101,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 1554,191 1784,243 2001,215 2001,130 100,160"/>
+                <Baseline points="112,183 205,185 299,185 393,187 487,187 581,187 675,187 769,189 863,189 957,189 1051,189 1144,189 1238,189 1332,187 1426,187 1520,187 1614,187 1708,187 1802,187 1896,187 1990,185"/>
+                <TextEquiv>
+                    <Unicode>gung hat Herr Museumsdirektor Angst folgende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gung hat Herr Museumsdirektor Angst folgende</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

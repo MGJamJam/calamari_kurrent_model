@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:47.782+02:00</Created>
+        <LastChange>2020-10-08T08:03:11.149+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749846" pageNr="38" tsid="49312299" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PZSZFUYTKBHNCWGXPBWYEUTL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIRWPWFAVWCNGEJUVASBXANS" imageId="14365018"/>
+    </Metadata>
+    <Page imageFilename="0057_page_2374521_line_r1l2_docId_51498.jpg" imageWidth="801" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425484209" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 801,0 801,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,239 153,202 359,188 431,221 479,187 536,185 616,237 701,177 699,117 642,108 551,136 496,118 469,146 347,153 286,100 100,171"/>
+                <Baseline points="115,191 143,189 172,189 201,189 229,187 258,187 287,187 315,185 344,183 373,183 402,181 430,181 459,179 488,178 516,177 545,177 574,177 602,175 631,175 660,175 689,177 716,174"/>
+                <TextEquiv>
+                    <Unicode>in Bern ca. Freiburgi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Bern ca. Freiburgi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

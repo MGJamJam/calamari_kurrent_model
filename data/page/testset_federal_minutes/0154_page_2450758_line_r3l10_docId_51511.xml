@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:42.825+02:00</Created>
+        <LastChange>2020-09-21T15:04:56.769+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750752" pageNr="110" tsid="49309677" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ACYXVECIUMZDPWFXRPNIJNZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ETXIAZZBPBIHYCKPYNKYHAOB" imageId="14365910"/>
+    </Metadata>
+    <Page imageFilename="0154_page_2450758_line_r3l10_docId_51511.jpg" imageWidth="2363" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425319392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2363,0 2363,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 321,246 492,190 717,241 1617,193 2112,259 2263,206 2270,170 1886,124 101,105"/>
+                <Baseline points="115,178 221,178 328,180 434,180 541,182 648,182 754,184 861,184 967,186 1074,186 1181,188 1287,190 1394,190 1500,192 1607,192 1714,194 1820,195 1927,196 2033,198 2140,198 2247,200"/>
+                <TextEquiv>
+                    <Unicode>richt gegen August Schaub von Ormalingen wege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>richt gegen August Schaub von Ormalingen wege</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:45.382+02:00</Created>
+        <LastChange>2020-09-22T15:27:39.229+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519121" pageNr="116" tsid="49307675" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TAIOQZRHTHTQYRHFZPFOPAWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YCEFBZJKMALDEWRQBZXVGSLQ" imageId="15086054"/>
+    </Metadata>
+    <Page imageFilename="0156_page_2457144_line_r1l18_docId_51515.jpg" imageWidth="2364" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425252870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2364,0 2364,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,241 2264,241 2264,147 194,177 100,100 100,241"/>
+                <Baseline points="115,214 221,212 328,212 435,212 541,212 648,212 755,212 861,212 968,212 1075,212 1182,212 1288,212 1395,212 1502,212 1608,212 1715,212 1822,212 1928,212 2035,212 2142,212 2249,212"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="184,172 184,232 430,232 430,172"/>
+                    <TextEquiv>
+                        <Unicode>genössischen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="469,172 469,232 687,232 687,172"/>
+                    <TextEquiv>
+                        <Unicode>Minister</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="725,172 725,232 753,232 753,172"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="782,172 782,232 943,232 943,172"/>
+                    <TextEquiv>
+                        <Unicode>Paris</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="981,172 981,232 1020,232 1020,172"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1058,172 1058,232 1248,232 1248,172"/>
+                    <TextEquiv>
+                        <Unicode>erlassen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1285,172 1285,232 1361,232 1361,172"/>
+                    <TextEquiv>
+                        <Unicode>zur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1400,172 1400,232 1770,232 1770,172"/>
+                    <TextEquiv>
+                        <Unicode>Beschleunigung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1817,172 1817,232 1893,232 1893,172"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1941,172 1941,232 2244,232 2244,172"/>
+                    <TextEquiv>
+                        <Unicode>Rükstellung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>genössischen Minister in Paris zu erlassen zur Beschleunigung der Rükstellung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

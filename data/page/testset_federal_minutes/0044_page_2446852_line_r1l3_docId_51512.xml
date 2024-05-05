@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:11.315+02:00</Created>
+        <LastChange>2020-08-22T11:29:58.064+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750478" pageNr="33" tsid="49309274" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BNOWFEIILXUYMOVLGFPHBLZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCSIWHCVHKPGNQBUAPWMSVAT" imageId="14365636"/>
+    </Metadata>
+    <Page imageFilename="0044_page_2446852_line_r1l3_docId_51512.jpg" imageWidth="751" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425308558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 751,0 751,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 167,211 197,241 404,250 557,249 604,204 649,210 651,124 602,153 526,155 478,114 403,145 368,112 102,111"/>
+                <Baseline points="115,190 141,191 167,192 193,193 219,194 245,195 271,196 297,196 323,198 349,198 375,198 401,199 427,200 453,200 479,200 505,200 531,200 557,198 583,198 609,198 635,196"/>
+                <TextEquiv>
+                    <Unicode>Auslieferung Kaiser.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auslieferung Kaiser.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:04.798+02:00</Created>
+        <LastChange>2020-09-28T09:43:32.254+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519069" pageNr="76" tsid="49307526" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BSEVPZHPYZORJQKUREOSBDML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JUXFGJZUZQIZTMIMCYPNGSEX" imageId="15086002"/>
+    </Metadata>
+    <Page imageFilename="0104_page_2457171_line_r2l23_docId_51515.jpg" imageWidth="2363" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2363,0 2363,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 1668,179 2194,244 2263,116 101,132 100,227"/>
+                <Baseline points="113,169 219,169 326,167 433,167 540,167 647,167 753,169 860,169 967,169 1074,171 1181,171 1287,173 1394,175 1501,175 1608,177 1715,177 1821,179 1928,180 2035,181 2142,181 2249,183"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="108,129 108,189 329,189 329,129"/>
+                    <TextEquiv>
+                        <Unicode>theilung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="375,127 375,187 457,187 457,127"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="513,127 513,187 650,187 650,127"/>
+                    <TextEquiv>
+                        <Unicode>einer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="688,129 688,189 955,189 955,129"/>
+                    <TextEquiv>
+                        <Unicode>Antwort</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1001,130 1001,190 1074,190 1074,130"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1112,132 1112,192 1452,192 1452,132"/>
+                    <TextEquiv>
+                        <Unicode>österreihischen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1499,135 1499,195 1554,195 1554,135"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1590,137 1590,197 1654,197 1654,137"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1710,139 1710,199 1959,199 1959,139"/>
+                    <TextEquiv>
+                        <Unicode>bayarische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2005,141 2005,201 2253,201 2253,141"/>
+                    <TextEquiv>
+                        <Unicode>Regierung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>theilung von einer Antwort der österreichischen an die bayerische Regierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>theilung von einer Antwort der österreichischen an die bayerische Regierung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

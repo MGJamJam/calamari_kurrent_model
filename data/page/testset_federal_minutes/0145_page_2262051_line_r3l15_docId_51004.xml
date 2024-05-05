@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:37.520+02:00</Created>
+        <LastChange>2020-11-16T08:18:03.175+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745639" pageNr="125" tsid="49318838" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GKKVLRFXBFKQOCCIOJMLNNWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VUDBFPNUETCCHPZXQWXGEQBB" imageId="14360819"/>
+    </Metadata>
+    <Page imageFilename="0145_page_2262051_line_r3l15_docId_51004.jpg" imageWidth="2271" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426200291" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2271,0 2271,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 1894,223 2171,180 2171,100 100,150"/>
+                <Baseline points="112,181 214,181 316,179 418,179 521,179 623,179 725,179 828,177 930,177 1032,177 1135,177 1237,175 1339,175 1441,175 1544,175 1646,173 1748,173 1851,173 1953,171 2055,171 2158,171"/>
+                <TextEquiv>
+                    <Unicode>lezungen im dortigen Kantone stattgefunden haben u. zwar die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lezungen im dortigen Kantone stattgefunden haben u. zwar die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

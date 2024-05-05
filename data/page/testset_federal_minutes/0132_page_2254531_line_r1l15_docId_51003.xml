@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:11.465+02:00</Created>
+        <LastChange>2020-11-16T08:12:17.476+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745612" pageNr="114" tsid="49318828" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FJPYHLYWUVQYERFZRDZASTVJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ECBAZEBJBZBOCDORLSGNMIFN" imageId="14360792"/>
+    </Metadata>
+    <Page imageFilename="0132_page_2254531_line_r1l15_docId_51003.jpg" imageWidth="1658" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426198757" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1658,0 1658,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,264 508,203 903,245 1458,209 1513,251 1558,229 1558,131 805,164 675,100 536,159 100,161"/>
+                <Baseline points="115,199 186,199 257,199 329,199 400,199 472,199 543,199 614,201 686,201 757,201 829,201 900,201 971,201 1043,201 1114,201 1186,201 1257,201 1328,199 1400,199 1471,199 1543,199"/>
+                <TextEquiv>
+                    <Unicode>1850 hievon Kenntniß zu geben (S. Ml.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1850 hievon Kenntniß zu geben (S. Ml.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

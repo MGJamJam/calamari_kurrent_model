@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:34.730+02:00</Created>
+        <LastChange>2020-08-22T11:32:04.645+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750666" pageNr="86" tsid="49309523" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CKDCCZLXGBHFOHZMZIDJWNHV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NYYGJSLNNHWFLTIQYJLEVRRA" imageId="14365824"/>
+    </Metadata>
+    <Page imageFilename="0119_page_2456248_line_r1l9_docId_51514.jpg" imageWidth="717" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425315895" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 717,0 717,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,194 485,186 544,228 617,187 616,123 581,134 428,108 356,122 329,150 246,153 205,116 100,108"/>
+                <Baseline points="115,180 140,180 166,179 192,178 217,178 243,178 269,178 294,178 320,178 346,176 371,176 397,176 423,176 448,176 474,176 500,176 525,176 551,176 577,176 603,176"/>
+                <TextEquiv>
+                    <Unicode>Tod und Nachlass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tod und Nachlass</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

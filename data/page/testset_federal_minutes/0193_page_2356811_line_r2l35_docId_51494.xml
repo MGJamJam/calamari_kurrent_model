@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:35.350+02:00</Created>
+        <LastChange>2020-08-22T11:28:27.626+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749771" pageNr="137" tsid="37764174" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AKJIBJZBVGOPAPWOKBBGLGSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNKIXNAKCFUQOBMNQEZTXGLB" imageId="14364943"/>
+    </Metadata>
+    <Page imageFilename="0193_page_2356811_line_r2l35_docId_51494.jpg" imageWidth="1566" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425556169" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1566,0 1566,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 158,210 285,248 326,209 652,206 848,249 919,190 1466,208 1465,155 1355,120 1120,161 1076,128 1024,167 676,115 580,160 469,100 400,161 179,130 100,166"/>
+                <Baseline points="115,198 181,198 248,196 315,196 382,194 449,194 515,194 582,192 649,192 716,190 783,190 849,190 916,190 983,188 1050,188 1117,188 1183,188 1250,188 1317,188 1384,188 1451,190"/>
+                <TextEquiv>
+                    <Unicode>zurückgreifende Vollziehung eintreten könne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zurückgreifende Vollziehung eintreten könne.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

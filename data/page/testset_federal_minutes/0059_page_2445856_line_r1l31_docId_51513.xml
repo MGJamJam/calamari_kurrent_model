@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:40.073+02:00</Created>
+        <LastChange>2020-08-22T11:30:23.021+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750517" pageNr="45" tsid="49309320" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HIBEVKXCGUOEYWTJSKTOOYEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGOXDNYRYVCHMIKNCGXAINHX" imageId="14365675"/>
+    </Metadata>
+    <Page imageFilename="0059_page_2445856_line_r1l31_docId_51513.jpg" imageWidth="2184" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425310162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2184,0 2184,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 851,183 999,235 1053,190 1333,246 1624,194 1847,250 2084,187 1735,109 101,147"/>
+                <Baseline points="115,178 212,178 310,178 408,178 506,180 604,180 701,182 799,182 897,184 995,184 1093,186 1190,186 1288,188 1386,188 1484,188 1582,190 1679,190 1777,190 1875,190 1973,190 2071,190"/>
+                <TextEquiv>
+                    <Unicode>Kenntnisgabe von Bewilligung und Vollzug der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kenntnisgabe von Bewilligung und Vollzug der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

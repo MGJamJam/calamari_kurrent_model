@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:45.877+02:00</Created>
+        <LastChange>2020-11-16T08:19:18.501+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745647" pageNr="129" tsid="49318840" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SVPJBOGPLUCXETGCKIGWINVX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVTOVAGVMDSLATWKXJDKMHDZ" imageId="14360827"/>
+    </Metadata>
+    <Page imageFilename="0149_page_2253262_line_r2l19_docId_51004.jpg" imageWidth="2093" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426200840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2093,0 2093,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,250 180,184 280,251 463,189 553,256 691,196 757,244 1075,201 1130,257 1286,195 1993,211 1993,150 1880,117 101,128"/>
+                <Baseline points="47,180 113,181 206,183 299,183 392,185 486,187 579,187 672,187 766,189 859,189 952,189 1046,191 1139,191 1232,191 1325,191 1419,193 1512,193 1605,193 1699,193 1792,195 1885,195 1979,197"/>
+                <TextEquiv>
+                    <Unicode>gut 1849 um Zulage zu seinem Gehalt während der Dauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gut 1849 um Zulage zu seinem Gehalt während der Dauer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

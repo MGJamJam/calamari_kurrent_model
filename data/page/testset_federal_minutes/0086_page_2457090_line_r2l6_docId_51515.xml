@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:31.759+02:00</Created>
+        <LastChange>2020-09-28T09:32:43.294+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519051" pageNr="64" tsid="49307470" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JNDBSONDYFROLDARVOUEKMAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXHYXSJVLQJYXTLWLBNYIYZL" imageId="15085984"/>
+    </Metadata>
+    <Page imageFilename="0086_page_2457090_line_r2l6_docId_51515.jpg" imageWidth="2188" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425245178" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2188,0 2188,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,185 2088,192 2088,129 1909,117 100,136 100,185"/>
+                <Baseline points="113,174 211,176 309,176 407,176 505,178 603,178 701,178 799,178 897,178 995,178 1094,178 1192,178 1290,178 1388,178 1486,178 1584,180 1682,180 1780,180 1878,182 1976,184 2075,184"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="125,135 125,195 209,195 209,135"/>
+                    <TextEquiv>
+                        <Unicode>An</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="258,136 258,196 329,196 329,136"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="357,138 357,198 660,198 660,138"/>
+                    <TextEquiv>
+                        <Unicode>ranzösische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="695,138 695,198 1047,198 1047,138"/>
+                    <TextEquiv>
+                        <Unicode>esandtscaft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1083,138 1083,198 1406,198 1406,138"/>
+                    <TextEquiv>
+                        <Unicode>aufSchreiben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1442,138 1442,198 1512,198 1512,138"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1562,140 1562,200 1625,200 1625,140"/>
+                    <TextEquiv>
+                        <Unicode>28.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1646,141 1646,201 2069,201 2069,141"/>
+                    <TextEquiv>
+                        <Unicode>Novembera..</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>An die französische Gesandtschaft auf Schreiben vom 28. November a. p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die französische Gesandtschaft auf Schreiben vom 28. November a. p.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

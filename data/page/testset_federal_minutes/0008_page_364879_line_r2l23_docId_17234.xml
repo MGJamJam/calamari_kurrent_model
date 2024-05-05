@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:01.845+02:00</Created>
+        <LastChange>2020-11-12T06:59:12.420+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746259" pageNr="5" tsid="49318382" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YPSXZZMDYVRBQFYSQPIGOSOY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKQCYJRETNTCAEGBUOQHKBPV" imageId="14361439"/>
+    </Metadata>
+    <Page imageFilename="0008_page_364879_line_r2l23_docId_17234.jpg" imageWidth="1272" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425999385" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1272,0 1272,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,202 279,240 483,208 571,259 648,210 854,202 1053,260 1172,219 1171,121 1050,100 870,150 743,117 666,151 570,102 420,164 100,127"/>
+                <Baseline points="114,188 166,190 218,192 270,192 323,194 375,194 427,194 480,194 532,193 584,192 637,192 689,191 741,190 793,190 846,190 898,188 950,188 1003,189 1055,190 1107,190 1160,192"/>
+                <TextEquiv>
+                    <Unicode>An die Petantin z. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Petantin z. K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:35.315+02:00</Created>
+        <LastChange>2020-10-12T21:28:55.478+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749570" pageNr="80" tsid="49314604" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LYABEBJNMHENSXETROSDOXCW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDXEVKBJQXMWDRYFKMJYDEMC" imageId="14364746"/>
+    </Metadata>
+    <Page imageFilename="0175_page_411481_line_r1l3_docId_17281.jpg" imageWidth="2270" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425596654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2270,0 2270,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,232 2115,244 2170,127 100,150"/>
+                <Baseline points="115,194 217,196 319,196 421,196 523,196 625,198 727,198 829,198 931,196 1033,196 1136,196 1238,196 1340,196 1442,194 1544,194 1646,194 1748,192 1850,192 1952,190 2054,190 2157,188"/>
+                <TextEquiv>
+                    <Unicode>Die Bewilligung zur Erwerbung eines schweiz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Bewilligung zur Erwerbung eines schweiz¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

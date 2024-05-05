@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:34.217+02:00</Created>
+        <LastChange>2020-11-17T08:13:22.262+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744805" pageNr="123" tsid="49319294" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYYVRMQFKSWTNVEJSPCBRHEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGXLQCZAIUPXDMBBOBGUCWXE" imageId="14360196"/>
+    </Metadata>
+    <Page imageFilename="0194_page_308787_line_r2l4_docId_13786.jpg" imageWidth="2037" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426365358" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2037,0 2037,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,198 1805,225 1937,144 100,117"/>
+                <Baseline points="114,182 204,182 295,182 385,182 476,182 566,182 657,182 747,182 838,180 928,180 1019,180 1109,178 1200,178 1290,177 1381,176 1471,176 1562,174 1652,174 1743,172 1833,172 1924,170 1935,168"/>
+                <TextEquiv>
+                    <Unicode>der Einführung des Alkoholmonopols nichts entgegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Einführung des Alkoholmonopols nichts entgegen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

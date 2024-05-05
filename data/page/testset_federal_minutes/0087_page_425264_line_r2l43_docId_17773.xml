@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:38.885+02:00</Created>
+        <LastChange>2020-08-22T11:24:41.806+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749268" pageNr="42" tsid="37762554" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FJOOJZDMXRPLSLNZRAHJHVYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDUJQDSOVIPPFMXANENTOQOJ" imageId="14364444"/>
+    </Metadata>
+    <Page imageFilename="0087_page_425264_line_r2l43_docId_17773.jpg" imageWidth="847" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425591146" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 847,0 847,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 141,234 263,208 341,232 413,203 529,237 597,216 621,237 654,205 747,199 747,116 658,124 607,100 401,146 315,119 261,151 169,115 100,132"/>
+                <Baseline points="116,174 148,177 180,178 213,181 245,182 278,183 310,184 342,184 375,184 407,184 440,184 472,184 505,184 537,184 569,183 602,182 634,182 667,182 699,183 732,184"/>
+                <TextEquiv>
+                    <Unicode>Handel, Industrie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Handel, Industrie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:40:22.839+02:00</Created>
+        <LastChange>2020-11-12T07:52:42.585+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746798" pageNr="100" tsid="49318492" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MZUVNUHPMYNWKZMAYGQWSZTQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQFUERMYDMWDFMXUBQGJUIPC" imageId="14361978"/>
+    </Metadata>
+    <Page imageFilename="0172_page_366418_line_r2l10_docId_17234.jpg" imageWidth="2242" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426011923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2242,0 2242,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 2142,189 1930,114 761,168 100,103"/>
+                <Baseline points="112,172 212,177 313,182 414,185 515,187 616,189 716,190 817,190 918,190 1019,190 1120,190 1220,188 1321,188 1422,186 1523,186 1624,184 1724,184 1825,184 1926,182 2027,184 2128,184"/>
+                <TextEquiv>
+                    <Unicode>Materialschaden entstand - wird die weitern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Materialschaden entstand - wird die weitern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:16.421+02:00</Created>
+        <LastChange>2020-08-22T11:33:32.394+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750796" pageNr="124" tsid="49309753" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UAXUKJDAVRTIWJSKYKUWERND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNRQEFXZJBYLVMILRFXMKOPR" imageId="14365954"/>
+    </Metadata>
+    <Page imageFilename="0171_page_2464841_line_r2l7_docId_51514.jpg" imageWidth="1131" imageHeight="304">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425321406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1131,0 1131,304 0,304"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 1031,192 1030,149 950,122 694,145 630,100 495,100 382,152 237,149 197,109 100,139"/>
+                <Baseline points="114,185 159,183 204,183 249,181 294,180 340,179 385,179 430,179 475,179 520,179 566,179 611,179 656,179 701,179 746,179 792,179 837,179 882,179 927,179 972,179 1018,179"/>
+                <TextEquiv>
+                    <Unicode>Vormerk und ad acta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vormerk und ad acta.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

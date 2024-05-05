@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:13.430+02:00</Created>
+        <LastChange>2020-11-16T07:32:09.255+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745421" pageNr="41" tsid="49318778" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MVTVRMXQSQNJSDVGIQATSAKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMVDRPAKRSMYEDDNWDGLOVLG" imageId="14360605"/>
+    </Metadata>
+    <Page imageFilename="0048_page_2256991_line_r2l43_docId_51004.jpg" imageWidth="2313" imageHeight="313">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426188577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2313,0 2313,313 0,313"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,180 1661,210 2213,185 2213,133 100,138"/>
+                <Baseline points="113,163 217,165 321,165 426,165 530,165 635,165 739,165 843,163 948,163 1052,163 1157,163 1261,163 1365,161 1470,161 1574,161 1679,161 1783,161 1887,161 1992,161 2096,161 2201,161"/>
+                <TextEquiv>
+                    <Unicode>als ein Rest in Auszwuck nehmen und zwar in jedem ihnen be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>als ein Rest in Auszwuck nehmen und zwar in jedem ihnen be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

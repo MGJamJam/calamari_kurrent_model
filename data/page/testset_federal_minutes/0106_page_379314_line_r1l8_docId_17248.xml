@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:49.674+02:00</Created>
+        <LastChange>2020-08-22T11:17:54.702+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746538" pageNr="71" tsid="37760135" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CGLEDVZVIUFSSNLEMVYLPLGI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKCRALZYJJFAQNONSPOIXSOT" imageId="14361718"/>
+    </Metadata>
+    <Page imageFilename="0106_page_379314_line_r1l8_docId_17248.jpg" imageWidth="2154" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425955901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2154,0 2154,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 2054,240 2054,116 1961,101 1723,162 100,115"/>
+                <Baseline points="116,186 212,186 308,186 404,188 500,188 596,188 692,188 788,188 884,188 980,188 1077,188 1173,188 1269,190 1365,190 1461,190 1557,190 1653,190 1749,190 1845,190 1941,190 2038,192"/>
+                <TextEquiv>
+                    <Unicode>Kantons Tessin dringend ersucht, die notwendigen Maßre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kantons Tessin dringend ersucht, die notwendigen Maßre¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

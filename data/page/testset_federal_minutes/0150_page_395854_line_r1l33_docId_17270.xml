@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:20:01.901+02:00</Created>
+        <LastChange>2020-08-22T11:25:44.795+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748475" pageNr="145" tsid="37762938" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EBPVOAPAJTHEXGUGJSQVFFXZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKBJLFVHTWLBDBTYSLVYNRRU" imageId="14363655"/>
+    </Metadata>
+    <Page imageFilename="0150_page_395854_line_r1l33_docId_17270.jpg" imageWidth="2328" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425724874" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 2227,263 2228,143 100,127"/>
+                <Baseline points="114,191 219,191 324,191 429,191 534,191 639,191 744,191 849,191 954,191 1059,191 1164,191 1269,191 1374,193 1479,193 1584,193 1689,195 1794,195 1899,197 2004,197 2109,199 2214,199"/>
+                <TextEquiv>
+                    <Unicode>2. Nach Art. 46 des eidg, Esepropriationsgesetzes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Nach Art. 46 des eidg, Esepropriationsgesetzes,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

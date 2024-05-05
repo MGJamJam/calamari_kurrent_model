@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:19.338+02:00</Created>
+        <LastChange>2020-11-16T10:26:05.399+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745069" pageNr="65" tsid="49318943" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UYKMFGTCYBCRBQSGQEJLNHZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBRKCJCIHDBTSKVHRFAKUQQC" imageId="14360398"/>
+    </Metadata>
+    <Page imageFilename="0112_page_375375_line_r2l24_docId_17243.jpg" imageWidth="2102" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426247096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2102,0 2102,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2002,214 2002,140 1802,103 1703,150 100,118"/>
+                <Baseline points="113,173 206,175 300,176 394,177 488,177 582,177 676,177 770,177 864,177 958,177 1052,177 1145,177 1239,177 1333,177 1427,177 1521,177 1615,177 1709,177 1803,178 1897,179 1991,179 2036,187"/>
+                <TextEquiv>
+                    <Unicode>Eisausbeutung das Herrn Fritz Stüssi in Glarus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisausbeutung das Herrn Fritz Stüssi in Glarus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

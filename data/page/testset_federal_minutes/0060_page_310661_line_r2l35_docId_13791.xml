@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:59:17.463+02:00</Created>
+        <LastChange>2020-11-16T14:17:55.848+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744743" pageNr="41" tsid="49319050" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CCVDPHJQJMFMJPLOMFOVBKTX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WGQYESIWZBPYLVVGECOYNUTC" imageId="14360134"/>
+    </Metadata>
+    <Page imageFilename="0060_page_310661_line_r2l35_docId_13791.jpg" imageWidth="2028" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426296474" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2028,0 2028,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,233 1914,209 1925,101 1620,152 1555,108 100,147"/>
+                <Baseline points="113,208 203,208 293,208 383,208 473,206 563,205 653,203 744,202 834,200 924,197 1014,194 1104,193 1194,190 1284,187 1375,184 1465,181 1555,178 1645,175 1735,172 1825,169 1916,166 1941,165"/>
+                <TextEquiv>
+                    <Unicode>das schweiz. Eisenbahnverbandes mit Schreiben vom 27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das schweiz. Eisenbahnverbandes mit Schreiben vom 27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

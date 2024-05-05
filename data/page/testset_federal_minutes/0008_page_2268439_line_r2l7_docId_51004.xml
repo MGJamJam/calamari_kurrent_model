@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:47.197+02:00</Created>
+        <LastChange>2020-08-22T07:33:06.154+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745358" pageNr="7" tsid="37714775" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LMUMWBHCXBSTLTIKFXAHVDWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LIUNTEMBFOKXCRQMHZVUKTOB" imageId="14360542"/>
+    </Metadata>
+    <Page imageFilename="0008_page_2268439_line_r2l7_docId_51004.jpg" imageWidth="2248" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426184054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2248,0 2248,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,178 2147,198 2148,145 1674,124 102,120"/>
+                <Baseline points="113,146 214,150 315,152 416,154 517,156 618,158 719,160 820,162 921,166 1022,167 1124,170 1225,172 1326,174 1427,176 1528,178 1629,180 1730,182 1831,184 1932,186 2033,188 2135,190"/>
+                <TextEquiv>
+                    <Unicode>niß aller Kantone hinreichend sei, lenkt es die Aufmerksamkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>niß aller Kantone hinreichend sei, lenkt es die Aufmerksamkeit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

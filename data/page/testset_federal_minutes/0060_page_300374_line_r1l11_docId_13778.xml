@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:49.174+02:00</Created>
+        <LastChange>2020-11-18T16:01:53.408+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744402" pageNr="36" tsid="49319326" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UMHVYFRIRTWFXRHUMHTBVCNP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SXBNTYJKHVYVMKNEWJSNRKNY" imageId="14359793"/>
+    </Metadata>
+    <Page imageFilename="0060_page_300374_line_r1l11_docId_13778.jpg" imageWidth="2107" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426413224" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2107,0 2107,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,240 511,194 724,250 915,198 1841,241 2006,214 2007,154 100,115"/>
+                <Baseline points="113,192 207,192 301,192 395,190 489,190 583,190 677,190 771,190 865,190 959,190 1054,190 1148,190 1242,190 1336,192 1430,192 1524,192 1618,194 1712,194 1806,196 1900,198 1995,200"/>
+                <TextEquiv>
+                    <Unicode>Protokoll- Auszug ans Militär-Departement, sowie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokoll- Auszug ans Militär-Departement, sowie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

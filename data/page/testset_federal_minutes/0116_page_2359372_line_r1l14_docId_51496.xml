@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:55.700+02:00</Created>
+        <LastChange>2020-10-08T08:45:19.900+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750013" pageNr="74" tsid="49312410" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=USBUMKJWGCBLGMTAUIJBHXCD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSRGXXXIMUIDUHOVPMQQDEZS" imageId="14365185"/>
+    </Metadata>
+    <Page imageFilename="0116_page_2359372_line_r1l14_docId_51496.jpg" imageWidth="794" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425489188" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 794,0 794,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,249 136,255 198,192 300,208 346,181 694,183 694,113 610,153 564,110 500,143 473,116 430,132 397,100 354,141 308,149 268,149 200,106 100,139"/>
+                <Baseline points="114,184 142,182 170,181 199,180 227,180 256,178 284,180 312,180 341,180 369,180 398,180 426,180 454,181 483,182 511,182 540,182 568,180 596,180 625,179 653,178 682,176 713,176"/>
+                <TextEquiv>
+                    <Unicode>Pensionssache des Benedikt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pensionssache des Benedikt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

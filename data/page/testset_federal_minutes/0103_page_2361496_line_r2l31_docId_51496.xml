@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:28.849+02:00</Created>
+        <LastChange>2020-10-08T08:27:02.761+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749977" pageNr="68" tsid="49312388" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ABULREJZENQWMAMMICUHAMXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MVQGFYWNMGLHBSUBLAPIBESO" imageId="14365149"/>
+    </Metadata>
+    <Page imageFilename="0103_page_2361496_line_r2l31_docId_51496.jpg" imageWidth="2434" imageHeight="414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425488366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2434,0 2434,414 0,414"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,262 487,314 1343,250 1470,310 1566,246 2036,240 2141,300 2334,226 2333,144 100,212"/>
+                <Baseline points="113,253 223,249 333,247 444,245 554,243 665,241 775,241 885,241 996,241 1106,241 1217,241 1327,241 1437,241 1548,239 1658,239 1769,239 1879,237 1989,235 2100,233 2210,231 2321,227"/>
+                <TextEquiv>
+                    <Unicode>Stand der Angelegenheit und meldet noch gleichzeitig einen Joseph Winiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stand der Angelegenheit und meldet noch gleichzeitig einen Joseph Winiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

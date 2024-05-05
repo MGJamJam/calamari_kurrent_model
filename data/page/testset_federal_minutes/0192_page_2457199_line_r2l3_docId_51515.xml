@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:49.768+02:00</Created>
+        <LastChange>2020-09-22T15:27:53.303+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519157" pageNr="139" tsid="49307775" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QEXSJKLYBTDOHVWDJWNERZQZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RRUMPYSOCGYHQEPFIVMZPCQA" imageId="15086090"/>
+    </Metadata>
+    <Page imageFilename="0192_page_2457199_line_r2l3_docId_51515.jpg" imageWidth="539" imageHeight="312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425256491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 539,0 539,312 0,312"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,189 171,181 227,201 304,193 324,212 371,210 439,169 437,108 373,110 341,133 315,109 267,100 213,135 168,115 128,144 100,145 102,189"/>
+                <Baseline points="114,171 140,171 166,171 192,170 218,169 244,167 270,167 296,165 322,165 348,164 374,163 400,162 426,161"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="119,126 119,186 427,186 427,126"/>
+                    <TextEquiv>
+                        <Unicode>Frankreich.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Frankreich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

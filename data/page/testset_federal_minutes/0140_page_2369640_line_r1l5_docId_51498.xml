@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:48.977+02:00</Created>
+        <LastChange>2020-10-08T08:57:45.268+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750081" pageNr="89" tsid="49312457" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KNSBOYUITJTSQLPRMBKVPNZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXCHZHCXHZZYGYDIEFCJQGCP" imageId="14365253"/>
+    </Metadata>
+    <Page imageFilename="0140_page_2369640_line_r1l5_docId_51498.jpg" imageWidth="1519" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425491260" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1519,0 1519,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 552,185 678,238 830,189 925,241 991,200 1280,199 1325,245 1419,199 1419,168 1203,133 988,162 858,125 737,167 517,117 296,142 203,100 101,135"/>
+                <Baseline points="110,177 175,181 240,183 305,185 370,185 435,187 500,187 565,189 630,189 695,189 760,189 825,189 890,189 955,189 1020,191 1085,191 1150,191 1215,193 1280,194 1345,195 1410,197 1446,196"/>
+                <TextEquiv>
+                    <Unicode>Tanner, Joh. Jakob von Gais geb. 15. Okt. 1822 gew.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tanner, Joh. Jakob von Gais geb. 15. Okt. 1822 gew.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

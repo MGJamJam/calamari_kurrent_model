@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:08:44.719+02:00</Created>
+        <LastChange>2020-11-16T10:15:09.725+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744967" pageNr="47" tsid="49318924" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BZMGIQHDVFCUPXDDRFTSLGFM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NPWPXKNIVLKKBGCRUOHVAJXM" imageId="14360358"/>
+    </Metadata>
+    <Page imageFilename="0085_page_372585_line_r2l11_docId_17239.jpg" imageWidth="2159" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426244632" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2159,0 2159,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 2034,216 2059,146 1892,100 1763,151 100,149"/>
+                <Baseline points="113,184 209,182 306,180 403,180 499,178 596,178 693,178 789,178 886,178 983,178 1080,178 1176,180 1273,180 1370,180 1466,180 1563,180 1660,180 1756,180 1853,180 1950,178 2047,178 2068,176"/>
+                <TextEquiv>
+                    <Unicode>überhaupt und absolut ein Schrank kein notaren¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>überhaupt und absolut ein Schrank kein notaren¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

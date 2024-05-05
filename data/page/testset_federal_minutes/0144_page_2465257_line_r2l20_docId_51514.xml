@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:23.858+02:00</Created>
+        <LastChange>2020-09-21T14:58:39.143+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750727" pageNr="104" tsid="49309625" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GLJTWJRYDRFYDJAPJBWNOEOG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XAQRNZNTYSFJNQWRKTSCGUUV" imageId="14365885"/>
+    </Metadata>
+    <Page imageFilename="0144_page_2465257_line_r2l20_docId_51514.jpg" imageWidth="2382" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425318620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2382,0 2382,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 864,263 1026,197 1142,261 1426,193 1731,205 1812,278 2279,272 2282,171 1857,100 1362,165 100,116"/>
+                <Baseline points="113,194 220,194 328,194 436,196 543,196 651,196 759,196 866,196 974,196 1082,198 1190,198 1297,198 1405,198 1513,198 1620,198 1728,200 1836,200 1943,200 2051,201 2159,202 2267,202"/>
+                <TextEquiv>
+                    <Unicode>hin das Kriegsgericht in Sachen des Rekruten Lüthi ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hin das Kriegsgericht in Sachen des Rekruten Lüthi ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

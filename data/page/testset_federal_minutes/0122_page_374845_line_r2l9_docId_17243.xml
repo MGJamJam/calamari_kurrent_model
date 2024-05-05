@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:52.411+02:00</Created>
+        <LastChange>2020-08-22T07:36:20.589+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745174" pageNr="72" tsid="37715361" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FYZRSUGMTUJEPYWBPEWFHVJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAAXHOGUBCBCMMLAHKXGSHMT" imageId="14360412"/>
+    </Metadata>
+    <Page imageFilename="0122_page_374845_line_r2l9_docId_17243.jpg" imageWidth="2129" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426248185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2129,0 2129,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,185 1886,222 2029,193 2029,113 100,135"/>
+                <Baseline points="112,161 207,161 302,161 397,161 492,162 588,163 683,163 778,165 873,165 968,166 1064,167 1159,167 1254,169 1349,169 1444,169 1540,169 1635,169 1730,167 1825,167 1920,165 2016,163"/>
+                <TextEquiv>
+                    <Unicode>vom 2. Januar 1892 (Prot. vom 11. Februar 1893 No</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 2. Januar 1892 (Prot. vom 11. Februar 1893 No</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

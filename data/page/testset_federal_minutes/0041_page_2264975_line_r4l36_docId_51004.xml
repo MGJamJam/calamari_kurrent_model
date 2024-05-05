@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:59.627+02:00</Created>
+        <LastChange>2020-08-22T07:34:05.650+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745410" pageNr="34" tsid="37714942" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYYMLWRNZAXVGWWIBKSLFETX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWGISFHYBMYWJUJGABFSPOPP" imageId="14360594"/>
+    </Metadata>
+    <Page imageFilename="0041_page_2264975_line_r4l36_docId_51004.jpg" imageWidth="2307" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426187622" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2307,0 2307,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,238 2075,175 2207,156 2206,100 100,169"/>
+                <Baseline points="113,198 217,194 321,192 425,190 529,188 633,186 737,184 841,181 945,180 1049,178 1153,176 1257,174 1361,170 1465,168 1569,166 1673,162 1777,158 1881,155 1985,150 2089,144 2193,140"/>
+                <TextEquiv>
+                    <Unicode>derselben gegen den ehemaligen Bischof der Diözese Lausanna u. Gant eingehaltene Verfahren u. gegen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>derselben gegen den ehemaligen Bischof der Diözese Lausanna u. Gant eingehaltene Verfahren u. gegen des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

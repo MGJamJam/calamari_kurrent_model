@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:37.399+02:00</Created>
+        <LastChange>2020-10-11T20:29:45.712+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749375" pageNr="16" tsid="49313488" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DGXNIUPJKCOHLUNAHSMPOMNJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VJLJTCAHTFBQZFUUMXBVURNC" imageId="14364551"/>
+    </Metadata>
+    <Page imageFilename="0019_page_2353630_line_r3l3_docId_51495.jpg" imageWidth="263" imageHeight="266">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425539386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 263,0 263,266 0,266"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,149 108,148 129,166 147,156 150,158 157,149 163,149 159,100 139,103 136,101 113,125 100,126"/>
+                <Baseline points="108,138 156,134"/>
+                <TextEquiv>
+                    <Unicode>59</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>59</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

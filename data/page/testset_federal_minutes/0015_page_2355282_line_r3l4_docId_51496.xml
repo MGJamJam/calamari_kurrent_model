@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:14.036+02:00</Created>
+        <LastChange>2020-10-07T07:50:18.817+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749740" pageNr="9" tsid="49312203" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PWWEHWHGSWPNKGBBBLRRDEQS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QHEPJTNMRXWSSADMXMYKJOGS" imageId="14364916"/>
+    </Metadata>
+    <Page imageFilename="0015_page_2355282_line_r3l4_docId_51496.jpg" imageWidth="1823" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425480374" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1823,0 1823,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,247 671,196 750,262 868,202 982,257 1037,203 1269,201 1355,266 1420,201 1723,200 1594,125 1538,172 1482,125 1297,165 1079,109 976,167 860,100 435,176 100,133"/>
+                <Baseline points="109,188 189,190 269,192 349,192 429,194 510,194 590,194 670,194 750,194 830,194 911,194 991,194 1071,194 1151,194 1231,194 1312,194 1392,194 1472,194 1552,194 1632,194 1713,194 1749,195"/>
+                <TextEquiv>
+                    <Unicode>Postbeamten des Postkreises Zürich zur Wiederer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Postbeamten des Postkreises Zürich zur Wiederer.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

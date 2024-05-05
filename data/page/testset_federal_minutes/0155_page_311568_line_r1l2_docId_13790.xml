@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:08.838+02:00</Created>
+        <LastChange>2020-08-22T07:37:01.098+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745037" pageNr="101" tsid="37715489" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EKWZFLRTGXUTNTOPXZPBRQJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFBJQYRYECORLBVJRRXIFLNM" imageId="14360394"/>
+    </Metadata>
+    <Page imageFilename="0155_page_311568_line_r1l2_docId_13790.jpg" imageWidth="2126" imageHeight="388">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426304739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2126,0 2126,388 0,388"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 869,288 1015,228 1172,287 1307,226 1479,279 1552,224 2026,240 2026,173 1830,131 1272,188 966,119 884,169 600,103 296,164 101,122"/>
+                <Baseline points="114,215 208,215 303,216 398,216 493,218 588,219 683,219 777,221 872,221 967,221 1062,222 1157,222 1252,222 1347,222 1441,222 1536,222 1631,222 1726,222 1821,221 1916,221 2011,219"/>
+                <TextEquiv>
+                    <Unicode>auch in der Schweiz ihre bisherigen allgemeinen Versi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auch in der Schweiz ihre bisherigen allgemeinen Versi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

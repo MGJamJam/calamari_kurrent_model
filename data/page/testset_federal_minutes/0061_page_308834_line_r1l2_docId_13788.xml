@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:24.691+02:00</Created>
+        <LastChange>2020-08-21T22:13:24.359+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744531" pageNr="33" tsid="37656928" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ESRTLUAEPJMZEHVRLZDDDZNJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFGOWLEUXLOFDQVFACTVKQSR" imageId="14359922"/>
+    </Metadata>
+    <Page imageFilename="0061_page_308834_line_r1l2_docId_13788.jpg" imageWidth="2231" imageHeight="387">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426352928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2231,0 2231,387 0,387"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 270,274 354,218 2131,264 2131,150 1989,134 1796,185 1301,120 1217,176 941,100 743,163 380,101 100,169"/>
+                <Baseline points="114,210 214,212 314,212 414,212 514,212 615,212 715,214 815,214 915,214 1015,214 1116,214 1216,214 1316,214 1416,214 1516,214 1617,214 1717,214 1817,214 1917,214 2017,214 2118,216"/>
+                <TextEquiv>
+                    <Unicode>wegen Diebstahls und Unterschlagung verfolgten, angeblich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wegen Diebstahls und Unterschlagung verfolgten, angeblich in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

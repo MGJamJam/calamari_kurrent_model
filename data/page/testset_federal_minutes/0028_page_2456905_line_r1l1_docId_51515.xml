@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:39.970+02:00</Created>
+        <LastChange>2020-09-28T08:29:46.631+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518993" pageNr="24" tsid="49307227" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QUSPDPTOSUTQZGLUCUTYZBJS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EMIZNZDQQUWJNCSHIDOPNFAO" imageId="15085926"/>
+    </Metadata>
+    <Page imageFilename="0028_page_2456905_line_r1l1_docId_51515.jpg" imageWidth="737" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425238894" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 737,0 737,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,266 144,241 191,262 271,208 415,197 489,210 520,236 568,200 637,218 634,100 556,143 471,104 420,156 366,158 332,128 234,100 168,101 147,121 100,106 104,266"/>
+                <Baseline points="115,205 140,203 165,201 191,199 216,198 242,197 267,195 292,195 318,195 343,195 369,194 394,193 419,193 445,193 470,193 496,193 521,193 546,193 572,193 597,193 623,191"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="162,155 162,215 391,215 391,155"/>
+                    <TextEquiv>
+                        <Unicode>Kighlana</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="440,153 440,213 633,213 633,153"/>
+                    <TextEquiv>
+                        <Unicode>Consul,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Xighlana Konsul,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Xighlana Konsul,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

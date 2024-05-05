@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:25.948+02:00</Created>
+        <LastChange>2020-08-22T11:31:27.312+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750575" pageNr="68" tsid="37765052" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HNGMSNVLXURILKZJAPSCYRYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMZPGPMUNMOESMRBPLFNOMVG" imageId="14365733"/>
+    </Metadata>
+    <Page imageFilename="0098_page_2435311_line_r1l4_docId_51508.jpg" imageWidth="819" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425377095" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 819,0 819,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,236 259,213 279,233 332,215 677,218 719,203 718,139 621,174 542,100 427,113 361,164 328,134 272,141 204,100 100,166"/>
+                <Baseline points="114,216 143,216 173,215 202,214 232,214 262,214 291,214 321,214 350,214 380,212 410,212 439,212 469,212 498,212 528,210 558,210 587,210 617,208 646,208 676,206 706,204"/>
+                <TextEquiv>
+                    <Unicode>Rekurs Ferdinand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rekurs Ferdinand</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

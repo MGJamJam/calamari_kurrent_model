@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:20:06.346+02:00</Created>
+        <LastChange>2020-08-22T11:25:49.010+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748479" pageNr="147" tsid="37762972" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KUEXUWGHAADJLCSZYPBSSUTX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZTQMOBDENKSVCZMAXRMFEIA" imageId="14363659"/>
+    </Metadata>
+    <Page imageFilename="0152_page_397243_line_r1l17_docId_17271.jpg" imageWidth="1387" imageHeight="290">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425725117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1387,0 1387,290 0,290"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,157 1020,190 1272,180 1287,128 1198,156 1078,116 101,121"/>
+                <Baseline points="108,148 166,149 225,150 283,151 342,152 400,154 459,155 517,156 576,157 634,158 693,159 751,160 810,161 868,162 927,163 985,163 1044,164 1102,165 1161,166 1219,167 1278,168"/>
+                <TextEquiv>
+                    <Unicode>Der Bundesrat wenigstens kann keine Hand dazu bieten, auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Bundesrat wenigstens kann keine Hand dazu bieten, auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

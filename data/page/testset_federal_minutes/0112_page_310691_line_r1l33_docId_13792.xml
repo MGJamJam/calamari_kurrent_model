@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:26.233+02:00</Created>
+        <LastChange>2020-11-16T14:40:06.374+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744875" pageNr="74" tsid="49319087" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VZATMETCYEPJJQMQFRHXEUXG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EPIGDUBLVPDEDFMKJKWFKNLQ" imageId="14360266"/>
+    </Metadata>
+    <Page imageFilename="0112_page_310691_line_r1l33_docId_13792.jpg" imageWidth="2045" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426301064" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2045,0 2045,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 1945,239 1945,138 1730,104 1670,155 1400,104 1166,153 100,122"/>
+                <Baseline points="111,181 202,182 293,182 384,184 475,184 566,185 657,185 748,185 839,185 930,185 1021,185 1112,185 1203,184 1294,184 1385,184 1476,184 1567,182 1658,182 1749,182 1840,182 1932,182"/>
+                <TextEquiv>
+                    <Unicode>ausübung (Botschaft vom 29. Juni, Prot. Nr. 3008) in Form</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ausübung (Botschaft vom 29. Juni, Prot. Nr. 3008) in Form</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

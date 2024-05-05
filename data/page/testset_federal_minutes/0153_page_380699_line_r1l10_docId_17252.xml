@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:49:09.022+02:00</Created>
+        <LastChange>2020-08-22T11:19:27.932+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747201" pageNr="81" tsid="37760847" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UWBCDJVAROFTNFIYJXXPWOYW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZRYXRYWHDBYAPXRPYPKJXTXO" imageId="14362381"/>
+    </Metadata>
+    <Page imageFilename="0153_page_380699_line_r1l10_docId_17252.jpg" imageWidth="1975" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425900369" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1975,0 1975,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 792,193 907,259 1154,195 1830,211 1875,151 1168,100 1073,148 861,111 699,160 571,106 100,160"/>
+                <Baseline points="111,194 198,193 286,191 373,191 461,190 549,190 636,188 724,188 811,188 899,187 987,187 1074,187 1162,187 1249,187 1337,185 1425,185 1512,185 1600,185 1687,185 1775,184 1863,184"/>
+                <TextEquiv>
+                    <Unicode>mäß dessen Urlaub bis Ende Oktober verlängert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mäß dessen Urlaub bis Ende Oktober verlängert.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

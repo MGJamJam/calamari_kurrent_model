@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:58:18.140+02:00</Created>
+        <LastChange>2020-11-16T14:16:00.891+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744725" pageNr="34" tsid="49319048" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KRVQDSHZQKBLHEUJIQRHBDXR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DECHKZDEEQYJXPBPLFTZBHXF" imageId="14360116"/>
+    </Metadata>
+    <Page imageFilename="0052_page_312648_line_r2l17_docId_13792.jpg" imageWidth="2183" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426295579" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2183,0 2183,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,254 2083,214 2025,100 1862,159 1533,104 1221,163 100,153"/>
+                <Baseline points="113,216 210,213 308,208 406,204 504,202 602,198 699,196 797,194 895,192 993,192 1091,190 1188,190 1286,190 1384,188 1482,188 1580,188 1677,188 1775,187 1873,186 1971,186 2069,184"/>
+                <TextEquiv>
+                    <Unicode>gust abhin sind in die Schäzungskommission für den Expropriations¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gust abhin sind in die Schäzungskommission für den Expropriations¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

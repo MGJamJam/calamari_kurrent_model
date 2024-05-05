@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:50.708+02:00</Created>
+        <LastChange>2020-11-10T07:53:37.584+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746481" pageNr="57" tsid="49318315" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LLBDPZEXDLSRBIYAAMUMEBFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HEHKQSXIIXGRFHORVAVDDLFQ" imageId="14361661"/>
+    </Metadata>
+    <Page imageFilename="0086_page_382078_line_r2l4_docId_17250.jpg" imageWidth="2017" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953615" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2017,0 2017,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 427,182 1917,221 1917,131 1547,104 100,119"/>
+                <Baseline points="112,170 201,172 291,174 380,176 470,176 560,178 649,178 739,178 828,178 918,178 1008,176 1097,176 1187,176 1276,176 1366,176 1456,176 1545,176 1635,176 1724,176 1814,178 1904,180"/>
+                <TextEquiv>
+                    <Unicode>Es kann sich hiebei jedoch nicht um einen eigent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es kann sich hiebei jedoch nicht um einen eigent¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

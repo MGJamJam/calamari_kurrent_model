@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:29.560+02:00</Created>
+        <LastChange>2020-08-22T11:15:23.736+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746402" pageNr="31" tsid="37759007" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MUOMUFEPFZOXPTZUJGPKBJYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWYDBJMMXWHJZPWMBBSHYQOZ" imageId="14361582"/>
+    </Metadata>
+    <Page imageFilename="0051_page_366794_line_r2l12_docId_17235.jpg" imageWidth="1060" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426002832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1060,0 1060,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,183 360,189 406,221 465,179 534,204 624,176 767,240 818,195 960,188 960,126 837,100 659,108 615,147 561,120 472,143 391,118 284,136 252,106 100,119"/>
+                <Baseline points="113,169 154,167 196,167 238,167 280,167 322,167 363,167 405,168 447,169 489,169 531,169 572,169 614,169 656,169 698,169 740,168 781,167 823,166 865,165 907,163 949,161"/>
+                <TextEquiv>
+                    <Unicode>Antrag vom 9. Juli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Antrag vom 9. Juli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

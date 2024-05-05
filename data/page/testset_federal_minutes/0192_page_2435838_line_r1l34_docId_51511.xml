@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:57.587+02:00</Created>
+        <LastChange>2020-09-21T16:11:24.599+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750852" pageNr="139" tsid="49309841" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZXNNOJYPYSWDWKKJNQRANSUK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUBCSNYNLXVHSEIBTSBUNFJA" imageId="14366010"/>
+    </Metadata>
+    <Page imageFilename="0192_page_2435838_line_r1l34_docId_51511.jpg" imageWidth="2227" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425323382" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2227,0 2227,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 640,213 728,274 809,221 1331,220 1381,270 1466,219 2127,221 2124,168 2021,136 1847,174 1709,108 1553,180 1328,101 1185,178 100,129"/>
+                <Baseline points="114,208 214,208 314,208 414,210 514,210 614,210 714,210 814,210 914,209 1014,208 1114,208 1214,208 1314,208 1414,208 1514,208 1614,206 1714,206 1814,206 1914,206 2014,206 2114,206"/>
+                <TextEquiv>
+                    <Unicode>der Ordonnanzen, ist wieder zu beschränken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Ordonnanzen, ist wieder zu beschränken.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

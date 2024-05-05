@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:10:15.320+02:00</Created>
+        <LastChange>2020-10-27T07:45:21.391+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748114" pageNr="48" tsid="49315818" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZGZITFFXIFUDYVTJRIBHFTBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLFWGWSLTOKFIBTYPQQNQYME" imageId="14363294"/>
+    </Metadata>
+    <Page imageFilename="0050_page_401656_line_r2l1_docId_17273.jpg" imageWidth="698" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425712130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 698,0 698,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,237 265,211 300,240 405,213 458,231 545,211 598,221 598,153 555,166 526,140 502,159 386,131 328,142 253,100 172,130 100,123"/>
+                <Baseline points="115,211 141,211 167,210 193,209 219,209 245,210 272,211 298,211 324,211 350,211 376,211 402,211 429,211 455,210 481,209 507,208 533,206 559,205 586,202 607,202"/>
+                <TextEquiv>
+                    <Unicode>Hüninger¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hüninger¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

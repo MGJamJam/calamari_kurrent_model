@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:39:54.955+02:00</Created>
+        <LastChange>2020-08-22T11:25:23.763+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749330" pageNr="53" tsid="37762809" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YFDJNTFQYUFAQKCCVAPGDCSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPWEIYXTUPOQMAYOWAHHJNUH" imageId="14364506"/>
+    </Metadata>
+    <Page imageFilename="0110_page_410726_line_r1l21_docId_17282.jpg" imageWidth="2402" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425592687" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2402,0 2402,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 2302,229 2203,129 1947,172 1815,100 1734,162 1053,179 100,130"/>
+                <Baseline points="114,205 222,207 331,209 440,209 548,209 657,209 766,209 874,207 983,207 1092,207 1201,205 1309,205 1418,203 1527,203 1635,201 1744,201 1853,201 1961,201 2070,201 2179,203 2288,203"/>
+                <TextEquiv>
+                    <Unicode>des politischen Departements gegen die Verabfolgung dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des politischen Departements gegen die Verabfolgung dieser</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:49.708+02:00</Created>
+        <LastChange>2020-09-21T10:13:08.845+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750606" pageNr="70" tsid="49309436" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YHBGXGSSMOXTLMXXFGYCHRQK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWAXVXQPLOUIJQVCLYUODGCM" imageId="14365764"/>
+    </Metadata>
+    <Page imageFilename="0095_page_2446930_line_r1l2_docId_51512.jpg" imageWidth="761" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425313628" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 761,0 761,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,180 147,180 190,220 546,228 585,193 659,194 661,117 625,131 551,107 479,145 395,108 326,109 268,136 241,108 102,100"/>
+                <Baseline points="114,168 140,168 167,170 193,171 220,172 247,172 273,173 300,174 326,174 353,175 380,176 406,176 433,176 459,176 486,178 513,178 539,177 566,176 592,176 619,176 678,178"/>
+                <TextEquiv>
+                    <Unicode>Oeffnung auf Tessiner - Gebiet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Oeffnung auf Tessiner - Gebiet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

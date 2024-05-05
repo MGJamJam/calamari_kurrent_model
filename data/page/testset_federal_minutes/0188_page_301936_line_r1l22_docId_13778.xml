@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:46.260+02:00</Created>
+        <LastChange>2020-08-21T22:07:20.946+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744594" pageNr="120" tsid="37655884" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VUXABZWJQWMEHWMWBMKMLRTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QXFYMUUXFSVJNEJTAAILZSNG" imageId="14359985"/>
+    </Metadata>
+    <Page imageFilename="0188_page_301936_line_r1l22_docId_13778.jpg" imageWidth="1226" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426424984" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1226,0 1226,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 307,245 609,191 891,233 1126,205 1126,160 891,111 731,161 597,111 422,162 324,102 210,150 147,110 100,125"/>
+                <Baseline points="112,184 162,186 212,187 262,188 312,188 362,188 412,188 462,188 512,188 562,188 613,186 663,186 713,186 763,186 813,184 863,184 913,184 963,184 1013,186 1063,186 1114,186"/>
+                <TextEquiv>
+                    <Unicode>An Fürsprach Hauser in Pfäffikon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Fürsprach Hauser in Pfäffikon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

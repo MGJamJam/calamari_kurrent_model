@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:46:48.581+02:00</Created>
+        <LastChange>2020-11-18T17:37:20.779+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744513" pageNr="87" tsid="49319360" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YDVOWOUMBMWKQAQSMSKDUOBB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNQROULVVKMQIZCYHFDFXDAZ" imageId="14359904"/>
+    </Metadata>
+    <Page imageFilename="0134_page_302929_line_r1l19_docId_13781.jpg" imageWidth="2004" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426420265" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2004,0 2004,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1819,240 1904,205 1904,118 100,147"/>
+                <Baseline points="113,187 201,186 290,185 379,185 468,183 557,183 646,183 735,183 824,183 913,183 1002,183 1090,183 1179,183 1268,183 1357,185 1446,185 1535,185 1624,187 1713,188 1802,189 1891,191 1971,192"/>
+                <TextEquiv>
+                    <Unicode>rung des Abraham Ris in Unterstrass (Zürich),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rung des Abraham Ris in Unterstrass (Zürich),</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

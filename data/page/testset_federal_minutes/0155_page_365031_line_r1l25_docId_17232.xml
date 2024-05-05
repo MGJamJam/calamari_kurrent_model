@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:56.243+02:00</Created>
+        <LastChange>2020-08-22T07:38:01.240+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746018" pageNr="107" tsid="37715679" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IOSMVXONSWPTBLXPPRRUIILP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHUCSOYEZEKWNDRRRQHSJLNN" imageId="14361198"/>
+    </Metadata>
+    <Page imageFilename="0155_page_365031_line_r1l25_docId_17232.jpg" imageWidth="1946" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426130168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1946,0 1946,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 1846,206 1845,117 1754,101 1537,145 100,127"/>
+                <Baseline points="113,176 199,176 285,176 371,176 457,176 543,176 629,176 715,174 801,174 887,174 973,173 1059,172 1145,171 1231,170 1317,170 1403,168 1489,167 1575,165 1661,165 1747,164 1834,162"/>
+                <TextEquiv>
+                    <Unicode>auf die Tatsache, daß er zum ersten Mal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf die Tatsache, daß er zum ersten Mal</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

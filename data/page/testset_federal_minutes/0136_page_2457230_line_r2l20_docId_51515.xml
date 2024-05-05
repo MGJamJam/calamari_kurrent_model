@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:05.675+02:00</Created>
+        <LastChange>2020-09-28T10:31:02.071+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519101" pageNr="101" tsid="49307617" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XZMCUQDHXOIMNLNBTMFRJPVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PRHHUWFNWORBCBPBCNWBNYQB" imageId="15086034"/>
+    </Metadata>
+    <Page imageFilename="0136_page_2457230_line_r2l20_docId_51515.jpg" imageWidth="1190" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425250762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1190,0 1190,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 186,192 229,235 294,195 448,238 496,190 691,188 834,188 906,229 944,191 1090,189 1090,100 987,143 863,110 818,140 721,112 491,149 324,119 100,140 100,189"/>
+                <Baseline points="113,176 161,178 209,178 257,180 305,180 353,180 401,180 449,180 497,180 545,180 594,180 642,180 690,180 738,180 786,180 834,180 882,180 930,180 978,182 1026,182 1075,184"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="129,140 129,200 473,200 473,140"/>
+                    <TextEquiv>
+                        <Unicode>Mittheilung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="523,140 523,200 584,200 584,140"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="634,140 634,200 857,200 857,140"/>
+                    <TextEquiv>
+                        <Unicode>Waradt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="906,140 906,200 958,200 958,140"/>
+                    <TextEquiv>
+                        <Unicode>z.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="987,142 987,202 1078,202 1078,142"/>
+                    <TextEquiv>
+                        <Unicode>B.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mittheilung an Waadt z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mittheilung an Waadt z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

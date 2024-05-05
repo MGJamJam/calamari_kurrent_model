@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:28.450+02:00</Created>
+        <LastChange>2020-11-12T07:18:10.680+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746460" pageNr="42" tsid="49318423" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TDGWTRLQCVKMWUHPXLAYBGHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QXZBJVQISLGMFFVMEQPFXHMZ" imageId="14361640"/>
+    </Metadata>
+    <Page imageFilename="0068_page_368536_line_r1l16_docId_17236.jpg" imageWidth="1935" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426004209" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1935,0 1935,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 512,194 727,246 818,194 1492,191 1835,237 1835,151 1646,103 1469,163 385,115 267,163 100,117"/>
+                <Baseline points="111,188 196,190 282,190 367,191 453,191 538,191 624,191 709,190 795,190 880,188 966,188 1052,188 1137,187 1223,187 1308,187 1394,187 1479,188 1565,190 1650,191 1736,194 1822,197"/>
+                <TextEquiv>
+                    <Unicode>dem Kanton Graubünden wird eine Frist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dem Kanton Graubünden wird eine Frist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

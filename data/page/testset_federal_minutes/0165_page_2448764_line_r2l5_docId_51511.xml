@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:03.965+02:00</Created>
+        <LastChange>2020-09-21T15:23:47.561+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750781" pageNr="119" tsid="49309724" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CRWEDLMBVAOUMCDYGOPRNMSV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFYYNOQOGRWLBMDCPPZTZUJG" imageId="14365939"/>
+    </Metadata>
+    <Page imageFilename="0165_page_2448764_line_r2l5_docId_51511.jpg" imageWidth="2308" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425320722" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2308,0 2308,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 1469,184 1536,236 2208,194 2201,162 1842,117 100,132"/>
+                <Baseline points="114,161 218,163 322,165 426,165 530,167 634,167 738,167 842,167 946,169 1050,169 1154,169 1258,169 1362,171 1466,171 1570,173 1674,175 1778,177 1882,179 1986,182 2090,186 2194,191"/>
+                <TextEquiv>
+                    <Unicode>in ihrer Eigenschaft als Schuzwaldungen in jenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in ihrer Eigenschaft als Schuzwaldungen in jenem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

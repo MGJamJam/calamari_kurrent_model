@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:36.239+02:00</Created>
+        <LastChange>2020-10-06T10:34:15.837+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750142" pageNr="73" tsid="49311726" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VQPSFDUCHZCMFMUVYOJNJQAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WAOBBOSHXSXNVQLMRXPVWFHV" imageId="14365314"/>
+    </Metadata>
+    <Page imageFilename="0122_page_2403343_line_r2l34_docId_51504.jpg" imageWidth="2320" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425434777" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2320,0 2320,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,239 2220,211 2220,100 2038,170 100,155"/>
+                <Baseline points="113,190 217,192 322,194 427,194 531,194 636,194 741,194 845,194 950,194 1055,192 1160,192 1264,192 1369,190 1474,190 1578,190 1683,190 1788,190 1892,192 1997,194 2102,196 2207,198"/>
+                <TextEquiv>
+                    <Unicode>Gesandtschaft gegen die Eheleute Curdel-Lathuile: Die Aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gesandtschaft gegen die Eheleute Curdel-Lathuile: Die Aus¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

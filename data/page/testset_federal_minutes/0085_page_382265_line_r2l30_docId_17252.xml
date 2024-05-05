@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:45:33.859+02:00</Created>
+        <LastChange>2020-11-09T17:21:08.873+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747035" pageNr="48" tsid="49318213" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XBQPYKDPSNFUYBREFZSJVVQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTQYWWTUPJJNVYTXSZWMMYAE" imageId="14362215"/>
+    </Metadata>
+    <Page imageFilename="0085_page_382265_line_r2l30_docId_17252.jpg" imageWidth="1653" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425895478" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1653,0 1653,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,228 662,190 973,242 1048,179 1553,195 1551,100 1403,143 1082,108 965,157 372,103 100,135"/>
+                <Baseline points="113,196 184,194 255,194 327,192 398,192 470,190 541,189 612,188 684,186 755,186 827,184 898,182 969,182 1041,180 1112,180 1184,178 1255,177 1326,176 1398,176 1469,174 1541,174 1589,173"/>
+                <TextEquiv>
+                    <Unicode>An Dr. Weibel in Luzern zuh. des Petenten z. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Dr. Weibel in Luzern zuh. des Petenten z. K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

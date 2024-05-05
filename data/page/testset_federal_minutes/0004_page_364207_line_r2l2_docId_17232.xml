@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:05.344+02:00</Created>
+        <LastChange>2020-11-15T19:19:14.892+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745370" pageNr="3" tsid="49318611" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IAKPJYKJZOFQZGCXOUMESORO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWBIINYDQKNFIKTHNZOOZSTX" imageId="14360554"/>
+    </Metadata>
+    <Page imageFilename="0004_page_364207_line_r2l2_docId_17232.jpg" imageWidth="2044" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426115193" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2044,0 2044,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 1943,258 1944,158 872,190 102,102"/>
+                <Baseline points="113,201 208,205 304,208 400,212 495,214 591,217 687,219 783,220 878,222 974,223 1070,225 1166,225 1261,226 1357,228 1453,228 1549,229 1644,231 1740,233 1836,235 1932,238"/>
+                <TextEquiv>
+                    <Unicode>Betruges und Diebstahles verfolgten Schneidermei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Betruges und Diebstahles verfolgten Schneidermei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

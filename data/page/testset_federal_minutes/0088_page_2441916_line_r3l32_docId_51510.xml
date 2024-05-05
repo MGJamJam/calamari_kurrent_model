@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:04.624+02:00</Created>
+        <LastChange>2020-08-22T11:31:08.908+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750546" pageNr="60" tsid="37764957" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PARWSNPTBMFWTRJRBKODVZAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZFDPKHIQCNBRKEBWBKADOGCX" imageId="14365704"/>
+    </Metadata>
+    <Page imageFilename="0088_page_2441916_line_r3l32_docId_51510.jpg" imageWidth="1194" imageHeight="315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425376024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1194,0 1194,315 0,315"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,170 185,215 327,170 422,201 510,168 892,174 917,200 1094,175 1094,130 995,112 100,112"/>
+                <Baseline points="113,164 161,162 209,162 258,162 306,162 355,162 403,162 451,162 500,162 548,162 597,164 645,164 693,164 742,164 790,164 839,164 887,164 935,164 984,164 1032,164 1081,164"/>
+                <TextEquiv>
+                    <Unicode>abgewiesen worden sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>abgewiesen worden sei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

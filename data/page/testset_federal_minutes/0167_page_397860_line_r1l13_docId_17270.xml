@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:21:33.507+02:00</Created>
+        <LastChange>2020-10-27T08:15:37.177+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748532" pageNr="162" tsid="49315946" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WEGYEAAUWAHNWDNJDYKAHLIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLDXXQPVWVRXTZWNKFGIFTYT" imageId="14363712"/>
+    </Metadata>
+    <Page imageFilename="0167_page_397860_line_r1l13_docId_17270.jpg" imageWidth="615" imageHeight="299">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425727165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 615,0 615,299 0,299"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,182 126,192 144,181 174,199 237,171 300,171 322,187 358,167 393,182 435,170 478,188 515,179 513,115 489,105 383,119 301,100 249,123 208,108 159,128 100,121"/>
+                <Baseline points="114,161 139,161 165,161 191,161 216,161 242,159 268,159 294,157 319,157 345,155 371,155 397,153 422,153 448,153 474,153 500,155"/>
+                <TextEquiv>
+                    <Unicode>wig, Urlaub.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wig, Urlaub.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

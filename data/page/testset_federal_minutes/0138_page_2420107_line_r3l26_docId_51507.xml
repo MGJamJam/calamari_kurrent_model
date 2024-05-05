@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:55.463+02:00</Created>
+        <LastChange>2020-08-22T11:32:40.883+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750694" pageNr="99" tsid="37765400" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LSDLWPVMPKPVBLOSARXPYYSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YVCIEIYREOTZCUQPTBYQWUCT" imageId="14365852"/>
+    </Metadata>
+    <Page imageFilename="0138_page_2420107_line_r3l26_docId_51507.jpg" imageWidth="2358" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425381361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2358,0 2358,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,185 2257,220 2258,130 2117,173 2003,106 1819,174 1756,117 101,149"/>
+                <Baseline points="114,176 220,178 327,178 433,180 540,182 646,183 753,184 859,186 966,188 1072,190 1179,190 1285,192 1392,194 1498,196 1605,198 1711,199 1818,200 1924,202 2031,204 2137,206 2244,206"/>
+                <TextEquiv>
+                    <Unicode>tonale Gesetzgebung geregelt werde, und daß Lewinski</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tonale Gesetzgebung geregelt werde, und daß Lewinski</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

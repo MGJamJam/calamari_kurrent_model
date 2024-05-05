@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:48:32.369+02:00</Created>
+        <LastChange>2020-11-09T17:39:19.364+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747173" pageNr="75" tsid="49318238" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HMGFNEDYXILIZCLEWWXFYWAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INBZXNPTHGRYSBCVZWITUTRR" imageId="14362353"/>
+    </Metadata>
+    <Page imageFilename="0142_page_382410_line_r1l10_docId_17254.jpg" imageWidth="2189" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425899471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2189,0 2189,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 2089,191 2089,119 1996,106 100,102"/>
+                <Baseline points="112,165 210,165 308,165 406,165 504,165 603,165 701,165 799,167 897,167 995,167 1094,167 1192,167 1290,169 1388,169 1486,169 1585,169 1683,169 1781,167 1879,167 1977,167 2076,165"/>
+                <TextEquiv>
+                    <Unicode>Carlo (4. November) und den zweiten Weihnachtstag (26. Dezemb.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Carlo (4. November) und den zweiten Weihnachtstag (26. Dezemb.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

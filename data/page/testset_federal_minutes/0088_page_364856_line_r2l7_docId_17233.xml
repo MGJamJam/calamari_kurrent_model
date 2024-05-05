@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:39.323+02:00</Created>
+        <LastChange>2020-11-12T07:24:54.428+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746527" pageNr="56" tsid="49318434" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EWBVPPGQABGIVQWIGBVAJZTD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HULSHFCNDCLCWEVOVVLUSMWG" imageId="14361707"/>
+    </Metadata>
+    <Page imageFilename="0088_page_364856_line_r2l7_docId_17233.jpg" imageWidth="2042" imageHeight="324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426005980" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2042,0 2042,324 0,324"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 1568,221 1912,204 1942,134 798,100 100,152"/>
+                <Baseline points="113,178 203,178 294,178 385,178 476,178 567,178 658,178 748,178 839,178 930,178 1021,178 1112,178 1203,177 1294,177 1384,177 1475,177 1566,177 1657,177 1748,177 1839,177 1930,177"/>
+                <TextEquiv>
+                    <Unicode>worden sei, so wird sie ersucht, die französische Re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>worden sei, so wird sie ersucht, die französische Re-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

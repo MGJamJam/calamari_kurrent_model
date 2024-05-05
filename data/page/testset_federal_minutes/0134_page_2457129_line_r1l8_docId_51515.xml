@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:02.112+02:00</Created>
+        <LastChange>2020-09-28T10:29:10.488+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519099" pageNr="99" tsid="49307611" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WKQBRTRRZJJQKMMJMWMSEDKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JRTGNKEKSYHHKSTIDNOURYOL" imageId="15086032"/>
+    </Metadata>
+    <Page imageFilename="0134_page_2457129_line_r1l8_docId_51515.jpg" imageWidth="2366" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425250472" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2366,0 2366,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 1965,227 2265,210 2266,153 407,100 101,152 100,195"/>
+                <Baseline points="113,189 220,189 327,189 434,187 541,187 648,187 755,189 862,189 969,189 1076,191 1183,191 1290,193 1397,193 1504,195 1611,196 1718,197 1825,197 1932,199 2039,199 2146,199 2253,199"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="182,149 182,209 299,209 299,149"/>
+                    <TextEquiv>
+                        <Unicode>Das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="332,147 332,207 610,207 610,147"/>
+                    <TextEquiv>
+                        <Unicode>Protokoll</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="636,147 636,207 720,207 720,147"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="753,149 753,209 812,209 812,149"/>
+                    <TextEquiv>
+                        <Unicode>3.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="837,149 837,209 997,209 997,149"/>
+                    <TextEquiv>
+                        <Unicode>Sizung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1031,151 1031,211 1183,211 1183,151"/>
+                    <TextEquiv>
+                        <Unicode>wurde</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1224,153 1224,213 1425,213 1425,153"/>
+                    <TextEquiv>
+                        <Unicode>verlesen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1477,155 1477,215 1560,215 1560,155"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1586,156 1586,216 1711,216 1711,156"/>
+                    <TextEquiv>
+                        <Unicode>nebst</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1737,157 1737,217 1813,217 1813,157"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1863,159 1863,219 2224,219 2224,159"/>
+                    <TextEquiv>
+                        <Unicode>Präsidialver-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 3. Sizung wurde verlesen und nebst den Präsidialver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 3. Sizung wurde verlesen und nebst den Präsidialver¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

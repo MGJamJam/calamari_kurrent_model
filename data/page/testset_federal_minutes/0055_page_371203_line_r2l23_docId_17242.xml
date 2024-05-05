@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:06:59.103+02:00</Created>
+        <LastChange>2020-08-22T07:34:13.647+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744916" pageNr="30" tsid="37714969" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ITROPJQZYVZHMXGNRSZEITIF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEVITBPBKUNFCIRKDHGFWMSD" imageId="14360307"/>
+    </Metadata>
+    <Page imageFilename="0055_page_371203_line_r2l23_docId_17242.jpg" imageWidth="2121" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426242368" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2121,0 2121,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,176 839,231 1081,178 1292,230 1477,177 2021,199 2020,140 1878,100 100,117"/>
+                <Baseline points="111,170 205,172 300,173 395,175 490,176 585,176 680,176 775,176 870,175 965,175 1060,175 1154,173 1249,173 1344,172 1439,172 1534,170 1629,170 1724,170 1819,170 1914,170 2009,170"/>
+                <TextEquiv>
+                    <Unicode>Untersen und Rhein zwischen Konstanz und Schaffhausen werden schweizerischerseits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Untersen und Rhein zwischen Konstanz und Schaffhausen werden schweizerischerseits</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

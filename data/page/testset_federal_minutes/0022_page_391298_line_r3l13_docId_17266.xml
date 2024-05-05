@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:12.763+02:00</Created>
+        <LastChange>2020-08-22T11:16:46.714+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748076" pageNr="12" tsid="37759674" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WJHNVHKVECBFPYLFLBLIVQFU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EPOUKBQDNBWFNOLQTQECWGUO" imageId="14363256"/>
+    </Metadata>
+    <Page imageFilename="0022_page_391298_line_r3l13_docId_17266.jpg" imageWidth="1986" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425762771" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1986,0 1986,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,251 1886,205 1728,123 1571,159 1192,100 366,179 100,148"/>
+                <Baseline points="115,208 202,208 290,206 378,206 466,204 554,204 642,202 730,202 818,202 906,200 994,200 1081,200 1169,200 1257,198 1345,198 1433,198 1521,196 1609,196 1697,196 1785,196 1873,194"/>
+                <TextEquiv>
+                    <Unicode>einen steinernen Viadukt zu ersetzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>einen steinernen Viadukt zu ersetzen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

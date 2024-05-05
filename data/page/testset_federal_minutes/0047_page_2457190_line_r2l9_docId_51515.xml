@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=28_09_2020_08:52
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=28_09_2020_08:52
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:17.295+02:00</Created>
+        <LastChange>2020-09-28T09:00:16.458+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519012" pageNr="38" tsid="49307308" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UTOCEJFEXZQTKGDPSATQKUKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUFNVPHSJPFIUVTHFNMQISCO" imageId="15085945"/>
+    </Metadata>
+    <Page imageFilename="0047_page_2457190_line_r2l9_docId_51515.jpg" imageWidth="2269" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425241068" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2269,0 2269,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 315,186 1962,229 2169,194 2169,126 100,140 100,236"/>
+                <Baseline points="114,177 216,175 318,175 420,175 522,175 624,175 726,175 828,176 930,177 1032,177 1135,179 1237,179 1339,181 1441,181 1543,181 1645,183 1747,183 1849,183 1951,183 2053,185 2156,183"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="129,138 129,198 2075,198 2075,138"/>
+                    <TextEquiv>
+                        <Unicode>pd4,pia</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>departement und in 4, 5, 6 u 9 ans departement des Innern in Original.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>departement und in 4, 5, 6 u 9 ans departement des Innern in Original.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

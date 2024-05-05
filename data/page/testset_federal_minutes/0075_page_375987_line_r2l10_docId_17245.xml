@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:18.051+02:00</Created>
+        <LastChange>2020-11-10T07:49:33.307+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746451" pageNr="49" tsid="49318308" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JKDYFCRGXYKXYBLWXDTZFOZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDPLYFBTXMFBFYXCZFIGLPKZ" imageId="14361631"/>
+    </Metadata>
+    <Page imageFilename="0075_page_375987_line_r2l10_docId_17245.jpg" imageWidth="2151" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425952327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2151,0 2151,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 1668,187 2051,242 2010,100 1555,156 1203,101 1063,151 100,131"/>
+                <Baseline points="112,182 208,182 304,180 400,180 497,178 593,178 689,176 786,176 882,176 978,175 1075,174 1171,174 1267,174 1363,174 1460,174 1556,176 1652,176 1749,178 1845,179 1941,181 2038,182"/>
+                <TextEquiv>
+                    <Unicode>die Heimatgemeinde zur Aufnahmen dieses Kin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Heimatgemeinde zur Aufnahmen dieses Kin¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

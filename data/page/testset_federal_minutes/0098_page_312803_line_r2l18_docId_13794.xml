@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:03:47.975+02:00</Created>
+        <LastChange>2020-11-16T14:34:55.967+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744823" pageNr="65" tsid="49319074" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RNHWUZQKDLFZJZZPBNOVUZPC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUZWGXJIGNFSEOKCNHGDCTRO" imageId="14360214"/>
+    </Metadata>
+    <Page imageFilename="0098_page_312803_line_r2l18_docId_13794.jpg" imageWidth="1962" imageHeight="406">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426299749" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1962,0 1962,406 0,406"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,301 253,243 321,297 493,242 1862,284 1862,197 1775,172 789,207 101,107"/>
+                <Baseline points="113,230 199,230 286,230 373,232 460,232 547,233 634,233 720,234 807,235 894,235 981,236 1068,236 1155,236 1242,238 1328,238 1415,238 1502,238 1589,236 1676,236 1763,235 1850,235"/>
+                <TextEquiv>
+                    <Unicode>Durch Urteil das aarganischen Obergerichts vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Durch Urteil das aarganischen Obergerichts vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

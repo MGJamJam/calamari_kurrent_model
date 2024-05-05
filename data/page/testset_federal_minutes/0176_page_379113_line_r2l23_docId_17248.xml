@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:21.367+02:00</Created>
+        <LastChange>2020-11-10T08:29:21.334+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746738" pageNr="117" tsid="49318358" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WRNDVTHVWVDYNYKMFTQVQYLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICTZZBEZVVPASIHOZAXYLWYJ" imageId="14361918"/>
+    </Metadata>
+    <Page imageFilename="0176_page_379113_line_r2l23_docId_17248.jpg" imageWidth="2144" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425962739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2144,0 2144,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 423,255 2044,197 2043,123 1886,106 100,140"/>
+                <Baseline points="112,197 208,195 304,193 400,193 496,191 592,191 688,191 784,189 880,189 976,189 1072,189 1168,189 1264,189 1360,189 1456,189 1552,189 1648,189 1744,189 1840,187 1936,187 2032,187"/>
+                <TextEquiv>
+                    <Unicode>2. Bundesgericht. Die Mitglieder des Bundesgerichts sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Bundesgericht. Die Mitglieder des Bundesgerichts sind</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:28.894+02:00</Created>
+        <LastChange>2020-11-15T19:44:01.090+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745629" pageNr="47" tsid="49318651" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NQTYDHLFPFNACAUKUUTPPKAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRPIUFTDWLEUNWJDRJYZYWDM" imageId="14360809"/>
+    </Metadata>
+    <Page imageFilename="0064_page_321954_line_r1l19_docId_14155.jpg" imageWidth="1934" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426121497" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1934,0 1934,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,247 417,195 1146,241 1424,188 1532,249 1834,204 1834,153 1302,160 1207,114 1034,166 734,101 531,148 419,100 100,157"/>
+                <Baseline points="111,195 196,191 282,189 367,187 453,183 538,183 624,181 709,181 795,179 880,179 966,179 1051,179 1137,179 1222,179 1308,179 1393,181 1479,181 1564,183 1650,183 1735,185 1821,185"/>
+                <TextEquiv>
+                    <Unicode>" setz, welches in der Volksabstimmung vom .... angenommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>" setz, welches in der Volksabstimmung vom .... angenommen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

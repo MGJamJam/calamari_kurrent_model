@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:50.839+02:00</Created>
+        <LastChange>2020-11-09T16:57:49.004+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746868" pageNr="8" tsid="49318179" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QUKOROQWELUQMLYORATHQAYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSZHTLMKHXSNAQGEFFHGXAPP" imageId="14362048"/>
+    </Metadata>
+    <Page imageFilename="0013_page_383518_line_r1l23_docId_17253.jpg" imageWidth="1932" imageHeight="394">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425889942" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1932,0 1932,394 0,394"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,263 731,290 1301,208 1832,209 1831,153 1569,123 1410,172 534,166 195,100 100,146"/>
+                <Baseline points="114,230 199,226 284,222 369,220 455,216 540,214 625,212 711,210 796,208 881,206 967,205 1052,204 1137,204 1222,202 1308,202 1393,202 1478,202 1564,202 1649,200 1734,200 1820,200"/>
+                <TextEquiv>
+                    <Unicode>Eisenbahndepartement, Antrag vom 6. dies nebst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisenbahndepartement, Antrag vom 6. dies nebst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:17.718+02:00</Created>
+        <LastChange>2020-08-22T11:24:05.126+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749883" pageNr="12" tsid="37762324" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GLDYASFRKWZBXRCRFCWWIZSN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRLNWBYGZZYGXDGCZIVIONPT" imageId="14365055"/>
+    </Metadata>
+    <Page imageFilename="0024_page_2391722_line_r1l39_docId_51502.jpg" imageWidth="2329" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425426139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2329,0 2329,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 426,185 622,259 738,192 2228,232 2229,147 1895,124 101,149"/>
+                <Baseline points="113,182 218,183 323,184 428,184 533,186 638,186 743,188 848,190 953,190 1058,192 1164,194 1269,194 1374,196 1479,198 1584,198 1689,200 1794,202 1899,202 2004,204 2109,204 2215,206"/>
+                <TextEquiv>
+                    <Unicode>daß Hr. Raffard für die von ihm besorgte Versilberung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>daß Hr. Raffard für die von ihm besorgte Versilberung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

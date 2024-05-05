@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:28.806+02:00</Created>
+        <LastChange>2020-09-22T15:27:49.203+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519145" pageNr="132" tsid="49307743" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AXPDLOTSTEVKJXEDJCNDBJQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLXEECEZNAVPSZXZEYXMGDZO" imageId="15086078"/>
+    </Metadata>
+    <Page imageFilename="0180_page_2457212_line_r2l8_docId_51515.jpg" imageWidth="1816" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425255552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1816,0 1816,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 218,241 284,188 529,188 611,243 666,188 864,229 947,185 1436,229 1716,196 1716,154 1507,100 1422,144 166,114 100,153 100,205"/>
+                <Baseline points="114,183 193,183 272,183 352,183 431,183 511,183 590,183 669,183 749,183 828,183 908,181 987,181 1066,181 1146,181 1225,181 1305,181 1384,181 1463,183 1543,183 1622,183 1702,183"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="117,143 117,203 257,203 257,143"/>
+                    <TextEquiv>
+                        <Unicode>Nach</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="284,143 284,203 358,203 358,143"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="415,143 415,203 628,203 628,143"/>
+                    <TextEquiv>
+                        <Unicode>Antrag</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="684,143 684,203 758,203 758,143"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="804,141 804,201 1204,201 1204,141"/>
+                    <TextEquiv>
+                        <Unicode>Departements</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1241,141 1241,201 1353,201 1353,141"/>
+                    <TextEquiv>
+                        <Unicode>wird</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1399,143 1399,203 1706,203 1706,143"/>
+                    <TextEquiv>
+                        <Unicode>beschlossen:</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Nach dem Antrag des Departements wird beschlossen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

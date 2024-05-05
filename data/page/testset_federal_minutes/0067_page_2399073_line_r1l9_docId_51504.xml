@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:44.108+02:00</Created>
+        <LastChange>2020-10-06T10:00:32.031+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749998" pageNr="39" tsid="49311613" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TXGAPFUXTCKBZNLQIIUAKFVD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RHZFLDIEGIOOOBALGRWMNMXR" imageId="14365170"/>
+    </Metadata>
+    <Page imageFilename="0067_page_2399073_line_r1l9_docId_51504.jpg" imageWidth="2295" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425429933" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2295,0 2295,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,202 349,242 568,185 825,254 899,187 1182,186 1244,242 1319,185 2128,193 2195,113 100,120"/>
+                <Baseline points="113,188 216,186 319,184 423,182 526,182 630,182 733,182 836,182 940,182 1043,182 1147,182 1250,182 1353,182 1457,182 1560,182 1664,182 1767,180 1870,180 1974,178 2077,177 2181,176"/>
+                <TextEquiv>
+                    <Unicode>Truppenzusammenzügen in Dienst berufen sind und über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Truppenzusammenzügen in Dienst berufen sind und über die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

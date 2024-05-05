@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:49.970+02:00</Created>
+        <LastChange>2020-08-22T11:05:27.443+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745818" pageNr="12" tsid="37755539" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CDCAMQVBLFTBPFUPUMGGDRQZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZBOPBHFPZKRJPKWRKTVRDCHX" imageId="14360998"/>
+    </Metadata>
+    <Page imageFilename="0017_page_2270171_line_r1l2_docId_51007.jpg" imageWidth="2262" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426056564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2262,0 2262,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2162,195 2161,122 1949,100 100,131"/>
+                <Baseline points="117,196 218,194 319,194 421,194 522,194 624,194 725,192 826,192 928,192 1029,190 1131,190 1232,190 1333,188 1435,188 1536,188 1638,186 1739,186 1840,186 1942,184 2043,184 2145,184"/>
+                <TextEquiv>
+                    <Unicode>Gebrauche bei gegebenem Anlaße einen Auszug aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gebrauche bei gegebenem Anlaße einen Auszug aus dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

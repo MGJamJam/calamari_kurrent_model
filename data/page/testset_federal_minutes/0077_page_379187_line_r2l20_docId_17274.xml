@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:13:01.597+02:00</Created>
+        <LastChange>2020-10-27T07:52:22.442+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748215" pageNr="74" tsid="49315844" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KHBQZOKKQSGTBQFTMJQLXQJQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGGNXFWXWBMSMPNCRHXIIVFM" imageId="14363395"/>
+    </Metadata>
+    <Page imageFilename="0077_page_379187_line_r2l20_docId_17274.jpg" imageWidth="2341" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425715350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2341,0 2341,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 1708,201 1855,254 2241,206 2241,130 100,145"/>
+                <Baseline points="115,190 220,188 326,188 431,186 537,184 643,184 748,184 854,184 959,184 1065,184 1171,184 1276,184 1382,184 1487,184 1593,184 1699,184 1804,184 1910,184 2015,184 2121,182 2227,182"/>
+                <TextEquiv>
+                    <Unicode>mit, daß während den Monaten April bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit, daß während den Monaten April bis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

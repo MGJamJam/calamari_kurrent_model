@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:32.082+02:00</Created>
+        <LastChange>2020-08-22T11:19:01.655+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746634" pageNr="93" tsid="37760679" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EHARIKEXYYOQKPDSOSNSYANQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZLUTANOLRSPCKCCGPNCUZIS" imageId="14361814"/>
+    </Metadata>
+    <Page imageFilename="0139_page_379433_line_r2l19_docId_17250.jpg" imageWidth="2109" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425959238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2109,0 2109,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1700,238 2009,199 2009,128 100,143"/>
+                <Baseline points="112,184 206,184 300,182 394,182 488,182 583,182 677,182 771,182 865,184 959,184 1054,184 1148,184 1242,184 1336,184 1430,184 1525,182 1619,182 1713,182 1807,182 1901,182 1996,180"/>
+                <TextEquiv>
+                    <Unicode>sei die schweizerische Kunstkommission ermächtigt, Hrn. Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sei die schweizerische Kunstkommission ermächtigt, Hrn. Ma¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

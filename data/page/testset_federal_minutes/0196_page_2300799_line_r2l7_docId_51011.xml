@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:40.840+02:00</Created>
+        <LastChange>2020-08-22T11:28:33.763+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749778" pageNr="139" tsid="37764228" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YMOKBSSWWQXMJGNCHHVUNIWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFEZLZONYMKIZTRLHCZDVCVR" imageId="14364950"/>
+    </Metadata>
+    <Page imageFilename="0196_page_2300799_line_r2l7_docId_51011.jpg" imageWidth="2424" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425556418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2424,0 2424,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2324,214 2323,128 2034,100 100,151"/>
+                <Baseline points="113,185 222,183 332,183 442,181 552,181 662,179 771,179 881,177 991,175 1101,175 1211,173 1320,171 1430,171 1540,169 1650,169 1760,167 1869,167 1979,165 2089,165 2199,163 2309,163"/>
+                <TextEquiv>
+                    <Unicode>vorzunehmenden kommissarischen Zusammentretens für das bezeichnete Gränz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vorzunehmenden kommissarischen Zusammentretens für das bezeichnete Gränz¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

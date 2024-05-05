@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:57.050+02:00</Created>
+        <LastChange>2020-11-17T08:14:27.663+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744813" pageNr="126" tsid="49319296" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PMIXSAZDDCKKYIAFLNEYWMUF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYULGQXIASVUPWMSYSCXLZGP" imageId="14360204"/>
+    </Metadata>
+    <Page imageFilename="0198_page_307315_line_r2l20_docId_13787.jpg" imageWidth="2113" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426365743" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2113,0 2113,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 269,261 657,199 826,255 963,201 1487,253 1813,205 1900,258 2012,234 2013,152 101,110"/>
+                <Baseline points="113,182 207,182 301,184 395,184 490,185 584,186 678,186 773,188 867,188 961,190 1056,190 1150,190 1244,192 1338,192 1433,192 1527,194 1621,194 1716,194 1810,194 1904,196 1999,196"/>
+                <TextEquiv>
+                    <Unicode>Angelo Pola in Campo Cologno wegen Eigentumsbeschädi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Angelo Pola in Campo Cologno wegen Eigentumsbeschädi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

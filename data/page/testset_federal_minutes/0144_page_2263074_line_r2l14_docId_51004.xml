@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:35.313+02:00</Created>
+        <LastChange>2020-11-16T08:17:26.920+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745636" pageNr="124" tsid="49318837" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WMZIZXYRRBUWKLSRHSFFBKTD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CELHFTLQIXSYSYOWGUVMYSFG" imageId="14360816"/>
+    </Metadata>
+    <Page imageFilename="0144_page_2263074_line_r2l14_docId_51004.jpg" imageWidth="2290" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426200127" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2290,0 2290,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 2190,196 2189,133 2088,110 100,142"/>
+                <Baseline points="115,176 218,177 321,178 424,176 527,176 630,176 733,174 836,174 939,172 1042,170 1146,170 1249,168 1352,166 1455,166 1558,164 1661,163 1764,162 1867,162 1970,162 2073,162 2177,162"/>
+                <TextEquiv>
+                    <Unicode>auf die Fr. 5473. 95, welche nach dem Budget von 1849 zur Anschaffung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf die Fr. 5473. 95, welche nach dem Budget von 1849 zur Anschaffung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

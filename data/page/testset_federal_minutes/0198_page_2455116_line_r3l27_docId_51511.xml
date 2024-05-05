@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:08.833+02:00</Created>
+        <LastChange>2020-09-21T16:14:51.085+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750866" pageNr="143" tsid="49309864" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WIIOGWHXZZCFEIQYQQGYBJYZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TWIFTYPNRYTJADJEOSUDUBOU" imageId="14366024"/>
+    </Metadata>
+    <Page imageFilename="0198_page_2455116_line_r3l27_docId_51511.jpg" imageWidth="1901" imageHeight="416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425323923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1901,0 1901,416 0,416"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,286 220,242 1185,255 1616,316 1800,267 1801,201 239,197 102,103"/>
+                <Baseline points="114,240 197,240 281,238 364,238 448,238 532,238 615,240 699,240 782,242 866,243 950,244 1033,246 1117,248 1200,248 1284,250 1368,252 1451,252 1535,252 1618,252 1702,252 1786,252"/>
+                <TextEquiv>
+                    <Unicode>Her Hoffmann betreffend den Ansag ins Büdget.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Her Hoffmann betreffend den Ansag ins Büdget.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

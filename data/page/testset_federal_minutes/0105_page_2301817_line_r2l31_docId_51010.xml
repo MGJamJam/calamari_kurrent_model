@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:50.862+02:00</Created>
+        <LastChange>2020-08-22T11:08:26.438+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746012" pageNr="69" tsid="37756491" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TGFOGABUYDEKCFNNXLDQEHKE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RFVGWZQCABGKSSHDQRKGGHUD" imageId="14361192"/>
+    </Metadata>
+    <Page imageFilename="0105_page_2301817_line_r2l31_docId_51010.jpg" imageWidth="2392" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426064789" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2392,0 2392,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,265 2292,241 2292,105 1846,180 100,184"/>
+                <Baseline points="114,211 222,213 330,213 438,213 546,213 655,213 763,211 871,211 979,211 1087,211 1196,209 1304,209 1412,209 1520,207 1628,207 1737,207 1845,207 1953,207 2061,207 2169,207 2278,207"/>
+                <TextEquiv>
+                    <Unicode>zu seiner Erben eingesezt, mithin die Schwester des Verstorbenen kein Recht auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu seiner Erben eingesezt, mithin die Schwester des Verstorbenen kein Recht auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

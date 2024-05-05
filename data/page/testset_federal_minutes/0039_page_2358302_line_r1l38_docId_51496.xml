@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:06.693+02:00</Created>
+        <LastChange>2020-10-08T07:50:34.142+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749804" pageNr="26" tsid="49312257" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EIPSFOEIXLTGFCTPXDRHAYKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSUREHRZXTVPRITKHVSKMHAZ" imageId="14364976"/>
+    </Metadata>
+    <Page imageFilename="0039_page_2358302_line_r1l38_docId_51496.jpg" imageWidth="2291" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425482585" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2291,0 2291,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,213 1136,194 1322,262 1553,189 1996,253 2191,155 1807,100 1751,150 100,158"/>
+                <Baseline points="118,196 220,196 323,194 426,194 529,194 632,194 734,192 837,192 940,192 1043,192 1146,192 1248,190 1351,190 1454,190 1557,190 1660,190 1762,190 1865,190 1968,190 2071,190 2174,190 2205,192"/>
+                <TextEquiv>
+                    <Unicode>Mit Zuschrift vom 6. dieß rekurrirt die Regierung von Neuenburg gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Zuschrift vom 6. dieß rekurrirt die Regierung von Neuenburg gegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

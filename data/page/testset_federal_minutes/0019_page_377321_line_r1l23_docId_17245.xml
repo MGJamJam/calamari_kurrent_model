@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:33.811+02:00</Created>
+        <LastChange>2020-08-22T11:14:58.439+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746288" pageNr="11" tsid="37758822" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPSULRWQHSZUPGMJIQJUDGSB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCZIKJMOMIGAMIWMJYRXEHQS" imageId="14361468"/>
+    </Metadata>
+    <Page imageFilename="0019_page_377321_line_r1l23_docId_17245.jpg" imageWidth="1679" imageHeight="316">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425946826" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1679,0 1679,316 0,316"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,188 551,216 1579,171 1578,122 1096,100 822,142 100,118"/>
+                <Baseline points="112,173 184,173 257,173 330,171 403,171 476,171 548,169 621,169 694,169 767,168 840,167 912,167 985,167 1058,167 1131,165 1204,165 1276,165 1349,165 1422,165 1495,167 1568,167"/>
+                <TextEquiv>
+                    <Unicode>Verwalter des Munitionsdepot: Marbach, L., von Oberwichtrach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verwalter des Munitionsdepot: Marbach, L., von Oberwichtrach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

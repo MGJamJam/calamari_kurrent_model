@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:26.917+02:00</Created>
+        <LastChange>2020-11-18T17:30:26.401+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744475" pageNr="73" tsid="49319350" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XURPKBBUYUFDZHDMQMMHGWCD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQXGCPQOWYDLFUGQTFZWKHVK" imageId="14359866"/>
+    </Metadata>
+    <Page imageFilename="0108_page_303631_line_r2l31_docId_13780.jpg" imageWidth="2315" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426418379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2315,0 2315,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 627,273 894,204 2063,255 2215,205 2215,129 100,138"/>
+                <Baseline points="114,201 218,201 322,199 427,199 531,199 636,199 740,199 844,199 949,197 1053,197 1158,197 1262,197 1366,197 1471,197 1575,197 1680,197 1784,195 1888,195 1993,195 2097,193 2202,191"/>
+                <TextEquiv>
+                    <Unicode>Die Angelegenheit einem Rechtsanwalt in Montpellier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Angelegenheit einem Rechtsanwalt in Montpellier</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

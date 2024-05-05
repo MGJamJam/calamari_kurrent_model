@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:22.107+02:00</Created>
+        <LastChange>2020-10-08T08:25:09.503+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749970" pageNr="66" tsid="49312379" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KISQUBIGBRZLVRNZFITCHQDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HJZXFTCMCKVZKJOEKIJZGNWL" imageId="14365142"/>
+    </Metadata>
+    <Page imageFilename="0100_page_2372121_line_r1l3_docId_51500.jpg" imageWidth="763" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425488096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 763,0 763,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,179 412,180 460,218 519,172 562,208 607,171 663,164 662,108 594,106 569,132 524,133 495,105 433,120 413,100 317,105 281,131 230,115 193,132 176,116 100,123"/>
+                <Baseline points="66,171 114,168 140,168 167,166 194,166 221,166 248,166 274,166 301,166 328,166 355,166 382,166 408,166 435,166 462,166 489,164 516,164 542,162 569,161 596,159 623,157 650,156 689,155"/>
+                <TextEquiv>
+                    <Unicode>grini, Forderung nähern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>grini, Forderung nähern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

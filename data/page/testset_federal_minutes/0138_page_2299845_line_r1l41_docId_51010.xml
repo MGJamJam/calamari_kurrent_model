@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:59.394+02:00</Created>
+        <LastChange>2020-11-15T18:06:42.141+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746086" pageNr="96" tsid="49318577" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UFPXQWRGJNRKLMGNJDNRSJPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJQTEDKOSNYIFVSEKXRRPKAG" imageId="14361266"/>
+    </Metadata>
+    <Page imageFilename="0138_page_2299845_line_r1l41_docId_51010.jpg" imageWidth="2406" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426068421" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2406,0 2406,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 1071,260 2230,215 2305,275 2296,153 101,143"/>
+                <Baseline points="118,180 226,182 335,183 443,184 552,186 661,186 769,188 878,189 986,190 1095,192 1204,192 1312,194 1421,196 1529,196 1638,198 1747,200 1855,201 1964,202 2072,204 2181,206 2290,208"/>
+                <TextEquiv>
+                    <Unicode>von dem Verunglüken eines Francois Girard, von Abondanei (Savoien)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von dem Verunglüken eines Francois Girard, von Abondanei (Savoien)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

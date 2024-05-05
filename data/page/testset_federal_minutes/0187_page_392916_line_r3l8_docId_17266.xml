@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:31:18.657+02:00</Created>
+        <LastChange>2020-10-27T09:24:38.103+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748919" pageNr="92" tsid="49304311" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ICWJJIMJQVQMACEYRHBKTDOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPWWJGEDMWBPAADBBQTXVEGZ" imageId="14364095"/>
+    </Metadata>
+    <Page imageFilename="0187_page_392916_line_r3l8_docId_17266.jpg" imageWidth="2297" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425773970" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2297,0 2297,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,214 2007,228 2197,204 2196,132 100,118"/>
+                <Baseline points="116,200 219,198 322,196 426,194 529,192 633,190 736,189 839,188 943,186 1046,184 1150,184 1253,182 1356,180 1460,180 1563,178 1667,178 1770,176 1873,174 1977,174 2080,172 2184,170"/>
+                <TextEquiv>
+                    <Unicode>Übergang zu diesen Modellen successive per ganzen Jahrgang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Übergang zu diesen Modellen successive per ganzen Jahrgang</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:01.010+02:00</Created>
+        <LastChange>2020-08-22T07:33:15.277+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745366" pageNr="11" tsid="37714797" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=STTIOVHGLPXKOYQQKTJBNTXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICPLEMAURFJLLINURVGVSZJE" imageId="14360550"/>
+    </Metadata>
+    <Page imageFilename="0014_page_2260788_line_r2l9_docId_51003.jpg" imageWidth="2364" imageHeight="406">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426184551" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2364,0 2364,406 0,406"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,306 210,252 2222,247 2263,100 1842,194 1555,121 1401,195 853,135 100,210"/>
+                <Baseline points="114,241 220,239 327,237 434,235 541,233 648,231 754,229 861,229 968,227 1075,227 1182,227 1288,227 1395,227 1502,226 1609,225 1716,225 1822,225 1929,224 2036,223 2143,222 2250,221"/>
+                <TextEquiv>
+                    <Unicode>"Fenden amtlichen Protokollen oder Akten in den Kantonen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"Fenden amtlichen Protokollen oder Akten in den Kantonen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

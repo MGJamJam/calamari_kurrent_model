@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:44.177+02:00</Created>
+        <LastChange>2020-08-22T07:37:17.315+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745646" pageNr="128" tsid="37715538" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NKCIOQBAIWHAFEPFYAPFJYHQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HBDWWTOENQPDZRSPRBTUOWGD" imageId="14360826"/>
+    </Metadata>
+    <Page imageFilename="0148_page_2252025_line_r1l31_docId_51004.jpg" imageWidth="2311" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426200689" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2311,0 2311,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 2210,235 2126,148 1850,184 1723,125 1655,180 1309,115 1241,170 723,162 649,101 579,159 435,100 101,151"/>
+                <Baseline points="113,187 217,187 321,189 425,191 529,193 634,195 738,197 842,199 946,201 1050,203 1155,205 1259,207 1363,209 1467,211 1571,213 1676,213 1780,215 1884,217 1988,217 2092,219 2197,219"/>
+                <TextEquiv>
+                    <Unicode>tone liegt, und die Gefahr der Heimathlosigkeit abzuwenden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tone liegt, und die Gefahr der Heimathlosigkeit abzuwenden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

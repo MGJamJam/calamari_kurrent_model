@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:26.734+02:00</Created>
+        <LastChange>2020-11-10T08:09:52.219+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746572" pageNr="78" tsid="49318331" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JYJNUPLTQVVBFCIXBEMIXPCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XEMQJGTWEJQXVPJHAFIMTYNI" imageId="14361752"/>
+    </Metadata>
+    <Page imageFilename="0118_page_379842_line_r1l7_docId_17248.jpg" imageWidth="2178" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425956873" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2178,0 2178,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,176 2078,215 2078,141 1703,104 101,134"/>
+                <Baseline points="112,168 209,168 307,170 405,170 502,170 600,172 698,172 795,174 893,174 991,174 1089,174 1186,176 1284,176 1382,176 1479,176 1577,178 1675,178 1772,178 1870,180 1968,180 2066,180"/>
+                <TextEquiv>
+                    <Unicode>schen Gesandten, sowie ans Departement der Auswärtigen (Han¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schen Gesandten, sowie ans Departement der Auswärtigen (Han¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

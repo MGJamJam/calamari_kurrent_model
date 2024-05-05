@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:25:54.366+02:00</Created>
+        <LastChange>2020-10-13T21:01:18.586+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748693" pageNr="6" tsid="49315224" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GJMKWBPQZIHPCGJZKYMBBAQD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICTFBOABLIXJUYMOXAVDGMLP" imageId="14363873"/>
+    </Metadata>
+    <Page imageFilename="0014_page_412368_line_r2l43_docId_17280.jpg" imageWidth="1822" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425626005" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1822,0 1822,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,234 1710,229 1721,100 1242,157 1157,101 1092,155 979,107 861,159 100,128"/>
+                <Baseline points="112,204 192,204 272,204 352,202 432,202 512,202 592,200 672,200 752,200 832,200 912,198 992,198 1072,198 1152,196 1232,196 1312,194 1392,194 1472,192 1552,190 1632,190 1712,188"/>
+                <TextEquiv>
+                    <Unicode>Abteilungsarbeiten, für Ausläuferdienst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Abteilungsarbeiten, für Ausläuferdienst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:35.440+02:00</Created>
+        <LastChange>2020-09-22T15:27:37.408+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519116" pageNr="113" tsid="49307662" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DBFWYZXSKIASGRIJMGILETPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPTUFARJRRTDVLQXHNZGYHRO" imageId="15086049"/>
+    </Metadata>
+    <Page imageFilename="0151_page_2456968_line_r2l19_docId_51515.jpg" imageWidth="2318" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425252446" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2318,0 2318,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,171 1362,185 1532,254 1601,198 2216,211 2218,145 101,135 100,171"/>
+                <Baseline points="115,162 219,162 323,164 428,165 532,166 637,168 741,171 845,173 950,176 1054,178 1159,180 1263,184 1367,186 1472,188 1576,190 1681,192 1785,194 1889,196 1994,196 2098,198 2203,198"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="104,137 104,197 1934,197 1934,137"/>
+                    <TextEquiv>
+                        <Unicode>WcnnctRgonZrc</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>WcnnctRgonZrc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

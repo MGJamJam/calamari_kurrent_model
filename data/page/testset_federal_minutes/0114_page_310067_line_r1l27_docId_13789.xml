@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:53:53.351+02:00</Created>
+        <LastChange>2020-11-17T07:33:29.363+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744657" pageNr="68" tsid="49319233" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YVLBSCTKLHSXRUZHJADZKEHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYDXZDJVVWCEPGANYIOFMKWS" imageId="14360048"/>
+    </Metadata>
+    <Page imageFilename="0114_page_310067_line_r1l27_docId_13789.jpg" imageWidth="2100" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426357995" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2100,0 2100,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2000,231 1999,109 1906,104 1610,164 1482,100 1026,165 730,109 531,171 100,145"/>
+                <Baseline points="113,188 206,188 300,188 394,188 487,188 581,188 675,188 768,188 862,188 956,188 1050,188 1143,186 1237,186 1331,186 1424,186 1518,186 1612,186 1705,186 1799,186 1893,184 1987,184"/>
+                <TextEquiv>
+                    <Unicode>4593) sei am 30. September 1864 zu Romico (?), Kts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4593) sei am 30. September 1864 zu Romico (?), Kts.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:52.648+02:00</Created>
+        <LastChange>2020-08-22T11:33:27.073+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750766" pageNr="117" tsid="37765633" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZUNWLGZSMPPDDMNIKNOCDSUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDZGHKPCRCXVOFGCMLCXVTLT" imageId="14365924"/>
+    </Metadata>
+    <Page imageFilename="0163_page_2434956_line_r1l38_docId_51508.jpg" imageWidth="2138" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425383831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2138,0 2138,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 2038,194 2038,121 1857,108 101,121"/>
+                <Baseline points="115,165 210,165 306,167 401,169 497,170 592,171 688,173 783,173 879,173 974,175 1070,175 1165,175 1261,177 1356,177 1452,177 1547,178 1643,179 1738,179 1834,181 1929,181 2025,183"/>
+                <TextEquiv>
+                    <Unicode>Mit depesche vom 16. v. Mts. berichtet der Konsul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit depesche vom 16. v. Mts. berichtet der Konsul</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:05.373+02:00</Created>
+        <LastChange>2020-08-22T11:18:43.866+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746608" pageNr="87" tsid="37760559" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KLGVLNDMWGKNARSQFTQPXCFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVQZIBMVBTLFZNJMYCOSFVEV" imageId="14361788"/>
+    </Metadata>
+    <Page imageFilename="0130_page_380201_line_r1l22_docId_17249.jpg" imageWidth="2038" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425958103" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2038,0 2038,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,215 1938,212 1937,140 1633,100 1320,164 100,135"/>
+                <Baseline points="112,194 202,192 293,192 383,190 474,190 565,188 655,188 746,187 836,186 927,186 1018,186 1108,186 1199,184 1289,184 1380,184 1471,184 1561,182 1652,182 1742,182 1833,180 1924,180"/>
+                <TextEquiv>
+                    <Unicode>der Gläubiger gestellt, und es steht den Aufsichtsbehörden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Gläubiger gestellt, und es steht den Aufsichtsbehörden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

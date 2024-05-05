@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:12:55.276+02:00</Created>
+        <LastChange>2020-08-22T11:17:37.998+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748210" pageNr="28" tsid="37760023" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MJYSNBKHBAPRUNFICLQWXLUD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZNMHOQHBWQYEEHQLFPJWRNWR" imageId="14363390"/>
+    </Metadata>
+    <Page imageFilename="0049_page_391669_line_r2l6_docId_17266.jpg" imageWidth="627" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425764954" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 627,0 627,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,200 192,189 233,218 305,201 345,214 374,190 388,203 460,189 527,205 526,103 470,111 454,128 427,114 406,136 352,104 280,135 240,124 197,146 162,133 130,149 100,141"/>
+                <Baseline points="113,180 138,180 163,182 188,182 213,182 238,182 263,181 288,180 314,180 339,180 364,180 389,180 414,180 439,179 464,178 489,178 515,178"/>
+                <TextEquiv>
+                    <Unicode>vom 27. dies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 27. dies</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

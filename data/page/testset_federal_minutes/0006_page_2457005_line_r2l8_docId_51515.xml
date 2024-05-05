@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:27:55.499+02:00</Created>
+        <LastChange>2020-09-28T07:59:26.267+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518962" pageNr="6" tsid="49307140" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NVARSNAFOWIMCQCRDMWYMBCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFMIMOOBGCUZRBPOOWVNKBYB" imageId="15085895"/>
+    </Metadata>
+    <Page imageFilename="0006_page_2457005_line_r2l8_docId_51515.jpg" imageWidth="814" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425236246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 814,0 814,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,204 208,251 248,208 304,228 352,185 565,181 682,202 714,181 712,107 643,109 624,129 601,108 530,124 491,100 445,146 389,128 362,151 322,114 281,115 260,138 212,129 191,152 100,157 102,204"/>
+                <Baseline points="116,193 145,190 174,188 203,186 232,184 262,183 291,181 320,179 349,179 378,177 408,176 437,175 466,175 495,174 524,173 554,173 583,173 612,173 641,173 670,173 700,171"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="118,144 118,204 333,204 333,144"/>
+                    <TextEquiv>
+                        <Unicode>verleung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="362,136 362,196 401,196 401,136"/>
+                    <TextEquiv>
+                        <Unicode>im</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="440,134 440,194 499,194 499,134"/>
+                    <TextEquiv>
+                        <Unicode>Ht.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="518,133 518,193 664,193 664,133"/>
+                    <TextEquiv>
+                        <Unicode>Solothi</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>verlezung im Kt. Solothurn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verlezung im Kt. Solothurn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

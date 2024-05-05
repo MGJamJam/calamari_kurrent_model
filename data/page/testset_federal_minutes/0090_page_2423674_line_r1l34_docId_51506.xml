@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:09.112+02:00</Created>
+        <LastChange>2020-10-06T07:39:10.757+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750552" pageNr="62" tsid="49310717" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BQCHNWKZDRXYVYELSNOLJSOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLHBEZHLIVIXFFSEYEZRAWUY" imageId="14365710"/>
+    </Metadata>
+    <Page imageFilename="0090_page_2423674_line_r1l34_docId_51506.jpg" imageWidth="2216" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425376303" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2216,0 2216,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,258 2116,223 2116,143 2041,119 1495,181 1066,100 959,167 100,134"/>
+                <Baseline points="115,219 214,215 313,213 412,213 512,211 611,209 710,209 810,209 909,208 1008,207 1108,207 1207,207 1306,207 1405,209 1505,209 1604,209 1703,209 1803,209 1902,207 2001,207 2101,207"/>
+                <TextEquiv>
+                    <Unicode>Zur Erledigung der Beschwerdeeingabe einer Frau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zur Erledigung der Beschwerdeeingabe einer Frau</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

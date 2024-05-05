@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:21.218+02:00</Created>
+        <LastChange>2020-09-28T10:35:51.033+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519109" pageNr="106" tsid="49307640" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WFEUFDHQYNZEVCKCBKOWBUGN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUWZIWPMHOQRATYSJWKNNIAY" imageId="15086042"/>
+    </Metadata>
+    <Page imageFilename="0144_page_2457025_line_r1l34_docId_51515.jpg" imageWidth="2380" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425251480" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2380,0 2380,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 2280,220 2280,146 1585,166 1357,100 1233,160 101,149 100,215"/>
+                <Baseline points="113,196 220,198 328,200 436,200 543,200 651,202 759,202 866,202 974,202 1082,202 1190,202 1297,202 1405,200 1513,200 1620,202 1728,202 1836,202 1943,202 2051,204 2159,204 2267,206"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="114,156 114,216 131,216 131,156"/>
+                    <TextEquiv>
+                        <Unicode>3</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="205,158 205,218 296,218 296,158"/>
+                    <TextEquiv>
+                        <Unicode>Sei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="329,160 329,220 413,220 413,160"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="488,160 488,220 637,220 637,160"/>
+                    <TextEquiv>
+                        <Unicode>Hrn.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="653,162 653,222 977,222 977,162"/>
+                    <TextEquiv>
+                        <Unicode>Hauptmann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1052,162 1052,222 1201,222 1201,162"/>
+                    <TextEquiv>
+                        <Unicode>Rud.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1226,161 1226,221 1475,221 1475,161"/>
+                    <TextEquiv>
+                        <Unicode>Schmidt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1525,160 1525,220 1567,220 1567,160"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1616,162 1616,222 1832,222 1832,162"/>
+                    <TextEquiv>
+                        <Unicode>Basel,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1857,162 1857,222 1899,222 1899,162"/>
+                    <TextEquiv>
+                        <Unicode>im</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1948,163 1948,223 2131,223 2131,163"/>
+                    <TextEquiv>
+                        <Unicode>Verein</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2164,164 2164,224 2247,224 2247,164"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>3., Sei dem Hrn. Hauptmann Rud. Schmidt in Basel, im Verein mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3., Sei dem Hrn. Hauptmann Rud. Schmidt in Basel, im Verein mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

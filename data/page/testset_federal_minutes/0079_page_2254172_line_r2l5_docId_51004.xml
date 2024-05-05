@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:19.993+02:00</Created>
+        <LastChange>2020-11-16T07:45:00.354+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745489" pageNr="70" tsid="49318799" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CFCSTJAKEGPFKRSOBYUVMUNF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UBLYAKBLHUWWGUGALAHVTYQW" imageId="14360673"/>
+    </Metadata>
+    <Page imageFilename="0079_page_2254172_line_r2l5_docId_51004.jpg" imageWidth="754" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426192825" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 754,0 754,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,243 154,220 197,235 271,187 352,199 393,227 439,180 493,187 523,213 565,182 654,177 652,126 583,141 542,102 430,138 373,118 318,141 261,115 184,134 100,117"/>
+                <Baseline points="115,183 141,183 167,183 193,183 220,183 246,181 272,181 299,181 325,179 351,179 378,178 404,177 430,177 456,176 483,175 509,173 535,173 562,173 588,171 614,171 641,169"/>
+                <TextEquiv>
+                    <Unicode>Geschäftsträger in Paris:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geschäftsträger in Paris:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:57:35.570+02:00</Created>
+        <LastChange>2020-08-22T11:18:38.194+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747604" pageNr="61" tsid="37760516" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SHSYDWSRIJIDERWFYPVIGDQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDOYJBWUFNUPXTLORNFCPANT" imageId="14362784"/>
+    </Metadata>
+    <Page imageFilename="0131_page_389998_line_r2l27_docId_17261.jpg" imageWidth="1572" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425852473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1572,0 1572,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 205,239 758,202 1279,243 1472,198 1472,144 1350,107 713,149 100,116"/>
+                <Baseline points="112,183 179,185 246,187 314,189 381,189 449,189 516,189 583,189 651,189 718,189 786,187 853,187 920,187 988,185 1055,185 1123,185 1190,185 1257,185 1325,187 1392,189 1460,189"/>
+                <TextEquiv>
+                    <Unicode>klärung für Annahme obigen Beschlusses gegeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>klärung für Annahme obigen Beschlusses gegeben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

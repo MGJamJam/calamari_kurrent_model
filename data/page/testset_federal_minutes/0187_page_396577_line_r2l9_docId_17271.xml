@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:23:24.640+02:00</Created>
+        <LastChange>2020-08-22T11:26:44.622+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748600" pageNr="182" tsid="37763320" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BBWHHOUNRANRWQLGQAAUQZNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKOCHBDNUVFROCWNHBMLZXYI" imageId="14363780"/>
+    </Metadata>
+    <Page imageFilename="0187_page_396577_line_r2l9_docId_17271.jpg" imageWidth="538" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425729702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 538,0 538,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,244 170,252 184,241 209,250 374,232 416,249 438,243 437,127 401,125 385,108 360,133 313,100 250,131 205,103 167,131 100,128"/>
+                <Baseline points="115,174 140,174 166,173 192,172 217,172 243,172 269,172 294,172 320,172 346,172 371,172 397,172 423,174"/>
+                <TextEquiv>
+                    <Unicode>schaffung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schaffung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

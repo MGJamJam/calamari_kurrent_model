@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:40:33.441+02:00</Created>
+        <LastChange>2020-11-12T07:53:36.110+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746809" pageNr="102" tsid="49318494" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GTZOMOQVLIPOKGCSNTZWWXZQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CLUFZGZKDKPLXTMCCPDLYWLZ" imageId="14361989"/>
+    </Metadata>
+    <Page imageFilename="0175_page_366785_line_r2l10_docId_17234.jpg" imageWidth="2111" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426012210" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2111,0 2111,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 2011,217 1892,132 1487,100 1062,169 100,139"/>
+                <Baseline points="112,199 206,198 300,197 394,197 489,195 583,195 677,193 772,193 866,191 960,191 1055,191 1149,189 1243,189 1337,189 1432,189 1526,189 1620,189 1715,191 1809,191 1903,193 1998,195 2034,197"/>
+                <TextEquiv>
+                    <Unicode>2. An diese Arbeiten, welche zu fr. 11. 500 de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. An diese Arbeiten, welche zu fr. 11. 500 de¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

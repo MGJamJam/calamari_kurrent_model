@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:42:14.080+02:00</Created>
+        <LastChange>2020-11-09T17:00:15.324+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746887" pageNr="12" tsid="49318183" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UDQVDBFXCAJGFBEJKKXUOWQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QOROIGITQRMWOENUGVXWYINK" imageId="14362067"/>
+    </Metadata>
+    <Page imageFilename="0021_page_383846_line_r2l12_docId_17252.jpg" imageWidth="1971" imageHeight="414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425890457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1971,0 1971,414 0,414"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,281 736,253 936,314 1651,244 1782,310 1871,268 1870,100 1700,188 1441,122 751,219 484,153 100,180"/>
+                <Baseline points="111,242 198,243 285,244 373,244 460,244 548,244 635,244 722,244 810,244 897,243 985,242 1072,242 1159,240 1247,240 1334,240 1422,238 1509,238 1596,238 1684,238 1771,238 1859,238"/>
+                <TextEquiv>
+                    <Unicode>4.) Beschluß vom 22. Juni 20./Dezember 1895</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4.) Beschluß vom 22. Juni 20./Dezember 1895</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

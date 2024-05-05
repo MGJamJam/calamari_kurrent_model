@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:55:54.101+02:00</Created>
+        <LastChange>2020-08-22T11:17:17.939+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747531" pageNr="19" tsid="37759895" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WXUFHISVHOQBMTZQNSYBTHAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BQTYXKDFUKJDKEAQTXQCMXIC" imageId="14362711"/>
+    </Metadata>
+    <Page imageFilename="0061_page_400778_line_r1l23_docId_17276.jpg" imageWidth="1205" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425801250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1205,0 1205,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 238,194 396,253 472,195 849,237 1105,196 1105,132 1002,113 791,145 730,120 588,142 561,114 419,145 322,100 100,130"/>
+                <Baseline points="114,178 162,180 211,181 260,182 309,182 358,184 407,184 456,186 505,186 554,186 603,186 651,186 700,186 749,186 798,186 847,186 896,184 945,184 994,182 1043,182 1092,180"/>
+                <TextEquiv>
+                    <Unicode>Mit Eingabe vom 28. vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Eingabe vom 28. vor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

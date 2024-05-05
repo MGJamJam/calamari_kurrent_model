@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:03.720+02:00</Created>
+        <LastChange>2020-10-27T07:54:26.476+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748250" pageNr="81" tsid="49315850" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BJHIKLKQWKYFGGHNFFUOAQKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZVUAXDHEUYLVJNQGXZSGIYZ" imageId="14363430"/>
+    </Metadata>
+    <Page imageFilename="0085_page_395229_line_r1l35_docId_17269.jpg" imageWidth="1760" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1760,0 1760,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,229 998,199 1140,267 1428,195 1621,239 1659,123 100,157"/>
+                <Baseline points="114,202 190,200 267,198 343,196 420,194 497,194 573,192 650,192 726,192 803,190 880,190 956,190 1033,189 1109,188 1186,188 1263,187 1339,186 1416,184 1492,184 1569,182 1646,180"/>
+                <TextEquiv>
+                    <Unicode>Ruhn, Fritz, v. Bremgarten (Beruf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ruhn, Fritz, v. Bremgarten (Beruf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

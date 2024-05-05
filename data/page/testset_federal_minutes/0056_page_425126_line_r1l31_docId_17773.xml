@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:53.262+02:00</Created>
+        <LastChange>2020-10-12T20:49:11.693+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749175" pageNr="30" tsid="49314399" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OKDSOKEMMDPFBVXHIRRTXXYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XHAKFWJIRSBALZLBMLNSPDNN" imageId="14364351"/>
+    </Metadata>
+    <Page imageFilename="0056_page_425126_line_r1l31_docId_17773.jpg" imageWidth="2613" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589465" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2613,0 2613,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 2513,224 2513,139 2271,100 100,146"/>
+                <Baseline points="114,190 239,190 364,190 490,190 615,190 741,190 866,190 992,190 1117,190 1243,190 1368,190 1494,190 1619,190 1745,190 1870,188 1996,188 2121,188 2247,186 2372,186 2498,184"/>
+                <TextEquiv>
+                    <Unicode>tous Baselstadt, zur Prüfung dieser Angelegenheit ein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tous Baselstadt, zur Prüfung dieser Angelegenheit ein-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

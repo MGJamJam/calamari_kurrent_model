@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:25.392+02:00</Created>
+        <LastChange>2020-11-16T08:15:05.394+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745626" pageNr="119" tsid="49318833" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KAJSPGBBLIHULEUISUENEVKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGOFTQHUATQHNXUHBFTPCDCM" imageId="14360806"/>
+    </Metadata>
+    <Page imageFilename="0139_page_2264268_line_r2l36_docId_51002.jpg" imageWidth="2295" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2295,0 2295,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,220 2195,211 2194,152 1505,100 1275,168 969,116 100,167"/>
+                <Baseline points="114,199 217,199 320,197 424,197 527,197 631,197 734,197 837,195 941,195 1044,195 1148,193 1251,193 1354,192 1458,191 1561,191 1665,189 1768,189 1871,189 1975,189 2078,189 2182,187"/>
+                <TextEquiv>
+                    <Unicode>Art. 62. Wenn der Adressat bei einem Niederlagshause ange¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art. 62. Wenn der Adressat bei einem Niederlagshause ange¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

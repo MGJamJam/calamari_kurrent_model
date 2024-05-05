@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:08.170+02:00</Created>
+        <LastChange>2020-11-15T20:33:38.065+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746095" pageNr="117" tsid="49318734" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DDEQQTAWVWGXGXLCJTADRNGV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWPWNYKVIZCNMMGCELNKANEW" imageId="14361275"/>
+    </Metadata>
+    <Page imageFilename="0171_page_314869_line_r1l23_docId_13796.jpg" imageWidth="2071" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426131646" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2071,0 2071,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 866,201 1012,266 1148,204 1864,247 1971,197 1827,115 1666,167 1304,100 990,169 100,137"/>
+                <Baseline points="112,195 204,195 296,197 388,197 481,197 573,199 665,199 758,199 850,199 942,199 1035,199 1127,201 1219,199 1311,199 1404,199 1496,199 1588,199 1681,197 1773,197 1865,197 1958,195"/>
+                <TextEquiv>
+                    <Unicode>An die Bewilligung zur Niederjagd in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Bewilligung zur Niederjagd in dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

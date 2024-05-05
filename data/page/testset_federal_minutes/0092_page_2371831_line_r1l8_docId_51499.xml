@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:05.256+02:00</Created>
+        <LastChange>2020-10-08T08:19:37.176+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749947" pageNr="60" tsid="49312367" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RFBFVOREYPZIJXXQJYSZFFEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVGOPDLVMZZTZAGHAQXHZDLG" imageId="14365119"/>
+    </Metadata>
+    <Page imageFilename="0092_page_2371831_line_r1l8_docId_51499.jpg" imageWidth="735" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425487275" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 735,0 735,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 147,220 202,182 240,204 312,169 411,173 471,206 532,174 634,169 635,106 475,110 445,126 404,109 326,131 277,130 244,100 101,120"/>
+                <Baseline points="115,161 140,163 165,163 190,164 216,165 241,165 266,165 292,165 317,166 342,167 368,167 393,167 418,167 443,167 469,167 494,167 519,167 545,167 570,167 595,167 621,167 645,168 652,169"/>
+                <TextEquiv>
+                    <Unicode>Rechange betr. Abhörung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rechange betr. Abhörung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

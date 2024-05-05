@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:56:10.020+02:00</Created>
+        <LastChange>2020-08-22T11:17:29.600+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747543" pageNr="22" tsid="37759965" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LKHIGEEZXYTRKVMQWSSZAVPR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCPOATYYYUFPSXQCROXBICER" imageId="14362723"/>
+    </Metadata>
+    <Page imageFilename="0066_page_412346_line_r1l34_docId_17280.jpg" imageWidth="2376" imageHeight="403">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425801677" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2376,0 2376,403 0,403"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,242 1290,226 1591,291 1832,234 2087,303 2273,256 2276,134 1514,185 1421,110 935,174 103,104"/>
+                <Baseline points="116,183 223,187 330,191 437,195 544,199 652,201 759,203 866,205 973,207 1080,209 1188,211 1295,213 1402,213 1509,215 1616,217 1724,219 1831,220 1938,221 2045,225 2152,227 2260,229"/>
+                <TextEquiv>
+                    <Unicode>(Telegraphs) zur Vollziehung und aus Finanzdepartement z. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Telegraphs) zur Vollziehung und aus Finanzdepartement z. R.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

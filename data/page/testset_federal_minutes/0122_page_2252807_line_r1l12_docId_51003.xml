@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:49.112+02:00</Created>
+        <LastChange>2020-08-22T07:36:28.995+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745589" pageNr="108" tsid="37715389" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SKLJJNMMJSYACWROIRGWOVWM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCCQBOSVMKPDLCLJHUZOHVOO" imageId="14360769"/>
+    </Metadata>
+    <Page imageFilename="0122_page_2252807_line_r1l12_docId_51003.jpg" imageWidth="2323" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426197895" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2323,0 2323,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,266 651,203 799,260 905,202 1995,243 2223,199 2223,144 743,116 354,173 100,104"/>
+                <Baseline points="114,209 218,207 323,205 428,205 533,203 638,203 742,203 847,201 952,201 1057,201 1162,201 1266,201 1371,201 1476,199 1581,199 1686,199 1790,199 1895,199 2000,199 2105,197 2210,197"/>
+                <TextEquiv>
+                    <Unicode>bruar, betreffend die ihr übersandten Exemplare des Bundesgesetzes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bruar, betreffend die ihr übersandten Exemplare des Bundesgesetzes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

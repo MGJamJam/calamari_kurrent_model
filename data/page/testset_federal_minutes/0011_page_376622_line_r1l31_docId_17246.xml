@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:10.229+02:00</Created>
+        <LastChange>2020-11-10T07:12:41.330+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746266" pageNr="6" tsid="49318278" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JZFVMWLFTWNKOPIFDMIKTRJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TFUIQMKWBUQFLGPIMGENYVKC" imageId="14361446"/>
+    </Metadata>
+    <Page imageFilename="0011_page_376622_line_r1l31_docId_17246.jpg" imageWidth="2060" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425946168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2060,0 2060,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1960,179 1921,120 1485,101 1251,148 100,116"/>
+                <Baseline points="113,175 204,175 296,175 388,175 479,175 571,175 663,175 754,175 846,175 938,175 1030,175 1121,173 1213,173 1305,173 1396,171 1488,171 1580,171 1671,169 1763,169 1855,167 1947,167"/>
+                <TextEquiv>
+                    <Unicode>Kantons Bern mitgeteilt, um denselben dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kantons Bern mitgeteilt, um denselben dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

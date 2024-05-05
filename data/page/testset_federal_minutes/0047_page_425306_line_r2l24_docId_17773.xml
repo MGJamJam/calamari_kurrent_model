@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:23.548+02:00</Created>
+        <LastChange>2020-10-12T20:46:28.917+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749148" pageNr="25" tsid="49314385" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NYRJWFQLWCVWWWLCTVOZXWZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCVBSDSYENQDGRYNYLYNRVMK" imageId="14364324"/>
+    </Metadata>
+    <Page imageFilename="0047_page_425306_line_r2l24_docId_17773.jpg" imageWidth="2646" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425588766" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2646,0 2646,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 2545,230 2459,138 1960,111 101,119"/>
+                <Baseline points="116,174 243,174 370,176 497,176 624,178 751,180 878,181 1006,182 1133,184 1260,186 1387,188 1514,190 1641,192 1769,192 1896,194 2023,196 2150,198 2277,198 2404,200 2532,200"/>
+                <TextEquiv>
+                    <Unicode>lizeipräsident Dickhoff in Mülhausen für die betreffenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lizeipräsident Dickhoff in Mülhausen für die betreffenden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

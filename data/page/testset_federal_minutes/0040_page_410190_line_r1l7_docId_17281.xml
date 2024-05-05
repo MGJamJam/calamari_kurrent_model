@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:35:59.422+02:00</Created>
+        <LastChange>2020-10-12T20:43:12.738+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749124" pageNr="20" tsid="49314370" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QTNOPUBANIOEOEKTQHBZPDOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWEKWWMGIIWCWVCJGQTJWNPD" imageId="14364300"/>
+    </Metadata>
+    <Page imageFilename="0040_page_410190_line_r1l7_docId_17281.jpg" imageWidth="2355" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425588023" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2355,0 2355,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,253 2255,205 2254,148 1983,103 100,158"/>
+                <Baseline points="113,209 219,207 325,205 432,203 538,201 645,199 751,199 857,197 964,197 1070,195 1177,195 1283,195 1389,193 1496,193 1602,193 1709,191 1815,191 1921,191 2028,191 2134,189 2241,189"/>
+                <TextEquiv>
+                    <Unicode>1902 hinweg, da an diesem Tage die Tochter aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1902 hinweg, da an diesem Tage die Tochter aus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

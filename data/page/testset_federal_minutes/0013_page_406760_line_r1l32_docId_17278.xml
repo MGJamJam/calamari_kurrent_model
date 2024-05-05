@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:25:50.839+02:00</Created>
+        <LastChange>2020-08-22T11:22:13.986+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748690" pageNr="5" tsid="37761716" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OAXQTOKMNUQIYYNBXNGKCJLV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RMNNRZHULKLYWUVOWJQXYAVI" imageId="14363870"/>
+    </Metadata>
+    <Page imageFilename="0013_page_406760_line_r1l32_docId_17278.jpg" imageWidth="2378" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425625825" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2378,0 2378,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2278,220 2278,154 2099,113 100,136"/>
+                <Baseline points="115,203 222,203 330,205 437,205 545,205 652,205 760,205 867,205 975,203 1082,203 1190,203 1297,203 1405,201 1512,201 1620,201 1727,201 1835,201 1942,201 2050,201 2157,201 2265,201"/>
+                <TextEquiv>
+                    <Unicode>nach Beguins an die Bundesversammlung wird ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach Beguins an die Bundesversammlung wird ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

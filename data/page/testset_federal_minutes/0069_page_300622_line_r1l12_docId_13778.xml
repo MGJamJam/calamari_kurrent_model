@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:19.045+02:00</Created>
+        <LastChange>2020-08-21T22:03:21.415+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744417" pageNr="43" tsid="37655272" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UJJYLLCSJNVTGJADTOPPVTKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTIHVBKYNEQIYYPSCTHHGBBO" imageId="14359808"/>
+    </Metadata>
+    <Page imageFilename="0069_page_300622_line_r1l12_docId_13778.jpg" imageWidth="759" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426414302" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 759,0 759,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,266 185,228 219,252 259,224 334,248 420,194 581,217 624,191 659,197 658,129 580,102 487,119 462,100 407,138 345,120 323,142 286,124 252,156 227,141 193,166 100,151"/>
+                <Baseline points="115,192 141,191 167,190 194,190 220,189 247,188 273,188 299,188 326,186 352,186 379,186 405,186 431,185 458,184 484,184 511,184 537,184 563,185 590,186 616,186 643,186"/>
+                <TextEquiv>
+                    <Unicode>zugesichert habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zugesichert habe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

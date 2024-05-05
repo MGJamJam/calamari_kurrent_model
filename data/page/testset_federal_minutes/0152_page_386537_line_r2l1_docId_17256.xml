@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:49:05.904+02:00</Created>
+        <LastChange>2020-08-22T11:19:26.284+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747198" pageNr="80" tsid="37760837" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QNPFOZLZURRJTNWDGXSBEMXA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BUYIISYJJVAAMLXYRXEPDIAZ" imageId="14362378"/>
+    </Metadata>
+    <Page imageFilename="0152_page_386537_line_r2l1_docId_17256.jpg" imageWidth="689" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425900223" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 689,0 689,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 161,223 238,201 261,223 330,193 381,216 527,196 551,213 586,203 589,125 513,133 465,108 410,128 367,110 283,132 197,100 102,121"/>
+                <Baseline points="113,176 138,178 164,179 189,180 215,180 240,180 266,182 291,182 317,182 343,182 368,182 394,184 419,184 445,186 470,186 496,188 521,188 547,191 573,194"/>
+                <TextEquiv>
+                    <Unicode>Schiedsgerichtsver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schiedsgerichtsver¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

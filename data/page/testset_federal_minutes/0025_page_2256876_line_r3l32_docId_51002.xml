@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:24.763+02:00</Created>
+        <LastChange>2020-08-22T07:33:36.438+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745383" pageNr="21" tsid="37714859" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SVAFBAROTXXYHBINTCMYRROX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPGOAHZJXQAYGPAPLYATNGJC" imageId="14360567"/>
+    </Metadata>
+    <Page imageFilename="0025_page_2256876_line_r3l32_docId_51002.jpg" imageWidth="2409" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426185918" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2409,0 2409,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2309,211 2203,142 1797,165 1734,110 100,149"/>
+                <Baseline points="114,192 223,190 332,190 441,188 550,188 659,188 768,188 877,188 986,188 1095,188 1204,190 1313,190 1422,192 1531,192 1640,194 1749,194 1858,196 1967,198 2076,200 2185,202 2294,204"/>
+                <TextEquiv>
+                    <Unicode>in Biel jeweilen das Papiergeld der deutschen Republik erhalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Biel jeweilen das Papiergeld der deutschen Republik erhalten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

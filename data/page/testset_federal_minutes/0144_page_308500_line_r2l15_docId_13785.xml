@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:45.464+02:00</Created>
+        <LastChange>2020-11-17T07:49:16.574+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744716" pageNr="88" tsid="49319258" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KNNRPVIQZPQRPKQEQFLRDDFF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ROFGNRKDTUTNGBICKWSSQGBU" imageId="14360107"/>
+    </Metadata>
+    <Page imageFilename="0144_page_308500_line_r2l15_docId_13785.jpg" imageWidth="2214" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426360481" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2214,0 2214,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2076,231 2114,133 100,141"/>
+                <Baseline points="112,194 211,194 310,194 410,194 509,194 609,194 708,192 807,192 907,192 1006,192 1106,192 1205,190 1304,190 1404,190 1503,190 1603,188 1702,188 1801,188 1901,188 2000,188 2100,188"/>
+                <TextEquiv>
+                    <Unicode>8. Dezember, No. 5512), nichts im Wege steht, wird diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8. Dezember, No. 5512), nichts im Wege steht, wird diese</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

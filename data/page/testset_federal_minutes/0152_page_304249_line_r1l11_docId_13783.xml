@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:48.427+02:00</Created>
+        <LastChange>2020-08-21T22:06:08.955+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744542" pageNr="95" tsid="37655699" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MAFQFBXFAORYQEPTQJQLXMNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXBIFHTODBHLJPWLBIGQEICP" imageId="14359933"/>
+    </Metadata>
+    <Page imageFilename="0152_page_304249_line_r1l11_docId_13783.jpg" imageWidth="2220" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426421359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2220,0 2220,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,214 2120,225 2119,126 2046,103 1966,153 100,115"/>
+                <Baseline points="114,193 213,193 313,193 412,193 512,191 612,191 711,191 811,189 910,189 1010,189 1110,189 1209,187 1309,187 1408,187 1508,187 1608,186 1707,185 1807,185 1906,185 2006,185 2106,185"/>
+                <TextEquiv>
+                    <Unicode>über Jean Lörtscher, geb. 1859, von Oberwyl, der Be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>über Jean Lörtscher, geb. 1859, von Oberwyl, der Be-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

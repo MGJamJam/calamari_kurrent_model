@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:21.846+02:00</Created>
+        <LastChange>2020-11-16T07:45:30.904+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745490" pageNr="71" tsid="49318800" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQKWYOOFLKMVDVQSJCKKOXIO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPWKCOSDLMQNGTEVQQCGMJYK" imageId="14360674"/>
+    </Metadata>
+    <Page imageFilename="0080_page_2258781_line_r2l42_docId_51002.jpg" imageWidth="2311" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426192962" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2311,0 2311,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,263 180,208 356,264 467,205 1730,241 2211,143 100,152"/>
+                <Baseline points="117,197 220,197 324,197 428,197 532,197 636,195 740,193 844,193 948,191 1052,189 1156,187 1259,187 1363,185 1467,183 1571,183 1675,181 1779,181 1883,181 1987,181 2091,182 2195,183"/>
+                <TextEquiv>
+                    <Unicode>der Königl. preussischen Gesandtschaft wieder zurückgestellt unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Königl. preussischen Gesandtschaft wieder zurückgestellt unter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

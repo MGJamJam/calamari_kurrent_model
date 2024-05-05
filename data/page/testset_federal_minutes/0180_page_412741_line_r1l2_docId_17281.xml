@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:51.318+02:00</Created>
+        <LastChange>2020-10-12T21:30:49.942+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749588" pageNr="82" tsid="49314615" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KEQXJCHTFRUWGRPLAVFBGGED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QEYRAEICXVPNKJUTCDUWKAYO" imageId="14364764"/>
+    </Metadata>
+    <Page imageFilename="0180_page_412741_line_r1l2_docId_17281.jpg" imageWidth="2321" imageHeight="430">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425596922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2321,0 2321,430 0,430"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,330 518,323 576,263 1330,325 1436,267 2221,265 2219,160 1952,100 1763,181 916,155 772,233 100,182"/>
+                <Baseline points="114,276 218,274 323,273 428,272 532,270 637,268 742,266 846,264 951,262 1056,260 1161,260 1265,258 1370,256 1475,254 1579,252 1684,250 1789,248 1893,246 1998,245 2103,244 2208,242"/>
+                <TextEquiv>
+                    <Unicode>Stundenlohn von 19 etc.; er hinterläβt eine Witwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stundenlohn von 19 etc.; er hinterläβt eine Witwe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

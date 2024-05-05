@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:41:31.532+02:00</Created>
+        <LastChange>2020-11-17T06:57:48.417+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744365" pageNr="9" tsid="49319171" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FGSFEIGHUSNVOEKSRHPSMLGT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFFGOLSENHECJZFDPNOAXNND" imageId="14359760"/>
+    </Metadata>
+    <Page imageFilename="0011_page_306227_line_r1l31_docId_13786.jpg" imageWidth="2182" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426349555" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2182,0 2182,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,246 362,197 1468,263 1702,198 2082,225 2082,162 1866,123 1634,167 776,101 706,161 331,158 100,100"/>
+                <Baseline points="113,189 210,189 308,189 406,189 504,189 602,189 699,191 797,191 895,191 993,191 1091,191 1188,191 1286,191 1384,191 1482,191 1580,191 1677,191 1775,191 1873,191 1971,191 2069,191"/>
+                <TextEquiv>
+                    <Unicode>(Tirol), die Zweite in Glurigen (Wallis) Heimatrecht er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Tirol), die Zweite in Glurigen (Wallis) Heimatrecht er-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

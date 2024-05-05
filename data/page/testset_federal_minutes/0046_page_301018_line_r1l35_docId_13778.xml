@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:02.664+02:00</Created>
+        <LastChange>2020-11-18T15:54:57.001+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744377" pageNr="26" tsid="49319318" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SSNRTWUZGEDURUCLPRKRDRBX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTFSZUEPBEQXXBLLYOCWKCUW" imageId="14359772"/>
+    </Metadata>
+    <Page imageFilename="0046_page_301018_line_r1l35_docId_13778.jpg" imageWidth="2650" imageHeight="410">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426411760" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2650,0 2650,410 0,410"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,263 1311,301 2176,185 2550,263 2547,118 2474,110 1004,198 100,137"/>
+                <Baseline points="116,212 236,218 357,223 478,228 599,230 720,232 840,232 961,232 1082,232 1203,230 1324,227 1444,224 1565,220 1686,216 1807,211 1928,205 2034,219 2060,220"/>
+                <TextEquiv>
+                    <Unicode>in Bezug auf E. Micolascek u. G. Smith in Neapel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Bezug auf E. Micolascek u. G. Smith in Neapel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

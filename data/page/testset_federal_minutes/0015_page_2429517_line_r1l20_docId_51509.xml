@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:17.330+02:00</Created>
+        <LastChange>2020-10-06T07:00:22.213+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750342" pageNr="12" tsid="49310562" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XRLGITEUNDYCVYGJSJWIMHHF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQQHCUOCTTBGSCKNAROIYKBT" imageId="14365500"/>
+    </Metadata>
+    <Page imageFilename="0015_page_2429517_line_r1l20_docId_51509.jpg" imageWidth="2301" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425369248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2301,0 2301,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 2201,203 2201,122 100,147"/>
+                <Baseline points="113,180 216,181 320,182 424,183 527,184 631,184 735,184 838,184 942,184 1046,184 1150,184 1253,184 1357,184 1461,184 1564,184 1668,184 1772,184 1875,184 1979,184 2083,184 2187,186 2211,186"/>
+                <TextEquiv>
+                    <Unicode>nen neuen Eigenthümer /: 1 Rp. von 1000 Frs der wirkli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nen neuen Eigenthümer /: 1 Rp. von 1000 Frs der wirkli¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

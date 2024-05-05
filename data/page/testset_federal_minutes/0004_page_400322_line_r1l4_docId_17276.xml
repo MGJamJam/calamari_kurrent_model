@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:52:28.471+02:00</Created>
+        <LastChange>2020-08-22T11:15:32.257+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747343" pageNr="2" tsid="37759068" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BRNEKQTPJJLTXNOQENOZIKRE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXDVUAJTRTDKBNJNZIVJCKNP" imageId="14362523"/>
+    </Metadata>
+    <Page imageFilename="0004_page_400322_line_r1l4_docId_17276.jpg" imageWidth="2373" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425798875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2373,0 2373,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 2273,217 2214,109 100,103"/>
+                <Baseline points="113,190 220,191 327,192 434,192 542,192 649,194 756,194 864,192 971,192 1078,192 1186,192 1293,190 1400,190 1507,190 1615,188 1722,188 1829,186 1937,185 2044,184 2151,182 2259,182"/>
+                <TextEquiv>
+                    <Unicode>in seiner Stelle bestätigt, unter Erhöhung seiner Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in seiner Stelle bestätigt, unter Erhöhung seiner Be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

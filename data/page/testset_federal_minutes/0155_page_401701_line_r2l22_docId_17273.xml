@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:20:26.084+02:00</Created>
+        <LastChange>2020-08-22T11:25:54.590+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748491" pageNr="150" tsid="37763003" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UHUJGNNSHVPDDBHRQHWWLWQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BOQCQAVCIFRVNRBJBHMXPBGU" imageId="14363671"/>
+    </Metadata>
+    <Page imageFilename="0155_page_401701_line_r2l22_docId_17273.jpg" imageWidth="2213" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425725581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2213,0 2213,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 1802,191 1976,243 2113,213 2113,108 100,152"/>
+                <Baseline points="112,191 211,191 310,191 410,191 509,189 609,189 708,189 807,187 907,187 1006,187 1106,185 1205,185 1304,184 1404,183 1503,183 1603,183 1702,183 1801,183 1901,183 2000,183 2100,183"/>
+                <TextEquiv>
+                    <Unicode>rekurriert gegen die vom Staatsrat des Kantons Tessin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rekurriert gegen die vom Staatsrat des Kantons Tessin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

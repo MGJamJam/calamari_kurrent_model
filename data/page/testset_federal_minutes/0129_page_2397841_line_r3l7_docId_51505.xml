@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:49.841+02:00</Created>
+        <LastChange>2020-08-22T11:27:02.029+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750161" pageNr="80" tsid="37763453" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MJUQAVIKTTFQOFEYRAPHEKMC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GTWTZMDWXOKZNBULIEEAGZLA" imageId="14365333"/>
+    </Metadata>
+    <Page imageFilename="0129_page_2397841_line_r3l7_docId_51505.jpg" imageWidth="2382" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425435712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2382,0 2382,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 2030,238 2281,201 2282,134 101,106"/>
+                <Baseline points="114,174 221,174 329,175 436,176 544,176 652,177 759,178 867,179 974,180 1082,180 1190,182 1297,184 1405,184 1512,186 1620,186 1728,188 1835,188 1943,190 2050,191 2158,192 2266,192"/>
+                <TextEquiv>
+                    <Unicode>gränze erfüllt habe und daß die kantonale Verwaltung nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gränze erfüllt habe und daß die kantonale Verwaltung nicht</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

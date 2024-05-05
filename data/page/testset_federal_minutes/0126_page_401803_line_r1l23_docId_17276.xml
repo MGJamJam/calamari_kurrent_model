@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:30.642+02:00</Created>
+        <LastChange>2020-08-22T11:25:29.109+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749048" pageNr="59" tsid="37762844" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PJCGKXVAKOHICMYVOFJWUUZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FDVTGVZAWQAHFQTXTDJASNZX" imageId="14364224"/>
+    </Metadata>
+    <Page imageFilename="0126_page_401803_line_r1l23_docId_17276.jpg" imageWidth="2378" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425633366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2378,0 2378,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,240 2032,194 2122,251 2278,204 2278,113 100,166"/>
+                <Baseline points="113,196 220,194 328,192 435,192 543,190 651,190 758,188 866,188 973,188 1081,187 1189,186 1296,186 1404,186 1511,186 1619,186 1727,186 1834,186 1942,186 2049,186 2157,186 2265,184"/>
+                <TextEquiv>
+                    <Unicode>Zeugnis eines unzuverlässigen Bediensteten ausge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zeugnis eines unzuverlässigen Bediensteten ausge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:38.478+02:00</Created>
+        <LastChange>2020-11-16T07:12:24.119+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745354" pageNr="4" tsid="49318758" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JQQEHYOWPNHZCFDEOLVFGHDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LYSOTTZWGZCLBURCRUACCETV" imageId="14360538"/>
+    </Metadata>
+    <Page imageFilename="0004_page_2261128_line_r3l23_docId_51003.jpg" imageWidth="2283" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426183654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2283,0 2283,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,240 1199,201 1339,261 1413,204 1865,234 2183,147 893,100 766,160 476,115 100,173"/>
+                <Baseline points="113,209 215,205 318,203 421,199 524,197 627,195 729,193 832,192 935,191 1038,189 1141,189 1243,189 1346,187 1449,187 1552,186 1655,185 1757,185 1860,185 1963,183 2066,183 2169,181 2189,183"/>
+                <TextEquiv>
+                    <Unicode>stehenden Manövern der k. k. Truppen angedeihen zu lasten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stehenden Manövern der k. k. Truppen angedeihen zu lasten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

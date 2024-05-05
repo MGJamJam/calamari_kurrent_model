@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:00.912+02:00</Created>
+        <LastChange>2020-10-06T10:39:57.251+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750174" pageNr="84" tsid="49311761" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HNTQBKAYILWHSIFZDHDVPRLM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUOVDJFMBRWQRGBNFPUQORMU" imageId="14365346"/>
+    </Metadata>
+    <Page imageFilename="0135_page_2404257_line_r1l33_docId_51504.jpg" imageWidth="2315" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425436261" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2315,0 2315,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 236,257 835,184 957,242 1215,177 1882,239 2015,193 2118,251 2215,202 1684,106 1608,155 100,138"/>
+                <Baseline points="114,181 218,184 322,185 427,187 531,187 636,189 740,189 844,187 949,187 1053,187 1158,187 1262,187 1366,185 1471,185 1575,185 1680,185 1784,185 1888,187 1993,187 2097,189 2202,191 2233,189"/>
+                <TextEquiv>
+                    <Unicode>Reichsgesandte die Anfrage, ob man diesseits geneigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Reichsgesandte die Anfrage, ob man diesseits geneigt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:30:45.284+02:00</Created>
+        <LastChange>2020-11-10T07:06:49.507+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746239" pageNr="2" tsid="49318271" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YEHMNXLZOCHLZYCCCCYFSDOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKGUAXQECCPHXXFQSKEZZMOA" imageId="14361419"/>
+    </Metadata>
+    <Page imageFilename="0003_page_379818_line_r1l14_docId_17248.jpg" imageWidth="1175" imageHeight="324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425945584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1175,0 1175,324 0,324"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 438,186 502,216 804,187 950,224 1075,190 1075,123 682,142 633,106 453,100 270,143 100,126"/>
+                <Baseline points="114,179 161,179 208,179 255,179 303,179 350,179 397,179 445,179 492,179 539,179 587,179 634,179 681,179 728,179 776,179 823,177 870,177 918,177 965,177 1012,176 1060,175"/>
+                <TextEquiv>
+                    <Unicode>tober 1894, Kaufbetrag intl. Zins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tober 1894, Kaufbetrag intl. Zins</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

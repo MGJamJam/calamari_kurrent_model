@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:57.430+02:00</Created>
+        <LastChange>2020-08-22T07:34:36.661+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744773" pageNr="48" tsid="37715040" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HFBEKTEUUREQLABCYRLDBDJJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCNOTWYPYWFXMKKIRNYZVPQE" imageId="14360164"/>
+    </Metadata>
+    <Page imageFilename="0074_page_311221_line_r2l24_docId_13791.jpg" imageWidth="2048" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426297368" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2048,0 2048,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 215,245 306,194 919,237 1381,186 1639,241 1948,186 1505,107 1371,157 1287,100 1063,153 100,120"/>
+                <Baseline points="112,192 203,191 294,189 385,188 477,188 568,186 659,186 750,186 842,186 933,186 1024,186 1115,186 1207,186 1298,186 1389,186 1480,186 1572,188 1663,188 1754,188 1845,188 1937,188"/>
+                <TextEquiv>
+                    <Unicode>Sicherung der Ausführung der durch Bundesbeschluß vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sicherung der Ausführung der durch Bundesbeschluß vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:48:50.880+02:00</Created>
+        <LastChange>2020-11-09T07:42:59.502+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747188" pageNr="24" tsid="49318084" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZKORFWQEFYCIKQGEJHHCHRXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ICDQGEOYZWLTPEIWHHZVPTYP" imageId="14362368"/>
+    </Metadata>
+    <Page imageFilename="0051_page_389154_line_r2l3_docId_17261.jpg" imageWidth="2140" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425846961" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2140,0 2140,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 334,274 775,212 887,266 2040,218 2039,148 1769,100 1445,162 100,145"/>
+                <Baseline points="114,196 209,196 305,196 400,196 496,196 592,196 687,196 783,196 878,194 974,194 1070,192 1165,192 1261,190 1356,190 1452,190 1548,188 1643,188 1739,188 1834,189 1930,190 2026,190"/>
+                <TextEquiv>
+                    <Unicode>Nach Einsicht der vom Justizdepartement des Kantons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach Einsicht der vom Justizdepartement des Kantons</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

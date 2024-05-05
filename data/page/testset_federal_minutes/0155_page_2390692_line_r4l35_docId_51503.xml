@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:41.668+02:00</Created>
+        <LastChange>2020-08-22T11:27:48.047+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750242" pageNr="100" tsid="37763809" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CXUOWRFILJIKRCTINOQASCVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTKQDGMDGRWPXVCEGJTRZHRW" imageId="14365400"/>
+    </Metadata>
+    <Page imageFilename="0155_page_2390692_line_r4l35_docId_51503.jpg" imageWidth="2395" imageHeight="428">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425438643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2395,0 2395,428 0,428"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,290 2045,258 2254,325 2294,116 1866,219 661,230 429,169 100,230"/>
+                <Baseline points="114,271 222,269 330,267 439,267 547,265 656,265 764,264 872,263 981,263 1089,263 1198,261 1306,261 1414,259 1523,259 1631,257 1740,257 1848,255 1956,253 2065,251 2173,249 2282,247"/>
+                <TextEquiv>
+                    <Unicode>nach Frankreich abwartete und dann um nicht bemerkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach Frankreich abwartete und dann um nicht bemerkt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:53.866+02:00</Created>
+        <LastChange>2020-08-22T11:15:15.178+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746871" pageNr="9" tsid="37758941" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQORKKNIURMOOBPLGUECCGBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQSCBJSHNNNFTVTJIFGXJNTZ" imageId="14362051"/>
+    </Metadata>
+    <Page imageFilename="0014_page_385583_line_r1l15_docId_17255.jpg" imageWidth="662" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425890074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 662,0 662,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,242 127,253 165,230 212,234 243,260 269,239 296,255 321,241 365,261 408,242 473,275 525,243 559,249 562,177 383,172 298,198 106,100"/>
+                <Baseline points="113,223 138,221 164,221 189,221 215,221 240,221 266,223 291,224 317,225 342,227 368,228 393,230 419,231 444,233 470,234 495,235 521,236 547,237"/>
+                <TextEquiv>
+                    <Unicode>Eisenbahngefährdung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisenbahngefährdung in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

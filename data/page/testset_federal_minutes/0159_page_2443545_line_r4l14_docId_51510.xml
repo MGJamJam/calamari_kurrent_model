@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:43.603+02:00</Created>
+        <LastChange>2020-10-06T08:21:08.223+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750754" pageNr="113" tsid="49310827" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FETXAKIMVACAQURQTYOUFZNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITMUUUHSYTZYNXIDAFOVQBAR" imageId="14365912"/>
+    </Metadata>
+    <Page imageFilename="0159_page_2443545_line_r4l14_docId_51510.jpg" imageWidth="2038" imageHeight="402">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425383289" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2038,0 2038,402 0,402"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,281 728,278 893,223 1095,291 1655,236 1782,287 1938,208 1937,100 1822,160 1617,102 1426,182 843,191 770,139 100,191"/>
+                <Baseline points="113,239 203,236 294,233 384,231 475,229 566,227 656,225 747,223 837,221 928,221 1019,219 1109,219 1200,217 1290,217 1381,216 1472,215 1562,214 1653,213 1743,211 1834,211 1925,209"/>
+                <TextEquiv>
+                    <Unicode>8. Juni zur sofortigen Auslieferung des E. Michel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8. Juni zur sofortigen Auslieferung des E. Michel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

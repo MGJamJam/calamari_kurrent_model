@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:20.503+02:00</Created>
+        <LastChange>2020-11-10T07:32:42.142+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746335" pageNr="22" tsid="49318291" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VXRECNYKEYHMDNNEWCFKWMRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JCUIIZSUHDDHZJRAXMTOJURX" imageId="14361515"/>
+    </Metadata>
+    <Page imageFilename="0035_page_378864_line_r2l6_docId_17248.jpg" imageWidth="2120" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425948441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2120,0 2120,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1859,227 2020,189 2020,116 100,145"/>
+                <Baseline points="113,187 207,187 302,187 397,185 491,185 586,185 681,185 775,185 870,185 965,185 1060,185 1154,185 1249,185 1344,185 1438,185 1533,185 1628,185 1722,183 1817,183 1912,183 2007,181"/>
+                <TextEquiv>
+                    <Unicode>nen, die mechanischen Einrichtungen, die Signale, die Einfriedigungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nen, die mechanischen Einrichtungen, die Signale, die Einfriedigungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

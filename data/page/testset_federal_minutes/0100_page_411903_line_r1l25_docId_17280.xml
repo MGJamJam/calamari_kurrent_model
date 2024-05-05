@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:30.767+02:00</Created>
+        <LastChange>2020-08-22T11:18:27.701+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747641" pageNr="38" tsid="37760436" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ODTXWFFNVXANJYYLGYJTTLGZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTNOCPVXKDSGHENLSKHAKXFT" imageId="14362821"/>
+    </Metadata>
+    <Page imageFilename="0100_page_411903_line_r1l25_docId_17280.jpg" imageWidth="2271" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2271,0 2271,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 1918,241 2171,221 2171,144 100,148"/>
+                <Baseline points="114,196 216,198 318,198 420,198 522,198 625,198 727,198 829,197 931,196 1033,196 1136,194 1238,194 1340,193 1442,192 1544,192 1647,190 1749,190 1851,190 1953,188 2055,188 2158,188"/>
+                <TextEquiv>
+                    <Unicode>des im Mai 1871 zu Chur verstorbenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des im Mai 1871 zu Chur verstorbenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:54.673+02:00</Created>
+        <LastChange>2020-09-28T09:41:03.595+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519063" pageNr="72" tsid="49307505" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IXJMHNMWSPSDTXGEORMUGISL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UZHFUSWFDNGQHRQFTEKKPZTT" imageId="15085996"/>
+    </Metadata>
+    <Page imageFilename="0098_page_2457157_line_r2l4_docId_51515.jpg" imageWidth="2357" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246353" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2357,0 2357,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,228 2257,213 2216,140 101,134 100,228"/>
+                <Baseline points="115,181 221,181 327,181 434,181 540,181 647,181 753,183 859,183 966,184 1072,185 1179,187 1285,187 1391,189 1498,191 1604,191 1711,193 1817,195 1923,195 2030,197 2136,197 2243,199"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="139,141 139,201 474,201 474,141"/>
+                    <TextEquiv>
+                        <Unicode>Gesandtschaft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="508,141 508,201 541,201 541,141"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="591,141 591,201 759,201 759,141"/>
+                    <TextEquiv>
+                        <Unicode>Turin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="817,144 817,204 1119,204 1119,144"/>
+                    <TextEquiv>
+                        <Unicode>beaŭftragt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1161,147 1161,207 1395,207 1395,147"/>
+                    <TextEquiv>
+                        <Unicode>werden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1412,150 1412,210 1496,210 1496,150"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1529,151 1529,211 1739,211 1739,151"/>
+                    <TextEquiv>
+                        <Unicode>nöthigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1797,155 1797,215 1998,215 1998,155"/>
+                    <TextEquiv>
+                        <Unicode>Schritte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2040,157 2040,217 2124,217 2124,157"/>
+                    <TextEquiv>
+                        <Unicode>bei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2149,157 2149,217 2224,217 2224,157"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Gesandtschaft in Turin beauftragt werden, die nöthigen Schritte bei den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gesandtschaft in Turin beauftragt werden, die nöthigen Schritte bei den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:33.545+02:00</Created>
+        <LastChange>2020-11-16T16:18:57.884+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745273" pageNr="116" tsid="49319135" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WURHGFXZWJOZPCAEJBETHMAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPZBQVDIWMLSOODFGIUXTKDL" imageId="14360457"/>
+    </Metadata>
+    <Page imageFilename="0176_page_311252_line_r1l9_docId_13790.jpg" imageWidth="1601" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426306931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1601,0 1601,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,246 222,193 741,231 1501,188 1500,111 1126,145 1076,110 1036,147 932,113 867,151 447,100 308,155 100,144"/>
+                <Baseline points="113,189 181,187 250,187 319,187 388,186 457,185 525,185 594,185 663,185 732,185 801,185 869,183 938,183 1007,183 1076,183 1145,183 1213,183 1282,183 1351,183 1420,183 1489,181 1522,180"/>
+                <TextEquiv>
+                    <Unicode>geboren zu St. Mero (Corrère) 31. Dezember 1864.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>geboren zu St. Mero (Corrère) 31. Dezember 1864.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

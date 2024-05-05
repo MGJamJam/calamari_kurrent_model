@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:52.702+02:00</Created>
+        <LastChange>2020-11-12T07:49:14.677+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746768" pageNr="97" tsid="49318487" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYUWPAXFESIAOQXTLYIADDIO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MGQARJOMSOZMQIEDKSVYPHKB" imageId="14361948"/>
+    </Metadata>
+    <Page imageFilename="0163_page_366260_line_r2l16_docId_17233.jpg" imageWidth="2006" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426011571" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2006,0 2006,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 333,190 780,240 1905,220 1906,153 522,157 404,100 101,148"/>
+                <Baseline points="112,179 201,181 290,182 379,182 468,183 557,184 646,184 735,184 824,184 913,184 1003,184 1092,184 1181,182 1270,182 1359,182 1448,182 1537,182 1626,182 1715,183 1804,184 1894,185"/>
+                <TextEquiv>
+                    <Unicode>sion verhängte Gefängnisstrafe an ihm vollzo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sion verhängte Gefängnisstrafe an ihm vollzo-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

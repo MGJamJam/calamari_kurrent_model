@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:55.390+02:00</Created>
+        <LastChange>2020-09-21T10:16:45.006+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750614" pageNr="73" tsid="49309445" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZMSSVDXWNQUGIMZEVNNJJCFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AHWCVSLKHJXLVOZLZDQOZTBL" imageId="14365772"/>
+    </Metadata>
+    <Page imageFilename="0098_page_2444017_line_r2l3_docId_51511.jpg" imageWidth="2279" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425314045" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2279,0 2279,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,184 613,184 665,237 747,184 1690,237 2179,187 2097,119 1540,100 1460,153 100,142"/>
+                <Baseline points="114,176 216,178 319,178 421,178 524,178 627,178 729,178 832,178 934,178 1037,178 1140,178 1242,178 1345,178 1447,178 1550,178 1653,178 1755,178 1858,178 1960,178 2063,178 2212,179"/>
+                <TextEquiv>
+                    <Unicode>Strafe sicheres Geleite für 14 Tage bewilligt werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Strafe sicheres Geleite für 14 Tage bewilligt werden,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:33.435+02:00</Created>
+        <LastChange>2020-10-06T08:17:58.743+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750739" pageNr="109" tsid="49310822" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SWGVDUVIEZQYIGRFVSRCQISM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZIBZRQEVJYCITDCJRVYMNBNT" imageId="14365897"/>
+    </Metadata>
+    <Page imageFilename="0154_page_2427568_line_r2l9_docId_51508.jpg" imageWidth="2212" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425382772" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2212,0 2212,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,245 1353,200 1937,270 2112,173 1745,182 1541,100 1386,167 101,130"/>
+                <Baseline points="115,196 214,196 313,196 412,196 511,197 610,198 709,198 808,200 907,200 1006,202 1106,204 1205,204 1304,206 1403,208 1502,208 1601,210 1700,212 1799,214 1898,214 1997,216 2097,218"/>
+                <TextEquiv>
+                    <Unicode>hungsweise ihn polizeilich aus der Schweiz zu schaffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hungsweise ihn polizeilich aus der Schweiz zu schaffen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

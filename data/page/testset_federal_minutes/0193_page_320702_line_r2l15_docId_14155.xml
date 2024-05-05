@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:30.071+02:00</Created>
+        <LastChange>2020-11-15T20:43:55.443+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746183" pageNr="131" tsid="49318749" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FOIVAIEQXCPTIDUNUMJIVCZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSJAGWCNGSOTAJXIOQRFKBTX" imageId="14361363"/>
+    </Metadata>
+    <Page imageFilename="0193_page_320702_line_r2l15_docId_14155.jpg" imageWidth="2116" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426133610" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2116,0 2116,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 2016,209 2015,131 1923,109 100,121"/>
+                <Baseline points="113,181 207,181 302,181 396,179 491,179 585,179 680,179 774,177 869,177 963,177 1058,177 1152,177 1247,175 1341,175 1436,175 1530,175 1625,175 1719,175 1814,175 1908,175 2003,177"/>
+                <TextEquiv>
+                    <Unicode>lich, als Pankov (Prot. vom 28. vorigen Monats,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lich, als Pankov (Prot. vom 28. vorigen Monats,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

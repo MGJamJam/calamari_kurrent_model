@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:39.037+02:00</Created>
+        <LastChange>2020-08-22T11:18:52.661+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747647" pageNr="66" tsid="37760614" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LHXXYVDDQVTTMEZEIPLHVYDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VOGKROEIWWMVEJLRPMDHDJJS" imageId="14362827"/>
+    </Metadata>
+    <Page imageFilename="0140_page_386437_line_r2l5_docId_17258.jpg" imageWidth="2029" imageHeight="389">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425853161" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2029,0 2029,389 0,389"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,236 397,217 640,287 983,215 1459,289 1679,214 1873,247 1929,145 1311,100 1109,179 1023,113 654,163 482,110 100,172"/>
+                <Baseline points="114,210 204,210 294,210 384,210 474,210 564,210 654,210 744,210 834,210 924,208 1015,208 1105,208 1195,208 1285,208 1375,208 1465,206 1555,206 1645,206 1735,204 1825,204 1916,202"/>
+                <TextEquiv>
+                    <Unicode>1) als Einnehmer beim Hauptzollamt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) als Einnehmer beim Hauptzollamt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

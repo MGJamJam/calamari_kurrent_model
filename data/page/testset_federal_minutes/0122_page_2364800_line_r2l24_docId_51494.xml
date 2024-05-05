@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:10.267+02:00</Created>
+        <LastChange>2020-08-22T11:26:25.953+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749609" pageNr="92" tsid="37763206" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=USBIGVYNUQLJYNXJWKAKWBRE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLLDJHWJHZQGYXOYRCIJCKDB" imageId="14364785"/>
+    </Metadata>
+    <Page imageFilename="0122_page_2364800_line_r2l24_docId_51494.jpg" imageWidth="2365" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425550114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2365,0 2365,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 2265,191 2140,116 100,145"/>
+                <Baseline points="115,179 221,177 328,177 435,175 542,175 649,175 755,177 862,177 969,177 1076,179 1183,179 1289,181 1396,181 1503,183 1610,183 1717,185 1823,185 1930,186 2037,187 2144,187 2251,187"/>
+                <TextEquiv>
+                    <Unicode>frühern Ermächtigung der Kantone bereits ausgewechselt sei. Jener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>frühern Ermächtigung der Kantone bereits ausgewechselt sei. Jener</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

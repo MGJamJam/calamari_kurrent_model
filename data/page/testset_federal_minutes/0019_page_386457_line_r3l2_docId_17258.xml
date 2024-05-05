@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:45:02.007+02:00</Created>
+        <LastChange>2020-08-22T11:15:33.964+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747011" pageNr="11" tsid="37759084" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WQBNHNHDMCKWOLNZBRGWJMIP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZTZGKOLSJAEMDNTKVINMUEG" imageId="14362191"/>
+    </Metadata>
+    <Page imageFilename="0019_page_386457_line_r3l2_docId_17258.jpg" imageWidth="662" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425845222" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 662,0 662,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 126,201 201,229 252,183 322,206 347,181 385,201 453,176 491,194 562,181 562,146 408,103 312,141 269,115 184,100 128,133 100,130"/>
+                <Baseline points="112,175 137,175 163,175 188,173 214,173 240,173 265,173 291,173 317,173 342,173 368,173 394,173 419,173 445,173 471,174 496,175 522,175 548,175"/>
+                <TextEquiv>
+                    <Unicode>fahrplan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fahrplan</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

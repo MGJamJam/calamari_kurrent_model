@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:28.549+02:00</Created>
+        <LastChange>2020-08-22T11:26:11.082+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749431" pageNr="66" tsid="37763111" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WXROVWPAEGBAZBVIUASMAWNP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHSZHZQCVKFVMCDIQSJFJATQ" imageId="14364607"/>
+    </Metadata>
+    <Page imageFilename="0138_page_410927_line_r2l16_docId_17281.jpg" imageWidth="2323" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425594526" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2323,0 2323,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,241 1618,203 2029,265 2223,208 2200,110 100,134"/>
+                <Baseline points="113,200 217,202 322,202 427,200 532,200 637,200 741,200 846,198 951,198 1056,196 1161,195 1265,194 1370,192 1475,192 1580,190 1685,190 1789,188 1894,188 1999,186 2104,185 2209,184"/>
+                <TextEquiv>
+                    <Unicode>den Genannten im Kanton Thurgau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Genannten im Kanton Thurgau</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

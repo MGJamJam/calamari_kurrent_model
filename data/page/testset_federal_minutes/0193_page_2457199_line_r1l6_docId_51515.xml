@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:51.545+02:00</Created>
+        <LastChange>2020-09-28T11:00:30.212+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519158" pageNr="140" tsid="49307780" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ILCBHGXSUMJFNPIBHZRASFQN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFORFYHRUXLZARKOJVIBKBEY" imageId="15086091"/>
+    </Metadata>
+    <Page imageFilename="0193_page_2457199_line_r1l6_docId_51515.jpg" imageWidth="2346" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425256657" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2346,0 2346,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2246,194 2221,108 100,148 100,212"/>
+                <Baseline points="113,178 219,178 325,178 431,178 537,178 643,178 749,176 855,176 961,174 1067,174 1173,172 1279,172 1385,170 1491,170 1597,170 1703,170 1809,170 1915,170 2021,171 2127,172 2233,174"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="108,138 108,198 201,198 201,138"/>
+                    <TextEquiv>
+                        <Unicode>ung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="238,138 238,198 314,198 314,138"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="360,138 360,198 612,198 612,138"/>
+                    <TextEquiv>
+                        <Unicode>Reisenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="658,136 658,196 762,196 762,136"/>
+                    <TextEquiv>
+                        <Unicode>aŭch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="780,135 780,195 976,195 976,135"/>
+                    <TextEquiv>
+                        <Unicode>zwischen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1013,134 1013,194 1097,194 1097,134"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1134,132 1134,192 1321,192 1321,132"/>
+                    <TextEquiv>
+                        <Unicode>Scherriz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1349,130 1349,190 1415,190 1415,130"/>
+                    <TextEquiv>
+                        <Unicode>ŭnd</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1452,130 1452,190 1713,190 1713,130"/>
+                    <TextEquiv>
+                        <Unicode>Frankreich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1741,130 1741,190 1984,190 1984,130"/>
+                    <TextEquiv>
+                        <Unicode>eingeführt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2021,132 2021,192 2236,192 2236,132"/>
+                    <TextEquiv>
+                        <Unicode>werde.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ung der Reisenden auch zwischen der Schweiz und Frankreich eingeführt werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ung der Reisenden auch zwischen der Schweiz und Frankreich eingeführt werde.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

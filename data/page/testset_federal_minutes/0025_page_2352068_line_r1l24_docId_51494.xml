@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:50.788+02:00</Created>
+        <LastChange>2020-08-22T11:23:17.302+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749389" pageNr="22" tsid="37762034" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EERXSLZHGAFYUFNWENSDEMJV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDWRSQRTFLAFQTNGLDQHTJMG" imageId="14364565"/>
+    </Metadata>
+    <Page imageFilename="0025_page_2352068_line_r1l24_docId_51494.jpg" imageWidth="2334" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425540350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2334,0 2334,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2210,221 2234,116 100,164"/>
+                <Baseline points="114,204 219,202 324,200 429,198 535,196 640,196 745,196 851,194 956,194 1061,194 1167,194 1272,194 1377,194 1482,194 1588,194 1693,192 1798,192 1904,190 2009,190 2114,187 2220,184"/>
+                <TextEquiv>
+                    <Unicode>Unterm 22. dieß ersucht die Regierung von Basel-Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unterm 22. dieß ersucht die Regierung von Basel-Stadt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

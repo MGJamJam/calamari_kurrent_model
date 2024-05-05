@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:17:08.224+02:00</Created>
+        <LastChange>2020-08-22T11:24:55.814+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748371" pageNr="116" tsid="37762640" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HKPTOBVJSLFYLZTYZIYRTUWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UXFWTFOADCMKGDGVSBTMJCHW" imageId="14363551"/>
+    </Metadata>
+    <Page imageFilename="0121_page_395719_line_r1l12_docId_17271.jpg" imageWidth="2452" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425720847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2452,0 2452,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2352,251 2352,148 1616,108 100,150"/>
+                <Baseline points="113,201 224,199 335,197 446,196 557,195 669,195 780,195 891,195 1002,195 1113,197 1225,197 1336,197 1447,199 1558,199 1669,199 1781,199 1892,199 2003,198 2114,197 2225,195 2337,193"/>
+                <TextEquiv>
+                    <Unicode>rat des Kantons Zürich Abweisung des Rekurses im ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rat des Kantons Zürich Abweisung des Rekurses im ganzen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:59.959+02:00</Created>
+        <LastChange>2020-09-28T09:21:02.001+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519034" pageNr="53" tsid="49307399" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EPAHKQHMUBDQGTYFZQHFQZEQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JUCAOTARXUYANSGDYANSQYDT" imageId="15085967"/>
+    </Metadata>
+    <Page imageFilename="0069_page_2456887_line_r2l10_docId_51515.jpg" imageWidth="2359" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425243398" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2359,0 2359,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,264 2259,193 2258,141 2003,100 667,168 100,127 102,264"/>
+                <Baseline points="116,216 222,213 329,210 435,206 542,203 648,200 755,197 861,194 968,192 1074,190 1181,188 1287,186 1394,184 1500,182 1607,180 1713,180 1820,178 1926,176 2033,176 2139,174 2246,174"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="170,170 170,230 440,230 440,170"/>
+                    <TextEquiv>
+                        <Unicode>sprochenen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="494,161 494,221 692,221 692,161"/>
+                    <TextEquiv>
+                        <Unicode>Betrage</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="737,156 737,216 800,216 800,156"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="855,153 855,213 935,213 935,153"/>
+                    <TextEquiv>
+                        <Unicode>K.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="953,149 953,209 1233,209 1233,149"/>
+                    <TextEquiv>
+                        <Unicode>9,312,747.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1242,146 1242,206 1313,206 1313,146"/>
+                    <TextEquiv>
+                        <Unicode>u.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1349,142 1349,202 1593,202 1593,142"/>
+                    <TextEquiv>
+                        <Unicode>abgewiesen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1638,140 1638,200 1709,200 1709,140"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1746,136 1746,196 2133,196 2133,136"/>
+                    <TextEquiv>
+                        <Unicode>jenenBefund,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2151,134 2151,194 2249,194 2249,134"/>
+                    <TextEquiv>
+                        <Unicode>nach</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sprochenen Betrage von K. 9,312,747. 2. abgewiesen und jenen Befund, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sprochenen Betrage von K. 9,312,747. 2. abgewiesen und jenen Befund, nach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

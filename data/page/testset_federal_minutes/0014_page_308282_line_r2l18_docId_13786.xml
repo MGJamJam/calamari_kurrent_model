@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:02.723+02:00</Created>
+        <LastChange>2020-11-17T06:59:11.924+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744378" pageNr="11" tsid="49319174" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ABZICVOUMVGCHDDBPMYCORSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RHQUZPBIMZGVPZZJYNDSGAQW" imageId="14359773"/>
+    </Metadata>
+    <Page imageFilename="0014_page_308282_line_r2l18_docId_13786.jpg" imageWidth="2228" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426349838" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2228,0 2228,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 608,250 948,189 2128,221 2128,145 1722,106 100,119"/>
+                <Baseline points="113,177 213,177 313,179 413,181 513,181 613,181 713,181 813,181 913,181 1013,181 1114,181 1214,181 1314,181 1414,181 1514,181 1614,181 1714,181 1814,181 1914,181 2014,182 2115,183"/>
+                <TextEquiv>
+                    <Unicode>ten Regierung finden und ob ein schweizerisches Vortragspro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ten Regierung finden und ob ein schweizerisches Vortragspro¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

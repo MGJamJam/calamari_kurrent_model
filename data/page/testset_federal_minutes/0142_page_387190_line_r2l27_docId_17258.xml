@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:55.268+02:00</Created>
+        <LastChange>2020-08-22T11:18:55.677+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747663" pageNr="67" tsid="37760635" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PRCBEPPVJGMMWAQEIBZZJYGW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGQEQJNDXRYKSNKOEGCYVIRM" imageId="14362843"/>
+    </Metadata>
+    <Page imageFilename="0142_page_387190_line_r2l27_docId_17258.jpg" imageWidth="2066" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425853288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2066,0 2066,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1585,225 1966,199 1966,123 100,128"/>
+                <Baseline points="114,180 206,178 298,178 390,178 482,176 574,176 666,176 758,176 850,178 942,178 1034,178 1126,178 1218,178 1310,178 1402,178 1494,178 1586,178 1678,178 1770,178 1862,176 1954,176"/>
+                <TextEquiv>
+                    <Unicode>möglichst einheitlich und gleichmäßig geordnet werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>möglichst einheitlich und gleichmäßig geordnet werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

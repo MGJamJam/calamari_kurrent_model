@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:43.845+02:00</Created>
+        <LastChange>2020-08-22T11:05:20.949+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745811" pageNr="9" tsid="37755504" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RBPLPGZRKIKIHIFZNKGGWIPO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ACTARSQOSHJLGCTVCBXYNFBT" imageId="14360991"/>
+    </Metadata>
+    <Page imageFilename="0014_page_2298824_line_r1l36_docId_51010.jpg" imageWidth="2301" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426056188" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2301,0 2301,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2056,212 2201,182 2201,116 100,130"/>
+                <Baseline points="116,177 219,177 322,175 426,175 529,175 633,175 736,175 839,175 943,175 1046,175 1150,175 1253,175 1356,175 1460,175 1563,175 1667,175 1770,175 1873,175 1977,175 2080,175 2184,175"/>
+                <TextEquiv>
+                    <Unicode>gelassen wurden, ebenfalls verstorben seien, deren Namen er nicht genau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gelassen wurden, ebenfalls verstorben seien, deren Namen er nicht genau</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

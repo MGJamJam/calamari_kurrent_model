@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:13.327+02:00</Created>
+        <LastChange>2020-08-22T07:37:37.082+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745968" pageNr="99" tsid="37715601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VEQEWKDTWPTXQHDEJAVCNZKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DCFFIUIHXHLSUIYWVJFNBCRL" imageId="14361148"/>
+    </Metadata>
+    <Page imageFilename="0143_page_314059_line_r3l15_docId_13796.jpg" imageWidth="2096" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426129040" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2096,0 2096,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 1075,239 1554,186 1624,245 1878,188 1996,257 1996,163 1559,104 900,165 100,122"/>
+                <Baseline points="113,179 206,183 300,187 393,189 487,191 581,193 674,193 768,193 861,193 955,191 1049,191 1142,189 1236,187 1329,187 1423,185 1517,185 1610,185 1704,185 1797,185 1891,187 1985,189"/>
+                <TextEquiv>
+                    <Unicode>Kollaudationsbericht enthaltenen Vorbehalten ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kollaudationsbericht enthaltenen Vorbehalten ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

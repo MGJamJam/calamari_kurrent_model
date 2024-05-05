@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:45:04.078+02:00</Created>
+        <LastChange>2020-11-09T17:18:32.338+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747012" pageNr="41" tsid="49318212" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ROJDHHKVWXBBOCMFJEJIRSPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIMJLIHZENYMXLYPHWXGTIHS" imageId="14362192"/>
+    </Metadata>
+    <Page imageFilename="0075_page_383155_line_r1l32_docId_17252.jpg" imageWidth="2085" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425894422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2085,0 2085,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,266 1985,209 1984,132 1778,100 1478,169 895,119 736,186 100,174"/>
+                <Baseline points="112,215 205,213 298,213 391,211 484,210 577,209 670,207 763,206 856,205 949,203 1042,203 1135,201 1228,201 1321,199 1414,198 1507,197 1600,195 1693,195 1786,193 1879,191 1972,191"/>
+                <TextEquiv>
+                    <Unicode>für die Anfälle aller Angestellten des Bundes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für die Anfälle aller Angestellten des Bundes,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:48:43.234+02:00</Created>
+        <LastChange>2020-08-22T11:19:15.763+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747183" pageNr="77" tsid="37760771" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MVVFCJZJGNNSZCAYHHZWDBZN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOUBZHSNZLTJVBSPTPJFFHJF" imageId="14362363"/>
+    </Metadata>
+    <Page imageFilename="0146_page_380355_line_r2l33_docId_17251.jpg" imageWidth="2152" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425899814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2152,0 2152,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,264 743,207 1300,261 1453,201 1849,264 2052,219 2052,107 1755,163 1488,105 1260,157 100,130"/>
+                <Baseline points="112,204 208,202 304,200 401,200 497,199 594,198 690,198 786,196 883,196 979,196 1076,196 1172,194 1268,194 1365,194 1461,194 1558,194 1654,194 1750,194 1847,194 1943,196 2040,196"/>
+                <TextEquiv>
+                    <Unicode>handnahme der Untersuchung der Wasserverhält¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>handnahme der Untersuchung der Wasserverhält¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

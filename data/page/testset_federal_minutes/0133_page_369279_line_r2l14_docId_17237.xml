@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:38:11.026+02:00</Created>
+        <LastChange>2020-11-12T07:39:50.740+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746670" pageNr="77" tsid="49318468" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FNKENXIPQRGKKQPJZOHRXETK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAXMAWBESAEDIVGHFGTHVNZY" imageId="14361850"/>
+    </Metadata>
+    <Page imageFilename="0133_page_369279_line_r2l14_docId_17237.jpg" imageWidth="1980" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426008810" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1980,0 1980,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,237 382,189 669,244 934,187 1019,252 1139,189 1880,218 1814,119 100,122"/>
+                <Baseline points="111,174 198,176 286,180 374,180 462,182 550,182 637,184 725,184 813,183 901,182 989,182 1076,182 1164,180 1252,180 1340,180 1428,178 1515,178 1603,178 1691,180 1779,180 1867,182"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug ans Eisenbahndepartement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug ans Eisenbahndepartement</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

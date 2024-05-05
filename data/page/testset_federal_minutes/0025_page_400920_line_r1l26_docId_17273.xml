@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:11.276+02:00</Created>
+        <LastChange>2020-08-22T11:22:05.140+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748036" pageNr="23" tsid="37761677" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HVJJCUGGIJPJFWLFQWKODMHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDJWUGLSEVZUNRGWXVMPROPO" imageId="14363216"/>
+    </Metadata>
+    <Page imageFilename="0025_page_400920_line_r1l26_docId_17273.jpg" imageWidth="1989" imageHeight="399">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425708354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1989,0 1989,399 0,399"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,248 605,299 1889,262 1889,166 1814,146 778,208 600,203 390,100 100,119"/>
+                <Baseline points="113,233 201,235 289,237 377,239 465,239 554,241 642,241 730,241 818,241 906,241 995,239 1083,239 1171,239 1259,237 1347,237 1436,237 1524,235 1612,235 1700,235 1788,233 1877,233"/>
+                <TextEquiv>
+                    <Unicode>Der Entwurf zu einem Bundesratsbeschluß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Entwurf zu einem Bundesratsbeschluß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

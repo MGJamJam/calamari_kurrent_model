@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:39.437+02:00</Created>
+        <LastChange>2020-08-22T11:33:52.428+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750827" pageNr="132" tsid="49309797" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KLUXSAPZJCBAJPHIXTNRRHIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWYJVELMYEPHOOWCWFTRDDTP" imageId="14365985"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2474343_line_r2l3_docId_51514.jpg" imageWidth="2425" imageHeight="380">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425322494" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2425,0 2425,380 0,380"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 1500,271 2276,241 2325,163 101,119"/>
+                <Baseline points="113,198 222,198 332,198 442,200 552,200 662,202 771,204 881,204 991,206 1101,208 1211,210 1320,212 1430,214 1540,216 1650,218 1760,220 1869,222 1979,222 2089,224 2199,226 2309,226"/>
+                <TextEquiv>
+                    <Unicode>Kenntnisgabe an Herrn Marmier, die gewünschten Stimmbarten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kenntnisgabe an Herrn Marmier, die gewünschten Stimmbarten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

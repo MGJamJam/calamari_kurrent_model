@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:22.933+02:00</Created>
+        <LastChange>2020-11-16T16:07:41.979+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744984" pageNr="96" tsid="49319115" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZDRVRTBOHKLNMLXUIFILWZRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AVCPPTZBDEZOCDFXHPQAVVWK" imageId="14360375"/>
+    </Metadata>
+    <Page imageFilename="0149_page_310390_line_r1l5_docId_13790.jpg" imageWidth="2171" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426304061" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2171,0 2171,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2071,232 2071,134 1968,100 1547,156 100,112"/>
+                <Baseline points="112,182 209,180 306,180 404,180 501,181 599,182 696,182 793,182 891,182 988,182 1086,182 1183,182 1280,182 1378,182 1475,182 1573,182 1670,182 1767,182 1865,181 1962,180 2060,178"/>
+                <TextEquiv>
+                    <Unicode>terschrift namens der Gesellschaft die Gegenzeichnung durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>terschrift namens der Gesellschaft die Gegenzeichnung durch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

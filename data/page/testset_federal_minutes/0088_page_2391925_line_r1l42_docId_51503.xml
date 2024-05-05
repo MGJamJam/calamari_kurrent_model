@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:29.114+02:00</Created>
+        <LastChange>2020-10-06T10:13:59.163+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750054" pageNr="54" tsid="49311655" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DQRXOXCWSCKUPXRNQWEYBXZC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZUBSNWZDRHUPKCKDHRTSCVL" imageId="14365226"/>
+    </Metadata>
+    <Page imageFilename="0088_page_2391925_line_r1l42_docId_51503.jpg" imageWidth="1643" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425432073" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1643,0 1643,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,210 364,214 421,270 518,213 806,208 865,251 911,210 1514,217 1543,142 1454,115 1373,154 1287,100 1201,165 1018,123 536,178 412,111 337,171 264,131 100,169"/>
+                <Baseline points="115,202 185,204 256,204 327,206 397,206 468,206 539,206 609,206 680,206 751,205 822,204 892,204 963,202 1034,202 1104,200 1175,200 1246,200 1316,198 1387,198 1458,198 1529,198"/>
+                <TextEquiv>
+                    <Unicode>An den Generalkonsul in Mexiko.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An den Generalkonsul in Mexiko.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

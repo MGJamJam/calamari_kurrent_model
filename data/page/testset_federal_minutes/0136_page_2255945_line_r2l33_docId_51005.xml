@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:18.517+02:00</Created>
+        <LastChange>2020-11-16T08:13:49.333+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745619" pageNr="116" tsid="49318829" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NCLKBQRJQDMHCTYJWXXVGXRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEVMUECXJFLMLQXVGJOKHXKW" imageId="14360799"/>
+    </Metadata>
+    <Page imageFilename="0136_page_2255945_line_r2l33_docId_51005.jpg" imageWidth="1687" imageHeight="310">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199044" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1687,0 1687,310 0,310"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,187 1458,194 1587,158 1587,114 182,108 100,146"/>
+                <Baseline points="114,170 187,170 260,170 333,168 406,168 479,168 552,166 625,166 698,166 771,164 844,164 917,162 990,162 1063,160 1136,160 1209,158 1282,158 1355,156 1428,155 1501,154 1574,152 1608,150"/>
+                <TextEquiv>
+                    <Unicode>in Basel um dießfälligen Aufschluß zu ersuchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Basel um dießfälligen Aufschluß zu ersuchen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

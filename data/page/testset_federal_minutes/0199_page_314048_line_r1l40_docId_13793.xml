@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:47.082+02:00</Created>
+        <LastChange>2020-11-16T16:28:37.338+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745339" pageNr="132" tsid="49319154" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TTVPLRVYIVWPXMXARHASOSIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FWGVLSNBSUPXEBZISYMVXSKF" imageId="14360523"/>
+    </Metadata>
+    <Page imageFilename="0199_page_314048_line_r1l40_docId_13793.jpg" imageWidth="1347" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426309291" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1347,0 1347,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 340,244 430,199 709,229 959,196 1109,244 1247,214 1214,127 1136,166 757,112 718,151 604,100 526,157 100,109"/>
+                <Baseline points="18,193 115,192 170,190 226,189 282,188 338,188 394,186 450,186 506,186 562,186 618,186 674,186 729,186 785,186 841,187 897,188 953,188 1009,188 1065,188 1121,189 1177,190 1233,190"/>
+                <TextEquiv>
+                    <Unicode>Sprach Sahli in Bern übertragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sprach Sahli in Bern übertragen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

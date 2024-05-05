@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:11:51.133+02:00</Created>
+        <LastChange>2020-08-22T11:17:24.333+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748171" pageNr="24" tsid="37759928" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYOKBTBKEQSQPKQMQNGXTKPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IVNLSJVOWINYVYYKAVMSDTEK" imageId="14363351"/>
+    </Metadata>
+    <Page imageFilename="0041_page_393356_line_r1l12_docId_17264.jpg" imageWidth="1662" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425764418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1662,0 1662,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,271 226,219 533,264 612,217 755,269 823,222 960,260 1064,218 1160,273 1280,215 1562,225 1562,142 1329,176 1102,100 940,170 853,123 689,121 607,174 524,127 349,177 188,112 100,151"/>
+                <Baseline points="113,210 184,210 256,208 328,208 400,208 472,208 543,208 615,206 687,206 759,206 831,206 902,206 974,206 1046,206 1118,206 1190,206 1261,204 1333,204 1405,204 1477,204 1549,204"/>
+                <TextEquiv>
+                    <Unicode>Herr I. Vizekanzler Schatzmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr I. Vizekanzler Schatzmann.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

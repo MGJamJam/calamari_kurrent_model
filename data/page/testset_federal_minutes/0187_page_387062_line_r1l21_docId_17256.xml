@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:50:53.816+02:00</Created>
+        <LastChange>2020-08-22T11:20:23.568+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747283" pageNr="95" tsid="37761190" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UVCHJAMREXSVVBHQHYPAGGPC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BJTIUNZQLGHAYKGCYTHVJLNL" imageId="14362463"/>
+    </Metadata>
+    <Page imageFilename="0187_page_387062_line_r1l21_docId_17256.jpg" imageWidth="305" imageHeight="261">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425902346" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 305,0 305,261 0,261"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,161 125,160 138,154 154,159 159,153 164,156 192,142 205,141 204,115 183,119 159,102 149,105 141,100 118,108 100,109"/>
+                <Baseline points="115,145 141,148 167,146 193,143"/>
+                <TextEquiv>
+                    <Unicode>ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

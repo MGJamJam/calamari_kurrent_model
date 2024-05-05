@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:15.508+02:00</Created>
+        <LastChange>2020-08-22T07:34:21.119+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745422" pageNr="42" tsid="37714991" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TRSWGQAKXYJIWEHKJYPQBGUL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTODIYADDZTSCXTBHAPMMVQY" imageId="14360606"/>
+    </Metadata>
+    <Page imageFilename="0049_page_2260390_line_r2l6_docId_51002.jpg" imageWidth="2326" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426188716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2326,0 2326,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 1345,186 1825,257 2226,186 1822,106 1737,156 101,117"/>
+                <Baseline points="113,172 218,170 323,170 428,170 533,171 638,172 743,174 848,176 953,176 1058,179 1163,181 1268,184 1373,185 1478,186 1583,188 1688,190 1793,190 1898,190 2003,190 2108,188 2213,186"/>
+                <TextEquiv>
+                    <Unicode>tements mit einigen Abänderungen die Genehmigung ertheilt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tements mit einigen Abänderungen die Genehmigung ertheilt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

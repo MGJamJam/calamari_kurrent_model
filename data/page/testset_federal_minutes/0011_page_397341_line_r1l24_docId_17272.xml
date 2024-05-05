@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:04.938+02:00</Created>
+        <LastChange>2020-10-27T07:35:49.346+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747989" pageNr="11" tsid="49315766" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WDSPGWQPDGDOWMLUIQOFPKEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSUBPVVHLJZMGRPXQLFHLFUC" imageId="14363169"/>
+    </Metadata>
+    <Page imageFilename="0011_page_397341_line_r1l24_docId_17272.jpg" imageWidth="2395" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425706706" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2395,0 2395,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,251 1551,202 1852,267 2295,220 2295,100 1371,162 100,118"/>
+                <Baseline points="113,192 221,192 329,192 438,192 546,192 655,192 763,192 871,192 980,192 1088,192 1197,192 1305,192 1413,192 1522,192 1630,192 1739,192 1847,190 1955,190 2064,188 2172,188 2281,186"/>
+                <TextEquiv>
+                    <Unicode>richts an die eidg. Rate betreffend den von Henri Baud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>richts an die eidg. Rate betreffend den von Henri Baud</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

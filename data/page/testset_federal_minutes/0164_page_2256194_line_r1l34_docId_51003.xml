@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:16.548+02:00</Created>
+        <LastChange>2020-11-16T08:27:05.187+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745680" pageNr="138" tsid="49318844" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EYSMJHBOHACAGKBMICWUTWZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDVCGEIHXHSCXOLYWQHQUSZR" imageId="14360860"/>
+    </Metadata>
+    <Page imageFilename="0164_page_2256194_line_r1l34_docId_51003.jpg" imageWidth="1101" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426202221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1101,0 1101,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 239,198 418,268 493,220 549,245 591,203 959,205 1001,188 1001,149 867,160 800,119 761,158 627,164 529,100 476,150 303,117 228,159 100,157"/>
+                <Baseline points="114,196 157,196 201,194 244,194 288,194 332,194 375,194 419,194 462,194 506,194 550,194 593,194 637,194 680,194 724,194 768,194 811,194 855,192 898,192 942,192 986,192 1056,194"/>
+                <TextEquiv>
+                    <Unicode>rücksichtigung verdienen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rücksichtigung verdienen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

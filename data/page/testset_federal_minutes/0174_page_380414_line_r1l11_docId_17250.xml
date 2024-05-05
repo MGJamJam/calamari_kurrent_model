@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:15.855+02:00</Created>
+        <LastChange>2020-11-10T08:29:04.788+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746733" pageNr="115" tsid="49318357" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GVDKCXECXSRXNINEJFKUMJTX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBNYGJAIRMXVKQHVUSKGOQCT" imageId="14361913"/>
+    </Metadata>
+    <Page imageFilename="0174_page_380414_line_r1l11_docId_17250.jpg" imageWidth="1235" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425962485" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1235,0 1235,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 509,194 585,229 622,197 809,235 1135,186 1135,147 1024,111 971,137 867,101 738,147 569,111 505,139 101,106"/>
+                <Baseline points="113,176 163,176 214,176 264,174 315,174 365,174 416,174 466,174 517,174 567,174 618,174 669,174 719,174 770,174 820,176 871,176 921,177 972,179 1022,180 1073,182 1124,183"/>
+                <TextEquiv>
+                    <Unicode>(Protokoll vom 7. März No 922).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Protokoll vom 7. März No 922).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

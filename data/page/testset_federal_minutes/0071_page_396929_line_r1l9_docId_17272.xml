@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:12:42.931+02:00</Created>
+        <LastChange>2020-08-22T11:23:27.035+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748202" pageNr="69" tsid="37762088" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DVLURXMUAFQKWHRGAILOPHBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQZCQUAZVOFSLZUGJPIRITGB" imageId="14363382"/>
+    </Metadata>
+    <Page imageFilename="0071_page_396929_line_r1l9_docId_17272.jpg" imageWidth="2433" imageHeight="409">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425714733" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2433,0 2433,409 0,409"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,279 2333,253 2333,189 2039,117 1815,208 1303,205 919,100 734,196 100,176"/>
+                <Baseline points="113,242 223,242 333,242 443,242 554,242 664,242 774,242 885,242 995,242 1105,242 1216,242 1326,242 1436,242 1546,242 1657,242 1767,242 1877,242 1988,242 2098,244 2208,244 2319,246"/>
+                <TextEquiv>
+                    <Unicode>1.) Bericht und Gesuch an den Schweiz. Bundesrat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.) Bericht und Gesuch an den Schweiz. Bundesrat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

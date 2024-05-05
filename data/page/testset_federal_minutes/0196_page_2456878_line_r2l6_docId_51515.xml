@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:57.003+02:00</Created>
+        <LastChange>2020-09-22T15:27:54.645+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519161" pageNr="143" tsid="49307789" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KWMYDVSFZITCJMHTWXWOWQXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSRFPKJSFKCNPUWZFPSVRCHW" imageId="15086094"/>
+    </Metadata>
+    <Page imageFilename="0196_page_2456878_line_r2l6_docId_51515.jpg" imageWidth="706" imageHeight="333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425257132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 706,0 706,333 0,333"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,195 413,196 452,233 479,233 524,189 606,187 605,117 524,140 471,100 399,131 317,108 268,114 223,145 192,115 160,113 100,147 101,195"/>
+                <Baseline points="115,187 140,185 165,185 190,184 215,183 240,183 265,183 290,183 315,183 340,183 365,183 390,182 415,181 440,181 465,181 490,181 515,180 540,178 565,177 591,177"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="120,145 120,205 202,205 202,145"/>
+                    <TextEquiv>
+                        <Unicode>An</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="243,143 243,203 429,203 429,143"/>
+                    <TextEquiv>
+                        <Unicode>Zürich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="491,140 491,200 532,200 532,140"/>
+                    <TextEquiv>
+                        <Unicode>z.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="552,137 552,197 616,197 616,137"/>
+                    <TextEquiv>
+                        <Unicode>B.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>An Zürich z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

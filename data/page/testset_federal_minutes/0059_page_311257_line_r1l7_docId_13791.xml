@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:59:09.443+02:00</Created>
+        <LastChange>2020-11-16T14:17:29.719+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744741" pageNr="40" tsid="49319049" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VPVDNWYCZKXJKABUTYLKNZOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDERMNNOWYJNHLYINAPPCRDJ" imageId="14360132"/>
+    </Metadata>
+    <Page imageFilename="0059_page_311257_line_r1l7_docId_13791.jpg" imageWidth="1061" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426296345" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1061,0 1061,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 176,183 281,221 386,189 490,213 588,186 745,238 961,185 961,137 930,152 811,109 618,124 554,101 469,132 442,108 338,149 100,100"/>
+                <Baseline points="113,182 154,180 196,178 238,176 280,175 322,173 364,173 405,172 447,172 489,172 531,172 573,172 615,172 657,172 698,173 740,173 782,173 824,175 866,175 908,175 950,176"/>
+                <TextEquiv>
+                    <Unicode>lungen erforderlich seien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lungen erforderlich seien.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

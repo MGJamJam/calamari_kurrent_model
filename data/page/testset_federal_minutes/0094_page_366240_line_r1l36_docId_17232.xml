@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:31.892+02:00</Created>
+        <LastChange>2020-11-15T19:56:41.231+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745759" pageNr="68" tsid="49318674" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FALAYVWDVUDXSIEZUEEARYPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQYLAYPJPPNUCCZAZJMHKSNT" imageId="14360939"/>
+    </Metadata>
+    <Page imageFilename="0094_page_366240_line_r1l36_docId_17232.jpg" imageWidth="2063" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426124715" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2063,0 2063,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,196 927,188 1135,253 1697,173 1963,226 1962,129 1754,100 100,141"/>
+                <Baseline points="115,194 206,191 298,189 390,188 481,186 573,185 665,183 756,182 848,181 940,180 1032,179 1123,179 1215,177 1307,177 1398,177 1490,176 1582,176 1673,176 1765,176 1857,176 1949,177"/>
+                <TextEquiv>
+                    <Unicode>5. November um Vermittlung in folgender Ange¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5. November um Vermittlung in folgender Ange¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

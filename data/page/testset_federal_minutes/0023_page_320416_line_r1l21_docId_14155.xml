@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:23.395+02:00</Created>
+        <LastChange>2020-11-15T19:27:04.753+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745431" pageNr="15" tsid="49318621" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KFUZMUBIKKYPVKHCJRKFYUYZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TEJMZFFIAGHXYQYYTZVQWPXJ" imageId="14360615"/>
+    </Metadata>
+    <Page imageFilename="0023_page_320416_line_r1l21_docId_14155.jpg" imageWidth="1866" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426116902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1866,0 1866,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,234 1000,223 1143,267 1560,223 1684,274 1766,234 1711,167 1320,125 1096,188 975,147 750,185 564,100 434,197 100,140"/>
+                <Baseline points="113,218 195,219 277,219 359,221 441,221 523,219 605,219 687,219 769,218 851,216 933,215 1015,215 1097,213 1179,213 1261,212 1343,212 1425,212 1507,212 1589,212 1671,213 1754,215"/>
+                <TextEquiv>
+                    <Unicode>Der am 5. Februar 1887 zu Karlsruhe ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der am 5. Februar 1887 zu Karlsruhe ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

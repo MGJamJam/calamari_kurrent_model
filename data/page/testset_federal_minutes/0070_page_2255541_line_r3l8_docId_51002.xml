@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:00.517+02:00</Created>
+        <LastChange>2020-08-22T07:34:58.487+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745467" pageNr="61" tsid="37715106" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XGLBWGSIXXQFGLUYZYRFXWMU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KOEQOMEFPEWKAJOZGNUZYJRS" imageId="14360651"/>
+    </Metadata>
+    <Page imageFilename="0070_page_2255541_line_r3l8_docId_51002.jpg" imageWidth="2402" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426191452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2402,0 2402,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2302,201 2074,100 1846,153 100,133"/>
+                <Baseline points="113,196 221,194 330,192 439,190 548,190 657,188 765,188 874,188 983,188 1092,188 1201,188 1309,190 1418,190 1527,190 1636,191 1745,192 1853,192 1962,192 2071,192 2180,192 2289,192"/>
+                <TextEquiv>
+                    <Unicode> Feldweibel abwärts täglich 3 Kappen, welche den Berech¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Feldweibel abwärts täglich 3 Kappen, welche den Berech¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

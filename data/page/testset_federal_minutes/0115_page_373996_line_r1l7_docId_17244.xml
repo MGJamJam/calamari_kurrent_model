@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:28.584+02:00</Created>
+        <LastChange>2020-11-16T10:28:11.232+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745101" pageNr="68" tsid="49318945" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NGRZEKELOAHNHQNZQNWCQREE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBLOVQBHZXMOFVUBIGWWMDRC" imageId="14360402"/>
+    </Metadata>
+    <Page imageFilename="0115_page_373996_line_r1l7_docId_17244.jpg" imageWidth="2054" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426247471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2054,0 2054,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1806,234 1953,200 1954,144 101,133"/>
+                <Baseline points="112,177 203,177 295,177 386,175 478,175 569,175 661,175 752,175 844,175 935,175 1027,176 1118,177 1210,177 1301,179 1393,179 1484,181 1576,183 1667,185 1759,187 1850,189 1942,191"/>
+                <TextEquiv>
+                    <Unicode>gierungsrates des Kantons Unterwalden nid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gierungsrates des Kantons Unterwalden nid</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

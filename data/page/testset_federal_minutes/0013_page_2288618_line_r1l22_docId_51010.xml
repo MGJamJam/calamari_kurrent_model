@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:41.661+02:00</Created>
+        <LastChange>2020-11-15T17:25:07.572+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745809" pageNr="8" tsid="49318515" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JPSTSSUWBNWGYZCMWBXTPAOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MBZIVSAHODIOTYPZHHDFTHWZ" imageId="14360989"/>
+    </Metadata>
+    <Page imageFilename="0013_page_2288618_line_r1l22_docId_51010.jpg" imageWidth="2388" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426056058" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2388,0 2388,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 799,251 858,194 2288,190 1915,110 101,127"/>
+                <Baseline points="115,182 222,184 330,184 438,184 546,186 654,186 762,188 870,188 978,189 1086,190 1194,190 1301,192 1409,192 1517,193 1625,194 1733,194 1841,196 1949,196 2057,196 2165,198 2273,198"/>
+                <TextEquiv>
+                    <Unicode>die Bundesversammlung am Schluße angefügt werden könne. Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Bundesversammlung am Schluße angefügt werden könne. Herr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

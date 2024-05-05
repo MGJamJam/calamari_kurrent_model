@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:31.905+02:00</Created>
+        <LastChange>2020-11-09T16:55:49.531+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746851" pageNr="5" tsid="49318174" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HBECEWMFWTUZDSFAUBNHYJDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHTLFBXKEOBOLYDENGNCDVDK" imageId="14362031"/>
+    </Metadata>
+    <Page imageFilename="0008_page_382599_line_r1l39_docId_17252.jpg" imageWidth="561" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425889497" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 561,0 561,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 180,204 212,188 306,191 318,202 385,191 435,205 460,196 461,132 394,113 334,113 321,101 272,126 245,126 222,103 100,109"/>
+                <Baseline points="112,173 137,175 163,177 189,179 215,179 241,180 267,180 292,179 318,179 344,179 370,177 396,177 422,178 448,179 467,180"/>
+                <TextEquiv>
+                    <Unicode>K. B. A. 3/I;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K. B. A. 3/I;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:51:33.943+02:00</Created>
+        <LastChange>2020-08-22T11:20:47.124+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747313" pageNr="102" tsid="37761316" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WFBDMKLFCXNTDYYQXLRCTXIG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYEDQMCPIKPHTKAQYIFXPENK" imageId="14362493"/>
+    </Metadata>
+    <Page imageFilename="0200_page_385904_line_r1l17_docId_17255.jpg" imageWidth="2105" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425903308" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2105,0 2105,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1946,223 2005,125 100,130"/>
+                <Baseline points="111,174 205,175 299,177 393,177 487,178 581,178 675,177 769,177 863,177 957,175 1051,175 1145,174 1239,174 1333,172 1427,172 1521,171 1615,171 1709,171 1803,171 1897,172 1992,172"/>
+                <TextEquiv>
+                    <Unicode>angestellt, begab sich Sonntags den 2. August 1896, abends nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>angestellt, begab sich Sonntags den 2. August 1896, abends nach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

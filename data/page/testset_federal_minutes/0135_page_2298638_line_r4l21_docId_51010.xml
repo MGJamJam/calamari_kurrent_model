@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:53.830+02:00</Created>
+        <LastChange>2020-11-15T18:05:07.910+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746081" pageNr="93" tsid="49318575" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYQIRJMNQDTADGISAXGYBGNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYXUDJOYSBHQUCEHXLBXKIIQ" imageId="14361261"/>
+    </Metadata>
+    <Page imageFilename="0135_page_2298638_line_r4l21_docId_51010.jpg" imageWidth="341" imageHeight="277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426068024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 341,0 341,277 0,277"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,164 110,164 130,176 223,177 231,169 241,169 241,108 230,108 222,100 198,102 183,118 148,110 114,133 101,133"/>
+                <Baseline points="111,161 141,162 171,163 201,163 231,161"/>
+                <TextEquiv>
+                    <Unicode>1260</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1260</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

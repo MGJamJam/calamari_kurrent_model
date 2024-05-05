@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:04.173+02:00</Created>
+        <LastChange>2020-08-22T07:33:17.008+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745368" pageNr="12" tsid="37714803" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VPYMUTFWTCYPZGFNBAUWRNLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZPEHZKNRNWTYASCJMITSBWO" imageId="14360552"/>
+    </Metadata>
+    <Page imageFilename="0015_page_2257291_line_r2l50_docId_51003.jpg" imageWidth="2374" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426184688" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2374,0 2374,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2274,229 2273,145 2095,100 311,159 100,106"/>
+                <Baseline points="113,189 220,187 327,187 435,185 542,185 650,184 757,183 864,183 972,182 1079,181 1187,181 1294,181 1401,179 1509,179 1616,179 1724,179 1831,179 1938,177 2046,177 2153,177 2261,175"/>
+                <TextEquiv>
+                    <Unicode>Wege zu Gebote stehen, denselben aus der Schweiz zu schaffen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wege zu Gebote stehen, denselben aus der Schweiz zu schaffen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

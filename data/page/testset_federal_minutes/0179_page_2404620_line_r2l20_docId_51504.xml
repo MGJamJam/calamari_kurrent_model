@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:29.286+02:00</Created>
+        <LastChange>2020-08-22T11:28:28.070+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750290" pageNr="113" tsid="37764176" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JAAHHTWGHYDUDAIZILHEORFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KLCFJUJXXHOYEMMLSSIQGUXP" imageId="14365448"/>
+    </Metadata>
+    <Page imageFilename="0179_page_2404620_line_r2l20_docId_51504.jpg" imageWidth="2398" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425440456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2398,0 2398,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 782,242 1224,182 1481,248 1674,175 2165,226 2298,135 100,139"/>
+                <Baseline points="113,176 221,176 330,178 438,178 547,178 656,178 764,178 873,178 981,178 1090,178 1199,176 1307,176 1416,176 1524,174 1633,174 1742,174 1850,172 1959,172 2067,172 2176,172 2285,172"/>
+                <TextEquiv>
+                    <Unicode>der für die schweizerischen Angehörigen bisher bethätigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der für die schweizerischen Angehörigen bisher bethätigt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

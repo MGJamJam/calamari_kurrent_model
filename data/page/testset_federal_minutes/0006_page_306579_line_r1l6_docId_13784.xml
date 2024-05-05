@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:58.890+02:00</Created>
+        <LastChange>2020-08-21T22:11:35.953+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744349" pageNr="5" tsid="37656646" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YFVLRPAQZIYUEDPJCMYZRSJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBYDOHXLTQICYHLYNAAKGMPI" imageId="14359744"/>
+    </Metadata>
+    <Page imageFilename="0006_page_306579_line_r1l6_docId_13784.jpg" imageWidth="2238" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426349024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2238,0 2238,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,204 1244,241 1629,188 1839,247 2138,199 2138,121 100,119"/>
+                <Baseline points="114,182 219,182 325,182 431,180 537,180 643,180 749,180 855,180 961,180 1067,180 1172,180 1278,180 1384,180 1490,180 1596,180 1702,178 1808,178 1914,177 2020,176 2126,174"/>
+                <TextEquiv>
+                    <Unicode>Schreiben vom 12. dies ad 2 ersuchen die Stellung des Aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schreiben vom 12. dies ad 2 ersuchen die Stellung des Aus¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

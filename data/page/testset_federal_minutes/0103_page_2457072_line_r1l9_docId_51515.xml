@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:02.748+02:00</Created>
+        <LastChange>2020-09-28T09:42:45.929+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519068" pageNr="75" tsid="49307523" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UORIESDTETBCOQYOWGMCGBFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXVPERRQQDBTUABPCJNQXFNF" imageId="15086001"/>
+    </Metadata>
+    <Page imageFilename="0103_page_2457072_line_r1l9_docId_51515.jpg" imageWidth="811" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 811,0 811,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,217 211,199 299,225 364,200 397,227 479,223 501,201 668,210 711,190 710,102 640,139 473,147 399,131 205,145 166,115 100,127 101,217"/>
+                <Baseline points="114,190 143,190 172,190 201,190 230,188 260,188 289,187 318,186 347,186 376,184 406,184 435,184 464,184 493,184 522,182 552,182 581,182 610,184 639,184 668,184 698,186"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="152,147 152,207 409,207 409,147"/>
+                    <TextEquiv>
+                        <Unicode>Sardiische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="436,142 436,202 702,202 702,142"/>
+                    <TextEquiv>
+                        <Unicode>Gesandtschaft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sardinische Gesandtschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sardinische Gesandtschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

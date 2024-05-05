@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:59.164+02:00</Created>
+        <LastChange>2020-08-22T11:29:50.028+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750459" pageNr="30" tsid="49309256" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OJVCYSTWXXNQWDJEWTVJVLGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTXJBBLAWDZOPSHIAFIVQBGT" imageId="14365617"/>
+    </Metadata>
+    <Page imageFilename="0038_page_2451269_line_r1l35_docId_51511.jpg" imageWidth="2357" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425308151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2357,0 2357,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 2148,268 2253,251 2257,115 2144,197 102,142"/>
+                <Baseline points="116,176 222,180 328,184 434,188 540,190 646,193 752,196 858,198 964,200 1070,204 1177,206 1283,208 1389,212 1495,214 1601,217 1707,220 1813,222 1919,226 2025,230 2131,233 2238,238"/>
+                <TextEquiv>
+                    <Unicode>in Fabriken zum Messen oder Wagen von Waaren, sei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Fabriken zum Messen oder Wagen von Waaren, sei</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

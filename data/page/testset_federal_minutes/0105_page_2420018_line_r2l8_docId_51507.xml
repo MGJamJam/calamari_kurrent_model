@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:41.466+02:00</Created>
+        <LastChange>2020-10-06T07:47:59.086+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750596" pageNr="73" tsid="49310742" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DTEIQYMJNZAWEOJOHQVUIGIW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGKANSKLPPFLDYWTZFWIZPGT" imageId="14365754"/>
+    </Metadata>
+    <Page imageFilename="0105_page_2420018_line_r2l8_docId_51507.jpg" imageWidth="2298" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425377792" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2298,0 2298,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,234 2148,251 2198,137 2109,179 1931,100 1602,180 1320,115 972,184 563,116 504,174 100,173"/>
+                <Baseline points="113,216 216,216 320,216 423,216 527,216 631,216 734,216 838,216 941,216 1045,216 1149,216 1252,216 1356,218 1459,218 1563,218 1667,219 1770,220 1874,220 1977,220 2081,222 2185,222"/>
+                <TextEquiv>
+                    <Unicode>Mitglieder anwesend die Hrn. Eeresole Schenk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mitglieder anwesend die Hrn. Eeresole Schenk</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

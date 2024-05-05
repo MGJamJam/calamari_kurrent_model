@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:55.790+02:00</Created>
+        <LastChange>2020-08-22T07:35:04.964+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744812" pageNr="60" tsid="37715127" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GRUDLEZBYMYQVTSBXOWVOUPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPFCEMCFDWTPKGJOVXMPCACX" imageId="14360203"/>
+    </Metadata>
+    <Page imageFilename="0090_page_311553_line_r2l2_docId_13791.jpg" imageWidth="1915" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426299002" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1915,0 1915,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,245 1183,268 1540,213 1779,261 1814,103 1432,156 1055,118 955,183 100,116"/>
+                <Baseline points="113,216 197,218 282,218 366,219 451,219 535,219 620,219 704,219 789,219 873,218 958,218 1043,216 1127,215 1212,215 1296,213 1381,212 1465,210 1550,209 1634,209 1719,207 1804,206"/>
+                <TextEquiv>
+                    <Unicode>Ferner gibt dasselbe Unterm gleichen Tage Auskunft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ferner gibt dasselbe Unterm gleichen Tage Auskunft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

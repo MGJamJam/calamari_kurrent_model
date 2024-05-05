@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:57.461+02:00</Created>
+        <LastChange>2020-11-12T07:38:46.508+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746657" pageNr="74" tsid="49318465" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZRMNMEBIBPCOFCIQTOBVLOYC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQAUECSQOGLUNIDXKKKKRQEJ" imageId="14361837"/>
+    </Metadata>
+    <Page imageFilename="0129_page_365217_line_r1l35_docId_17233.jpg" imageWidth="1250" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426008386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1250,0 1250,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 196,203 354,248 418,213 486,249 540,209 731,228 837,198 1065,255 1150,224 1149,123 1095,149 901,120 837,154 761,109 449,166 345,100 206,174 100,131"/>
+                <Baseline points="113,198 164,200 215,198 266,198 317,198 368,197 419,197 471,195 522,194 573,194 624,192 675,191 726,191 777,189 829,189 880,189 931,189 982,189 1033,191 1084,192 1136,194"/>
+                <TextEquiv>
+                    <Unicode>ten (gedruckte Beilage).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ten (gedruckte Beilage).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

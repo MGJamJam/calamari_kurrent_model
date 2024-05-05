@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:39.147+02:00</Created>
+        <LastChange>2020-08-21T22:02:57.004+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744398" pageNr="33" tsid="37655210" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KTGBJSMLOBTUZUDLHIPYACEY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KEBSRVAUCKHNUHBEXWRZRFXJ" imageId="14359789"/>
+    </Metadata>
+    <Page imageFilename="0057_page_300605_line_r1l14_docId_13779.jpg" imageWidth="2271" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426412836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2271,0 2271,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2171,237 2135,104 1491,167 100,134"/>
+                <Baseline points="113,192 215,192 317,194 419,194 521,194 624,194 726,194 828,194 930,194 1032,194 1135,194 1237,192 1339,192 1441,192 1543,192 1646,190 1748,190 1850,188 1952,188 2054,186 2157,186"/>
+                <TextEquiv>
+                    <Unicode>3.) Der Kanton Zürich hat von diesem Rechte in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.) Der Kanton Zürich hat von diesem Rechte in dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:59.073+02:00</Created>
+        <LastChange>2020-08-22T11:33:33.294+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750774" pageNr="120" tsid="37765665" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TONTKYRYJFULVSIMXLEJULDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTSQGPTLYJVPPSYIKRCCUUKS" imageId="14365932"/>
+    </Metadata>
+    <Page imageFilename="0166_page_2423374_line_r2l12_docId_51508.jpg" imageWidth="2207" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425384240" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2207,0 2207,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 2107,215 2055,100 1994,146 100,129"/>
+                <Baseline points="113,175 212,177 311,179 410,181 509,183 608,183 707,183 806,185 905,185 1004,185 1103,185 1202,185 1301,185 1400,185 1499,185 1598,185 1697,185 1796,187 1895,187 1994,189 2093,191"/>
+                <TextEquiv>
+                    <Unicode>Mit 2 Depeschen vom 9. ds. übermittelt der General</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit 2 Depeschen vom 9. ds. übermittelt der General</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

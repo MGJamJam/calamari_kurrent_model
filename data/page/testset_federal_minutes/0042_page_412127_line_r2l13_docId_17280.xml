@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:27:59.368+02:00</Created>
+        <LastChange>2020-10-13T21:16:50.210+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748784" pageNr="18" tsid="49315256" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AHMTCBWNGEBFKEGZSHTBMUCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYQYSXUHJCJUTKDHWYNKEQZA" imageId="14363960"/>
+    </Metadata>
+    <Page imageFilename="0042_page_412127_line_r2l13_docId_17280.jpg" imageWidth="2372" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425627648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2372,0 2372,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 2272,227 2272,132 2099,108 944,171 720,100 100,110"/>
+                <Baseline points="113,191 220,191 327,191 434,191 541,191 649,191 756,191 863,191 970,191 1077,191 1185,191 1292,191 1399,191 1506,189 1613,189 1721,189 1828,187 1935,187 2042,187 2149,186 2257,185 2293,184"/>
+                <TextEquiv>
+                    <Unicode>tags von Bern am machten, gab und ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tags von Bern am machten, gab und ein¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

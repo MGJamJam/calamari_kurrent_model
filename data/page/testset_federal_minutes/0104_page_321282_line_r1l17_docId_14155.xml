@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:14.508+02:00</Created>
+        <LastChange>2020-11-15T19:59:34.718+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745785" pageNr="74" tsid="49318680" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ULKZIWEEIDHJSPIAGUXDWEBR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AHGMTSKDYWCJRETICAKJEOHZ" imageId="14360965"/>
+    </Metadata>
+    <Page imageFilename="0104_page_321282_line_r1l17_docId_14155.jpg" imageWidth="1947" imageHeight="386">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426125622" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1947,0 1947,386 0,386"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,266 370,283 459,221 1522,262 1705,214 1847,277 1847,168 1789,149 1334,197 1141,129 893,170 100,110"/>
+                <Baseline points="111,210 197,210 283,210 369,212 456,212 542,213 628,213 714,213 801,215 887,215 973,215 1059,215 1146,215 1232,215 1318,215 1404,214 1491,213 1577,212 1663,211 1749,210 1836,207"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der. 129. Sizung vom 25. ds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der. 129. Sizung vom 25. ds.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

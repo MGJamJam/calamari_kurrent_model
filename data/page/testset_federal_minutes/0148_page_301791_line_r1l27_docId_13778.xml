@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:34.522+02:00</Created>
+        <LastChange>2020-08-21T22:06:00.717+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744536" pageNr="92" tsid="37655676" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WRHVAIYGOHSMNJFSMKGSIFUN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQNSJNGXROFKOUQHCCZVKAVU" imageId="14359927"/>
+    </Metadata>
+    <Page imageFilename="0148_page_301791_line_r1l27_docId_13778.jpg" imageWidth="1938" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426420952" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1938,0 1938,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 1620,246 1838,213 1838,135 1411,170 1102,105 891,170 276,100 100,162"/>
+                <Baseline points="114,190 199,192 285,192 370,194 456,194 542,194 627,194 713,194 798,194 884,194 970,194 1055,194 1141,192 1226,192 1312,192 1398,192 1483,192 1569,194 1654,194 1740,194 1826,196"/>
+                <TextEquiv>
+                    <Unicode>Ein Antrag, zu bestimmen, daß nur ein vorüber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ein Antrag, zu bestimmen, daß nur ein vorüber-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

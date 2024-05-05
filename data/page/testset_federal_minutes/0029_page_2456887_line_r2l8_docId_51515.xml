@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:41.800+02:00</Created>
+        <LastChange>2020-09-28T08:30:50.089+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518994" pageNr="25" tsid="49307232" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QTBQTDKBTQABVUNOFTHPKZZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZVCLWUPHYLSDZUMUQZDOLBR" imageId="15085927"/>
+    </Metadata>
+    <Page imageFilename="0029_page_2456887_line_r2l8_docId_51515.jpg" imageWidth="2355" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425239041" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2355,0 2355,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 1864,184 1936,232 2255,138 1766,100 100,187 100,215"/>
+                <Baseline points="113,211 219,209 326,205 432,203 539,201 645,199 752,197 858,195 965,193 1071,191 1178,189 1284,187 1391,185 1497,185 1604,183 1710,181 1817,179 1923,177 2030,175 2136,173 2243,173"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="132,168 132,228 330,228 330,168"/>
+                    <TextEquiv>
+                        <Unicode>Entschen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="398,162 398,222 475,222 475,162"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="528,160 528,220 605,220 605,160"/>
+                    <TextEquiv>
+                        <Unicode>19.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="613,157 613,217 819,217 819,157"/>
+                    <TextEquiv>
+                        <Unicode>Oktober</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="871,154 871,214 940,214 940,154"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="983,148 983,208 1404,208 1404,148"/>
+                    <TextEquiv>
+                        <Unicode>Reklamationen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1447,145 1447,205 1533,205 1533,145"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1559,142 1559,202 1688,202 1688,142"/>
+                    <TextEquiv>
+                        <Unicode>Hrn.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1714,138 1714,198 1963,198 1963,138"/>
+                    <TextEquiv>
+                        <Unicode>Krutter</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2006,134 2006,194 2152,194 2152,134"/>
+                    <TextEquiv>
+                        <Unicode>gegen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2195,133 2195,193 2246,193 2246,133"/>
+                    <TextEquiv>
+                        <Unicode>d.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Entscheid vom 19. Oktober die Reklamationen des Hrn. Krutter gegen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Entscheid vom 19. Oktober die Reklamationen des Hrn. Krutter gegen den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

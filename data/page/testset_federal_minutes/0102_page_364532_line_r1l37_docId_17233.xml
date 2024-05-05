@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:26.067+02:00</Created>
+        <LastChange>2020-11-12T07:29:38.642+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746571" pageNr="60" tsid="49318445" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HVDUTAAXPVAMKAFZGUHTCUXN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INYVKIXOOHILELJBPVSCEBCX" imageId="14361751"/>
+    </Metadata>
+    <Page imageFilename="0102_page_364532_line_r1l37_docId_17233.jpg" imageWidth="2122" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426006550" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2122,0 2122,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,207 429,245 922,189 1038,254 1484,185 1671,243 2022,154 945,163 805,104 717,164 393,162 100,100"/>
+                <Baseline points="113,192 207,194 302,194 397,194 492,194 587,192 681,191 776,189 871,188 966,186 1061,185 1155,183 1250,182 1345,180 1440,180 1535,180 1629,180 1724,182 1819,183 1914,186 2009,191"/>
+                <TextEquiv>
+                    <Unicode>Vollzug und aus Finanzdepartement zur Kent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vollzug und aus Finanzdepartement zur Kent¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

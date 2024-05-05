@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:35.789+02:00</Created>
+        <LastChange>2020-08-22T11:07:10.782+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745929" pageNr="44" tsid="37755991" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JLEKLRZVMVEXXXAXVDPICUUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDXEPCSJFUYMBXHNVRNEDBMJ" imageId="14361109"/>
+    </Metadata>
+    <Page imageFilename="0068_page_2292672_line_r2l20_docId_51010.jpg" imageWidth="2401" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426061271" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2401,0 2401,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 2216,250 2301,160 101,117"/>
+                <Baseline points="115,181 223,183 332,185 440,187 549,189 658,190 766,191 875,193 983,195 1092,195 1201,197 1309,199 1418,201 1526,201 1635,203 1744,205 1852,207 1961,209 2069,209 2178,213 2287,215"/>
+                <TextEquiv>
+                    <Unicode>diren im Falle ist, aufmerksam gemacht werden die Briefe an ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>diren im Falle ist, aufmerksam gemacht werden die Briefe an ihr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

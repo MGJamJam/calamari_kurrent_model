@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:45:31.164+02:00</Created>
+        <LastChange>2020-08-22T11:15:40.683+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747034" pageNr="13" tsid="37759142" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YZNFXZOXEWQCSSBRLBBCYQXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XREPTOIZHFRVECMPMCOPNHAS" imageId="14362214"/>
+    </Metadata>
+    <Page imageFilename="0023_page_390123_line_r2l1_docId_17260.jpg" imageWidth="677" imageHeight="398">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425845485" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 677,0 677,398 0,398"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,277 174,272 207,251 264,265 317,237 367,289 455,255 495,292 571,298 577,173 494,120 431,128 375,101 277,154 194,114 164,124 143,101 108,100"/>
+                <Baseline points="118,203 144,206 170,210 196,212 222,214 248,217 274,217 300,218 326,219 352,219 378,221 404,221 430,221 456,223 482,223 508,224 534,227 560,229"/>
+                <TextEquiv>
+                    <Unicode>Entschädigung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Entschädigung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

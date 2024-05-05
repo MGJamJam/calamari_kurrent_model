@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:19.775+02:00</Created>
+        <LastChange>2020-08-22T11:23:29.015+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749141" pageNr="24" tsid="37762099" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AMRTKBEHHQTIPIXLRPWMAAMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDEYYJRHKGIAHWDHKGDNGIYE" imageId="14364317"/>
+    </Metadata>
+    <Page imageFilename="0046_page_424932_line_r1l26_docId_17772.jpg" imageWidth="2497" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425588627" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2497,0 2497,381 0,381"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 555,281 734,212 2397,203 2395,107 2236,100 2045,164 541,107 100,169"/>
+                <Baseline points="115,209 228,207 341,207 454,205 568,203 681,203 794,201 908,200 1021,199 1134,197 1248,197 1361,195 1474,193 1587,192 1701,191 1814,189 1927,185 2041,183 2154,179 2267,177 2381,173"/>
+                <TextEquiv>
+                    <Unicode>in geschlossenen Räumen; die übrigen sind teils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in geschlossenen Räumen; die übrigen sind teils</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

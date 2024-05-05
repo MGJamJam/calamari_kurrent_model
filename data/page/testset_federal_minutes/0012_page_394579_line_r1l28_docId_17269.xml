@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:12.950+02:00</Created>
+        <LastChange>2020-08-22T11:21:43.926+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747993" pageNr="12" tsid="37761581" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RYVXZGLYXPLHEVRVHQBYSCER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZMUVGOETHGMOAHNFGNLEIWO" imageId="14363173"/>
+    </Metadata>
+    <Page imageFilename="0012_page_394579_line_r1l28_docId_17269.jpg" imageWidth="1124" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425706825" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1124,0 1124,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 183,242 303,184 529,229 585,188 616,213 781,188 825,222 887,186 1024,195 1024,105 800,147 736,107 566,143 507,118 343,134 298,100 100,108"/>
+                <Baseline points="114,171 158,171 203,172 248,173 293,175 338,175 382,177 427,177 472,177 517,179 562,179 606,179 651,179 696,179 741,179 786,177 830,177 875,175 920,175 965,173 1010,171"/>
+                <TextEquiv>
+                    <Unicode>Offiziell einzuladen sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Offiziell einzuladen sind:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:01.873+02:00</Created>
+        <LastChange>2020-10-27T07:35:27.626+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747987" pageNr="10" tsid="49315762" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VRUORGICEMYPBOQHUTAMWGDG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VEGPABVRSPCQVQZDGDNZJJWC" imageId="14363167"/>
+    </Metadata>
+    <Page imageFilename="0010_page_395681_line_r2l11_docId_17271.jpg" imageWidth="2440" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425706559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2440,0 2440,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 2340,247 2340,158 2138,100 1964,161 1308,101 100,161"/>
+                <Baseline points="114,201 224,201 335,201 445,201 556,201 667,201 777,201 888,201 998,201 1109,201 1220,201 1330,201 1441,201 1551,201 1662,201 1773,201 1883,201 1994,199 2104,199 2215,197 2326,197"/>
+                <TextEquiv>
+                    <Unicode>stützung im Betrage von Fr. 100 zu Lasten des Betrie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stützung im Betrage von Fr. 100 zu Lasten des Betrie¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

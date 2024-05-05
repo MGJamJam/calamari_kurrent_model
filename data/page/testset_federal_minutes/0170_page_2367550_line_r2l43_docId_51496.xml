@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:54.242+02:00</Created>
+        <LastChange>2020-10-08T09:21:31.402+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750166" pageNr="106" tsid="49312496" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GGYJSWREAMNSPIKOOOBYXZVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POBRJUTQLYOUVOUUSUVWQALQ" imageId="14365338"/>
+    </Metadata>
+    <Page imageFilename="0170_page_2367550_line_r2l43_docId_51496.jpg" imageWidth="961" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425493554" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 961,0 961,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 173,236 235,179 338,204 483,171 861,178 860,127 804,138 766,100 715,130 540,136 459,101 100,131"/>
+                <Baseline points="114,168 150,168 187,168 223,168 260,168 297,168 333,168 370,166 406,166 443,166 480,165 516,164 553,164 589,164 626,164 663,164 699,166 736,166 772,167 809,169 846,170"/>
+                <TextEquiv>
+                    <Unicode>Es ist beschlossen worden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es ist beschlossen worden:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

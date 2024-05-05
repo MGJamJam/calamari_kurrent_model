@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:26.182+02:00</Created>
+        <LastChange>2020-08-22T11:25:18.115+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748419" pageNr="129" tsid="37762775" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MORMYHWGQSZOOJBLIDLZELWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SDAOZEBMNUHMJJFPGKRJLRWQ" imageId="14363599"/>
+    </Metadata>
+    <Page imageFilename="0134_page_397228_line_r1l13_docId_17270.jpg" imageWidth="616" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722694" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 616,0 616,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 160,194 193,213 248,188 314,207 456,187 516,198 516,151 434,141 390,111 330,122 272,101 215,139 152,104 100,123"/>
+                <Baseline points="113,187 139,185 165,184 191,183 217,183 243,181 269,181 295,181 321,181 347,181 373,181 399,183 425,183 451,183 477,183 503,181"/>
+                <TextEquiv>
+                    <Unicode>ssenbahnen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ssenbahnen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

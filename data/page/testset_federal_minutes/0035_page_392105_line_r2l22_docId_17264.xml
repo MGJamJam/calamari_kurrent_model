@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:11:01.724+02:00</Created>
+        <LastChange>2020-08-22T11:17:14.237+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748141" pageNr="21" tsid="37759869" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TGAGFBDOYMRIEZIVJNRLQUNY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WJRXJHEUVJRDBAREYHJTEMNW" imageId="14363321"/>
+    </Metadata>
+    <Page imageFilename="0035_page_392105_line_r2l22_docId_17264.jpg" imageWidth="2198" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425764039" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2198,0 2198,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,256 466,216 607,277 899,202 1637,248 2098,216 2098,142 456,152 399,101 100,153"/>
+                <Baseline points="113,196 211,198 310,198 408,198 507,198 606,198 704,198 803,196 901,196 1000,196 1099,194 1197,194 1296,194 1394,192 1493,192 1592,192 1690,192 1789,192 1887,194 1986,194 2085,196"/>
+                <TextEquiv>
+                    <Unicode>zur Bekämpfung des Anarchismus haben drei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zur Bekämpfung des Anarchismus haben drei</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

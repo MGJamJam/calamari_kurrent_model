@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:49:15.233+02:00</Created>
+        <LastChange>2020-08-22T11:16:33.703+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747206" pageNr="27" tsid="37759571" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DWPWNJKIAVRERFAKTENTBTQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AVFHAGFYGUNHFVBLDUZTXQNU" imageId="14362386"/>
+    </Metadata>
+    <Page imageFilename="0055_page_387482_line_r1l20_docId_17257.jpg" imageWidth="2182" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425847336" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2182,0 2182,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1951,205 2082,175 2082,108 100,115"/>
+                <Baseline points="113,178 210,178 308,176 406,175 504,174 602,174 699,174 797,174 895,174 993,174 1091,174 1188,174 1286,174 1384,174 1482,174 1580,174 1677,172 1775,171 1873,170 1971,168 2069,164"/>
+                <TextEquiv>
+                    <Unicode>Konzession einer elektrischen Eisenbahn (teilweise Stra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Konzession einer elektrischen Eisenbahn (teilweise Stra¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

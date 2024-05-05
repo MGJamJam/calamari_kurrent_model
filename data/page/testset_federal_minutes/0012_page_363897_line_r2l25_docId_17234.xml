@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:17.519+02:00</Created>
+        <LastChange>2020-11-12T07:00:10.465+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746273" pageNr="8" tsid="49318387" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HXXHKMFQDBZOVQKFSDXTJDSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RADITCHJENGUTRCOULQOPAZN" imageId="14361453"/>
+    </Metadata>
+    <Page imageFilename="0012_page_363897_line_r2l25_docId_17234.jpg" imageWidth="2201" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425999784" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2201,0 2201,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 2101,214 2101,152 1971,118 1674,150 1606,100 100,150"/>
+                <Baseline points="113,186 211,186 310,184 409,182 507,182 606,180 705,180 803,180 902,180 1001,180 1100,180 1198,180 1297,180 1396,180 1494,180 1593,182 1692,182 1790,182 1889,184 1988,184 2087,184"/>
+                <TextEquiv>
+                    <Unicode>über Jagd und Vogelschutz. Es wurden folgende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>über Jagd und Vogelschutz. Es wurden folgende</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

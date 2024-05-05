@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:48:15.020+02:00</Created>
+        <LastChange>2020-08-22T11:16:17.205+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747160" pageNr="23" tsid="37759435" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JTRFJWHDIHZVWHSPKLJCKIHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UACTZUVHTGUKTHESZMQDNILX" imageId="14362340"/>
+    </Metadata>
+    <Page imageFilename="0046_page_387465_line_r1l3_docId_17259.jpg" imageWidth="2186" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425846783" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2186,0 2186,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 970,251 1204,197 1337,256 1393,205 2086,222 2086,143 100,154"/>
+                <Baseline points="114,177 212,179 310,179 408,179 506,179 604,181 702,181 800,181 898,181 996,181 1094,181 1192,181 1290,181 1388,181 1486,181 1584,181 1682,179 1780,179 1878,179 1976,177 2074,177"/>
+                <TextEquiv>
+                    <Unicode>um den Preis von höchstens 12 Fr. zur in von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>um den Preis von höchstens 12 Fr. zur in von der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

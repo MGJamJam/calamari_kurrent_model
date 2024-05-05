@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:29.742+02:00</Created>
+        <LastChange>2020-11-10T07:50:56.988+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746461" pageNr="53" tsid="49318310" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KFRTIZAUMHKNCTQHUEFCHZGN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCLLYHOXATMGIQVDFTAFFCCK" imageId="14361641"/>
+    </Metadata>
+    <Page imageFilename="0079_page_378562_line_r1l36_docId_17246.jpg" imageWidth="1293" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953006" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1293,0 1293,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 1193,196 1193,127 1046,100 896,138 777,102 522,141 100,110"/>
+                <Baseline points="115,174 168,174 221,174 274,174 327,174 381,174 434,174 487,174 540,174 593,174 647,174 700,174 753,176 806,176 859,176 913,176 966,176 1019,176 1072,176 1125,174 1179,174"/>
+                <TextEquiv>
+                    <Unicode>Post- &amp; Telegraphengehülfe in Liquières.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Post- &amp; Telegraphengehülfe in Liquières.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:01.372+02:00</Created>
+        <LastChange>2020-08-22T11:26:56.166+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749235" pageNr="75" tsid="37763401" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PPBFYQWZFSIFZNHQLRGNKLXH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WNZPAPMSSDXWIIKNEPLDBCWN" imageId="14364411"/>
+    </Metadata>
+    <Page imageFilename="0179_page_406613_line_r2l12_docId_17277.jpg" imageWidth="2323" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425635915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2323,0 2323,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,251 1374,211 1613,271 1923,202 2075,255 2223,220 2222,109 100,172"/>
+                <Baseline points="113,222 217,220 322,218 427,216 532,214 637,212 741,210 846,210 951,208 1056,208 1161,206 1265,206 1370,204 1475,204 1580,202 1685,202 1789,200 1894,200 1999,198 2104,196 2209,194"/>
+                <TextEquiv>
+                    <Unicode>Oberbauinspektorat) &amp; aus Finanzdepartement zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Oberbauinspektorat) &amp; aus Finanzdepartement zur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

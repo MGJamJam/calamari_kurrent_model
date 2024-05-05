@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:09.481+02:00</Created>
+        <LastChange>2020-08-22T11:25:42.254+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749953" pageNr="62" tsid="37762925" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UQJZDUAUQJHDHWKIHQKCXBNG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLNMXEHHACPQBBIEHGQODFRH" imageId="14365125"/>
+    </Metadata>
+    <Page imageFilename="0094_page_2350678_line_r1l10_docId_51496.jpg" imageWidth="758" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425487551" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 758,0 758,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,240 185,215 470,220 503,244 562,214 658,213 658,165 550,166 450,121 394,170 270,169 246,145 100,103"/>
+                <Baseline points="114,211 140,211 167,211 193,211 220,211 246,211 273,211 299,211 326,211 352,211 379,211 405,211 432,209 458,209 485,209 511,209 538,207 564,207 591,207 617,206 644,205"/>
+                <TextEquiv>
+                    <Unicode>Postkommis Philippe in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Postkommis Philippe in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

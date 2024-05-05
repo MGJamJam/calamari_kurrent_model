@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:07.875+02:00</Created>
+        <LastChange>2020-08-22T11:26:32.814+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749475" pageNr="69" tsid="37763248" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OKUFTUBYTFXJTBAGTPTEXIGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CVNFPDISHYTXZIDXNYMLEEXN" imageId="14364651"/>
+    </Metadata>
+    <Page imageFilename="0150_page_424929_line_r1l24_docId_17773.jpg" imageWidth="2627" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425594930" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2627,0 2627,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 2527,219 2496,124 100,112"/>
+                <Baseline points="116,187 242,189 368,189 494,191 620,191 746,191 872,191 998,191 1124,193 1250,193 1377,193 1503,191 1629,191 1755,191 1881,191 2007,191 2133,191 2259,189 2385,189 2512,189"/>
+                <TextEquiv>
+                    <Unicode>Eingang nach dem Kanton Genf gefunden. Als Importeure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eingang nach dem Kanton Genf gefunden. Als Importeure</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

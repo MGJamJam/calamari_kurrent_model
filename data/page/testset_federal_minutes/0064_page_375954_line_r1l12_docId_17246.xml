@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:46.754+02:00</Created>
+        <LastChange>2020-11-10T07:41:46.518+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746418" pageNr="41" tsid="49318302" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UEXMABJYDRCTNJKZQVMAKFJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAZKAYBADYZDKHHXZHSJRMNP" imageId="14361598"/>
+    </Metadata>
+    <Page imageFilename="0064_page_375954_line_r1l12_docId_17246.jpg" imageWidth="2055" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425951197" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2055,0 2055,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 1955,222 1955,166 1829,134 1284,149 1163,100 1036,165 467,107 100,157"/>
+                <Baseline points="112,185 203,185 295,187 386,187 478,187 569,187 661,187 752,187 844,187 935,187 1027,187 1118,187 1210,187 1301,187 1393,189 1484,189 1576,189 1667,191 1759,191 1850,193 1942,195"/>
+                <TextEquiv>
+                    <Unicode>gemäβ Art. 125, d. 2, des Bundesgesetzes über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gemäβ Art. 125, d. 2, des Bundesgesetzes über</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

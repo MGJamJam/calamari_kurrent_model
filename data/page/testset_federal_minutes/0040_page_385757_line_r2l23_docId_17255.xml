@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:16.564+02:00</Created>
+        <LastChange>2020-11-09T17:07:46.595+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746930" pageNr="23" tsid="49318194" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DKRJTZIOQLEUTPFPMEAWNCCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRUYCBCJLGJOODZZQUJGJUAK" imageId="14362110"/>
+    </Metadata>
+    <Page imageFilename="0040_page_385757_line_r2l23_docId_17255.jpg" imageWidth="2175" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425891978" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2175,0 2175,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,260 433,194 2075,201 2060,135 1412,100 1263,161 100,138"/>
+                <Baseline points="113,194 210,192 308,192 405,190 503,190 600,190 698,188 795,188 893,188 990,188 1088,188 1185,190 1283,190 1380,190 1478,190 1575,190 1673,190 1770,188 1868,188 1965,188 2063,186 2088,185"/>
+                <TextEquiv>
+                    <Unicode>Erstellung einer neuen Landungsbrücke in Därligen und der nachheri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erstellung einer neuen Landungsbrücke in Därligen und der nachheri¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

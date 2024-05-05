@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:59.308+02:00</Created>
+        <LastChange>2020-10-12T21:25:06.865+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749530" pageNr="73" tsid="49314582" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPSKZYHCVTVVFQQDPWWCPTSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SUOUAZZSJETLCORQDAVJMPZB" imageId="14364706"/>
+    </Metadata>
+    <Page imageFilename="0164_page_412309_line_r1l4_docId_17281.jpg" imageWidth="2294" imageHeight="383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425595492" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2294,0 2294,383 0,383"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,228 1104,213 1224,283 1345,214 1779,276 2194,213 2082,108 469,177 100,114"/>
+                <Baseline points="115,213 218,211 321,209 424,207 528,205 631,205 734,205 838,205 941,205 1044,205 1148,203 1251,203 1354,203 1457,203 1561,203 1664,201 1767,200 1871,199 1974,197 2077,193 2181,191"/>
+                <TextEquiv>
+                    <Unicode>Im fernern wäre eine zweite Stüre gegen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im fernern wäre eine zweite Stüre gegen den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

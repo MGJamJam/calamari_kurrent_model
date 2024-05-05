@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:36.097+02:00</Created>
+        <LastChange>2020-08-22T11:34:01.479+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750823" pageNr="130" tsid="37765832" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UGEZJUZUSWVWNUAZCYHXMDHA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNWYFOQDEIZNDSNXQZFYZJCI" imageId="14365981"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2414940_line_r1l22_docId_51506.jpg" imageWidth="2397" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425385700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2397,0 2397,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 1650,272 2295,256 2297,172 469,161 373,100 101,155"/>
+                <Baseline points="113,188 221,188 330,190 438,192 547,194 655,196 764,198 872,200 981,202 1089,204 1198,206 1306,208 1415,210 1523,210 1632,212 1740,212 1849,214 1957,214 2066,214 2174,214 2283,214"/>
+                <TextEquiv>
+                    <Unicode>und Heimweisung einer beim französischen Fremdenregiment</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und Heimweisung einer beim französischen Fremdenregiment</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

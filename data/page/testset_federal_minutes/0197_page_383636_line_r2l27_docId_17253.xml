@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:51:24.952+02:00</Created>
+        <LastChange>2020-11-09T17:54:03.182+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747306" pageNr="99" tsid="49318254" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IKLHCOGUHHFMXLMRVYIUBBKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGJFFTLVOHSBQFZOMIQTRSON" imageId="14362486"/>
+    </Metadata>
+    <Page imageFilename="0197_page_383636_line_r2l27_docId_17253.jpg" imageWidth="2091" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425902904" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2091,0 2091,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 1991,198 1725,104 100,140"/>
+                <Baseline points="112,180 205,180 298,182 391,182 485,182 578,182 671,182 765,182 858,182 951,182 1045,182 1138,180 1231,180 1324,180 1418,180 1511,180 1604,180 1698,180 1791,180 1884,182 1978,182"/>
+                <TextEquiv>
+                    <Unicode>fertigen Form unbestreitbar eine Zinnware schlechthin, indem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fertigen Form unbestreitbar eine Zinnware schlechthin, indem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

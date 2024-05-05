@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:39.621+02:00</Created>
+        <LastChange>2020-08-22T11:24:08.416+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749444" pageNr="39" tsid="37762347" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IXVZSKLZVBVYAPSOIFSODMRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRNVBFXLEKDCLXWDVGKDYKYY" imageId="14364620"/>
+    </Metadata>
+    <Page imageFilename="0049_page_2306407_line_r1l18_docId_51012.jpg" imageWidth="2369" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425542741" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2369,0 2369,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 2204,203 2269,120 101,110"/>
+                <Baseline points="115,167 222,167 329,167 436,167 543,167 650,167 757,169 864,169 971,169 1078,169 1185,171 1292,171 1399,171 1506,173 1613,173 1720,173 1827,175 1934,175 2041,175 2148,175 2255,175"/>
+                <TextEquiv>
+                    <Unicode>daß eine sorgfältige Prüfung dieses Gegenstandes, ehe derselbe an die Bun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>daß eine sorgfältige Prüfung dieses Gegenstandes, ehe derselbe an die Bun¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

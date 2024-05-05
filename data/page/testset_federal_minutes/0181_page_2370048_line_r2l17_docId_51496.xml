@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:17.725+02:00</Created>
+        <LastChange>2020-08-22T11:28:02.657+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750197" pageNr="115" tsid="37763949" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SVCPNMQGXJLKGVTVACUNJYBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKBBBFBUZYHKORLPRXZOHSXF" imageId="14365369"/>
+    </Metadata>
+    <Page imageFilename="0181_page_2370048_line_r2l17_docId_51496.jpg" imageWidth="2377" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425494856" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2377,0 2377,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 2277,213 2277,112 101,132"/>
+                <Baseline points="115,175 222,175 329,177 437,179 544,179 652,179 759,181 866,181 974,181 1081,183 1189,183 1296,183 1403,183 1511,183 1618,185 1726,185 1833,185 1940,187 2048,188 2155,189 2263,191"/>
+                <TextEquiv>
+                    <Unicode>14. dieß die ihm bewilligte Nachbesoldung von fr. 475 und bestätigt zugleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14. dieß die ihm bewilligte Nachbesoldung von fr. 475 und bestätigt zugleich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

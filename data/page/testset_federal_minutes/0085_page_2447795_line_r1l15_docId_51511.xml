@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:31.087+02:00</Created>
+        <LastChange>2020-08-22T11:31:08.375+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750582" pageNr="64" tsid="49309404" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RXGXFUYXOXCCJYFFJVUNAYHH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RULXLLDHSRRAKERGCSVEKHQU" imageId="14365740"/>
+    </Metadata>
+    <Page imageFilename="0085_page_2447795_line_r1l15_docId_51511.jpg" imageWidth="2312" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425312841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2312,0 2312,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 1980,204 2212,179 2212,127 100,131"/>
+                <Baseline points="113,172 217,172 321,170 425,170 530,170 634,170 738,168 843,168 947,168 1051,168 1156,168 1260,168 1364,168 1468,168 1573,168 1677,168 1781,168 1886,168 1990,168 2094,168 2199,168"/>
+                <TextEquiv>
+                    <Unicode>derjährigen Sohne von in der Schweiz naturalisirten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>derjährigen Sohne von in der Schweiz naturalisirten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:08:58.482+02:00</Created>
+        <LastChange>2020-11-16T10:16:43.330+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744973" pageNr="49" tsid="49318928" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZAFTQAGSSMFDIJFTKHOMTSBS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILATPKTBKLZAJXJOSGQQFWJJ" imageId="14360364"/>
+    </Metadata>
+    <Page imageFilename="0089_page_372769_line_r1l20_docId_17242.jpg" imageWidth="1993" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426244899" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1993,0 1993,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 805,187 1017,240 1123,184 1466,228 1893,187 1741,117 100,139"/>
+                <Baseline points="113,183 201,181 289,181 378,181 466,181 555,181 643,181 731,180 820,180 908,180 997,180 1085,180 1173,180 1262,180 1350,180 1439,181 1527,181 1615,181 1704,181 1792,181 1881,181"/>
+                <TextEquiv>
+                    <Unicode>10000fr. beträgt. Ob Personen beherbergt werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10000fr. beträgt. Ob Personen beherbergt werden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:38.210+02:00</Created>
+        <LastChange>2020-11-16T16:09:07.880+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744990" pageNr="97" tsid="49319117" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VXVJOAGUDMJTFQLEVUFJEBWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYMDGZRARYDCQNNRQISHNFMD" imageId="14360381"/>
+    </Metadata>
+    <Page imageFilename="0151_page_313570_line_r1l32_docId_13793.jpg" imageWidth="2003" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426304189" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2003,0 2003,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,238 564,202 662,260 1389,187 1683,246 1903,212 1903,166 1273,100 936,174 100,135"/>
+                <Baseline points="114,206 202,204 291,204 380,204 469,202 558,202 647,200 736,199 825,198 914,196 1003,196 1091,194 1180,194 1269,192 1358,192 1447,192 1536,192 1625,192 1714,192 1803,192 1892,194"/>
+                <TextEquiv>
+                    <Unicode>schlagung der Geisteskranken und der verlassenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schlagung der Geisteskranken und der verlassenen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

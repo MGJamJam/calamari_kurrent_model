@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:03:23.691+02:00</Created>
+        <LastChange>2020-11-09T08:47:41.515+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747847" pageNr="86" tsid="49318142" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VWDALYNAUVBJLNCTQYBPQKMC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLBBOXWDLXADNITJHACOEETT" imageId="14363027"/>
+    </Metadata>
+    <Page imageFilename="0180_page_386645_line_r1l20_docId_17258.jpg" imageWidth="2003" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425855987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2003,0 2003,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 959,200 1018,259 1194,207 1302,268 1400,211 1826,228 1903,140 1369,103 980,169 701,100 100,158"/>
+                <Baseline points="113,203 201,201 290,199 379,199 468,197 557,197 646,197 735,197 824,197 913,197 1002,197 1090,197 1179,197 1268,197 1357,197 1446,196 1535,195 1624,195 1713,195 1802,195 1891,193"/>
+                <TextEquiv>
+                    <Unicode>auf einen Irrtum zurückzuführen sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf einen Irrtum zurückzuführen sei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

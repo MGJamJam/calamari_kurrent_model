@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:58.889+02:00</Created>
+        <LastChange>2020-11-12T08:01:36.631+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746875" pageNr="115" tsid="49318511" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WHMQARXBVZIYZWXKHYBVCXYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJJKHJITDUHJSHGQEJHLREBK" imageId="14362055"/>
+    </Metadata>
+    <Page imageFilename="0200_page_367198_line_r1l10_docId_17236.jpg" imageWidth="1981" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426014256" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1981,0 1981,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 592,191 698,237 963,182 1142,237 1847,197 1881,130 793,148 665,100 555,157 100,106"/>
+                <Baseline points="112,193 199,191 287,189 375,187 463,185 551,185 639,183 727,183 815,183 903,181 991,181 1078,181 1166,181 1254,181 1342,181 1430,181 1518,181 1606,181 1694,181 1782,181 1870,179"/>
+                <TextEquiv>
+                    <Unicode>Es wird dem Petenten geantwortet, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es wird dem Petenten geantwortet, wenn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

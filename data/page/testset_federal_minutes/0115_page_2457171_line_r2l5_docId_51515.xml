@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:25.187+02:00</Created>
+        <LastChange>2020-09-28T09:51:13.722+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519080" pageNr="85" tsid="49307557" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AGQCRSYHICLWOOOWFGKWPVNW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NIDVLYJRQSBPUHFSCJRYMXLH" imageId="15086013"/>
+    </Metadata>
+    <Page imageFilename="0115_page_2457171_line_r2l5_docId_51515.jpg" imageWidth="1555" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425248279" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1555,0 1555,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 525,253 607,218 650,262 727,224 1455,234 1420,174 455,167 406,118 294,147 248,100 100,169 100,221"/>
+                <Baseline points="114,217 180,215 246,213 313,213 379,211 446,213 512,213 578,213 645,215 711,217 778,218 844,219 910,221 977,221 1043,223 1110,223 1176,223 1242,223 1309,223 1375,221 1442,219"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="122,172 122,232 532,232 532,172"/>
+                    <TextEquiv>
+                        <Unicode>Praevidium,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="555,176 555,236 832,236 832,176"/>
+                    <TextEquiv>
+                        <Unicode>Mitglieder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="865,179 865,239 876,239 876,179"/>
+                    <TextEquiv>
+                        <Unicode>u</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="921,183 921,243 1176,243 1176,183"/>
+                    <TextEquiv>
+                        <Unicode>Aktuariat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1208,183 1208,243 1265,243 1265,183"/>
+                    <TextEquiv>
+                        <Unicode>et</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1286,181 1286,241 1452,241 1452,181"/>
+                    <TextEquiv>
+                        <Unicode>ante.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Praesidium, Mitglieder u Aktuariat et ante.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Praesidium, Mitglieder u Aktuariat et ante.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

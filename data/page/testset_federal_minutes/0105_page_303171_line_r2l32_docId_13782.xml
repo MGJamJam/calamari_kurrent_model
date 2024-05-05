@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:16.946+02:00</Created>
+        <LastChange>2020-11-18T17:10:35.554+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744471" pageNr="70" tsid="49319348" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NJRBUOHVIZOLZNBQVBLTCJDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUSIQAMGYSTQWCZUNWLDRFGI" imageId="14359862"/>
+    </Metadata>
+    <Page imageFilename="0105_page_303171_line_r2l32_docId_13782.jpg" imageWidth="2224" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426418001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2224,0 2224,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 2124,243 2088,103 1879,158 1772,100 1407,165 1183,110 972,165 100,144"/>
+                <Baseline points="113,194 212,194 312,194 412,194 512,194 612,194 712,192 812,192 912,191 1012,190 1112,190 1211,188 1311,188 1411,188 1511,188 1611,186 1711,186 1811,186 1911,186 2011,188 2111,188 2139,191"/>
+                <TextEquiv>
+                    <Unicode>tragsgemäß abgewiesen, weil Petent die in Art. 2, Ziff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tragsgemäß abgewiesen, weil Petent die in Art. 2, Ziff.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

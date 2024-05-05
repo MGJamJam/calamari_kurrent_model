@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:17.512+02:00</Created>
+        <LastChange>2020-08-22T07:36:04.335+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745556" pageNr="93" tsid="37715309" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PCLQZLXGEKLWLHFVDXDCLVII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JNMNWAIHQYDMZBKNXPNSWEVE" imageId="14360736"/>
+    </Metadata>
+    <Page imageFilename="0106_page_2263329_line_r1l10_docId_51004.jpg" imageWidth="2324" imageHeight="311">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426195883" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,311 0,311"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 2223,210 2224,116 100,122"/>
+                <Baseline points="114,165 218,165 323,165 428,165 533,165 638,165 742,165 847,165 952,165 1057,165 1162,165 1266,167 1371,167 1476,167 1581,169 1686,169 1790,171 1895,173 2000,173 2105,175 2210,175"/>
+                <TextEquiv>
+                    <Unicode>Petition des Lehrers Rossier von Miris betr. Wiederlassungsrecht wird auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Petition des Lehrers Rossier von Miris betr. Wiederlassungsrecht wird auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

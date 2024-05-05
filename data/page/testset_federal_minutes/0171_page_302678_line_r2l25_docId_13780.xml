@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:51.045+02:00</Created>
+        <LastChange>2020-11-18T18:06:10.987+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744571" pageNr="108" tsid="49319382" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WSROQPEMYGJNFQKRIYKXSRDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQWVSVOXMCJMDQUTVACOQWYX" imageId="14359962"/>
+    </Metadata>
+    <Page imageFilename="0171_page_302678_line_r2l25_docId_13780.jpg" imageWidth="2108" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426423283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2108,0 2108,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 952,257 1117,194 1506,245 1746,186 1906,245 2008,146 428,100 100,163"/>
+                <Baseline points="112,185 206,185 300,183 394,183 488,182 583,181 677,181 771,181 865,181 959,181 1054,181 1148,181 1242,181 1336,181 1430,181 1525,181 1619,183 1713,183 1807,183 1901,185 1996,185"/>
+                <TextEquiv>
+                    <Unicode>um Wiederanstellung wird gemäß Antrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>um Wiederanstellung wird gemäß Antrag</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

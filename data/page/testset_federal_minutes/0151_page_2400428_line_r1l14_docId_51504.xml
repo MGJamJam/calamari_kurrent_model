@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:33.728+02:00</Created>
+        <LastChange>2020-08-22T11:27:39.929+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750231" pageNr="96" tsid="37763756" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XLNUNHELJJHPHZOFZHHAAGDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHAHTGATFMLWXHSGQWKXEEHV" imageId="14365389"/>
+    </Metadata>
+    <Page imageFilename="0151_page_2400428_line_r1l14_docId_51504.jpg" imageWidth="2131" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425438025" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2131,0 2131,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 1621,236 2031,211 2031,143 1881,162 1814,100 1738,163 100,169"/>
+                <Baseline points="114,204 209,204 304,204 399,202 494,202 589,202 684,202 779,202 874,202 969,202 1065,202 1160,202 1255,200 1350,200 1445,200 1540,200 1635,200 1730,200 1825,200 1920,200 2016,202"/>
+                <TextEquiv>
+                    <Unicode>Mit Noten vom 30. Oktober und 29. November</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Noten vom 30. Oktober und 29. November</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

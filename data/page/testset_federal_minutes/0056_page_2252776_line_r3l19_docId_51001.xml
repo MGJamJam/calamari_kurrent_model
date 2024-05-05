@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:30.768+02:00</Created>
+        <LastChange>2020-11-16T07:36:13.348+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745437" pageNr="49" tsid="49318783" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KOSOYSYHEUTKXLXSSYIGNREG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJPNNVBVGEHJSYVHUOHWBHEP" imageId="14360621"/>
+    </Metadata>
+    <Page imageFilename="0056_page_2252776_line_r3l19_docId_51001.jpg" imageWidth="2385" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426189767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2385,0 2385,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,231 2285,213 2285,153 1776,100 100,137"/>
+                <Baseline points="115,192 222,192 330,192 438,192 546,192 654,192 761,192 869,190 977,190 1085,188 1193,188 1300,188 1408,186 1516,186 1624,186 1732,186 1839,188 1947,188 2055,190 2163,192 2271,194 2305,194"/>
+                <TextEquiv>
+                    <Unicode>Jahres stattfinden können, wenn beide Rechnungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jahres stattfinden können, wenn beide Rechnungen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

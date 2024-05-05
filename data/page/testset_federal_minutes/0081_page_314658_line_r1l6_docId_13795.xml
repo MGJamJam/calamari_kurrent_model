@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:47.481+02:00</Created>
+        <LastChange>2020-11-16T14:29:32.362+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744791" pageNr="54" tsid="49319065" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PFNTKYMNHXPBNQOMEZOGWDCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSNGJAEHQKJHZELJWMWKHGAW" imageId="14360182"/>
+    </Metadata>
+    <Page imageFilename="0081_page_314658_line_r1l6_docId_13795.jpg" imageWidth="1406" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426298157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1406,0 1406,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 481,198 592,236 776,193 968,237 1070,193 1246,229 1305,202 1306,138 1217,115 1073,168 878,100 625,157 101,126"/>
+                <Baseline points="114,181 172,183 231,183 290,185 349,185 408,187 467,187 526,187 585,189 644,189 703,189 761,190 820,191 879,191 938,191 997,191 1056,191 1115,191 1174,191 1233,189 1292,189"/>
+                <TextEquiv>
+                    <Unicode>können, noch vorher grüsen worde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>können, noch vorher grüsen worde</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

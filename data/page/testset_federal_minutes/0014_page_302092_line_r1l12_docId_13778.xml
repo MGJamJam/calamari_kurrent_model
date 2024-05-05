@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:18.563+02:00</Created>
+        <LastChange>2020-08-21T22:01:23.730+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744332" pageNr="8" tsid="37654975" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JZVATQDWANLIPWENHGNTFGHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGFIXBBYCKEEPAWXILKDIPKN" imageId="14359727"/>
+    </Metadata>
+    <Page imageFilename="0014_page_302092_line_r1l12_docId_13778.jpg" imageWidth="2211" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426409162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2211,0 2211,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,261 1295,205 2110,276 2111,148 1988,134 101,145"/>
+                <Baseline points="113,195 212,195 311,197 410,197 509,197 609,197 708,199 807,199 906,199 1005,199 1105,199 1204,201 1303,201 1402,201 1501,201 1601,201 1700,201 1799,201 1898,199 1997,199 2097,199"/>
+                <TextEquiv>
+                    <Unicode>lichen Berichte niedergelegt. Hienach hatte der Gesante den Auftrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lichen Berichte niedergelegt. Hienach hatte der Gesante den Auftrag</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

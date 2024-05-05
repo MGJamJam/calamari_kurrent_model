@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:03.639+02:00</Created>
+        <LastChange>2020-10-06T07:13:14.127+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750390" pageNr="26" tsid="49310620" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AHYVJBNFIPKIDGQAACEFZLOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WVQBLVUUMBRWNQBEIQTZJHFM" imageId="14365548"/>
+    </Metadata>
+    <Page imageFilename="0036_page_2424810_line_r2l39_docId_51509.jpg" imageWidth="2335" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425371150" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2335,0 2335,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,243 2235,195 2005,110 100,154"/>
+                <Baseline points="114,205 219,203 324,203 430,201 535,201 641,199 746,199 851,197 957,197 1062,195 1168,195 1273,193 1378,193 1484,191 1589,191 1695,189 1800,189 1905,187 2011,187 2116,185 2238,183"/>
+                <TextEquiv>
+                    <Unicode>2, Kenntnisgabe und Rücksendung der Akten an die Regierung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2, Kenntnisgabe und Rücksendung der Akten an die Regierung von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

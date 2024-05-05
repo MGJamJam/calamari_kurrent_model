@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:05.097+02:00</Created>
+        <LastChange>2020-09-21T16:13:04.678+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750861" pageNr="142" tsid="49309855" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SVBDPQELMIYRISGAUPENMMUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VOMFLTTMBPJNNSBESMRSTEYD" imageId="14366019"/>
+    </Metadata>
+    <Page imageFilename="0196_page_2449004_line_r2l10_docId_51513.jpg" imageWidth="756" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425323785" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 756,0 756,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="95,203 198,197 236,173 264,189 381,183 439,237 444,210 567,211 692,187 689,118 617,142 583,109 528,134 397,140 342,100 310,135 262,108 205,147 93,139"/>
+                <Baseline points="114,188 140,186 166,183 193,181 219,180 246,178 272,176 298,176 325,174 351,174 378,173 404,172 430,172 457,171 483,170 510,170 536,170 562,170 589,170 615,170 685,168"/>
+                <TextEquiv>
+                    <Unicode>der Telegraphen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Telegraphen¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

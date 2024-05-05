@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:46:13.945+02:00</Created>
+        <LastChange>2020-08-22T11:17:54.917+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747068" pageNr="54" tsid="37760138" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZEEIWICEZLAPXXFPSZQBVCJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAQODXQDOGSHZANEKEVYMCJI" imageId="14362248"/>
+    </Metadata>
+    <Page imageFilename="0099_page_381479_line_r1l7_docId_17252.jpg" imageWidth="2044" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425896267" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2044,0 2044,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,235 631,197 810,254 1100,201 1395,261 1463,206 1859,216 1944,161 1795,100 1380,164 100,138"/>
+                <Baseline points="112,198 203,198 294,198 385,198 476,198 567,198 658,198 749,196 840,196 931,196 1022,195 1113,195 1204,193 1295,193 1386,192 1477,192 1568,192 1659,190 1750,190 1841,190 1933,190"/>
+                <TextEquiv>
+                    <Unicode>departement es nicht für angezeigt, das Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>departement es nicht für angezeigt, das Ver¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

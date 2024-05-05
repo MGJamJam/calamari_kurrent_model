@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:44.949+02:00</Created>
+        <LastChange>2020-11-15T17:54:24.660+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746006" pageNr="67" tsid="49318558" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FXADXPJUNPSAACFMUBSQWOIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLACDOYMLIQWACRMPKDWMDOT" imageId="14361186"/>
+    </Metadata>
+    <Page imageFilename="0102_page_2265357_line_r2l16_docId_51006.jpg" imageWidth="2379" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426064537" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2379,0 2379,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,192 2279,179 2153,108 100,131"/>
+                <Baseline points="114,184 221,182 329,182 436,182 544,182 651,180 759,180 866,180 974,178 1081,178 1189,176 1296,176 1404,174 1511,174 1619,172 1726,172 1834,170 1941,168 2049,168 2156,166 2264,166"/>
+                <TextEquiv>
+                    <Unicode>(indem sie gleichzeitig die Konzessionsgesuche des dortigen Ausschusses¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(indem sie gleichzeitig die Konzessionsgesuche des dortigen Ausschusses¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

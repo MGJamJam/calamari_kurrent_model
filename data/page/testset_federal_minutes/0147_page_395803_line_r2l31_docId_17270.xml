@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:19:37.299+02:00</Created>
+        <LastChange>2020-08-22T11:25:39.863+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748460" pageNr="142" tsid="37762912" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SWBDMAIRWKSAFSRUYEGLJIZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONTRVLKIKJLDKPRBGBTQZKIQ" imageId="14363640"/>
+    </Metadata>
+    <Page imageFilename="0147_page_395803_line_r2l31_docId_17270.jpg" imageWidth="2372" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425724443" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2372,0 2372,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 2100,251 2272,228 2272,145 100,153"/>
+                <Baseline points="114,188 221,188 328,190 435,190 542,190 650,190 757,190 864,190 971,190 1078,190 1186,190 1293,190 1400,190 1507,192 1614,192 1722,192 1829,192 1936,192 2043,194 2150,194 2258,194"/>
+                <TextEquiv>
+                    <Unicode>rüstung der berittenen Maseingewehrkompagnien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rüstung der berittenen Maseingewehrkompagnien</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

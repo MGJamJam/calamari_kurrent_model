@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:57:50.481+02:00</Created>
+        <LastChange>2020-08-22T11:18:14.590+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747615" pageNr="33" tsid="37760311" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WWYULAMNJMGJYAGWYYQQWRUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKOGGRRFYCDGJIUMKZVYYXYH" imageId="14362795"/>
+    </Metadata>
+    <Page imageFilename="0092_page_406063_line_r1l15_docId_17278.jpg" imageWidth="2437" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803298" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2437,0 2437,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 1939,255 2337,216 2337,102 100,114"/>
+                <Baseline points="118,199 228,197 338,195 448,194 558,193 668,191 778,191 888,191 998,190 1108,189 1219,189 1329,189 1439,189 1549,189 1659,189 1769,189 1879,189 1989,189 2099,187 2209,187 2320,185"/>
+                <TextEquiv>
+                    <Unicode>dessen strafrechtliche Verfolgung wegen in Pforzheim be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dessen strafrechtliche Verfolgung wegen in Pforzheim be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

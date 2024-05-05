@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:25.565+02:00</Created>
+        <LastChange>2020-10-06T10:45:57.747+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750220" pageNr="93" tsid="49311793" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KFTTRGJKINSXJBPHFSACLKZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYOFPHUCJEEMAFQEMDIECKEL" imageId="14365378"/>
+    </Metadata>
+    <Page imageFilename="0147_page_2404464_line_r2l30_docId_51504.jpg" imageWidth="2403" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425437537" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2403,0 2403,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 2017,188 2149,248 2303,193 1635,100 100,152"/>
+                <Baseline points="113,182 221,182 330,182 439,182 548,182 657,182 765,182 874,182 983,182 1092,180 1201,180 1309,180 1418,180 1527,180 1636,180 1745,180 1853,180 1962,182 2071,182 2180,184 2289,186"/>
+                <TextEquiv>
+                    <Unicode>den können, weil gegen Franz Villa ein schwurge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den können, weil gegen Franz Villa ein schwurge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

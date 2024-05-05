@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:21.276+02:00</Created>
+        <LastChange>2020-08-21T22:11:59.594+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744386" pageNr="13" tsid="37656705" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GKPLTYKAPGSBTMTPMPPXLCJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKRJXGDIOQYXMDLRPOMUDCJD" imageId="14359781"/>
+    </Metadata>
+    <Page imageFilename="0017_page_308347_line_r1l4_docId_13788.jpg" imageWidth="589" imageHeight="324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426350089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 589,0 589,324 0,324"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,195 162,173 183,186 219,175 260,200 301,194 346,220 394,224 440,180 489,174 488,112 460,102 419,121 339,101 293,120 267,100 187,134 100,115"/>
+                <Baseline points="113,168 139,166 165,166 191,165 217,164 243,164 269,164 295,164 321,164 347,164 373,164 399,162 425,162 451,162 477,160"/>
+                <TextEquiv>
+                    <Unicode>wiederholt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wiederholt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

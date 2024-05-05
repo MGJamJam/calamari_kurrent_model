@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:20.531+02:00</Created>
+        <LastChange>2020-10-08T08:50:19.275+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750044" pageNr="81" tsid="49312432" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QCRXWKXNGDDUMEDNNJCNWJKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUOBXXKKNTWWRWHWZAKYIETE" imageId="14365216"/>
+    </Metadata>
+    <Page imageFilename="0127_page_2356905_line_r1l11_docId_51496.jpg" imageWidth="791" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425490123" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 791,0 791,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,249 224,186 691,195 689,107 607,112 547,143 499,100 457,145 388,127 292,152 250,117 185,118 100,158"/>
+                <Baseline points="115,187 143,184 171,183 199,181 227,181 255,179 283,179 311,179 339,179 367,177 396,177 424,177 452,177 480,177 508,176 536,175 564,175 592,173 620,173 648,172 677,169"/>
+                <TextEquiv>
+                    <Unicode>Information über Heinr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Information über Heinr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

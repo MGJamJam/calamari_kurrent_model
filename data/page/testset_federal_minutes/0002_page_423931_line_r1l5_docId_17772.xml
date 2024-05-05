@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:33:49.682+02:00</Created>
+        <LastChange>2020-10-12T20:25:38.033+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749015" pageNr="2" tsid="49314305" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KHLJUXFSRNNYNJEDVEYDRMWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCARUHQCCNAWPLFIDLBRHGTI" imageId="14364191"/>
+    </Metadata>
+    <Page imageFilename="0002_page_423931_line_r1l5_docId_17772.jpg" imageWidth="2489" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425585455" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2489,0 2489,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,258 1710,269 2256,233 2389,148 100,136"/>
+                <Baseline points="115,218 228,217 341,215 454,214 567,212 680,211 793,211 906,209 1019,208 1132,208 1245,206 1358,206 1471,205 1584,205 1697,203 1810,203 1923,203 2036,202 2149,202 2262,202 2409,205"/>
+                <TextEquiv>
+                    <Unicode>seit 1891 Arbeiter der eidgen. Wassenfabrik in Bern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>seit 1891 Arbeiter der eidgen. Wassenfabrik in Bern.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

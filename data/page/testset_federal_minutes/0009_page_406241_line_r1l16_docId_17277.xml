@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:52:45.774+02:00</Created>
+        <LastChange>2020-11-02T19:10:02.993+01:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747356" pageNr="3" tsid="49317926" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XWECRHCENWWRWWYITVFPJFHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQOHFBVYXZNIXMKLIWGMDGTO" imageId="14362536"/>
+    </Metadata>
+    <Page imageFilename="0009_page_406241_line_r1l16_docId_17277.jpg" imageWidth="2328" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425799039" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2115,265 2228,233 2228,123 100,143"/>
+                <Baseline points="115,198 220,198 325,198 430,198 535,200 640,200 745,200 850,200 955,200 1060,202 1165,202 1270,202 1375,202 1480,202 1585,202 1690,202 1795,202 1900,202 2005,202 2110,202 2215,200"/>
+                <TextEquiv>
+                    <Unicode>des Beklagten aus der Firma Ernst Rufenacht &amp; in gerecht¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Beklagten aus der Firma Ernst Rufenacht &amp; in gerecht¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:24:47.633+02:00</Created>
+        <LastChange>2020-10-27T09:13:14.874+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748650" pageNr="75" tsid="49304232" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GTASTZWEUOSJLYVSNGKRUUNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLSRSNGPJMYSAQYHYIJQSPOX" imageId="14363830"/>
+    </Metadata>
+    <Page imageFilename="0138_page_390956_line_r2l19_docId_17264.jpg" imageWidth="2426" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425771596" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2426,0 2426,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1348,266 2266,244 2326,155 101,122"/>
+                <Baseline points="115,184 224,188 334,192 444,194 554,196 664,198 773,200 883,200 993,202 1103,202 1213,204 1322,204 1432,206 1542,206 1652,208 1762,208 1871,210 1981,212 2091,214 2201,216 2311,220"/>
+                <TextEquiv>
+                    <Unicode>Kupferstichsammlung eigentümlich zugewendet. Schon im Jahre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kupferstichsammlung eigentümlich zugewendet. Schon im Jahre</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

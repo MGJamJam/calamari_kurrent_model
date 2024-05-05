@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:43.250+02:00</Created>
+        <LastChange>2020-08-22T11:18:54.364+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748427" pageNr="49" tsid="37760628" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HTRAVBVTJTTANQTEGLLXBJAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCSYWJPIFHKRANMYOYFPCIRW" imageId="14363607"/>
+    </Metadata>
+    <Page imageFilename="0092_page_392771_line_r2l27_docId_17264.jpg" imageWidth="2345" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425767874" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2345,0 2345,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,251 1875,207 2073,276 2245,234 2244,107 2045,171 1783,119 1529,177 1429,107 1335,173 637,110 100,176"/>
+                <Baseline points="114,218 219,216 325,215 431,214 537,212 643,212 749,212 855,210 961,210 1067,210 1173,210 1278,208 1384,208 1490,208 1596,208 1702,206 1808,206 1914,204 2020,204 2126,202 2232,200"/>
+                <TextEquiv>
+                    <Unicode>rität zu bestimmen und Kommissionen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rität zu bestimmen und Kommissionen zu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

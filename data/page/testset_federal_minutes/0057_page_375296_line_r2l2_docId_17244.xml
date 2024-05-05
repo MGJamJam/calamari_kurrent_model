@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:06.216+02:00</Created>
+        <LastChange>2020-08-22T07:34:17.968+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744919" pageNr="32" tsid="37714983" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ETXQBFHVJFXCIODHVOANGRVX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIQPKMCVRSVAALESNKXGFDJW" imageId="14360310"/>
+    </Metadata>
+    <Page imageFilename="0057_page_375296_line_r2l2_docId_17244.jpg" imageWidth="2107" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426242632" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2107,0 2107,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 1933,226 2007,128 100,123"/>
+                <Baseline points="113,186 207,184 301,184 395,184 489,184 583,184 677,182 771,182 865,182 959,182 1053,182 1147,182 1241,182 1335,182 1429,182 1523,184 1617,186 1711,188 1805,191 1899,194 1993,198"/>
+                <TextEquiv>
+                    <Unicode>für das Jahr 1894 einer Revision unterstellt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für das Jahr 1894 einer Revision unterstellt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

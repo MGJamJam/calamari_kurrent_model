@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:32.112+02:00</Created>
+        <LastChange>2020-08-22T11:23:41.135+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744337" pageNr="10" tsid="37762179" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MZTLJZKLRJSCRTOLCGSREXXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTFAOKZKRKILPVKPSMWZMYRE" imageId="14359732"/>
+    </Metadata>
+    <Page imageFilename="0018_page_303931_line_r1l7_docId_13780.jpg" imageWidth="2182" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426409421" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2182,0 2182,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 2082,212 2018,120 101,143"/>
+                <Baseline points="114,193 211,193 309,191 407,191 504,191 602,191 700,191 797,193 895,193 993,195 1091,195 1188,197 1286,197 1384,197 1481,199 1579,199 1677,199 1774,199 1872,199 1970,199 2068,197"/>
+                <TextEquiv>
+                    <Unicode>schaft falle. Angesichts dieser Bestimmung sei offenbar das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schaft falle. Angesichts dieser Bestimmung sei offenbar das</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

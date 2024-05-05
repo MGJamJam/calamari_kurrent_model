@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:47.515+02:00</Created>
+        <LastChange>2020-08-22T11:15:51.084+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746360" pageNr="28" tsid="37759213" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PKXAEISXFIZQEBBENWZQIDVB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLSGSHHBNIWCGIOXWVSSLNMO" imageId="14361540"/>
+    </Metadata>
+    <Page imageFilename="0044_page_379287_line_r2l8_docId_17250.jpg" imageWidth="2105" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425949342" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2105,0 2105,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 2005,187 2004,120 1877,106 100,147"/>
+                <Baseline points="112,177 206,177 300,177 394,177 488,177 582,177 676,177 770,175 864,175 958,175 1052,175 1146,173 1240,173 1334,173 1428,173 1522,173 1616,171 1710,171 1804,171 1898,171 1992,171"/>
+                <TextEquiv>
+                    <Unicode>großen Schwierigkeiten zu kämpfen hat, und daß ihr Fort¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>großen Schwierigkeiten zu kämpfen hat, und daß ihr Fort¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

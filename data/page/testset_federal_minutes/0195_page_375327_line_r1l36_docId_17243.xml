@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:59.452+02:00</Created>
+        <LastChange>2020-11-16T10:54:06.279+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745344" pageNr="106" tsid="49319006" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JTJVOHATRFNUNHNONUZXZFDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRVRTQCXIYWOBOFWSPSKHXKK" imageId="14360528"/>
+    </Metadata>
+    <Page imageFilename="0195_page_375327_line_r1l36_docId_17243.jpg" imageWidth="1860" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252853" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1860,0 1860,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 1760,205 1565,126 269,162 100,103"/>
+                <Baseline points="112,183 193,185 275,185 357,187 439,187 521,187 602,187 684,187 766,187 848,187 930,187 1011,187 1093,187 1175,187 1257,187 1339,189 1420,189 1502,191 1584,192 1666,193 1748,197"/>
+                <TextEquiv>
+                    <Unicode>Finanzdepartement zur Kenntnisnahme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Finanzdepartement zur Kenntnisnahme.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

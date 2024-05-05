@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:07.443+02:00</Created>
+        <LastChange>2020-10-12T20:27:22.141+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749031" pageNr="5" tsid="49314314" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LVCMKKGSFKZKNVZHZMKURNII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLYDBFSGRBBWOTYSKTSMOGHK" imageId="14364207"/>
+    </Metadata>
+    <Page imageFilename="0007_page_412284_line_r1l20_docId_17281.jpg" imageWidth="2351" imageHeight="383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425585862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2351,0 2351,383 0,383"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 462,283 567,215 1255,209 1464,270 1523,210 2235,221 2251,126 961,114 699,179 313,100 100,178"/>
+                <Baseline points="114,214 220,211 326,210 432,208 538,206 645,206 751,204 857,204 963,202 1069,202 1176,202 1282,202 1388,202 1494,200 1600,200 1707,200 1813,198 1919,198 2025,196 2131,195 2238,194"/>
+                <TextEquiv>
+                    <Unicode>auf Beibehaltung dieser Frage beharren würde, der¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf Beibehaltung dieser Frage beharren würde, der¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

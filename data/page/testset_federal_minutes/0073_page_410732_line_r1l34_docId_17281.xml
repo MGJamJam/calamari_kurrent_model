@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:51.091+02:00</Created>
+        <LastChange>2020-08-22T11:24:15.114+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749226" pageNr="37" tsid="37762394" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MEBESYSWVQVCCTQPRNNLUYSV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWKTOQWLYBANQGBJGKCRLJHJ" imageId="14364402"/>
+    </Metadata>
+    <Page imageFilename="0073_page_410732_line_r1l34_docId_17281.jpg" imageWidth="2374" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425590438" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2374,0 2374,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 328,285 530,220 1158,280 2274,210 2102,119 1941,165 1714,105 1512,164 1193,100 1047,170 930,104 100,159"/>
+                <Baseline points="115,204 222,206 329,206 436,206 544,206 651,206 758,204 866,204 973,204 1080,202 1188,202 1295,200 1402,200 1509,199 1617,198 1724,198 1831,196 1939,196 2046,196 2153,196 2261,196"/>
+                <TextEquiv>
+                    <Unicode>bung eines Bauplatzes für den spätern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bung eines Bauplatzes für den spätern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:40.271+02:00</Created>
+        <LastChange>2020-08-22T11:26:52.742+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750070" pageNr="88" tsid="37763376" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HSEBLTWJYRISXKZBQUCDNUFX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILBNPCDDTSOKUQAOPNOXPJEF" imageId="14365242"/>
+    </Metadata>
+    <Page imageFilename="0136_page_2368000_line_r2l13_docId_51496.jpg" imageWidth="621" imageHeight="303">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425491085" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 621,0 621,303 0,303"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,179 216,171 255,203 287,186 359,195 413,162 461,169 480,188 521,184 519,114 500,109 458,134 406,108 372,128 312,132 274,100 240,133 153,108 100,138"/>
+                <Baseline points="114,164 140,164 166,163 192,162 218,162 244,160 270,159 296,158 323,158 349,157 375,156 401,156 427,156 453,158 479,158 506,160"/>
+                <TextEquiv>
+                    <Unicode>Staatsverband.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Staatsverband.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:03.525+02:00</Created>
+        <LastChange>2020-10-06T14:10:25.461+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750328" pageNr="124" tsid="49311913" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HAFUSAXPMMCKTVQRAYHNPXUD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IIHDKLXYKPFUVAGYMMFZANKQ" imageId="14365486"/>
+    </Metadata>
+    <Page imageFilename="0196_page_2372410_line_r4l8_docId_51501.jpg" imageWidth="777" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425442016" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 777,0 777,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,244 306,238 393,269 536,235 621,255 675,244 677,132 566,191 449,171 364,195 239,100 164,154 101,170"/>
+                <Baseline points="114,232 141,231 168,230 196,230 223,230 251,229 278,228 305,228 333,229 360,230 388,230 415,230 442,230 470,230 497,232 525,232 552,233 579,234 607,234 634,235 662,236 685,236"/>
+                <TextEquiv>
+                    <Unicode>Berlin, Gesandtsch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin, Gesandtsch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

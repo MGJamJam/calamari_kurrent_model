@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:34.718+02:00</Created>
+        <LastChange>2020-08-22T07:37:54.327+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745699" pageNr="144" tsid="37715654" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FKSHOAVTVILBTDTDQZMJBZOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKYKXWTWAQMMNTNYLASNLJXW" imageId="14360879"/>
+    </Metadata>
+    <Page imageFilename="0173_page_2264367_line_r1l43_docId_51003.jpg" imageWidth="1542" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426203001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1542,0 1542,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 230,247 433,204 489,254 582,206 659,262 744,223 908,260 952,223 1442,212 1391,135 1331,175 775,134 658,173 580,125 353,149 200,100 101,169"/>
+                <Baseline points="115,189 180,189 246,189 311,191 377,191 443,193 508,194 574,195 639,197 705,197 771,199 836,201 902,201 967,203 1033,203 1098,205 1164,205 1230,205 1295,206 1361,207 1427,205"/>
+                <TextEquiv>
+                    <Unicode>straffalle zur Pflicht gemacht werde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>straffalle zur Pflicht gemacht werde.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

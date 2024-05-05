@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:17.826+02:00</Created>
+        <LastChange>2020-10-27T08:06:57.160+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748415" pageNr="128" tsid="49315907" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZEWBJGYVOVLEOXQSLNGQJDOV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAUAYIIRYLISPWGHGKTHBEAP" imageId="14363595"/>
+    </Metadata>
+    <Page imageFilename="0133_page_394579_line_r1l14_docId_17269.jpg" imageWidth="1554" imageHeight="422">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722526" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1554,0 1554,422 0,422"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,293 1088,284 1319,322 1453,292 1454,191 1069,136 530,183 466,136 293,165 184,101 101,114"/>
+                <Baseline points="113,230 179,232 245,234 311,236 378,236 444,236 510,236 577,236 643,236 709,236 776,236 842,236 908,236 974,236 1041,236 1107,236 1173,238 1240,238 1306,240 1372,242 1439,246"/>
+                <TextEquiv>
+                    <Unicode>Departemental-Vorträge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Departemental-Vorträge.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

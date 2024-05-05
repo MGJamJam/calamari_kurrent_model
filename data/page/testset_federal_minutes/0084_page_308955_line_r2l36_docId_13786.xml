@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:50:01.145+02:00</Created>
+        <LastChange>2020-11-17T07:23:43.866+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744601" pageNr="47" tsid="49319215" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SGJJYRBMXXIKUCLFYQEOKAXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFTOIFTUBXTIDCQUCWNODRHL" imageId="14359992"/>
+    </Metadata>
+    <Page imageFilename="0084_page_308955_line_r2l36_docId_13786.jpg" imageWidth="2297" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426354897" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2297,0 2297,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 1936,243 2197,209 2197,145 952,100 100,158"/>
+                <Baseline points="114,186 217,186 321,186 424,186 528,186 631,186 735,186 838,186 942,186 1045,186 1149,186 1252,184 1356,184 1459,184 1563,184 1666,184 1770,184 1873,184 1977,184 2080,184 2184,186"/>
+                <TextEquiv>
+                    <Unicode>vergleichen können. Das Eisenbahndepartement konnte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vergleichen können. Das Eisenbahndepartement konnte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

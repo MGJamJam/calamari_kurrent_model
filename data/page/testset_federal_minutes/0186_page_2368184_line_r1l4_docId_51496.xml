@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:27.348+02:00</Created>
+        <LastChange>2020-10-08T09:27:18.033+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750223" pageNr="118" tsid="49312524" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LNBGYOUBYXWOMXXXDEKQYBOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FGJSILNVUMOLVRJTEAHPAOAI" imageId="14365381"/>
+    </Metadata>
+    <Page imageFilename="0186_page_2368184_line_r1l4_docId_51496.jpg" imageWidth="566" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425495229" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 566,0 566,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,227 159,186 410,188 434,212 466,206 466,131 327,143 314,129 282,129 258,143 215,100 196,100 100,138"/>
+                <Baseline points="113,182 139,181 165,180 191,180 217,179 243,178 269,178 296,178 322,178 348,178 374,178 400,178 426,180 453,182"/>
+                <TextEquiv>
+                    <Unicode>Grandecourt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grandecourt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

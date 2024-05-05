@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:08.821+02:00</Created>
+        <LastChange>2020-08-22T11:25:37.247+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750030" pageNr="47" tsid="37762893" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UHKAQNOLUAZBKSMIJHUPCHTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UISNNYQTBXCDEQHUNVCYIYEH" imageId="14365202"/>
+    </Metadata>
+    <Page imageFilename="0079_page_2397284_line_r1l28_docId_51505.jpg" imageWidth="664" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425430994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 664,0 664,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,213 164,212 205,251 231,251 290,226 333,237 378,204 441,206 487,245 526,204 564,203 561,100 499,110 462,143 425,123 385,156 305,123 225,136 197,166 100,168"/>
+                <Baseline points="116,199 141,199 167,199 192,199 218,199 243,198 269,197 294,197 320,197 345,196 371,195 396,195 422,194 447,193 473,193 498,191 524,191 550,189"/>
+                <TextEquiv>
+                    <Unicode>aufgehoben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aufgehoben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

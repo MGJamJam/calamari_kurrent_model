@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:52:02.429+02:00</Created>
+        <LastChange>2020-08-22T11:17:12.688+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747326" pageNr="41" tsid="37759857" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BRCJJKRMQFOCZOIHSUEMMERJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGTOTRYKZBDKTKZABZESBCMA" imageId="14362506"/>
+    </Metadata>
+    <Page imageFilename="0080_page_388094_line_r2l30_docId_17259.jpg" imageWidth="1489" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425849515" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1489,0 1489,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 812,209 1173,250 1389,215 1389,134 1323,173 1238,128 1159,179 1010,100 868,171 330,104 264,155 100,142"/>
+                <Baseline points="113,205 176,205 239,203 302,203 365,203 429,203 492,205 555,205 618,205 681,207 745,207 808,207 871,209 934,209 997,209 1061,209 1124,209 1187,209 1250,209 1313,207 1377,205"/>
+                <TextEquiv>
+                    <Unicode>auf den Mont Peleren wird genehmigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf den Mont Peleren wird genehmigt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

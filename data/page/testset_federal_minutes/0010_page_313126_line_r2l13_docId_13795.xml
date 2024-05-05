@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:52:32.804+02:00</Created>
+        <LastChange>2020-11-16T11:42:40.112+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744639" pageNr="7" tsid="49319020" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RCHIJNPUYNDHXIFBLVBIFUZW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXTSCOITXVOXMGVBLLWLPKOM" imageId="14360030"/>
+    </Metadata>
+    <Page imageFilename="0010_page_313126_line_r2l13_docId_13795.jpg" imageWidth="1927" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426291911" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1927,0 1927,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1827,232 1826,104 1620,162 100,112"/>
+                <Baseline points="113,193 198,193 283,194 368,194 453,194 538,194 623,194 708,194 793,193 878,193 963,191 1048,191 1133,190 1218,190 1303,190 1388,190 1473,190 1558,191 1643,192 1728,193 1814,196 1839,196"/>
+                <TextEquiv>
+                    <Unicode>Das Post- und Eisenbahndepartement wird er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Post- und Eisenbahndepartement wird er¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

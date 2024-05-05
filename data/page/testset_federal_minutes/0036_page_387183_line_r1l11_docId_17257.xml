@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:47:00.873+02:00</Created>
+        <LastChange>2020-11-09T07:39:43.428+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747105" pageNr="19" tsid="49318077" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MDRGAIINJITKWJYNKNWNGFKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXKYECGBVFRVMWECHNWGTXBW" imageId="14362285"/>
+    </Metadata>
+    <Page imageFilename="0036_page_387183_line_r1l11_docId_17257.jpg" imageWidth="1575" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425846287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1575,0 1575,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,214 1475,205 1475,123 100,115"/>
+                <Baseline points="112,179 179,181 247,181 314,181 382,181 450,181 517,181 585,183 652,183 720,183 788,183 855,183 923,183 990,183 1058,183 1125,181 1193,181 1261,181 1328,179 1396,178 1464,177 1506,176"/>
+                <TextEquiv>
+                    <Unicode>Nicht aufgeführt sind in diesem Stat:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nicht aufgeführt sind in diesem Stat:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

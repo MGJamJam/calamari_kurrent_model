@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:27:59.480+02:00</Created>
+        <LastChange>2020-09-28T08:02:20.161+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518967" pageNr="8" tsid="49307143" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CMENPAGWEZMXKQEGULXMCAHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRBCPCWGUMUPFEPYQYYXPAQB" imageId="15085900"/>
+    </Metadata>
+    <Page imageFilename="0008_page_2456941_line_r2l9_docId_51515.jpg" imageWidth="827" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425236546" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="-82,-3 745,-3 745,378 -82,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,245 174,274 219,242 464,250 512,221 608,281 646,280 727,240 724,110 666,100 595,170 462,171 406,123 337,177 223,180 157,154 100,178 102,245"/>
+                <Baseline points="114,228 143,228 173,228 203,227 233,226 263,226 293,225 323,224 353,222 383,222 413,220 442,219 472,218 502,218 532,216 562,216 592,216 622,215 652,216 682,216 712,216"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="115,186 115,246 326,246 326,186"/>
+                    <TextEquiv>
+                        <Unicode>Lazaino</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="353,176 353,236 709,236 709,176"/>
+                    <TextEquiv>
+                        <Unicode>Braunakwegi</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lazarno Braunochwrig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lazarno Braunochwrig</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

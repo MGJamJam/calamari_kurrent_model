@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:56.043+02:00</Created>
+        <LastChange>2020-10-12T21:00:45.082+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749284" pageNr="44" tsid="49314446" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SFJLIWIBAMOATHQGCKDZGSSG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUXVIGWDFLCHMPHHUEWFZTAW" imageId="14364460"/>
+    </Metadata>
+    <Page imageFilename="0092_page_409874_line_r1l15_docId_17282.jpg" imageWidth="1909" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425591444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1909,0 1909,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,276 285,216 413,271 527,214 951,257 1809,208 1808,132 1713,100 1535,160 1368,103 964,174 100,156"/>
+                <Baseline points="114,206 198,208 282,208 366,208 450,210 534,210 618,210 702,208 786,208 870,208 954,206 1038,206 1122,205 1206,204 1290,202 1374,201 1458,200 1542,198 1626,196 1710,194 1794,194"/>
+                <TextEquiv>
+                    <Unicode>Eine Erweiterung der Station Schlie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eine Erweiterung der Station Schlie¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

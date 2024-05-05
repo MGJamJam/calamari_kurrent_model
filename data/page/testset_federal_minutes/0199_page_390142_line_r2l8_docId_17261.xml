@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:05:30.544+02:00</Created>
+        <LastChange>2020-08-22T11:20:28.955+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747938" pageNr="99" tsid="37761226" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZQOITXUJQCRUXHWMKIFQCUQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPIUJCCYRVXPFTSJDCRSUZLC" imageId="14363118"/>
+    </Metadata>
+    <Page imageFilename="0199_page_390142_line_r2l8_docId_17261.jpg" imageWidth="690" imageHeight="324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425857533" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 690,0 690,324 0,324"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 161,209 218,187 268,205 361,193 451,224 526,201 587,222 590,140 558,149 509,120 489,133 405,110 340,137 248,100 216,115 190,103 167,123 104,110"/>
+                <Baseline points="115,167 140,167 166,169 191,171 217,171 242,173 268,173 293,175 319,175 345,177 370,178 396,179 421,180 447,181 472,183 498,183 523,185 549,187 575,187"/>
+                <TextEquiv>
+                    <Unicode>Rechnungsaufstellungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rechnungsaufstellungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

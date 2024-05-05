@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:28.991+02:00</Created>
+        <LastChange>2020-08-22T11:30:41.039+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750500" pageNr="49" tsid="37764824" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WESAQHCPNSDXDSFFTSIHEVQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMVRBKEIZZVRJYPHEPJNGZBY" imageId="14365658"/>
+    </Metadata>
+    <Page imageFilename="0073_page_2424009_line_r1l11_docId_51508.jpg" imageWidth="2304" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425374435" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2304,0 2304,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 2128,221 2204,127 100,133"/>
+                <Baseline points="113,172 216,174 320,174 424,174 528,174 632,174 735,174 839,174 943,174 1047,174 1151,174 1254,174 1358,174 1462,174 1566,174 1670,176 1773,178 1877,180 1981,182 2085,184 2189,188"/>
+                <TextEquiv>
+                    <Unicode>beantragt dem Bundesgericht einen bezüglichen Wunsch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>beantragt dem Bundesgericht einen bezüglichen Wunsch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

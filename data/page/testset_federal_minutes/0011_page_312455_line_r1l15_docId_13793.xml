@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:52:42.834+02:00</Created>
+        <LastChange>2020-11-16T11:43:17.305+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744641" pageNr="8" tsid="49319021" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TCKHMATTHJYPUJMWLKSIOCAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSJESQGVBQQYFWAXFJDJRGMJ" imageId="14360032"/>
+    </Metadata>
+    <Page imageFilename="0011_page_312455_line_r1l15_docId_13793.jpg" imageWidth="2152" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426292055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2152,0 2152,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 2052,225 2052,145 1872,102 1523,154 101,119"/>
+                <Baseline points="113,175 209,173 305,171 402,171 498,171 595,171 691,171 787,171 884,171 980,172 1077,173 1173,175 1269,175 1366,177 1462,177 1559,179 1655,179 1751,179 1848,181 1944,181 2041,179 2062,179"/>
+                <TextEquiv>
+                    <Unicode>auswärtigen Ministeriums über die Lösung der Angelen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auswärtigen Ministeriums über die Lösung der Angelen-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

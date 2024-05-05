@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:35.747+02:00</Created>
+        <LastChange>2020-08-22T11:25:19.996+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748424" pageNr="130" tsid="37762785" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZRNVIZVJXAHJNCKGIGGXFAAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXXFDUXWFGBASFSJCWGOKGHN" imageId="14363604"/>
+    </Metadata>
+    <Page imageFilename="0135_page_397462_line_r1l34_docId_17270.jpg" imageWidth="2382" imageHeight="386">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2382,0 2382,386 0,386"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,231 495,286 1257,217 1325,279 2282,208 2281,135 1779,163 1639,100 1456,175 1094,114 100,182"/>
+                <Baseline points="113,221 220,221 328,219 436,218 544,217 652,215 759,213 867,213 975,211 1083,209 1191,207 1298,207 1406,205 1514,203 1622,203 1730,201 1837,201 1945,201 2053,199 2161,199 2269,199"/>
+                <TextEquiv>
+                    <Unicode>erkennung einer Entschädigung an Pierini bereits aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erkennung einer Entschädigung an Pierini bereits aus¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

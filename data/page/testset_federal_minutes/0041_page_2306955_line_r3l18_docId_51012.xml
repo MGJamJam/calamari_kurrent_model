@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:23.057+02:00</Created>
+        <LastChange>2020-08-22T11:23:51.667+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749425" pageNr="34" tsid="37762251" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GUFSMVEREIGLYPUJEERCEIDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQDLTMNEPHVUIZIARZTLNMLN" imageId="14364601"/>
+    </Metadata>
+    <Page imageFilename="0041_page_2306955_line_r3l18_docId_51012.jpg" imageWidth="2369" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425542005" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2369,0 2369,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,211 2001,204 2269,180 2269,130 100,142"/>
+                <Baseline points="114,177 221,177 328,177 435,175 542,175 649,175 756,175 863,175 970,175 1077,173 1184,173 1291,173 1398,173 1505,171 1612,171 1719,169 1826,169 1933,167 2040,167 2147,165 2254,165"/>
+                <TextEquiv>
+                    <Unicode>abreisen, um über Marseille in die Schweiz zurückzukehren, sie seien mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>abreisen, um über Marseille in die Schweiz zurückzukehren, sie seien mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

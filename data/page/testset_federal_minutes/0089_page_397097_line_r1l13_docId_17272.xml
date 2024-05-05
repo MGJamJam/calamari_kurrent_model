@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:20.282+02:00</Created>
+        <LastChange>2020-10-27T07:55:18.583+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748261" pageNr="85" tsid="49315852" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MYTNIIVTNEHDFNAAMWGSYSHQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDGFHEECRXXSJODTEVWSXOZZ" imageId="14363441"/>
+    </Metadata>
+    <Page imageFilename="0089_page_397097_line_r1l13_docId_17272.jpg" imageWidth="1556" imageHeight="289">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716624" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1556,0 1556,289 0,289"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,170 1456,179 1456,110 100,109"/>
+                <Baseline points="109,158 179,156 249,156 320,156 390,156 461,155 531,155 602,155 672,156 743,156 813,156 884,156 954,156 1025,156 1095,156 1166,158 1236,158 1307,158 1377,158 1448,158"/>
+                <TextEquiv>
+                    <Unicode>entre les deux célèbres promontoires du Mont-d’Argent et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>entre les deux célèbres promontoires du Mont-d’Argent et</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

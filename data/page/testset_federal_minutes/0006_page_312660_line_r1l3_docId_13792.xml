@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:51:51.046+02:00</Created>
+        <LastChange>2020-11-16T11:40:50.755+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744631" pageNr="4" tsid="49319017" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QGXUMNOGHAKCBDLMFJMYYGLF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PSZXKKWPMLQTHFXGJDQAAKYK" imageId="14360022"/>
+    </Metadata>
+    <Page imageFilename="0006_page_312660_line_r1l3_docId_13792.jpg" imageWidth="2010" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426291428" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2010,0 2010,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 1908,268 1910,134 1442,168 1324,110 1215,154 753,103 622,158 101,109"/>
+                <Baseline points="112,185 201,185 290,185 379,185 469,186 558,187 647,188 736,189 826,191 915,192 1004,194 1093,195 1183,197 1272,198 1361,200 1450,201 1540,201 1629,203 1718,203 1807,203 1897,203"/>
+                <TextEquiv>
+                    <Unicode>Krankheit der Anna Gabriele Guillet geb. Mure (Prot. vom 24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Krankheit der Anna Gabriele Guillet geb. Mure (Prot. vom 24</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

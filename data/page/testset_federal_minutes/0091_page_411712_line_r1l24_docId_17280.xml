@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:31:28.801+02:00</Created>
+        <LastChange>2020-08-22T11:24:29.371+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748928" pageNr="41" tsid="37762478" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NMNMUFMGMBTJDUTMQXTCXRNX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCJBHCRIAJUBXJFXHGDGNZVV" imageId="14364104"/>
+    </Metadata>
+    <Page imageFilename="0091_page_411712_line_r1l24_docId_17280.jpg" imageWidth="2367" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425630741" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2367,0 2367,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,221 2051,240 2267,208 2266,115 100,145"/>
+                <Baseline points="114,204 220,206 327,206 434,206 541,206 648,206 755,204 862,204 969,202 1076,202 1183,200 1289,198 1396,197 1503,196 1610,194 1717,194 1824,192 1931,192 2038,192 2145,192 2252,194"/>
+                <TextEquiv>
+                    <Unicode>Organisationsgesetzes für das Militär-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Organisationsgesetzes für das Militär-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

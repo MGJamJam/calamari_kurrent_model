@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:27.780+02:00</Created>
+        <LastChange>2020-11-15T18:22:14.377+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746181" pageNr="126" tsid="49318598" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQIYMYGYSYFDFBGGPZRZPQKO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIJFYYPGEUUVLYWOUGYIMLIV" imageId="14361361"/>
+    </Metadata>
+    <Page imageFilename="0181_page_2292445_line_r2l21_docId_51010.jpg" imageWidth="2345" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426072867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2345,0 2345,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 1905,230 2245,189 2245,131 100,147"/>
+                <Baseline points="113,180 218,180 324,178 430,178 536,178 642,178 748,178 854,178 960,178 1066,178 1172,178 1277,178 1383,178 1489,178 1595,180 1701,180 1807,180 1913,180 2019,182 2125,182 2231,182"/>
+                <TextEquiv>
+                    <Unicode>an der Gränze u. Beschwerde der Französischen Regierung über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an der Gränze u. Beschwerde der Französischen Regierung über die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

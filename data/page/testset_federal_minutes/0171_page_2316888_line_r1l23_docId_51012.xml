@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:50.510+02:00</Created>
+        <LastChange>2020-08-22T11:27:50.050+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749712" pageNr="125" tsid="37763825" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HYEVMYMYSYOECAYGZAQENLPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOAOYFJGRGMWFVVWJIOBXVZD" imageId="14364888"/>
+    </Metadata>
+    <Page imageFilename="0171_page_2316888_line_r1l23_docId_51012.jpg" imageWidth="718" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425554726" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 718,0 718,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,182 177,220 251,212 276,192 320,206 341,186 618,184 618,143 543,100 497,106 462,139 418,125 382,137 341,110 267,146 226,110 100,139"/>
+                <Baseline points="114,176 139,176 165,176 191,176 217,176 242,176 268,174 294,174 320,174 346,174 371,174 397,172 423,172 449,172 475,172 500,172 526,173 552,174 578,174 604,176"/>
+                <TextEquiv>
+                    <Unicode>ausgeführt wurde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ausgeführt wurde.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

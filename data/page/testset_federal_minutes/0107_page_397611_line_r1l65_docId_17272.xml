@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:15:44.705+02:00</Created>
+        <LastChange>2020-08-22T11:24:33.162+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748320" pageNr="103" tsid="37762502" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IERVSAQDLTZJLYKELMHFSBXN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSMYPKAKHTRNIJIFSOJHOTHC" imageId="14363500"/>
+    </Metadata>
+    <Page imageFilename="0107_page_397611_line_r1l65_docId_17272.jpg" imageWidth="1177" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425718921" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1177,0 1177,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 391,233 505,205 605,253 811,206 1045,229 1077,220 1077,147 496,161 428,108 325,100 241,158 165,123 100,156"/>
+                <Baseline points="115,196 162,196 209,196 257,196 304,196 352,196 399,196 446,195 494,194 541,194 589,194 636,192 683,192 731,192 778,192 826,192 873,191 920,192 968,192 1015,192 1063,192"/>
+                <TextEquiv>
+                    <Unicode>II. a. Auswärtiges: Arbeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>II. a. Auswärtiges: Arbeiten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

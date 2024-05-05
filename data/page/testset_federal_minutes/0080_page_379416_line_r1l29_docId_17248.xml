@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:32.851+02:00</Created>
+        <LastChange>2020-11-10T07:51:29.951+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746464" pageNr="54" tsid="49318311" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LTRDESFHHEYTQZSAEJIADTYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWNHHPUAUIZIPGGLVCAQSKGP" imageId="14361644"/>
+    </Metadata>
+    <Page imageFilename="0080_page_379416_line_r1l29_docId_17248.jpg" imageWidth="2162" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2162,0 2162,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1999,226 2062,124 100,131"/>
+                <Baseline points="112,178 208,176 305,174 402,172 499,172 596,172 692,172 789,172 886,172 983,172 1080,174 1176,174 1273,174 1370,176 1467,176 1564,176 1660,176 1757,176 1854,176 1951,176 2065,175"/>
+                <TextEquiv>
+                    <Unicode>offenbaren, auf dem Verwaltungswege zu berichtigenden Irr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>offenbaren, auf dem Verwaltungswege zu berichtigenden Irr¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

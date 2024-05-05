@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:27:44.069+02:00</Created>
+        <LastChange>2020-09-28T07:51:05.021+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518948" pageNr="1" tsid="49307114" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZTFSWOEVTIFCWETWKCXSMRMY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JXXPDYSZYFKBCCNZDLEZAARD" imageId="15085881"/>
+    </Metadata>
+    <Page imageFilename="0001_page_2457099_line_r1l2_docId_51515.jpg" imageWidth="2412" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425235475" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2412,0 2412,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 2312,249 2312,100 2229,161 100,152 100,216"/>
+                <Baseline points="115,203 224,203 333,203 442,203 551,203 661,203 770,203 879,203 988,204 1097,205 1207,205 1316,205 1425,205 1534,207 1643,207 1753,207 1862,209 1971,209 2080,209 2189,211 2299,211"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="129,163 129,223 160,223 160,163"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="199,163 199,223 388,223 388,163"/>
+                    <TextEquiv>
+                        <Unicode>Batavia</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="436,163 436,223 562,223 562,163"/>
+                    <TextEquiv>
+                        <Unicode>unter</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="602,163 602,223 885,223 885,163"/>
+                    <TextEquiv>
+                        <Unicode>holländisches</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="933,164 933,224 1130,224 1130,164"/>
+                    <TextEquiv>
+                        <Unicode>Militär</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1169,165 1169,225 1383,225 1383,165"/>
+                    <TextEquiv>
+                        <Unicode>getreten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1430,165 1430,225 1508,225 1508,165"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1533,167 1533,227 1564,227 1564,167"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1603,167 1603,227 1880,227 1880,167"/>
+                    <TextEquiv>
+                        <Unicode>Samarang</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1927,169 1927,229 2006,229 2006,169"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2061,170 2061,230 2266,230 2266,170"/>
+                    <TextEquiv>
+                        <Unicode>Vernehm</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>in Batavia unter holländisches Militär getreten und in Samarang dem Verneh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Batavia unter holländisches Militär getreten und in Samarang dem Verneh¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

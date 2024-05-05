@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:22:08.316+02:00</Created>
+        <LastChange>2020-08-22T11:26:21.328+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748554" pageNr="168" tsid="37763177" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VKCECUXHWCGEOLVXYJNLIKGF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAUAMCSIHRFAZAGXRBPKUSDM" imageId="14363734"/>
+    </Metadata>
+    <Page imageFilename="0173_page_395180_line_r2l35_docId_17269.jpg" imageWidth="821" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425727996" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 821,0 821,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 159,201 258,275 320,275 365,235 433,232 498,261 554,221 664,261 721,255 721,137 698,128 647,156 557,108 492,131 393,114 320,142 261,111 100,103"/>
+                <Baseline points="115,187 144,189 174,190 203,192 233,193 263,193 292,195 322,195 351,195 381,195 411,195 440,193 470,193 499,193 529,193 559,193 588,191 618,191 647,191 677,191 707,191"/>
+                <TextEquiv>
+                    <Unicode>tinghausen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tinghausen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

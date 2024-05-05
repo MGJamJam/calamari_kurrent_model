@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:29.243+02:00</Created>
+        <LastChange>2020-11-16T08:15:50.991+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745630" pageNr="121" tsid="49318834" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QSUQRAIKYGEMTMWUFYMPHRLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJPCJQFKXXQXLORUTJKEMQXR" imageId="14360810"/>
+    </Metadata>
+    <Page imageFilename="0141_page_2255945_line_r2l16_docId_51005.jpg" imageWidth="2232" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199694" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2232,0 2232,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,213 1964,213 2132,169 2131,115 100,159"/>
+                <Baseline points="114,196 214,194 314,193 414,192 514,190 615,189 715,188 815,186 915,184 1015,184 1116,182 1216,180 1316,180 1416,178 1516,177 1617,176 1717,174 1817,174 1917,172 2017,172 2118,172"/>
+                <TextEquiv>
+                    <Unicode>nebst Antrag behufs Vorlegung an die Bundesversammlung zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nebst Antrag behufs Vorlegung an die Bundesversammlung zu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:40:25.049+02:00</Created>
+        <LastChange>2020-08-22T11:20:53.281+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746800" pageNr="132" tsid="37761342" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TMHWNRQUZWPEODYVMYXFVKPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPJGSIECSWFOBAHRNSTEYKEU" imageId="14361980"/>
+    </Metadata>
+    <Page imageFilename="0197_page_379415_line_r2l2_docId_17250.jpg" imageWidth="1996" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425964993" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1996,0 1996,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,234 413,200 520,245 643,194 1515,242 1643,192 1797,237 1896,142 1735,100 1526,159 1325,115 100,136"/>
+                <Baseline points="112,192 200,192 289,192 377,194 466,194 555,194 643,193 732,192 820,192 909,192 998,192 1086,192 1175,192 1263,190 1352,190 1441,190 1529,190 1618,190 1706,190 1795,190 1884,190"/>
+                <TextEquiv>
+                    <Unicode>4) Dreißig alten Stichen von Jost Ammann, geb. Zürich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4) Dreißig alten Stichen von Jost Ammann, geb. Zürich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

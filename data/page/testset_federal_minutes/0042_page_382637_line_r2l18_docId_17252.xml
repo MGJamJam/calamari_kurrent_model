@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:22.839+02:00</Created>
+        <LastChange>2020-11-09T17:08:11.135+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746935" pageNr="25" tsid="49318195" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VWYPBDKNPCJPARPEGCOCJZMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JGNFMTXACXWKLSYXOXKZRVFC" imageId="14362115"/>
+    </Metadata>
+    <Page imageFilename="0042_page_382637_line_r2l18_docId_17252.jpg" imageWidth="687" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425892248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 687,0 687,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,247 221,219 337,246 393,201 447,188 511,215 587,202 587,151 513,154 434,100 378,135 267,148 221,146 188,119 137,146 100,134"/>
+                <Baseline points="113,184 138,184 164,182 190,182 215,182 241,181 267,180 292,180 318,180 344,182 369,182 395,182 421,182 446,182 472,182 498,180 523,180 549,180 575,178"/>
+                <TextEquiv>
+                    <Unicode>zu richten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu richten:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

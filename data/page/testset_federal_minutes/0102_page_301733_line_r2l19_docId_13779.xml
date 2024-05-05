@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:06.124+02:00</Created>
+        <LastChange>2020-08-21T22:04:31.644+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744467" pageNr="67" tsid="37655451" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UWXMTOKETSBWCXCLPHUIDLNG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VCJCMHFSMTJHRJIZETIUQZXB" imageId="14359858"/>
+    </Metadata>
+    <Page imageFilename="0102_page_301733_line_r2l19_docId_13779.jpg" imageWidth="2182" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426417588" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2182,0 2182,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2082,213 2082,155 1880,117 706,157 565,103 300,161 101,110"/>
+                <Baseline points="112,186 209,186 307,186 405,186 503,186 601,186 699,186 797,186 895,186 993,186 1091,188 1188,188 1286,188 1384,188 1482,188 1580,190 1678,190 1776,190 1874,190 1972,190 2070,190"/>
+                <TextEquiv>
+                    <Unicode>unterm 12. dieses Monats dem eidg. Post- und Eisenbahndepartement einge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unterm 12. dieses Monats dem eidg. Post- und Eisenbahndepartement einge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

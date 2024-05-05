@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:25.299+02:00</Created>
+        <LastChange>2020-08-21T22:03:25.300+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744421" pageNr="45" tsid="37655280" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DIIIBFIOOHVLGVZLLOKPPZKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGFTZVPLBDUWZUPKLAKSVFVZ" imageId="14359812"/>
+    </Metadata>
+    <Page imageFilename="0071_page_303800_line_r2l19_docId_13782.jpg" imageWidth="2198" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426414547" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2198,0 2198,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 2098,216 2098,136 1894,100 1179,167 100,130"/>
+                <Baseline points="112,193 210,195 309,195 407,195 506,195 605,195 703,195 802,195 900,195 999,193 1098,193 1196,193 1295,193 1393,191 1492,191 1591,191 1689,191 1788,191 1886,189 1985,189 2084,189"/>
+                <TextEquiv>
+                    <Unicode>Kanton Aargau angehöre und deshalb auf der Route</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kanton Aargau angehöre und deshalb auf der Route</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

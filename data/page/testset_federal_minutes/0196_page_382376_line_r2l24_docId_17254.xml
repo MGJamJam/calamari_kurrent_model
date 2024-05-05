@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:51:21.855+02:00</Created>
+        <LastChange>2020-11-09T17:53:27.978+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747303" pageNr="98" tsid="49318253" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OBOZTVKMIEGYMMFOIABYLAMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XRWMMHROMLRBFFDIEMPIIPNQ" imageId="14362483"/>
+    </Metadata>
+    <Page imageFilename="0196_page_382376_line_r2l24_docId_17254.jpg" imageWidth="2210" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425902748" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2210,0 2210,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2110,193 2110,130 1895,116 100,105"/>
+                <Baseline points="113,172 212,174 311,174 410,174 509,176 609,176 708,176 807,175 906,174 1005,174 1105,174 1204,173 1303,172 1402,172 1501,172 1601,170 1700,170 1799,170 1898,170 1997,168 2097,168"/>
+                <TextEquiv>
+                    <Unicode>Art. 31. litt. c. der Bundesverfassung, welcher den Kantonen gestattet, im </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art. 31. litt. c. der Bundesverfassung, welcher den Kantonen gestattet, im </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

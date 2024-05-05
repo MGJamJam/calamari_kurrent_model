@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:38.413+02:00</Created>
+        <LastChange>2020-11-16T16:00:51.766+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744934" pageNr="86" tsid="49319101" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LLITAUXCARBBMDGPLJIRWUVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ROKCUNFPQWWSRUDANRPXZQUA" imageId="14360325"/>
+    </Metadata>
+    <Page imageFilename="0132_page_309498_line_r2l5_docId_13790.jpg" imageWidth="2235" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426302747" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2235,0 2235,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,216 2042,233 2135,223 2135,127 100,136"/>
+                <Baseline points="113,189 213,189 313,189 414,189 514,189 615,189 715,189 815,189 916,189 1016,187 1117,187 1217,187 1317,187 1418,185 1518,185 1619,185 1719,183 1819,183 1920,183 2020,181 2121,181 2143,182"/>
+                <TextEquiv>
+                    <Unicode>sulat in Amsterdam beauftragt, zur Beseitigung der auch sonst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sulat in Amsterdam beauftragt, zur Beseitigung der auch sonst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:04:19.128+02:00</Created>
+        <LastChange>2020-11-16T09:43:26.313+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744846" pageNr="8" tsid="49318872" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQYOBPHQBDSXKBVDYRARAOXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWAEKRUDXDHFEURRFOIGLIWR" imageId="14360237"/>
+    </Metadata>
+    <Page imageFilename="0009_page_372646_line_r1l16_docId_17242.jpg" imageWidth="2045" imageHeight="317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426239338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2045,0 2045,317 0,317"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1945,202 1884,120 100,105"/>
+                <Baseline points="112,169 203,168 294,166 385,166 476,166 567,165 658,165 749,165 840,166 931,166 1022,166 1113,168 1204,168 1295,168 1386,169 1477,169 1568,169 1659,169 1750,169 1841,169 1933,168 1943,167"/>
+                <TextEquiv>
+                    <Unicode>schäftsbetriebe in der Schweiz bis 31. October 1898 erteilt, unter Vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schäftsbetriebe in der Schweiz bis 31. October 1898 erteilt, unter Vor¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

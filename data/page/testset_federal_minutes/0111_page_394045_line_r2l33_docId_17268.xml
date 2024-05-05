@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:21:12.187+02:00</Created>
+        <LastChange>2020-08-22T11:19:28.648+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748519" pageNr="62" tsid="37760851" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WIOTZWMOAZMTSWLFTTUSURVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDXDLLUOOYUZTVQHFDBNNONY" imageId="14363699"/>
+    </Metadata>
+    <Page imageFilename="0111_page_394045_line_r2l33_docId_17268.jpg" imageWidth="2362" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425769672" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2362,0 2362,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2262,224 2262,142 2079,117 100,115"/>
+                <Baseline points="112,191 218,191 325,191 432,191 539,193 646,193 752,195 859,195 966,197 1073,197 1180,199 1286,199 1393,200 1500,201 1607,201 1714,203 1820,203 1927,203 2034,205 2141,205 2248,205"/>
+                <TextEquiv>
+                    <Unicode>Viktor finden, unter Ablehnung einer rechtlichen Verpflichtung, aus billigkeitsrück¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Viktor finden, unter Ablehnung einer rechtlichen Verpflichtung, aus billigkeitsrück¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

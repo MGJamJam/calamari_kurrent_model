@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:12.485+02:00</Created>
+        <LastChange>2020-09-22T15:27:45.705+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519136" pageNr="127" tsid="49307717" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RWUKBJXYQGERMQFOBQGDEOVB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYBEHMRGSLNMEWUPHDBKEIIA" imageId="15086069"/>
+    </Metadata>
+    <Page imageFilename="0171_page_2457153_line_r1l28_docId_51515.jpg" imageWidth="2424" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425254816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2424,0 2424,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 2189,178 2258,234 2324,220 2324,104 100,133 100,199"/>
+                <Baseline points="113,167 222,170 332,173 442,173 552,175 662,175 772,177 882,177 992,177 1102,177 1212,177 1321,175 1431,175 1541,175 1651,175 1761,175 1871,175 1981,175 2091,177 2201,177 2311,179"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="123,137 123,197 1835,197 1835,137"/>
+                    <TextEquiv>
+                        <Unicode>KBü</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>KBü</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

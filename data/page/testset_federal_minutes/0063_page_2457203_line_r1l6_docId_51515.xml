@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:48.550+02:00</Created>
+        <LastChange>2020-09-28T09:17:01.123+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519028" pageNr="49" tsid="49307374" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MSSJBWSXBTZDCAQZOUOMZYKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOGBJJIFPAOBXSMBOJBAOLCS" imageId="15085961"/>
+    </Metadata>
+    <Page imageFilename="0063_page_2457203_line_r1l6_docId_51515.jpg" imageWidth="2402" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425242742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2402,0 2402,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 2137,246 2302,161 101,100 100,193"/>
+                <Baseline points="114,168 222,170 331,172 440,174 548,175 657,176 766,178 874,178 983,180 1092,182 1201,182 1309,184 1418,186 1527,186 1635,188 1744,190 1853,192 1961,192 2070,194 2179,196 2288,198"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="171,129 171,189 207,189 207,129"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="234,131 234,191 361,191 361,131"/>
+                    <TextEquiv>
+                        <Unicode>Genf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="406,134 406,194 497,194 497,134"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="524,135 524,195 606,195 606,135"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="642,138 642,198 905,198 905,138"/>
+                    <TextEquiv>
+                        <Unicode>fraglichen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="951,141 951,201 1177,201 1177,141"/>
+                    <TextEquiv>
+                        <Unicode>Expertise</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1222,142 1222,202 1258,202 1258,142"/>
+                    <TextEquiv>
+                        <Unicode>zŭ</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1296,146 1296,206 1649,206 1649,146"/>
+                    <TextEquiv>
+                        <Unicode>beaŭftragen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1703,149 1703,209 1784,209 1784,149"/>
+                    <TextEquiv>
+                        <Unicode>ŭnd</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1813,152 1813,212 2066,212 2066,152"/>
+                    <TextEquiv>
+                        <Unicode>denselben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2102,155 2102,215 2229,215 2229,155"/>
+                    <TextEquiv>
+                        <Unicode>dŭrch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2247,157 2247,217 2265,217 2265,157"/>
+                    <TextEquiv>
+                        <Unicode>d</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>in Genf mit der fraglichen Expertise zu beauftragen und denselben durch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Genf mit der fraglichen Expertise zu beauftragen und denselben durch das</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

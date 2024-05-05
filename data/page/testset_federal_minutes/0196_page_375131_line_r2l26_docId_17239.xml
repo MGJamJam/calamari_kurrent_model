@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:02.993+02:00</Created>
+        <LastChange>2020-08-22T07:38:34.726+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745345" pageNr="107" tsid="37715785" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PMHYYLIQUTDFAMKELXOEJUCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SDEWCBDTEEGJBIUCZQHIWSDF" imageId="14360529"/>
+    </Metadata>
+    <Page imageFilename="0196_page_375131_line_r2l26_docId_17239.jpg" imageWidth="1997" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252989" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1997,0 1997,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,196 1839,214 1897,139 100,117"/>
+                <Baseline points="113,185 201,185 290,185 378,185 467,185 556,185 644,183 733,183 822,182 910,180 999,179 1088,179 1176,177 1265,177 1354,177 1442,176 1531,177 1620,177 1708,179 1797,180 1886,183"/>
+                <TextEquiv>
+                    <Unicode>Untersuchung in der Angelegenheit Albert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Untersuchung in der Angelegenheit Albert</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

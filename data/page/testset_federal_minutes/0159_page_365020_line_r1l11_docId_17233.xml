@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:39.271+02:00</Created>
+        <LastChange>2020-08-22T11:18:45.460+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746756" pageNr="94" tsid="37760571" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NQXSMMMNUTNCACDIZVRPXGHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQHKPIJWGBJHMZCHPSQITKSO" imageId="14361936"/>
+    </Metadata>
+    <Page imageFilename="0159_page_365020_line_r1l11_docId_17233.jpg" imageWidth="1605" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426011158" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1605,0 1605,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 733,188 874,248 962,191 1284,236 1505,169 1282,167 1072,100 790,150 101,132"/>
+                <Baseline points="112,188 181,185 250,184 319,181 388,180 457,179 526,179 595,179 664,179 733,181 802,182 871,182 940,184 1009,185 1078,187 1147,187 1216,188 1285,188 1354,190 1423,189 1492,188"/>
+                <TextEquiv>
+                    <Unicode>gehörenden Areals zum Kaufe an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehörenden Areals zum Kaufe an</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

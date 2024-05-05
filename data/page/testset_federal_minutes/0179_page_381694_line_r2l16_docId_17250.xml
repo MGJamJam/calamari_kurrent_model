@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:30.191+02:00</Created>
+        <LastChange>2020-11-10T08:30:34.489+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746747" pageNr="119" tsid="49318361" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JGNSYVEPTSEWBEVNVMGHBRSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAIYRZIOMNMXXNZSSBHDGPCH" imageId="14361927"/>
+    </Metadata>
+    <Page imageFilename="0179_page_381694_line_r2l16_docId_17250.jpg" imageWidth="2124" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425963067" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2124,0 2124,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2024,233 2023,125 1955,100 1729,164 100,134"/>
+                <Baseline points="113,192 207,192 302,192 397,192 492,192 587,192 682,192 777,192 872,192 967,192 1062,192 1156,192 1251,191 1346,190 1441,190 1536,190 1631,190 1726,190 1821,192 1916,192 2011,192"/>
+                <TextEquiv>
+                    <Unicode>des Bundesgesetzes vom 3. Juli 1876, betreffend die Er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Bundesgesetzes vom 3. Juli 1876, betreffend die Er-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

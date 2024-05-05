@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:23.038+02:00</Created>
+        <LastChange>2020-09-28T09:50:47.653+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519079" pageNr="84" tsid="49307556" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XDKILEMFBQNMAUIWMFUZTXQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWGKMTDDHNOGFOUHDWBCHFCU" imageId="15086012"/>
+    </Metadata>
+    <Page imageFilename="0114_page_2457035_line_r3l36_docId_51515.jpg" imageWidth="2093" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425248136" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2093,0 2093,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 1993,189 1778,119 214,150 101,100 100,224"/>
+                <Baseline points="114,178 207,178 300,178 393,178 487,178 580,178 673,178 767,178 860,178 953,178 1047,178 1140,178 1233,180 1326,180 1420,180 1513,182 1606,182 1700,184 1793,186 1886,186 2007,187"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="169,138 169,198 426,198 426,138"/>
+                    <TextEquiv>
+                        <Unicode>ständigen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="434,138 434,198 481,198 481,138"/>
+                    <TextEquiv>
+                        <Unicode>um</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="529,138 529,198 649,198 649,138"/>
+                    <TextEquiv>
+                        <Unicode>einem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="705,138 705,198 801,198 801,138"/>
+                    <TextEquiv>
+                        <Unicode>schon</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="841,138 841,198 977,198 977,138"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1009,138 1009,198 1306,198 1306,138"/>
+                    <TextEquiv>
+                        <Unicode>gewünschten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1345,140 1345,200 1538,200 1538,140"/>
+                    <TextEquiv>
+                        <Unicode>Projekt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1586,142 1586,202 1706,202 1706,142"/>
+                    <TextEquiv>
+                        <Unicode>Folge</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1746,145 1746,205 1778,205 1778,145"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1818,146 1818,206 1962,206 1962,146"/>
+                    <TextEquiv>
+                        <Unicode>geben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ständiger, um einem schon lange gewünschten Projekt Folge zu geben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ständiger, um einem schon lange gewünschten Projekt Folge zu geben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

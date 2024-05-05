@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:01.357+02:00</Created>
+        <LastChange>2020-11-16T14:22:46.694+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744756" pageNr="44" tsid="49319055" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IBCVROBTWAHOMHSBLUVWLWUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HICHVDHAHMXBIBUPASMKJQGP" imageId="14360147"/>
+    </Metadata>
+    <Page imageFilename="0066_page_311795_line_r2l5_docId_13792.jpg" imageWidth="2062" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426296829" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2062,0 2062,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 569,183 632,237 781,180 951,240 1066,182 1961,223 1962,128 1774,107 101,118"/>
+                <Baseline points="112,169 203,167 295,169 387,169 479,169 571,169 662,171 754,171 846,172 938,173 1030,173 1121,175 1213,175 1305,177 1397,177 1489,179 1580,179 1672,179 1764,179 1856,179 1948,179"/>
+                <TextEquiv>
+                    <Unicode>rat damit einverstanden, daß eine weitere Ratifikation des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rat damit einverstanden, daß eine weitere Ratifikation des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

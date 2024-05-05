@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:54.373+02:00</Created>
+        <LastChange>2020-10-08T08:05:15.757+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749855" pageNr="40" tsid="49312304" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JYWEVYXRQXDYOZFLKDIHRPFL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZCIFXMRMAYHIOPLUXCCYHGKY" imageId="14365027"/>
+    </Metadata>
+    <Page imageFilename="0060_page_2353695_line_r1l33_docId_51496.jpg" imageWidth="2137" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425484499" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2137,0 2137,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,231 2037,198 2037,138 1896,110 100,118"/>
+                <Baseline points="116,191 211,191 306,189 401,189 496,189 592,189 687,188 782,187 877,187 972,187 1068,187 1163,187 1258,187 1353,187 1448,189 1544,189 1639,189 1734,189 1829,189 1924,189 2020,189"/>
+                <TextEquiv>
+                    <Unicode>Nachweise /: vide Bundesblatt 1863 II f. 656 französische Ausgabe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nachweise /: vide Bundesblatt 1863 II f. 656 französische Ausgabe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:47.108+02:00</Created>
+        <LastChange>2020-08-22T11:28:51.033+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750368" pageNr="3" tsid="49309150" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TNABKZJQSUADCPCESWKBVZIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTQWTBXUUDEJHGWTYYZBPKGW" imageId="14365526"/>
+    </Metadata>
+    <Page imageFilename="0003_page_2439233_line_r1l13_docId_51511.jpg" imageWidth="730" imageHeight="303">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425304238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 730,0 730,303 0,303"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,203 209,165 294,192 353,148 386,175 609,177 630,171 630,139 589,139 557,107 530,107 505,131 253,113 209,141 138,100 100,100"/>
+                <Baseline points="115,165 140,165 165,167 190,167 215,167 240,167 265,165 290,165 315,165 340,165 366,165 391,163 416,163 441,163 466,163 491,163 516,164 541,165 566,165 591,166 617,167"/>
+                <TextEquiv>
+                    <Unicode>für die Strebe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für die Strebe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

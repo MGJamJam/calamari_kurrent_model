@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:23.571+02:00</Created>
+        <LastChange>2020-08-22T11:15:34.631+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746338" pageNr="23" tsid="37759091" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZABVSRBYOOVUTXINSLFSKMBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZFEQMJFUYMPLCZSUUMTHXZLV" imageId="14361518"/>
+    </Metadata>
+    <Page imageFilename="0036_page_374167_line_r1l3_docId_17245.jpg" imageWidth="2076" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425948642" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2076,0 2076,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 1976,214 1976,158 1788,126 101,136"/>
+                <Baseline points="112,182 204,182 297,182 389,184 482,184 575,184 667,184 760,184 852,184 945,184 1038,184 1130,184 1223,185 1315,186 1408,186 1501,188 1593,190 1686,192 1778,194 1871,196 1964,198"/>
+                <TextEquiv>
+                    <Unicode>22. Dezember abhin das Bundesgesetz betreffend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22. Dezember abhin das Bundesgesetz betreffend</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

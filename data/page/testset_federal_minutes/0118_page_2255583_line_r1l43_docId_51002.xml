@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:41.544+02:00</Created>
+        <LastChange>2020-11-16T08:05:55.415+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745581" pageNr="104" tsid="49318821" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZGCVEADJHCVRBHIFCDFZDIDL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVJPOLDBGKPJBABLHNADXVJR" imageId="14360761"/>
+    </Metadata>
+    <Page imageFilename="0118_page_2255583_line_r1l43_docId_51002.jpg" imageWidth="836" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426197383" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 836,0 836,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,204 175,221 235,178 270,212 473,186 527,214 570,185 736,171 736,133 662,134 604,108 487,140 458,114 315,100 269,126 100,138"/>
+                <Baseline points="114,170 144,170 174,170 205,172 235,172 266,172 296,172 326,170 357,170 387,170 418,170 448,170 478,170 509,168 539,168 570,168 600,169 630,170 661,170 691,171 722,172 751,172"/>
+                <TextEquiv>
+                    <Unicode>Ein Zahlmeister.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ein Zahlmeister.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:23.994+02:00</Created>
+        <LastChange>2020-08-22T11:18:16.518+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746570" pageNr="77" tsid="37760326" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UGLDKLSYTKLTOEEODGLXHPDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUYJAAVYNLPSDJTTZKJTZPPI" imageId="14361750"/>
+    </Metadata>
+    <Page imageFilename="0117_page_379879_line_r2l2_docId_17249.jpg" imageWidth="624" imageHeight="304">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425956730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 624,0 624,304 0,304"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,204 212,180 356,200 390,183 433,193 463,167 524,183 520,116 461,122 406,105 363,132 282,100 239,139 206,114 194,127 100,125"/>
+                <Baseline points="114,180 140,178 166,177 193,175 219,174 246,172 272,172 298,170 325,169 351,168 378,166 404,164 430,162 457,161 483,159 510,158"/>
+                <TextEquiv>
+                    <Unicode>als Kanzlist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>als Kanzlist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

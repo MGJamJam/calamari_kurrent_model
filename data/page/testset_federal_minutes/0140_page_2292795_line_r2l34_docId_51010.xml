@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:03.581+02:00</Created>
+        <LastChange>2020-11-15T18:07:25.045+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746090" pageNr="98" tsid="49318578" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LKITGCJFUOEXUAPPOACQSMZE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFIKPCDMXYPMLMRMLVRSQJPP" imageId="14361270"/>
+    </Metadata>
+    <Page imageFilename="0140_page_2292795_line_r2l34_docId_51010.jpg" imageWidth="2389" imageHeight="333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426068679" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2389,0 2389,333 0,333"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 1832,233 2288,197 2289,116 101,131"/>
+                <Baseline points="114,169 222,171 330,173 438,173 546,175 654,177 762,177 870,178 978,179 1086,179 1194,181 1302,181 1410,181 1518,181 1626,181 1734,181 1842,181 1950,181 2058,181 2166,181 2274,181"/>
+                <TextEquiv>
+                    <Unicode>worden sei. Der Geburtsschein u. nachgefolgte Anerkennungsakt des Pagliai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>worden sei. Der Geburtsschein u. nachgefolgte Anerkennungsakt des Pagliai</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

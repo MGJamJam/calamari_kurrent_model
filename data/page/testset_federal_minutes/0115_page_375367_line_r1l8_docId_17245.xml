@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:17.838+02:00</Created>
+        <LastChange>2020-11-10T08:07:25.419+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746564" pageNr="76" tsid="49318330" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZKAPIWZSBOUPUMKTUABWXIRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXCJMWFJSWEIAMWMAYAAMIUJ" imageId="14361744"/>
+    </Metadata>
+    <Page imageFilename="0115_page_375367_line_r1l8_docId_17245.jpg" imageWidth="2051" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425956563" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2051,0 2051,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 272,241 405,185 1052,238 1137,185 1951,196 1951,140 1624,108 100,131"/>
+                <Baseline points="112,187 203,185 294,183 386,183 477,181 569,180 660,179 751,179 843,179 934,179 1026,177 1117,177 1208,177 1300,177 1391,177 1483,179 1574,177 1665,177 1757,177 1848,177 1940,177"/>
+                <TextEquiv>
+                    <Unicode>sicht zu nehmen, dem Gutachten der Herren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sicht zu nehmen, dem Gutachten der Herren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:20.968+02:00</Created>
+        <LastChange>2020-10-12T20:52:01.707+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749199" pageNr="34" tsid="49314413" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MYMCABCEZWZNXKEZNRMAUIWM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPHQIDMPWNDKCHNDZIJXZWFE" imageId="14364375"/>
+    </Metadata>
+    <Page imageFilename="0064_page_411272_line_r1l12_docId_17281.jpg" imageWidth="2302" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425590062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2302,0 2302,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 2202,236 2201,142 2071,107 100,126"/>
+                <Baseline points="113,198 216,196 320,196 424,194 527,194 631,192 735,192 838,192 942,190 1046,190 1150,190 1253,190 1357,190 1461,190 1564,188 1668,188 1772,188 1875,186 1979,186 2083,185 2187,184"/>
+                <TextEquiv>
+                    <Unicode>Mit dem 1. Januar 1902. d. h. mit dem Inkrafttre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit dem 1. Januar 1902. d. h. mit dem Inkrafttre¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

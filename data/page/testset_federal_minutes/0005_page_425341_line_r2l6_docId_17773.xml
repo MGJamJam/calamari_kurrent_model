@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:00.361+02:00</Created>
+        <LastChange>2020-10-12T20:26:40.985+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749023" pageNr="3" tsid="49314312" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SUPEWXVFRZUBXACTBTDFFIQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYXJPOBNXBEGWEOIJDFCWWDH" imageId="14364199"/>
+    </Metadata>
+    <Page imageFilename="0005_page_425341_line_r2l6_docId_17773.jpg" imageWidth="2533" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425585592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2533,0 2533,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 2433,218 2409,145 1764,109 100,132"/>
+                <Baseline points="114,194 235,192 356,192 477,191 599,190 720,190 841,190 962,190 1084,190 1205,190 1326,190 1447,190 1569,190 1690,190 1811,190 1932,190 2054,190 2175,190 2296,190 2418,190"/>
+                <TextEquiv>
+                    <Unicode>Bezirksgerichts Bischofszell übermittelt, wonach Andreas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bezirksgerichts Bischofszell übermittelt, wonach Andreas</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

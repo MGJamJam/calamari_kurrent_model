@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:59.919+02:00</Created>
+        <LastChange>2020-11-12T07:10:30.338+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746372" pageNr="25" tsid="49318407" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EWIJINEFCPYGHRMIFDENOVVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTQDVFSEPMOWBIMXUPGJSWDC" imageId="14361552"/>
+    </Metadata>
+    <Page imageFilename="0042_page_369419_line_r2l9_docId_17235.jpg" imageWidth="2218" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426001968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2218,0 2218,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2118,222 2117,147 1876,101 100,167"/>
+                <Baseline points="112,195 211,193 311,192 410,191 510,189 610,187 709,187 809,185 908,183 1008,183 1108,181 1207,181 1307,181 1406,179 1506,179 1606,179 1705,181 1805,181 1904,183 2004,185 2104,187"/>
+                <TextEquiv>
+                    <Unicode>nachdem der Kantonsrat von Zug das betreffende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nachdem der Kantonsrat von Zug das betreffende</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

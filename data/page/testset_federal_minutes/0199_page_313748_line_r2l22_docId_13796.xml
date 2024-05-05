@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:55.028+02:00</Created>
+        <LastChange>2020-11-15T20:45:58.578+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746210" pageNr="133" tsid="49318752" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WGKZLOLQWOEDCGWSEZFJIBRR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQGRJLOHTGUGUZBFEOCOYURF" imageId="14361390"/>
+    </Metadata>
+    <Page imageFilename="0199_page_313748_line_r2l22_docId_13796.jpg" imageWidth="1981" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426133876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1981,0 1981,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,246 214,193 331,239 519,192 1028,245 1881,210 1881,135 1793,115 1172,172 100,110"/>
+                <Baseline points="112,183 199,185 287,185 375,185 463,187 551,187 638,187 726,189 814,189 902,189 990,189 1077,189 1165,189 1253,189 1341,189 1429,187 1516,187 1604,185 1692,183 1780,181 1868,179"/>
+                <TextEquiv>
+                    <Unicode>Das Departement des Innern erstattet nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Departement des Innern erstattet nun</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

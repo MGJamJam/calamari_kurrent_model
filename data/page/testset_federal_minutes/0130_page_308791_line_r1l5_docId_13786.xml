@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:56:09.065+02:00</Created>
+        <LastChange>2020-08-21T22:15:46.266+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744688" pageNr="77" tsid="37657306" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DWQONOJEQTIFKWVFMMCPOMCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HYUFPLJEHIHIESLIPIAICKGG" imageId="14360079"/>
+    </Metadata>
+    <Page imageFilename="0130_page_308791_line_r1l5_docId_13786.jpg" imageWidth="2169" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426359121" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2169,0 2169,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 2069,198 2069,142 1830,104 100,132"/>
+                <Baseline points="113,180 210,180 307,180 404,180 501,180 599,180 696,180 793,179 890,178 987,178 1085,178 1182,178 1279,176 1376,176 1473,176 1571,176 1668,176 1765,176 1862,176 1959,176 2057,176"/>
+                <TextEquiv>
+                    <Unicode>werden könnte, wäre ohne reellen Wort. Mit zwei größeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>werden könnte, wäre ohne reellen Wort. Mit zwei größeren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

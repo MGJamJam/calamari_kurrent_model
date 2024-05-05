@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:24.677+02:00</Created>
+        <LastChange>2020-11-16T08:28:51.174+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745688" pageNr="141" tsid="49318846" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KEKCCJAYSYGKZIJGZWXGDYJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJFLIKYKQIHOOAUFJPZTGXWA" imageId="14360868"/>
+    </Metadata>
+    <Page imageFilename="0168_page_2260840_line_r2l30_docId_51004.jpg" imageWidth="2225" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426202639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2225,0 2225,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 1773,253 2104,194 2125,139 1719,100 1664,156 100,167"/>
+                <Baseline points="115,206 214,206 314,206 414,206 514,206 614,206 714,204 814,204 914,204 1014,202 1114,202 1213,202 1313,200 1413,200 1513,198 1613,196 1713,196 1813,194 1913,192 2013,190 2113,190"/>
+                <TextEquiv>
+                    <Unicode>3. daß ersterer ferners autorisirt werde, wenn der Kauf des Landes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3. daß ersterer ferners autorisirt werde, wenn der Kauf des Landes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

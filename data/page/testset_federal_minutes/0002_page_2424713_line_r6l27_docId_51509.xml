@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:45.292+02:00</Created>
+        <LastChange>2020-10-06T06:51:13.318+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750306" pageNr="2" tsid="49310527" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZUZGGTHIVBCZYNKDWTSHESNU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZNUKPBBUKSHGIMZZWQBBCSJD" imageId="14365464"/>
+    </Metadata>
+    <Page imageFilename="0002_page_2424713_line_r6l27_docId_51509.jpg" imageWidth="1939" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425367967" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1939,0 1939,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,276 415,207 698,265 800,210 1819,243 1839,140 1737,165 1671,108 1609,169 1527,126 1442,172 1322,100 1242,173 1177,126 1099,176 1002,134 100,161"/>
+                <Baseline points="112,214 197,211 283,208 369,208 455,206 541,204 626,204 712,202 798,202 884,202 970,202 1055,202 1141,202 1227,202 1313,202 1399,202 1484,202 1570,202 1656,202 1742,202 1828,202"/>
+                <TextEquiv>
+                    <Unicode>schloßenen Theilung und in baar den Betrag des Vermö¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schloßenen Theilung und in baar den Betrag des Vermö¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

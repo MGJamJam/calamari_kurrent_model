@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:46:23.180+02:00</Created>
+        <LastChange>2020-08-22T11:15:53.525+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747075" pageNr="16" tsid="37759235" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WCTAEAGSSWIATOTEOYRAFRHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXVEUDEUYVWXZOMLBEXQYCVE" imageId="14362255"/>
+    </Metadata>
+    <Page imageFilename="0031_page_385354_line_r1l6_docId_17258.jpg" imageWidth="641" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425845908" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 641,0 641,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,220 181,184 244,235 416,210 461,235 504,213 541,228 538,128 505,133 471,114 392,146 360,116 293,123 251,100 198,140 100,145"/>
+                <Baseline points="114,178 139,176 165,176 191,175 217,174 242,173 268,172 294,172 320,171 345,170 371,170 397,170 423,170 448,170 474,169 500,168 526,168"/>
+                <TextEquiv>
+                    <Unicode>gefährdung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gefährdung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

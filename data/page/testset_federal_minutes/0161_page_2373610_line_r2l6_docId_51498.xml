@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:35.139+02:00</Created>
+        <LastChange>2020-08-22T11:27:29.461+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750141" pageNr="102" tsid="37763671" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DDXNFYNBWUUNVQKOUYDBHDFB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQDXVBRLYVRGVFESYBPSCFBM" imageId="14365313"/>
+    </Metadata>
+    <Page imageFilename="0161_page_2373610_line_r2l6_docId_51498.jpg" imageWidth="760" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425493035" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 760,0 760,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,205 410,230 479,182 554,214 599,189 660,197 655,104 595,102 539,138 492,129 460,148 411,150 377,127 346,151 285,100 166,169 100,167"/>
+                <Baseline points="117,197 143,195 169,193 196,193 222,191 249,189 275,188 301,186 328,185 354,182 381,180 407,179 433,177 460,175 486,175 513,173 539,173 565,171 592,171 618,171 645,171"/>
+                <TextEquiv>
+                    <Unicode>von Basellandschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Basellandschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

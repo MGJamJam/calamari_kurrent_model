@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:38.997+02:00</Created>
+        <LastChange>2020-10-11T21:15:29.442+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749575" pageNr="81" tsid="49313651" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OKNLJLCUOXLHZWDOHWFLQSEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKUVQGCNUHQPKQMBYFFDFUQO" imageId="14364751"/>
+    </Metadata>
+    <Page imageFilename="0107_page_2301991_line_r1l9_docId_51013.jpg" imageWidth="2303" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425548558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2303,0 2303,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 2203,202 2203,138 1952,107 100,133"/>
+                <Baseline points="118,180 221,180 324,178 428,178 531,178 635,178 738,178 841,178 945,178 1048,178 1152,178 1255,178 1358,178 1462,180 1565,180 1669,180 1772,180 1875,180 1979,178 2082,178 2186,178 2213,179"/>
+                <TextEquiv>
+                    <Unicode>Informationen über Schweizer in Ruhsland thunlich u zwekmäßig wäre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informationen über Schweizer in Ruhsland thunlich u zwekmäßig wäre,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:47.297+02:00</Created>
+        <LastChange>2020-11-09T16:57:27.368+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746865" pageNr="7" tsid="49318178" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NBTNFHRTHRIKFIRUGKRFKIYX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TWGEUIETQDLPERJMJGTEXZXJ" imageId="14362045"/>
+    </Metadata>
+    <Page imageFilename="0012_page_384123_line_r1l2_docId_17256.jpg" imageWidth="2246" imageHeight="400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425889806" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2246,0 2246,400 0,400"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,262 2146,263 2082,132 1984,190 1510,139 1333,203 1062,134 576,194 199,168 100,100"/>
+                <Baseline points="114,237 214,237 315,237 416,237 517,235 618,235 719,235 820,235 921,235 1022,233 1123,233 1223,233 1324,233 1425,231 1526,231 1627,231 1728,231 1829,229 1930,229 2031,229 2132,229"/>
+                <TextEquiv>
+                    <Unicode>4) 1867, Obwald, Leo, von Aadorf, in Luzern, Hauptmann seit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4) 1867, Obwald, Leo, von Aadorf, in Luzern, Hauptmann seit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

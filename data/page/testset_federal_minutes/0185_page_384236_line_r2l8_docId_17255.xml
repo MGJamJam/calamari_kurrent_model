@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:50:45.502+02:00</Created>
+        <LastChange>2020-08-22T11:20:21.379+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747277" pageNr="94" tsid="37761181" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OBTFAADURDMZUKUXVWMYIPQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNYGUWOJMQXTUKECYNLWBVPM" imageId="14362457"/>
+    </Metadata>
+    <Page imageFilename="0185_page_384236_line_r2l8_docId_17255.jpg" imageWidth="2018" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425902228" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2018,0 2018,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 1511,226 1918,195 1918,133 100,134"/>
+                <Baseline points="112,187 201,187 291,187 381,187 470,187 560,187 650,187 739,187 829,187 919,187 1009,187 1098,187 1188,187 1278,185 1367,185 1457,185 1547,185 1636,185 1726,184 1816,184 1906,184"/>
+                <TextEquiv>
+                    <Unicode>b). auf dem fraglichen Grundstücke mit dem Bau der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>b). auf dem fraglichen Grundstücke mit dem Bau der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

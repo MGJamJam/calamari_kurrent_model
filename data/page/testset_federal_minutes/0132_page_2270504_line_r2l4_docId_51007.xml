@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:48.327+02:00</Created>
+        <LastChange>2020-08-22T11:09:22.131+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746074" pageNr="91" tsid="37756812" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QYCVZHZNYFOENTGQKRZJOKXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DOKCCAEGRHEGFBCQRCMKSXNG" imageId="14361254"/>
+    </Metadata>
+    <Page imageFilename="0132_page_2270504_line_r2l4_docId_51007.jpg" imageWidth="2379" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426067794" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2379,0 2379,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2279,181 2027,100 100,116"/>
+                <Baseline points="113,164 220,164 328,164 435,166 543,166 651,166 758,166 866,166 973,168 1081,168 1189,168 1296,168 1404,168 1511,168 1619,168 1727,168 1834,166 1942,166 2049,164 2157,164 2265,162"/>
+                <TextEquiv>
+                    <Unicode>sub 27. v. M., daß sich die dießfällige Gesellschaft über eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sub 27. v. M., daß sich die dießfällige Gesellschaft über eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:19.892+02:00</Created>
+        <LastChange>2020-08-21T22:07:05.959+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744583" pageNr="115" tsid="37655846" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CZALEKEUFKOIOLKGERGVFNUK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQGIVMJCVUALUFIZKJDERHHZ" imageId="14359974"/>
+    </Metadata>
+    <Page imageFilename="0180_page_305477_line_r1l23_docId_13781.jpg" imageWidth="2121" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426424273" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2121,0 2121,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1902,234 2021,207 2021,139 100,142"/>
+                <Baseline points="112,191 206,189 301,189 396,189 491,189 586,189 680,189 775,189 870,189 965,189 1060,189 1154,191 1249,191 1344,191 1439,192 1534,193 1628,193 1723,193 1818,195 1913,195 2008,195"/>
+                <TextEquiv>
+                    <Unicode>1876 mit der bernischen Domänendirektion ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1876 mit der bernischen Domänendirektion ab.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

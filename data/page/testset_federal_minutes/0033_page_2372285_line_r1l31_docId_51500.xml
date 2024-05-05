@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:54.123+02:00</Created>
+        <LastChange>2020-08-22T11:23:53.551+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749794" pageNr="22" tsid="37762264" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EEHDWWUBFDEALHQQQVWNEPMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNOYDXBIMTWDVTIZTRKXKPWM" imageId="14364966"/>
+    </Metadata>
+    <Page imageFilename="0033_page_2372285_line_r1l31_docId_51500.jpg" imageWidth="1480" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425482066" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1480,0 1480,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 332,240 861,193 1152,233 1380,185 1379,104 1281,140 979,101 913,137 359,152 253,100 100,151"/>
+                <Baseline points="118,198 180,196 242,194 304,192 366,190 429,189 491,188 553,186 615,186 677,184 740,184 802,184 864,184 926,184 988,184 1051,184 1113,184 1175,184 1237,184 1299,185 1362,186"/>
+                <TextEquiv>
+                    <Unicode>Kreisschreiben an die Kantone z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kreisschreiben an die Kantone z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:28.816+02:00</Created>
+        <LastChange>2020-10-08T08:12:30.850+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749897" pageNr="50" tsid="49312336" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HLFFXKURAFURHZNGCCUYOTAR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLOGWWBKEUBEDJRXVEUHHYWW" imageId="14365069"/>
+    </Metadata>
+    <Page imageFilename="0075_page_2373040_line_r1l34_docId_51500.jpg" imageWidth="2412" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425485864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2412,0 2412,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,232 2264,219 2312,131 100,141"/>
+                <Baseline points="116,185 225,185 334,185 443,185 552,183 661,183 770,183 879,183 988,183 1097,181 1206,181 1315,181 1424,181 1533,181 1642,181 1751,181 1860,179 1969,179 2078,179 2187,179 2296,179"/>
+                <TextEquiv>
+                    <Unicode>Gerdil zu verlangen unter ausdrücklicher Hinweisung auf den Umstand,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gerdil zu verlangen unter ausdrücklicher Hinweisung auf den Umstand,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

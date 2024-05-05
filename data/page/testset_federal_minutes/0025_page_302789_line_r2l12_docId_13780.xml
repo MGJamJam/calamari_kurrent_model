@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:55.104+02:00</Created>
+        <LastChange>2020-08-21T22:01:48.075+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744347" pageNr="15" tsid="37655035" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MOLLMLNNCQIWINYVECRIKLFX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZFCNEUTGLTFKUWCKLZJSNSF" imageId="14359742"/>
+    </Metadata>
+    <Page imageFilename="0025_page_302789_line_r2l12_docId_13780.jpg" imageWidth="2158" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426410112" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2158,0 2158,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 1202,195 1315,253 1366,203 2058,196 1947,110 100,136"/>
+                <Baseline points="112,182 208,184 305,184 401,184 498,184 595,184 691,184 788,183 884,182 981,182 1078,182 1174,182 1271,182 1367,182 1464,182 1561,182 1657,184 1754,184 1850,186 1947,188 2044,190"/>
+                <TextEquiv>
+                    <Unicode>wärtige vom 12. Mai (No 2169) betreffend den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wärtige vom 12. Mai (No 2169) betreffend den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

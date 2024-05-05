@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:54.183+02:00</Created>
+        <LastChange>2020-11-15T20:08:43.794+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745885" pageNr="86" tsid="49318702" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NTAUJLHMYCYMDIUTFPVMPNLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CACRKXDWDUFULZNCYQYLULXP" imageId="14361065"/>
+    </Metadata>
+    <Page imageFilename="0125_page_314827_line_r2l33_docId_13796.jpg" imageWidth="2027" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426127361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2027,0 2027,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 1927,196 1789,116 100,138"/>
+                <Baseline points="112,190 202,190 292,190 382,190 472,190 562,188 652,188 742,188 832,186 922,186 1013,184 1103,184 1193,184 1283,183 1373,182 1463,182 1553,182 1643,184 1733,184 1823,186 1914,188"/>
+                <TextEquiv>
+                    <Unicode>nachdem sie mit Schreiben vom 8. Juni abhin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nachdem sie mit Schreiben vom 8. Juni abhin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

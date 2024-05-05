@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:49:23.944+02:00</Created>
+        <LastChange>2020-08-22T11:16:35.612+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747213" pageNr="28" tsid="37759584" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PIENVVZMWRPBIREBMUCDVJPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UVWRWQVYIIMFPXPBNOFAYKCK" imageId="14362393"/>
+    </Metadata>
+    <Page imageFilename="0056_page_390063_line_r2l5_docId_17260.jpg" imageWidth="2222" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425847467" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2222,0 2222,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,241 2103,247 2122,126 1128,162 893,100 592,166 100,114"/>
+                <Baseline points="114,200 213,200 313,200 413,198 512,198 612,198 712,198 811,196 911,196 1011,196 1111,194 1210,194 1310,194 1410,192 1509,192 1609,191 1709,190 1808,190 1908,190 2008,188 2108,188"/>
+                <TextEquiv>
+                    <Unicode>Pot. Auszug aus Finanzdepartement und an die Alkohol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pot. Auszug aus Finanzdepartement und an die Alkohol¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

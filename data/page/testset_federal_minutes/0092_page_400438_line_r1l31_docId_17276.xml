@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:31:36.526+02:00</Created>
+        <LastChange>2020-08-22T11:24:30.914+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748932" pageNr="42" tsid="37762487" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XOIMWTQRURYDTJCGWQGOSVNY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PRDHFGNTNWKSNRELGHDBPUEX" imageId="14364108"/>
+    </Metadata>
+    <Page imageFilename="0092_page_400438_line_r1l31_docId_17276.jpg" imageWidth="1079" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425630851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1079,0 1079,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 419,200 496,227 602,200 712,256 802,213 979,219 978,123 918,110 852,143 699,103 542,140 456,113 313,134 276,100 100,134"/>
+                <Baseline points="117,186 159,186 201,186 243,186 285,186 328,186 370,186 412,186 454,186 496,186 539,186 581,186 623,186 665,186 707,186 750,186 792,186 834,186 876,186 918,184 961,184"/>
+                <TextEquiv>
+                    <Unicode>Laut Mitteilung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Laut Mitteilung des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

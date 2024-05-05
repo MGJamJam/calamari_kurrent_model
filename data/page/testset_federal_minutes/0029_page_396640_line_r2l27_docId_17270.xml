@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:28.467+02:00</Created>
+        <LastChange>2020-08-22T11:22:13.239+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748048" pageNr="27" tsid="37761714" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NZRMUDOVQQZONUAAYDXXHZOY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOPCEYTQPXAGTFIANIMJXEDY" imageId="14363228"/>
+    </Metadata>
+    <Page imageFilename="0029_page_396640_line_r2l27_docId_17270.jpg" imageWidth="2117" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425708885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2117,0 2117,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 1215,206 1406,268 1992,209 2017,119 100,132"/>
+                <Baseline points="113,198 207,196 302,194 396,194 491,192 585,192 680,194 774,194 869,194 963,194 1058,196 1152,196 1247,196 1341,196 1436,196 1530,196 1625,194 1719,192 1814,190 1908,186 2003,182"/>
+                <TextEquiv>
+                    <Unicode>An die deutsche Gesandtschaft: Übermitt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die deutsche Gesandtschaft: Übermitt-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

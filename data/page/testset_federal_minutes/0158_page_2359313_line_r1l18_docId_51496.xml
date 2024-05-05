@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:29.513+02:00</Created>
+        <LastChange>2020-10-08T09:11:32.673+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750134" pageNr="101" tsid="49312485" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ACGMUYBHSTJBJYHNLRJMDBIT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJJLDZCPENBYOUVGEVBSISYD" imageId="14365306"/>
+    </Metadata>
+    <Page imageFilename="0158_page_2359313_line_r1l18_docId_51496.jpg" imageWidth="889" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425492923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 889,0 889,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 152,242 232,193 300,247 381,190 408,218 538,201 573,237 653,202 788,201 789,160 690,123 632,161 502,170 472,139 428,155 396,124 362,146 280,131 250,100 211,133 101,147"/>
+                <Baseline points="113,184 146,186 179,187 212,188 245,190 278,190 311,192 344,192 377,193 410,194 443,194 476,195 509,196 542,196 575,196 608,196 641,196 674,194 707,194 740,194 773,194 807,194"/>
+                <TextEquiv>
+                    <Unicode>behilflich sein wurden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>behilflich sein wurden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

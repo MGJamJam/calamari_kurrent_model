@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:31.339+02:00</Created>
+        <LastChange>2020-11-15T17:52:32.316+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745989" pageNr="65" tsid="49318554" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RYVEJUDOHBYJRZKNYTUNVIVD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AWSXZAHDLVYIXNWVXMGXSLGF" imageId="14361169"/>
+    </Metadata>
+    <Page imageFilename="0095_page_2294137_line_r1l28_docId_51010.jpg" imageWidth="2338" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426064250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2338,0 2338,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,173 664,239 1411,178 2117,221 2238,121 100,132"/>
+                <Baseline points="114,168 219,170 325,170 430,172 536,172 641,172 747,174 852,174 958,174 1063,174 1169,174 1274,174 1380,174 1485,175 1591,176 1696,176 1802,178 1907,180 2013,182 2118,184 2224,186 2253,187"/>
+                <TextEquiv>
+                    <Unicode>erhalten haben? Erwiderung: ja sub 10. Decbr v. J. N. 4894. Uri habe den Empfang angezeigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erhalten haben? Erwiderung: ja sub 10. Decbr v. J. N. 4894. Uri habe den Empfang angezeigt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

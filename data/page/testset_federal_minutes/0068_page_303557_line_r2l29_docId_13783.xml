@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:15.456+02:00</Created>
+        <LastChange>2020-11-18T16:05:36.838+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744416" pageNr="42" tsid="49319335" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UTELMXWWLMDVFMRDVWWNCVHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOEKAVJGPITNINWKTRKNERHO" imageId="14359807"/>
+    </Metadata>
+    <Page imageFilename="0068_page_303557_line_r2l29_docId_13783.jpg" imageWidth="2151" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426414162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2151,0 2151,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2051,228 2051,116 100,123"/>
+                <Baseline points="27,186 112,189 208,191 304,191 400,189 497,189 593,189 689,187 786,187 882,185 978,185 1075,185 1171,183 1267,183 1363,183 1460,183 1556,185 1652,185 1749,187 1845,189 1941,193 2038,197"/>
+                <TextEquiv>
+                    <Unicode>geschrift der schweiz. Lloyd-Rückversicherungsgesellschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>geschrift der schweiz. Lloyd-Rückversicherungsgesellschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

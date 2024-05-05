@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:28.948+02:00</Created>
+        <LastChange>2020-09-21T15:44:46.066+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750813" pageNr="128" tsid="49309787" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KDTCVJCTDBGRWHKJCARWAILO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBCMCWQLHMFPMSLHVYXMTTAW" imageId="14365971"/>
+    </Metadata>
+    <Page imageFilename="0178_page_2434844_line_r2l17_docId_51511.jpg" imageWidth="2312" imageHeight="391">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425321950" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2312,0 2312,391 0,391"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 639,203 730,267 897,208 980,280 1098,211 1327,267 2052,227 2129,291 2229,247 2230,193 2212,192 101,140"/>
+                <Baseline points="113,183 217,187 321,191 425,193 530,195 634,197 738,199 843,201 947,203 1051,205 1156,206 1260,207 1364,209 1468,210 1573,211 1677,213 1781,215 1886,217 1990,219 2094,222 2245,225"/>
+                <TextEquiv>
+                    <Unicode>bourne die Mittheilung, es sei ihm troz aller Anstreng¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bourne die Mittheilung, es sei ihm troz aller Anstreng¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

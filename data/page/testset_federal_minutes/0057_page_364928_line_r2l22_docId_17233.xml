@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:50.701+02:00</Created>
+        <LastChange>2020-11-12T07:13:49.358+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746422" pageNr="36" tsid="49318414" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PWHAYOIPZSPOYGCMWLRGNZVU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TKPFPJNNJTESNRNPZFAFDFHH" imageId="14361602"/>
+    </Metadata>
+    <Page imageFilename="0057_page_364928_line_r2l22_docId_17233.jpg" imageWidth="2053" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426003468" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2053,0 2053,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 1953,191 1690,100 1432,152 1366,101 100,150"/>
+                <Baseline points="111,186 202,183 293,182 385,180 476,180 568,179 659,179 751,179 842,179 934,179 1025,179 1116,180 1208,180 1299,180 1391,180 1482,180 1574,180 1665,180 1757,179 1848,177 1940,176"/>
+                <TextEquiv>
+                    <Unicode>sultat derselben dem Post- und Eisenbahndepa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sultat derselben dem Post- und Eisenbahndepa-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

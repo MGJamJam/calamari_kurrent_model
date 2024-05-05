@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:51.201+02:00</Created>
+        <LastChange>2020-08-22T11:28:55.325+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750374" pageNr="5" tsid="49309155" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QEDIAZNFXFWOANARLFALGFSX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYXIVZLBJPUMNJSBRYUQUGXE" imageId="14365532"/>
+    </Metadata>
+    <Page imageFilename="0005_page_2468836_line_r1l10_docId_51514.jpg" imageWidth="2326" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425304555" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2326,0 2326,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 336,257 638,186 2226,217 2226,125 100,144"/>
+                <Baseline points="113,173 218,175 323,177 428,177 533,179 638,179 743,179 848,179 953,179 1058,179 1163,179 1268,181 1373,181 1478,181 1583,183 1688,183 1793,185 1898,187 2003,190 2108,193 2213,197"/>
+                <TextEquiv>
+                    <Unicode>mit Eingabe, eingelangt am 18. v. Mts., gegen sei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit Eingabe, eingelangt am 18. v. Mts., gegen sei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

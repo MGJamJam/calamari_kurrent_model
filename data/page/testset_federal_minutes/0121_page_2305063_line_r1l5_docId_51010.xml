@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:24.363+02:00</Created>
+        <LastChange>2020-08-22T11:08:59.132+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746049" pageNr="80" tsid="37756676" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LZNRPNXCQSFNGKMOLBRHOPWH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJGSLAGSMGSVXSWOJEJWGWZP" imageId="14361229"/>
+    </Metadata>
+    <Page imageFilename="0121_page_2305063_line_r1l5_docId_51010.jpg" imageWidth="1663" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426066304" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1663,0 1663,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,241 168,189 1247,220 1563,183 1563,140 1471,101 1353,139 101,126"/>
+                <Baseline points="114,171 185,171 257,171 329,171 401,171 473,171 544,173 616,173 688,173 760,173 832,175 903,175 975,175 1047,175 1119,177 1191,177 1262,177 1334,177 1406,177 1478,177 1550,177"/>
+                <TextEquiv>
+                    <Unicode>sämmtlichen Anmeldungsschriften und übrigen Akten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sämmtlichen Anmeldungsschriften und übrigen Akten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

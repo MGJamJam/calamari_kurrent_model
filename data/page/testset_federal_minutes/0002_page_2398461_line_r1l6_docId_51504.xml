@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:27.737+02:00</Created>
+        <LastChange>2020-08-22T11:23:26.478+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749822" pageNr="1" tsid="37762084" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SIXOOVEXSZLRIAWAOBQMCBIK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QURRWXYWJYSGYNVHMHKXDSZG" imageId="14364994"/>
+    </Metadata>
+    <Page imageFilename="0002_page_2398461_line_r1l6_docId_51504.jpg" imageWidth="2386" imageHeight="414">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425424675" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2386,0 2386,414 0,414"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,314 288,247 413,312 1372,239 2286,303 2285,100 2139,193 1667,137 1589,192 1000,144 100,197"/>
+                <Baseline points="114,248 221,248 329,248 437,246 545,246 653,244 761,242 869,241 977,240 1085,238 1193,238 1300,236 1408,234 1516,234 1624,234 1732,234 1840,234 1948,234 2056,234 2164,236 2272,238"/>
+                <TextEquiv>
+                    <Unicode>zeige eingegangen, daß der Aufenthalt des Johannes Schneider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zeige eingegangen, daß der Aufenthalt des Johannes Schneider</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

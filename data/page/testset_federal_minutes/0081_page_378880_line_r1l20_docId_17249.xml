@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:35.834+02:00</Created>
+        <LastChange>2020-08-22T11:17:09.546+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746467" pageNr="55" tsid="37759833" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YDCUURFFXBZFQBNPPDGZWTUH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTGKOWMATNZBFFOJKDFJNUTW" imageId="14361647"/>
+    </Metadata>
+    <Page imageFilename="0081_page_378880_line_r1l20_docId_17249.jpg" imageWidth="2139" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953267" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2139,0 2139,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,208 2039,197 2038,128 1900,101 100,129"/>
+                <Baseline points="114,171 209,171 305,171 400,169 496,169 592,169 687,169 783,169 878,169 974,169 1070,167 1165,167 1261,167 1356,167 1452,167 1548,165 1643,165 1739,165 1834,163 1930,163 2026,161"/>
+                <TextEquiv>
+                    <Unicode>Art. 294, Abs. 2, des Obligationenrechtes auch dem Retentions¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art. 294, Abs. 2, des Obligationenrechtes auch dem Retentions¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

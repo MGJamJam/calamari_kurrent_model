@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:08:19.411+02:00</Created>
+        <LastChange>2020-11-16T10:12:13.417+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744956" pageNr="42" tsid="49318917" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PQYHBJINFUEWMHNYZPOBMHWU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNRCFLJJXCVCNJPEQUKNDONF" imageId="14360347"/>
+    </Metadata>
+    <Page imageFilename="0078_page_370791_line_r1l11_docId_17240.jpg" imageWidth="2096" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426243933" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2096,0 2096,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,229 1996,237 1996,138 1927,128 100,106"/>
+                <Baseline points="115,191 208,191 301,191 394,190 488,189 581,189 674,189 768,189 861,189 954,189 1048,189 1141,191 1234,191 1327,191 1421,191 1514,191 1607,193 1701,193 1794,193 1887,195 1981,195"/>
+                <TextEquiv>
+                    <Unicode>Frankenthal die Auslieferung ausdrücklich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Frankenthal die Auslieferung ausdrücklich nicht</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

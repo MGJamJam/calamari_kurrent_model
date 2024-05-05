@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:02.239+02:00</Created>
+        <LastChange>2020-10-08T08:46:17.747+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750021" pageNr="75" tsid="49312419" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IVKHFWSPZILPRSHZRNCSIBZU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZONESPGHTEHGSQHMLZIIJPF" imageId="14365193"/>
+    </Metadata>
+    <Page imageFilename="0119_page_2369964_line_r2l28_docId_51499.jpg" imageWidth="2045" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425489330" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2045,0 2045,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,248 1572,201 1691,259 1945,202 1945,143 1402,160 1177,100 1023,156 932,117 477,173 352,126 100,175"/>
+                <Baseline points="116,207 206,207 297,205 388,205 479,205 570,205 660,204 751,203 842,203 933,201 1024,201 1114,199 1205,197 1296,197 1387,195 1478,193 1568,193 1659,191 1750,190 1841,189 1932,187"/>
+                <TextEquiv>
+                    <Unicode>zu edifiziren, sofern Hr. Tschudi er für nöthig halten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu edifiziren, sofern Hr. Tschudi er für nöthig halten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

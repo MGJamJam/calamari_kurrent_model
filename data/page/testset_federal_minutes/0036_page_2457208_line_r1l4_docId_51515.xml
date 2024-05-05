@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:55.169+02:00</Created>
+        <LastChange>2020-09-28T08:39:53.932+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519001" pageNr="30" tsid="49307262" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YPRFPHOJNAEWRZRYFGKOMVJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQOXZQKXWPQASUVOTCNPWUDE" imageId="15085934"/>
+    </Metadata>
+    <Page imageFilename="0036_page_2457208_line_r1l4_docId_51515.jpg" imageWidth="1942" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425239847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1942,0 1942,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 517,196 608,252 1131,205 1512,259 1841,207 1842,149 1054,121 838,164 516,100 100,156 100,209"/>
+                <Baseline points="114,190 199,190 285,192 370,192 456,194 542,194 627,196 713,196 798,198 884,198 970,198 1055,200 1141,200 1226,202 1312,202 1398,202 1483,204 1569,204 1654,206 1740,206 1872,209"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="122,150 122,210 187,210 187,150"/>
+                    <TextEquiv>
+                        <Unicode>als</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="208,152 208,212 393,212 393,152"/>
+                    <TextEquiv>
+                        <Unicode>möglich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="426,154 426,214 503,214 503,154"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="535,156 535,216 937,216 937,156"/>
+                    <TextEquiv>
+                        <Unicode>auszuführenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="991,160 991,220 1361,220 1361,160"/>
+                    <TextEquiv>
+                        <Unicode>Korrektionen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1415,164 1415,224 1688,224 1688,164"/>
+                    <TextEquiv>
+                        <Unicode>anzugeben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1721,166 1721,226 1818,226 1818,166"/>
+                    <TextEquiv>
+                        <Unicode>sind</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>als möglich die auszuführenden Korrektionen anzugeben sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>als möglich die auszuführenden Korrektionen anzugeben sind.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

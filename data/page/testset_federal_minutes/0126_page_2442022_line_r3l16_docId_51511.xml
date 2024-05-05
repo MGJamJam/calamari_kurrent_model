@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:47.368+02:00</Created>
+        <LastChange>2020-09-21T14:29:36.529+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750684" pageNr="90" tsid="49309548" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NGOGQCWQUTPLGOCCFATOYLKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PRRQBRUSHMKWGZHACQAVBJOH" imageId="14365842"/>
+    </Metadata>
+    <Page imageFilename="0126_page_2442022_line_r3l16_docId_51511.jpg" imageWidth="2557" imageHeight="408">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425316514" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2557,0 2557,408 0,408"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,252 1953,240 2266,308 2457,188 2271,128 1593,189 101,144"/>
+                <Baseline points="116,207 232,207 348,207 464,209 581,209 697,211 813,213 930,215 1046,218 1162,220 1279,223 1395,225 1511,227 1627,229 1744,229 1860,231 1976,231 2093,231 2209,229 2325,227 2442,225"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug ans politische Departemt zur Kenntnißnahme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug ans politische Departemt zur Kenntnißnahme.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:33.795+02:00</Created>
+        <LastChange>2020-11-09T07:29:31.673+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18746943" pageNr="6" tsid="49318063" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XHCKZFHZSXMDKWYGWBXXIZWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QHBITOLQPFDIYYOUMOTOECUH" imageId="14362123"/>
+    </Metadata>
+    <Page imageFilename="0007_page_389532_line_r2l26_docId_17261.jpg" imageWidth="2330" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425844565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2330,0 2330,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 2230,246 2230,144 1830,114 1746,168 100,122"/>
+                <Baseline points="113,187 218,189 323,191 428,191 533,193 639,193 744,195 849,195 954,195 1059,195 1165,195 1270,193 1375,193 1480,193 1585,193 1691,193 1796,191 1901,191 2006,191 2111,191 2217,193"/>
+                <TextEquiv>
+                    <Unicode>25. Juni 1885 wird den von der "Union Füsse Suisse" vorge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25. Juni 1885 wird den von der "Union Füsse Suisse" vorge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

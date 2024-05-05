@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:15.317+02:00</Created>
+        <LastChange>2020-10-11T21:46:28.289+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749742" pageNr="130" tsid="49313786" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DLAVGKZSWRZZOPCKNFQISAHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WHUWEUMMBCWFRUKOXCYJLTGC" imageId="14364918"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2304392_line_r1l42_docId_51012.jpg" imageWidth="2236" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425555339" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2236,0 2236,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,258 176,205 2086,216 2136,131 100,143"/>
+                <Baseline points="116,189 216,191 316,193 416,193 516,195 616,195 716,195 816,195 916,195 1016,195 1117,193 1217,193 1317,193 1417,193 1517,193 1617,193 1717,193 1817,193 1917,193 2017,195 2118,197 2142,195"/>
+                <TextEquiv>
+                    <Unicode>Das waadtländische Justiz- &amp; Polizeidepartement ersucht sub 23. dieß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das waadtländische Justiz- &amp; Polizeidepartement ersucht sub 23. dieß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

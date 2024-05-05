@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:01.714+02:00</Created>
+        <LastChange>2020-10-07T07:47:57.116+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749725" pageNr="6" tsid="49312192" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XFWLVFIGEAIYOKCWGYGVEPPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WVHALZBZJQZAYMKMYTRLYWFX" imageId="14364901"/>
+    </Metadata>
+    <Page imageFilename="0010_page_2367663_line_r1l27_docId_51496.jpg" imageWidth="1461" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425479986" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1461,0 1461,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,171 818,175 965,239 1024,181 1179,210 1361,162 1361,109 100,139"/>
+                <Baseline points="113,165 174,165 236,165 298,165 359,165 421,165 483,167 544,167 606,167 668,167 730,167 791,169 853,169 915,169 976,169 1038,169 1100,167 1161,167 1223,167 1285,165 1347,163 1371,167"/>
+                <TextEquiv>
+                    <Unicode>rüber Uri sich weitere Prüfung vorbehalte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rüber Uri sich weitere Prüfung vorbehalte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

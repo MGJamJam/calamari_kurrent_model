@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:08.185+02:00</Created>
+        <LastChange>2020-11-18T16:04:46.738+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744413" pageNr="41" tsid="49319333" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RVTJKHIARLJZVEUZQXNISNDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHELNBYJRTQRMZMRDVOYMDVL" imageId="14359804"/>
+    </Metadata>
+    <Page imageFilename="0066_page_301860_line_r3l28_docId_13778.jpg" imageWidth="2193" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426414017" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2193,0 2193,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2093,223 2093,151 1474,104 1374,159 880,100 101,148"/>
+                <Baseline points="112,199 210,197 308,197 407,197 505,197 604,197 702,197 800,197 899,197 997,197 1096,199 1194,199 1292,199 1391,199 1489,201 1588,201 1686,201 1784,201 1883,201 1981,201 2080,199"/>
+                <TextEquiv>
+                    <Unicode>Art. 2. Ziffer 2, des Bundesgesezes vom 3. Juli 1876 vorge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art. 2. Ziffer 2, des Bundesgesezes vom 3. Juli 1876 vorge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

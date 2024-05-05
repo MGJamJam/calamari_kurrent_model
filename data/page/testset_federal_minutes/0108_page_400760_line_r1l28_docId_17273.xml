@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:15:47.597+02:00</Created>
+        <LastChange>2020-08-22T11:24:34.884+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748322" pageNr="104" tsid="37762510" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FNDZKVUUKLGUMOJFZZTCUWKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWCKJZAHEWFPMVNQZEJDQXXJ" imageId="14363502"/>
+    </Metadata>
+    <Page imageFilename="0108_page_400760_line_r1l28_docId_17273.jpg" imageWidth="1662" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425719076" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1662,0 1662,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 211,185 574,234 756,186 928,241 991,184 1102,235 1355,181 1562,211 1531,116 100,114"/>
+                <Baseline points="114,181 185,181 257,181 329,180 400,180 472,180 544,180 615,180 687,180 759,178 831,178 902,178 974,177 1046,177 1117,177 1189,175 1261,174 1332,173 1404,172 1476,170 1548,168"/>
+                <TextEquiv>
+                    <Unicode>zu viel bezogene Fassungen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu viel bezogene Fassungen von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

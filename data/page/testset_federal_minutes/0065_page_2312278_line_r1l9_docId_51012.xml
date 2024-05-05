@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:13.157+02:00</Created>
+        <LastChange>2020-10-11T20:58:01.224+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749480" pageNr="51" tsid="49313580" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JVMEPFFWDVBGYDUFJVZENWCW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDYURBDTTSNTAEMJCYJBBHQG" imageId="14364656"/>
+    </Metadata>
+    <Page imageFilename="0065_page_2312278_line_r1l9_docId_51012.jpg" imageWidth="690" imageHeight="298">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425544354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 690,0 690,298 0,298"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,188 370,176 490,180 522,198 590,178 589,121 513,136 445,123 383,141 268,110 206,140 165,100 100,139"/>
+                <Baseline points="115,171 140,173 166,173 192,173 217,173 243,171 269,171 294,171 320,171 346,170 371,169 397,169 423,169 448,169 474,169 500,167 525,167 551,167 577,169"/>
+                <TextEquiv>
+                    <Unicode>den Bataill. No. 20 &amp; 53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Bataill. No. 20 &amp; 53</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:36.772+02:00</Created>
+        <LastChange>2020-10-06T08:54:08.435+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749833" pageNr="3" tsid="49311498" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DXOBRVTVAPKGJLEIKZTRCJCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUJCSLQUIYHKXCCOQJRVXKKX" imageId="14365005"/>
+    </Metadata>
+    <Page imageFilename="0006_page_2394149_line_r3l4_docId_51505.jpg" imageWidth="811" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425424928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 811,0 811,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,217 239,193 315,230 366,200 416,213 448,192 496,218 552,189 644,203 711,170 710,121 671,100 636,123 391,114 298,145 259,108 210,123 182,107 100,132"/>
+                <Baseline points="116,194 145,192 174,189 203,186 232,184 261,184 290,182 319,181 348,179 377,178 407,178 436,178 465,177 494,176 523,176 552,176 581,175 610,174 639,174 668,173 698,172"/>
+                <TextEquiv>
+                    <Unicode>Tessiner Geistlichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tessiner Geistlichkeit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

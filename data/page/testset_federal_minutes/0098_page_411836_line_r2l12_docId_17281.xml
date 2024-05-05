@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:39:14.442+02:00</Created>
+        <LastChange>2020-08-22T11:25:03.121+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749302" pageNr="48" tsid="37762683" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TRKRLBSPSPYGQYMYIZIBEHHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWJCRGCZUZXBVZMFPLHQJSPI" imageId="14364478"/>
+    </Metadata>
+    <Page imageFilename="0098_page_411836_line_r2l12_docId_17281.jpg" imageWidth="2032" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425592036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2032,0 2032,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,237 987,203 1143,249 1249,194 1419,278 1932,207 1931,106 1107,107 949,168 100,125"/>
+                <Baseline points="113,196 203,196 293,196 383,196 474,196 564,196 654,196 745,196 835,196 925,196 1016,196 1106,194 1196,194 1286,194 1377,193 1467,192 1557,192 1648,190 1738,190 1828,188 1919,188"/>
+                <TextEquiv>
+                    <Unicode>Aktenstücke eingesandt hat gehen dieselben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aktenstücke eingesandt hat gehen dieselben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

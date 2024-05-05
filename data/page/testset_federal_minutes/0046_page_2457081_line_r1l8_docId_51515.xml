@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:15.383+02:00</Created>
+        <LastChange>2020-09-28T08:50:43.776+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519011" pageNr="37" tsid="49307303" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LPGPPRJNCVPCESDRZHHNWFJU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSAIYPZKUTXJJKRJWWJNTGIJ" imageId="15085944"/>
+    </Metadata>
+    <Page imageFilename="0046_page_2457081_line_r1l8_docId_51515.jpg" imageWidth="2328" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425240939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 1657,236 2206,210 2228,134 100,129 100,188"/>
+                <Baseline points="113,175 218,177 323,178 428,179 533,181 638,182 743,183 848,183 953,185 1058,185 1164,185 1269,187 1374,187 1479,187 1584,187 1689,187 1794,189 1899,189 2004,189 2109,189 2254,192"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="107,135 107,195 192,195 192,135"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="235,139 235,199 656,199 656,139"/>
+                    <TextEquiv>
+                        <Unicode>Bundeskanzlei,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="682,142 682,202 750,202 750,142"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="793,143 793,203 845,203 845,143"/>
+                    <TextEquiv>
+                        <Unicode>7.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="854,144 854,204 982,204 982,144"/>
+                    <TextEquiv>
+                        <Unicode>dieß,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1016,145 1016,205 1060,205 1060,145"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1095,145 1095,205 1257,205 1257,145"/>
+                    <TextEquiv>
+                        <Unicode>möchte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1292,147 1292,207 1378,207 1378,147"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1446,147 1446,207 1773,207 1773,147"/>
+                    <TextEquiv>
+                        <Unicode>eingelangten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1833,149 1833,209 2211,209 2211,149"/>
+                    <TextEquiv>
+                        <Unicode>Sekundawechsel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>der Bundeskanzlei, vom 7. dieß, es möchte dem eingelangten Sekundawechsel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Bundeskanzlei, vom 7. dieß, es möchte dem eingelangten Sekundawechsel,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

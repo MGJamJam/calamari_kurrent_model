@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:41.991+02:00</Created>
+        <LastChange>2020-11-17T07:19:56.218+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744566" pageNr="39" tsid="49319207" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KXAGQSQAUSTGQXZUDOHFDYAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUQYMFTEMQMYNRYQSXMBDWRV" imageId="14359957"/>
+    </Metadata>
+    <Page imageFilename="0073_page_306103_line_r1l4_docId_13784.jpg" imageWidth="2201" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426353734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2201,0 2201,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 1761,237 2101,200 2101,112 100,136"/>
+                <Baseline points="112,195 216,195 320,195 424,193 528,193 632,193 736,193 840,193 944,193 1048,193 1152,193 1256,193 1360,193 1464,192 1568,191 1672,191 1776,191 1880,189 1984,189 2088,187"/>
+                <TextEquiv>
+                    <Unicode>2443) zurückverlangte Zeugnis in Pensionssachen David</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2443) zurückverlangte Zeugnis in Pensionssachen David</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

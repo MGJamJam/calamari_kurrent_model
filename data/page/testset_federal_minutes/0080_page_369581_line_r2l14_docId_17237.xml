@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:10.856+02:00</Created>
+        <LastChange>2020-11-12T07:22:18.186+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746500" pageNr="51" tsid="49318430" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AWUCEQWRVKBYPYIZCQMEGIMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LYRPIREBCKYIIBKPULXCGUQP" imageId="14361680"/>
+    </Metadata>
+    <Page imageFilename="0080_page_369581_line_r2l14_docId_17237.jpg" imageWidth="1918" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426005401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1918,0 1918,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1647,228 1818,213 1818,104 1535,166 1197,119 1117,165 1023,117 622,169 100,139"/>
+                <Baseline points="113,192 197,194 282,194 367,194 451,194 536,192 621,192 705,192 790,192 875,190 960,190 1044,190 1129,189 1214,188 1298,188 1383,188 1468,188 1552,188 1637,190 1722,190 1807,192"/>
+                <TextEquiv>
+                    <Unicode>der zuständigen französischen Behörden, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der zuständigen französischen Behörden, und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

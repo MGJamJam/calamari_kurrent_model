@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:08.019+02:00</Created>
+        <LastChange>2020-11-15T17:37:53.896+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745899" pageNr="36" tsid="49318533" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VNASSJIWWPAXLTAFUQRUCLJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCDROCPXFNHAJEBYKSJAEALM" imageId="14361079"/>
+    </Metadata>
+    <Page imageFilename="0054_page_2305042_line_r1l30_docId_51010.jpg" imageWidth="2359" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426060122" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2359,0 2359,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,243 2201,218 2259,100 100,133"/>
+                <Baseline points="115,186 221,188 328,188 434,190 541,190 647,190 754,188 860,188 967,187 1073,186 1180,184 1286,184 1393,182 1499,180 1606,180 1712,178 1819,178 1925,176 2032,176 2138,176 2245,176 2271,177"/>
+                <TextEquiv>
+                    <Unicode>J. A. an das Depart. z. Kenntnißnahme unter Anschluß der fragl. Abschrift.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>J. A. an das Depart. z. Kenntnißnahme unter Anschluß der fragl. Abschrift.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

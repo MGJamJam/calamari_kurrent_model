@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:25.894+02:00</Created>
+        <LastChange>2020-11-16T07:46:02.624+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745493" pageNr="72" tsid="49318801" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UQJMLQWCBVJOLGDUAAXBHTSX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GAZHLFKIAFALNQNNVJYMXYGR" imageId="14360677"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2257998_line_r2l28_docId_51003.jpg" imageWidth="2327" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426193103" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2327,0 2327,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;} textStyle {offset:46; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="100,205 1690,285 1754,222 2103,268 2227,198 1712,193 1641,136 575,173 194,100 101,149"/>
+                <Baseline points="114,192 219,194 324,196 429,198 534,200 639,200 744,202 849,204 954,206 1059,206 1164,208 1269,210 1374,211 1479,212 1584,214 1689,216 1794,218 1899,220 2004,222 2109,224 2214,226"/>
+                <TextEquiv>
+                    <Unicode>Kts. Thurgau unter in 15. ds. M. eingesandtes Geser vom nämlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kts. Thurgau unter in 15. ds. M. eingesandtes Geser vom nämlichen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

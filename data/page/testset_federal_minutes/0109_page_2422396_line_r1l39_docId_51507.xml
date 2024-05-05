@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:50.545+02:00</Created>
+        <LastChange>2020-10-06T07:52:34.684+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750608" pageNr="77" tsid="49310749" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PXBHZSRBRXJUQXGPPONBCTXA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZIEQVXVPBKALMJSYRCCJWXWF" imageId="14365766"/>
+    </Metadata>
+    <Page imageFilename="0109_page_2422396_line_r1l39_docId_51507.jpg" imageWidth="2309" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425378321" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2309,0 2309,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2038,253 2208,228 2209,172 370,150 298,100 101,146"/>
+                <Baseline points="113,184 217,184 321,186 425,187 529,188 633,190 737,192 841,192 945,194 1049,196 1154,196 1258,198 1362,200 1466,202 1570,202 1674,204 1778,206 1882,207 1986,208 2090,210 2195,210 2220,213"/>
+                <TextEquiv>
+                    <Unicode>stung zu Gunsten des leztern zum Gegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stung zu Gunsten des leztern zum Gegen¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

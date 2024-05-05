@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:07.575+02:00</Created>
+        <LastChange>2020-08-22T11:15:08.488+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18746922" pageNr="3" tsid="37758886" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MWBKQVVCFAFUSJJPWFHCXTRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POLMXILXILAFMRDEBOMCNTOQ" imageId="14362102"/>
+    </Metadata>
+    <Page imageFilename="0004_page_388510_line_r2l34_docId_17258.jpg" imageWidth="2040" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425844137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2040,0 2040,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,263 550,207 1750,249 1940,213 1940,114 1510,167 978,109 834,165 687,105 100,151"/>
+                <Baseline points="113,202 203,200 294,200 385,200 475,198 566,198 657,198 747,198 838,198 929,198 1020,198 1110,198 1201,198 1292,196 1382,196 1473,196 1564,194 1654,194 1745,192 1836,190 1927,188"/>
+                <TextEquiv>
+                    <Unicode>hin, behufs Wasserableitung mittels einer daselbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hin, behufs Wasserableitung mittels einer daselbst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

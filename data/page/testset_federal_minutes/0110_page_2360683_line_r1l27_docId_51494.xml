@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:45.194+02:00</Created>
+        <LastChange>2020-10-11T21:17:49.634+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749582" pageNr="83" tsid="49313655" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MQYTCCIXALILRXNAZOPGMSAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGFWBUMKMKHJTMMFDBAXKFOQ" imageId="14364758"/>
+    </Metadata>
+    <Page imageFilename="0110_page_2360683_line_r1l27_docId_51494.jpg" imageWidth="2402" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425548842" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2402,0 2402,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 1613,190 1821,257 2282,210 2302,139 100,126"/>
+                <Baseline points="114,190 222,188 331,187 440,186 548,186 657,186 766,186 874,186 983,186 1092,186 1201,188 1309,188 1418,188 1527,190 1635,190 1744,192 1853,192 1961,194 2070,196 2179,196 2288,198"/>
+                <TextEquiv>
+                    <Unicode>so mehr entgangen, als die diplomatische Tribün sehr hoch und zudem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>so mehr entgangen, als die diplomatische Tribün sehr hoch und zudem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

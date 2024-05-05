@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:45.148+02:00</Created>
+        <LastChange>2020-10-06T13:50:51.446+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750305" pageNr="119" tsid="49311893" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IAKPCOTHADIOEZAZDZYXUEBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHKTFNWKXVGXJBTHYUIXJAXT" imageId="14365463"/>
+    </Metadata>
+    <Page imageFilename="0187_page_2389968_line_r1l34_docId_51502.jpg" imageWidth="1476" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425441342" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1476,0 1476,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,245 1376,223 1375,150 1060,161 997,100 831,168 539,117 426,171 335,141 253,180 211,139 100,169"/>
+                <Baseline points="120,214 181,214 243,212 305,212 367,210 429,210 491,210 553,210 615,208 677,208 739,207 800,206 862,206 924,204 986,204 1048,202 1110,201 1172,200 1234,198 1296,195 1358,192 1372,194"/>
+                <TextEquiv>
+                    <Unicode>An das Konsulat in Cincinnati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An das Konsulat in Cincinnati.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

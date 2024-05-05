@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:09.820+02:00</Created>
+        <LastChange>2020-10-08T09:23:57.677+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750186" pageNr="111" tsid="49312509" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DFSDUMBRTTNHAOJPERUNVOOY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWWMPNDQHFHTHLAYAJVNXYYU" imageId="14365358"/>
+    </Metadata>
+    <Page imageFilename="0177_page_2377373_line_r2l6_docId_51498.jpg" imageWidth="2361" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425494247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2361,0 2361,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 251,249 574,195 2260,229 2261,140 2188,133 101,144"/>
+                <Baseline points="115,185 221,187 328,189 434,189 541,191 648,193 754,194 861,195 967,197 1074,199 1181,201 1287,203 1394,205 1500,206 1607,207 1714,209 1820,211 1927,213 2033,215 2140,217 2247,219"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 78. Sizung wurde verlesen &amp; nebst den Präsidial-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 78. Sizung wurde verlesen &amp; nebst den Präsidial-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

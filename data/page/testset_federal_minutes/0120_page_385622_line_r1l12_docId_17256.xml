@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:47:19.635+02:00</Created>
+        <LastChange>2020-08-22T11:18:30.978+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747118" pageNr="66" tsid="37760458" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VGSPEJAOTAQIVQWPCERYZLEA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKGQFMEBENAQYELQOZDCDYJR" imageId="14362298"/>
+    </Metadata>
+    <Page imageFilename="0120_page_385622_line_r1l12_docId_17256.jpg" imageWidth="2185" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425898207" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2185,0 2185,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2069,229 2085,120 100,153"/>
+                <Baseline points="112,188 210,188 308,188 406,188 504,188 602,188 700,188 798,188 896,186 994,186 1092,186 1190,186 1288,184 1386,184 1484,184 1582,184 1680,184 1778,184 1876,186 1974,186 2072,188"/>
+                <TextEquiv>
+                    <Unicode>nen Soldaten Gredig, nämlich dem Alexander Gredig, geb. 1827,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nen Soldaten Gredig, nämlich dem Alexander Gredig, geb. 1827,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

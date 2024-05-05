@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:08.054+02:00</Created>
+        <LastChange>2020-11-15T17:28:59.017+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745839" pageNr="16" tsid="49318522" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NTISAUHTBECTQSFLTDOVTNJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SUZUDSXLJILCXBXNJCYVYFBD" imageId="14361019"/>
+    </Metadata>
+    <Page imageFilename="0026_page_2305075_line_r2l34_docId_51010.jpg" imageWidth="2281" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426057137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2281,0 2281,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 321,254 751,180 2001,209 2181,175 2181,118 100,133"/>
+                <Baseline points="114,182 216,182 319,182 421,180 524,180 627,180 729,178 832,178 934,176 1037,176 1140,175 1242,174 1345,174 1447,172 1550,172 1653,172 1755,170 1858,170 1960,170 2063,168 2166,168 2202,169"/>
+                <TextEquiv>
+                    <Unicode>den Bahnpostbeamten u. Bediensteten vorläufig angemessene Fahrtent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Bahnpostbeamten u. Bediensteten vorläufig angemessene Fahrtent¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

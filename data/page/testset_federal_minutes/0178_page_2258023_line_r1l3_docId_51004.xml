@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:44.993+02:00</Created>
+        <LastChange>2020-11-16T08:32:51.639+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745711" pageNr="148" tsid="49318850" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GANGPCWTNURFQYGOVFZAXVRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXKKCCIKFBMCANYZEMTUKNZT" imageId="14360891"/>
+    </Metadata>
+    <Page imageFilename="0178_page_2258023_line_r1l3_docId_51004.jpg" imageWidth="520" imageHeight="272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426203525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 520,0 520,272 0,272"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,168 130,172 177,155 208,163 252,154 279,171 302,155 420,157 419,113 325,115 309,100 285,100 239,123 170,101 149,117 126,104 100,115"/>
+                <Baseline points="114,147 140,149 167,148 193,147 220,147 246,145 273,144 299,143 326,143 352,143 379,143 406,143"/>
+                <TextEquiv>
+                    <Unicode>Pulverstam¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pulverstam¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

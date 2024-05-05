@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:16.760+02:00</Created>
+        <LastChange>2020-10-11T20:38:32.462+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749418" pageNr="32" tsid="49313525" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ONUIVRDUYFUUCBWHOXKRBITF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYCQMSLJFNXKOYJJARTOSUEH" imageId="14364594"/>
+    </Metadata>
+    <Page imageFilename="0038_page_2361740_line_r2l20_docId_51494.jpg" imageWidth="2155" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425541695" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2155,0 2155,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,269 1936,258 2055,237 2055,131 1538,185 1330,101 971,100 915,157 734,127 464,197 276,116 100,180"/>
+                <Baseline points="113,218 209,218 306,220 402,220 499,222 595,222 692,222 788,222 885,222 981,222 1078,222 1174,222 1271,222 1367,222 1464,222 1560,222 1657,222 1753,222 1850,222 1946,222 2043,222"/>
+                <TextEquiv>
+                    <Unicode>Namens einer Frau Kipfer von Lauferswyl stellt Hr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Namens einer Frau Kipfer von Lauferswyl stellt Hr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:25.722+02:00</Created>
+        <LastChange>2020-10-11T20:28:30.542+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749362" pageNr="11" tsid="49313474" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WZUARMWIVNJZFSDEXCMKDKMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTFNHSLUAOLIJHMRWWLLLBDV" imageId="14364538"/>
+    </Metadata>
+    <Page imageFilename="0014_page_2305577_line_r1l15_docId_51012.jpg" imageWidth="2305" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425538756" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2305,0 2305,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 1865,233 2205,143 100,132"/>
+                <Baseline points="112,183 215,183 319,183 423,183 527,185 631,185 735,185 839,185 943,185 1047,187 1151,187 1254,187 1358,187 1462,189 1566,189 1670,189 1774,189 1878,189 1982,189 2086,191 2190,191"/>
+                <TextEquiv>
+                    <Unicode>Albert Curti in St. Gallen, welcher längere Zeit landesabwesend war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Albert Curti in St. Gallen, welcher längere Zeit landesabwesend war</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

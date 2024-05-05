@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:22:17.068+02:00</Created>
+        <LastChange>2020-08-22T11:26:23.063+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748557" pageNr="169" tsid="37763187" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DWVFJPTDMIGABTRMSZSRXXCK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXMXABEJHAMRAMHBLVXGBDJQ" imageId="14363737"/>
+    </Metadata>
+    <Page imageFilename="0174_page_397458_line_r2l29_docId_17270.jpg" imageWidth="1963" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425728108" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1963,0 1963,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,236 263,275 396,211 698,278 778,214 1058,207 1279,275 1404,205 1516,261 1863,213 1862,149 1524,106 1337,160 1076,100 876,163 596,103 100,167"/>
+                <Baseline points="114,206 200,204 287,202 374,202 461,200 548,200 634,198 721,198 808,196 895,196 982,196 1068,196 1155,194 1242,194 1329,194 1416,194 1502,194 1589,195 1676,196 1763,196 1850,196"/>
+                <TextEquiv>
+                    <Unicode>nung im Betrage von Fr. 150 zu begleichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nung im Betrage von Fr. 150 zu begleichen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

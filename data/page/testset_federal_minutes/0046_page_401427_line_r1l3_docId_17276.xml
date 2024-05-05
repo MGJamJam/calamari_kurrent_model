@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:55:01.756+02:00</Created>
+        <LastChange>2020-08-22T11:16:53.233+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747492" pageNr="17" tsid="37759728" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QKYDMLQBMFZMAYOJKBJZQHRE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJBSKNBEQORFGOUPKVHDFPEK" imageId="14362672"/>
+    </Metadata>
+    <Page imageFilename="0046_page_401427_line_r1l3_docId_17276.jpg" imageWidth="2397" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425800975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2397,0 2397,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,255 1622,202 1879,261 2297,205 2296,100 100,148"/>
+                <Baseline points="115,214 223,210 331,208 440,204 548,203 657,202 765,200 873,199 982,198 1090,198 1199,198 1307,196 1415,196 1524,196 1632,196 1741,196 1849,196 1957,194 2066,194 2174,192 2283,192"/>
+                <TextEquiv>
+                    <Unicode>Vögeli, in Rüti, gewesener Soldat im Schützenbataillon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vögeli, in Rüti, gewesener Soldat im Schützenbataillon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:34.644+02:00</Created>
+        <LastChange>2020-08-22T11:21:53.952+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748009" pageNr="18" tsid="37761627" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OEBLFSWHKSKXTGQPVKQSGOBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQOQFANVMYVLVYDHLUYYGCXB" imageId="14363189"/>
+    </Metadata>
+    <Page imageFilename="0018_page_402215_line_r1l4_docId_17273.jpg" imageWidth="2294" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425707631" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2294,0 2294,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 351,270 548,208 945,270 1315,203 2194,235 2194,151 2038,124 100,119"/>
+                <Baseline points="113,198 216,198 319,198 423,198 526,200 629,200 733,200 836,200 939,201 1043,201 1146,201 1249,201 1353,201 1456,201 1559,201 1663,201 1766,200 1869,200 1973,198 2076,197 2180,195"/>
+                <TextEquiv>
+                    <Unicode>Bedingungen nicht befolgt würden, oder sich Mißstände er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bedingungen nicht befolgt würden, oder sich Mißstände er-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

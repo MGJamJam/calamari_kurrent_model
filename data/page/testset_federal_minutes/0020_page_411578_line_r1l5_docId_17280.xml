@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:26:18.789+02:00</Created>
+        <LastChange>2020-08-22T11:22:25.536+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748709" pageNr="9" tsid="37761770" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OXLTCBBSSGAPXUMOOLGBNXAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGBMSQBOKZRESFCXFGLYISCA" imageId="14363889"/>
+    </Metadata>
+    <Page imageFilename="0020_page_411578_line_r1l5_docId_17280.jpg" imageWidth="675" imageHeight="387">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425626412" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 675,0 675,387 0,387"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,279 484,282 575,231 574,132 505,119 442,155 365,115 310,132 243,105 208,119 100,103"/>
+                <Baseline points="116,210 142,208 168,205 194,204 220,204 246,203 272,202 298,202 324,202 351,202 377,202 403,204 429,204 455,204 481,204 507,203 533,202 560,200"/>
+                <TextEquiv>
+                    <Unicode>Wahlanzeige.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wahlanzeige.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

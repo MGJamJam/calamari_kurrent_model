@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:35.369+02:00</Created>
+        <LastChange>2020-10-06T09:09:33.918+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749904" pageNr="19" tsid="49311548" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZEGZPNHUJEENXSCPMAXXEPSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PKAHKYWJHZDMPEUDYJLOAZGT" imageId="14365076"/>
+    </Metadata>
+    <Page imageFilename="0032_page_2393660_line_r2l20_docId_51503.jpg" imageWidth="2308" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425427094" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2308,0 2308,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 1623,184 1725,248 2208,199 2208,107 100,154"/>
+                <Baseline points="113,186 217,184 321,184 425,184 529,184 633,184 737,184 841,182 945,182 1049,182 1154,182 1258,182 1362,182 1466,182 1570,180 1674,180 1778,180 1882,180 1986,178 2090,178 2195,176"/>
+                <TextEquiv>
+                    <Unicode>erledigte und seit einem Jahre unbesezte Adjunktenstelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>erledigte und seit einem Jahre unbesezte Adjunktenstelle</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

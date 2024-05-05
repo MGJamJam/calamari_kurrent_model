@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:31.945+02:00</Created>
+        <LastChange>2020-11-15T18:13:51.942+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746119" pageNr="106" tsid="49318585" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YNGBOQQPBFIXUBBOEQYHSCMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGHZNQSWDUAZLYLXNJTOWLSI" imageId="14361299"/>
+    </Metadata>
+    <Page imageFilename="0154_page_2294670_line_r3l22_docId_51010.jpg" imageWidth="2185" imageHeight="326">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426069806" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2185,0 2185,326 0,326"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 2085,188 1995,110 100,114"/>
+                <Baseline points="115,175 212,177 310,177 408,179 506,179 604,179 701,179 799,181 897,181 995,181 1093,181 1190,181 1288,181 1386,181 1484,183 1582,183 1679,183 1777,183 1875,183 1973,185 2071,185 2103,187"/>
+                <TextEquiv>
+                    <Unicode>Kanton entgegenstehe u. auch keine Gebühren erhoben werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kanton entgegenstehe u. auch keine Gebühren erhoben werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

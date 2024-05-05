@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:20.097+02:00</Created>
+        <LastChange>2020-11-18T17:11:21.834+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744472" pageNr="71" tsid="49319349" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IIZIWNWECFZLVAGOJNXAEDQM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWYFVCNJTQDCTZYDHILRTKWW" imageId="14359863"/>
+    </Metadata>
+    <Page imageFilename="0106_page_300933_line_r2l31_docId_13779.jpg" imageWidth="616" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426418123" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 616,0 616,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,177 208,172 331,231 382,190 475,193 516,175 516,131 470,131 434,100 349,139 308,110 285,121 246,100 192,133 100,141"/>
+                <Baseline points="112,169 138,167 164,167 190,165 216,165 242,165 268,165 294,165 321,165 347,165 373,166 399,167 425,167 451,167 477,167 504,165 534,167"/>
+                <TextEquiv>
+                    <Unicode>nisnahme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nisnahme.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

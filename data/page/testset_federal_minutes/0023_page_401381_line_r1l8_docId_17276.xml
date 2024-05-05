@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:26:39.660+02:00</Created>
+        <LastChange>2020-10-13T21:03:59.579+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748725" pageNr="10" tsid="49315237" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FBJOKPFEHPGCBEDYUXUUNVVN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJILVIJGMEWEPGIGNJWGCBZY" imageId="14363905"/>
+    </Metadata>
+    <Page imageFilename="0023_page_401381_line_r1l8_docId_17276.jpg" imageWidth="2451" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425626556" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2451,0 2451,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,249 1779,251 2274,219 2351,121 1195,167 864,111 603,172 255,103 100,168"/>
+                <Baseline points="114,203 225,203 336,201 447,199 558,199 669,197 780,197 891,195 1002,195 1113,193 1225,193 1336,191 1447,191 1558,189 1669,189 1780,188 1891,187 2002,187 2113,185 2224,185 2336,183"/>
+                <TextEquiv>
+                    <Unicode>Rossen schweizerischerseits auch einzutreten habe, wenn eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rossen schweizerischerseits auch einzutreten habe, wenn eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

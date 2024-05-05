@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:26.016+02:00</Created>
+        <LastChange>2020-11-12T07:47:24.137+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746742" pageNr="92" tsid="49318483" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YHSUGKVYZYJQQCTFSXVWPVDP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQDTLETBZRZQCYZSYPKESDZJ" imageId="14361922"/>
+    </Metadata>
+    <Page imageFilename="0155_page_368158_line_r1l24_docId_17237.jpg" imageWidth="2084" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426010892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2084,0 2084,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 1729,188 1882,236 1984,209 1984,134 100,132"/>
+                <Baseline points="113,185 205,186 298,186 391,186 484,186 577,186 670,186 763,186 856,185 949,185 1042,185 1134,185 1227,183 1320,183 1413,183 1506,182 1599,182 1692,180 1785,180 1878,179 1971,177"/>
+                <TextEquiv>
+                    <Unicode>Der Schuler kam Kantonalen Fremdenbüreau zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Schuler kam Kantonalen Fremdenbüreau zur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

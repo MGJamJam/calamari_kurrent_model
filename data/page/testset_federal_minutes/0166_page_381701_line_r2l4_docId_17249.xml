@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:38:51.469+02:00</Created>
+        <LastChange>2020-08-22T11:19:50.862+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746709" pageNr="108" tsid="37760994" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XGEONNQBZJWUGLVTETTIGDZE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JQYGIWNXCRVENDJMXNZBWXOZ" imageId="14361889"/>
+    </Metadata>
+    <Page imageFilename="0166_page_381701_line_r2l4_docId_17249.jpg" imageWidth="1931" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425961491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1931,0 1931,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 1831,194 1804,121 100,132"/>
+                <Baseline points="112,184 197,184 282,184 367,184 453,184 538,184 623,184 709,184 794,184 879,184 965,184 1050,182 1135,182 1220,182 1306,182 1391,182 1476,182 1562,182 1647,182 1732,182 1818,182"/>
+                <TextEquiv>
+                    <Unicode>Die Französische Botschaft verlangt die Ausliefer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Französische Botschaft verlangt die Ausliefer¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

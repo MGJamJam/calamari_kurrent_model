@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:18.550+02:00</Created>
+        <LastChange>2020-09-28T08:20:17.635+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518982" pageNr="14" tsid="49307179" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QXCITLALVNFNCFVNEJVJCSUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNVRGLYHCRJESFIKGNNQXTJF" imageId="15085915"/>
+    </Metadata>
+    <Page imageFilename="0017_page_2457239_line_r1l20_docId_51515.jpg" imageWidth="2365" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425237434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2365,0 2365,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,179 1962,218 2265,140 100,130 100,179"/>
+                <Baseline points="112,160 218,162 325,164 432,166 539,166 646,168 753,168 860,168 967,168 1074,170 1181,170 1287,170 1394,170 1501,170 1608,172 1715,172 1822,172 1929,174 2036,174 2143,176 2250,178"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="116,120 116,180 183,180 183,120"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="223,124 223,184 511,184 511,124"/>
+                    <TextEquiv>
+                        <Unicode>Regierung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="565,127 565,187 639,187 639,127"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="686,128 686,188 772,188 772,128"/>
+                    <TextEquiv>
+                        <Unicode>Ur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="860,128 860,188 947,188 947,128"/>
+                    <TextEquiv>
+                        <Unicode>sub</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="974,128 974,188 1014,188 1014,128"/>
+                    <TextEquiv>
+                        <Unicode>11</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1047,130 1047,190 1195,190 1195,130"/>
+                    <TextEquiv>
+                        <Unicode>dieß,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1222,130 1222,190 1309,190 1309,130"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1363,130 1363,190 1430,190 1430,130"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1463,130 1463,190 1496,190 1496,130"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1523,131 1523,191 1597,191 1597,131"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1631,132 1631,192 1992,192 1992,132"/>
+                    <TextEquiv>
+                        <Unicode>Irrenanstalt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w13" custom="readingOrder {index:12;}">
+                    <Coords points="2040,134 2040,194 2080,194 2080,134"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w14" custom="readingOrder {index:13;}">
+                    <Coords points="2120,136 2120,196 2234,196 2234,136"/>
+                    <TextEquiv>
+                        <Unicode>Aar</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>die Regierung von Uri sub 11. dieß, daß die in der Irrenanstalt zu Agram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Regierung von Uri sub 11. dieß, daß die in der Irrenanstalt zu Agram</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

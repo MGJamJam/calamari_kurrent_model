@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:52.239+02:00</Created>
+        <LastChange>2020-08-22T11:07:25.329+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745947" pageNr="50" tsid="37756088" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IATAGMCHXLSWIGJFKYPYLTTT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VFSEMJECVBMUVRJDISAHPNWU" imageId="14361127"/>
+    </Metadata>
+    <Page imageFilename="0076_page_2295633_line_r2l26_docId_51010.jpg" imageWidth="1962" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426062129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1962,0 1962,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 825,195 890,244 1107,193 1862,202 1780,131 1338,163 1275,100 1195,163 1047,118 786,162 731,115 619,162 559,109 100,147"/>
+                <Baseline points="113,193 199,193 286,191 373,191 460,191 547,191 633,191 720,191 807,191 894,191 981,191 1067,191 1154,191 1241,191 1328,191 1415,191 1501,193 1588,193 1675,195 1762,196 1849,197"/>
+                <TextEquiv>
+                    <Unicode>Auf den Antrag des Departements wurde beschlossen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf den Antrag des Departements wurde beschlossen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

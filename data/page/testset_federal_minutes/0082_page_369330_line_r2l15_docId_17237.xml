@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:17.941+02:00</Created>
+        <LastChange>2020-08-22T11:16:20.180+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746507" pageNr="52" tsid="37759463" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XEEZPTWDMKCYHZYRBLIMQYLI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITMJTAIMLIMBZSNLLOPDACZO" imageId="14361687"/>
+    </Metadata>
+    <Page imageFilename="0082_page_369330_line_r2l15_docId_17237.jpg" imageWidth="2047" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426005518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2047,0 2047,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 490,256 603,199 1895,211 1947,138 833,100 727,162 100,156"/>
+                <Baseline points="111,190 202,190 293,190 384,190 475,190 567,190 658,188 749,188 840,186 931,186 1023,184 1114,184 1205,182 1296,182 1387,180 1479,180 1570,178 1661,178 1752,178 1843,178 1935,178"/>
+                <TextEquiv>
+                    <Unicode>vom 19. Januar No. 260) behufs Weiterreise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 19. Januar No. 260) behufs Weiterreise</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

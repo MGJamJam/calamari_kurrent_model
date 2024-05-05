@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:07.298+02:00</Created>
+        <LastChange>2020-11-16T08:40:20.047+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745733" pageNr="157" tsid="49318855" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QOLJUHBWPFCKVZTABJIGTHLM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJFSAZGTXURZWSWCPEHTRXKN" imageId="14360913"/>
+    </Metadata>
+    <Page imageFilename="0189_page_2261079_line_r1l25_docId_51002.jpg" imageWidth="2336" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426204852" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2336,0 2336,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,248 377,193 895,256 1139,193 2236,199 2055,119 100,127"/>
+                <Baseline points="113,185 218,185 324,185 429,185 535,185 640,187 746,187 851,187 957,187 1062,187 1168,187 1273,187 1379,187 1484,187 1590,187 1695,187 1801,187 1906,187 2012,185 2117,185 2223,183"/>
+                <TextEquiv>
+                    <Unicode>Kantonen und der eidgenössischen Militärverwaltung das Schieß¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kantonen und der eidgenössischen Militärverwaltung das Schieß¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

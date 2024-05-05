@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:59.038+02:00</Created>
+        <LastChange>2020-09-22T15:27:18.230+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519066" pageNr="74" tsid="49307513" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YLRYDIAAUIVQZTWHRZQZLEPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPKDZVQOPWTJLMFFJMIPMOPV" imageId="15085999"/>
+    </Metadata>
+    <Page imageFilename="0101_page_2456896_line_r1l32_docId_51515.jpg" imageWidth="627" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 627,0 627,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 182,197 214,230 257,207 299,227 335,194 384,236 442,207 468,230 527,217 527,119 452,129 429,106 403,106 345,126 283,106 237,136 198,100 100,110 100,188"/>
+                <Baseline points="117,179 143,179 169,177 195,177 221,177 247,175 273,175 299,175 326,175 352,175 378,175 404,177 430,177 456,177 482,178 509,179"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="145,135 145,195 436,195 436,135"/>
+                    <TextEquiv>
+                        <Unicode>Verfügung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Verfügung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

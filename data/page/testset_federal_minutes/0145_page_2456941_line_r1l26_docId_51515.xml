@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:22.789+02:00</Created>
+        <LastChange>2020-09-28T10:36:47.676+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519110" pageNr="107" tsid="49307643" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CIVLRHYFEYLMLREHGJOYEJRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HEEBGFEXEPZQJWQLLILYWPFM" imageId="15086043"/>
+    </Metadata>
+    <Page imageFilename="0145_page_2456941_line_r1l26_docId_51515.jpg" imageWidth="2316" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425251620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2316,0 2316,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,200 2070,177 2133,231 2216,116 100,154 101,200"/>
+                <Baseline points="114,181 218,179 323,179 427,179 532,177 636,177 741,177 845,175 950,175 1054,173 1159,173 1263,172 1368,171 1472,169 1577,169 1681,167 1786,167 1890,165 1995,165 2099,163 2204,161"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="118,140 118,200 189,200 189,140"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="260,139 260,199 331,199 331,139"/>
+                    <TextEquiv>
+                        <Unicode>18.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="353,138 353,198 594,198 594,138"/>
+                    <TextEquiv>
+                        <Unicode>Dezember</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="637,137 637,197 723,197 723,137"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="751,136 751,196 822,196 822,136"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="894,133 894,193 1185,193 1185,133"/>
+                    <TextEquiv>
+                        <Unicode>Beifügen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1207,132 1207,192 1293,192 1293,132"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1321,131 1321,191 1406,191 1406,131"/>
+                    <TextEquiv>
+                        <Unicode>nun</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1441,129 1441,189 1506,189 1506,129"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1549,127 1549,187 1926,187 1926,127"/>
+                    <TextEquiv>
+                        <Unicode>Niederlassung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1976,124 1976,184 2047,184 2047,124"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="2076,122 2076,182 2218,182 2218,122"/>
+                    <TextEquiv>
+                        <Unicode>Thees</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vom 18. Dezember mit dem Beifügen, daß nun die Niederlassung des Theez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 18. Dezember mit dem Beifügen, daß nun die Niederlassung des Theez</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:13.665+02:00</Created>
+        <LastChange>2020-11-18T17:05:57.706+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744469" pageNr="69" tsid="49319347" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YBUCLTMOMOXQTJEMBOAUZZJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AKPKTWLTQFDZLGFANZBKXQFM" imageId="14359860"/>
+    </Metadata>
+    <Page imageFilename="0104_page_305260_line_r1l31_docId_13783.jpg" imageWidth="1040" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426417858" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1040,0 1040,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,236 171,196 280,188 360,216 445,187 665,187 730,228 870,188 940,203 939,131 856,100 600,147 429,112 308,144 250,118 207,144 160,114 100,132"/>
+                <Baseline points="114,187 154,185 195,184 235,183 276,183 317,181 357,181 398,181 438,181 479,179 520,179 560,179 601,179 641,179 682,179 723,179 763,179 804,179 844,179 885,179 926,179 954,176"/>
+                <TextEquiv>
+                    <Unicode>Unter Aktenrückschluß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unter Aktenrückschluß.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

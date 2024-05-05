@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:53.395+02:00</Created>
+        <LastChange>2020-09-17T10:04:45.689+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750377" pageNr="6" tsid="49309160" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OTFHBCVZKPVIBDMXNDZYEPMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJSIHATDSCLWUVPEDXKCRRCP" imageId="14365535"/>
+    </Metadata>
+    <Page imageFilename="0006_page_2438987_line_r5l5_docId_51511.jpg" imageWidth="2290" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425304687" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2290,0 2290,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 1811,224 2206,200 2216,145 1909,103 1785,162 1723,112 101,100"/>
+                <Baseline points="115,170 218,172 321,174 424,178 527,178 630,180 733,182 836,184 939,185 1042,186 1145,188 1248,188 1351,190 1454,190 1557,192 1660,192 1763,194 1866,194 1969,196 2072,196 2175,198"/>
+                <TextEquiv>
+                    <Unicode>dem weitern Begehren um Aufhebung der von den Kantonen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dem weitern Begehren um Aufhebung der von den Kantonen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

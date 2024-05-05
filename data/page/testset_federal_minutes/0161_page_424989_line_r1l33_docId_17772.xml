@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:48.748+02:00</Created>
+        <LastChange>2020-08-22T11:26:54.134+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749518" pageNr="72" tsid="37763386" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ARRKTZFHWJERHBOADXLJIZPA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FCIZYTMXYWQHMZMIRLIIVSHR" imageId="14364694"/>
+    </Metadata>
+    <Page imageFilename="0161_page_424989_line_r1l33_docId_17772.jpg" imageWidth="1398" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425595361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1398,0 1398,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 270,224 329,276 472,205 645,215 707,273 924,272 1008,224 1126,259 1298,237 1297,105 949,102 735,168 492,158 421,105 264,162 184,116 100,166"/>
+                <Baseline points="113,202 171,202 230,201 288,200 347,200 405,200 464,200 522,199 581,199 639,199 698,199 757,199 815,197 874,197 932,197 991,196 1049,196 1108,195 1166,194 1225,193 1284,193"/>
+                <TextEquiv>
+                    <Unicode>An österr. ung. Ges. z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An österr. ung. Ges. z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:50.188+02:00</Created>
+        <LastChange>2020-11-17T08:10:17.069+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744792" pageNr="117" tsid="49319289" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZTZUPHTEZZGBGWDAUUWNQPHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KJFXWUIGTCIHNGAGZIGJGUHF" imageId="14360183"/>
+    </Metadata>
+    <Page imageFilename="0186_page_305732_line_r1l2_docId_13784.jpg" imageWidth="2126" imageHeight="397">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426364450" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2126,0 2126,397 0,397"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,280 1041,244 1158,294 1231,245 1319,297 1570,246 1914,297 2026,248 2026,135 1221,182 903,100 738,183 100,189"/>
+                <Baseline points="114,237 213,235 313,235 413,235 513,235 613,235 713,235 813,235 913,235 1013,235 1112,237 1212,237 1312,237 1412,239 1512,239 1612,239 1712,239 1812,239 1912,241 2012,241"/>
+                <TextEquiv>
+                    <Unicode>mit demselben und der französischen Botschaft).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit demselben und der französischen Botschaft).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

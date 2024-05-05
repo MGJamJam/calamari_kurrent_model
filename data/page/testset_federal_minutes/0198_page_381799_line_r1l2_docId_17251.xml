@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:51:27.796+02:00</Created>
+        <LastChange>2020-08-22T11:20:44.055+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747308" pageNr="100" tsid="37761301" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PUFICNICXKPAOEXULTABVUWR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EBBGMWWDRNCMYVJGHSOCCFYF" imageId="14362488"/>
+    </Metadata>
+    <Page imageFilename="0198_page_381799_line_r1l2_docId_17251.jpg" imageWidth="2070" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425903036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 1970,223 1970,149 1901,127 1421,166 1342,113 1218,160 783,100 496,157 100,106"/>
+                <Baseline points="112,197 204,197 296,197 388,197 481,197 573,197 665,197 758,197 850,197 942,197 1035,197 1127,197 1219,197 1311,199 1404,199 1496,199 1588,199 1681,199 1773,199 1865,199 1958,201"/>
+                <TextEquiv>
+                    <Unicode>die Verlegung der Zollrevision auf die genannten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Verlegung der Zollrevision auf die genannten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

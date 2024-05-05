@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:42:23.202+02:00</Created>
+        <LastChange>2020-11-09T17:01:41.035+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746892" pageNr="14" tsid="49318184" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NVTPBAPJKDDQRQYICDPPAOAN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AODVEOLDWTCCXVHRLCTSRVTB" imageId="14362072"/>
+    </Metadata>
+    <Page imageFilename="0024_page_381761_line_r1l35_docId_17252.jpg" imageWidth="1568" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425890732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1568,0 1568,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1468,200 1468,140 1363,106 1089,152 752,106 400,145 101,118"/>
+                <Baseline points="75,175 178,173 245,175 312,175 380,175 447,175 514,176 582,178 649,178 716,179 784,180 851,181 918,182 985,182 1053,184 1120,184 1187,185 1255,185 1322,185 1389,185 1457,185"/>
+                <TextEquiv>
+                    <Unicode>) das Haus bei km. 9. 48 ist ganz zu entfernen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>) das Haus bei km. 9. 48 ist ganz zu entfernen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

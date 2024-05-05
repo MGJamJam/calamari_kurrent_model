@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:12.272+02:00</Created>
+        <LastChange>2020-08-22T11:27:07.824+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749544" pageNr="77" tsid="37763498" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PBVRXVMHMGSRZLPARNGLQCRV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UEGZAEPHVWVGTJSVKXYTIBZD" imageId="14364720"/>
+    </Metadata>
+    <Page imageFilename="0168_page_425168_line_r1l10_docId_17773.jpg" imageWidth="2049" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425596247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2049,0 2049,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 1930,237 1949,119 100,138"/>
+                <Baseline points="115,198 210,196 306,196 402,196 497,196 593,198 689,198 784,198 880,200 976,200 1071,200 1167,202 1263,202 1358,202 1454,202 1550,202 1645,201 1741,200 1837,198 1933,196"/>
+                <TextEquiv>
+                    <Unicode>Gegenüber dem Einsprecher sind daher die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gegenüber dem Einsprecher sind daher die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:51:48.821+02:00</Created>
+        <LastChange>2020-11-17T07:28:37.547+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744630" pageNr="59" tsid="49319226" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CANLXFSKWZUFWAVBFPFBJQXH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOXCPXSSCBLYLCNLVZYRFHGT" imageId="14360021"/>
+    </Metadata>
+    <Page imageFilename="0100_page_307685_line_r1l10_docId_13786.jpg" imageWidth="2254" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426356561" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2254,0 2254,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2123,224 2154,102 1827,155 1700,102 1177,160 100,131"/>
+                <Baseline points="112,182 213,184 314,184 416,186 517,186 619,188 720,188 821,188 923,188 1024,188 1126,188 1227,188 1328,188 1430,188 1531,188 1633,188 1734,186 1835,186 1937,186 2038,186 2140,188 2165,186"/>
+                <TextEquiv>
+                    <Unicode>Nachgang zu seiner Eingabe vom 5. unterm 11. dieses Monats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nachgang zu seiner Eingabe vom 5. unterm 11. dieses Monats</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

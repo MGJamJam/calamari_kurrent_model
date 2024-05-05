@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:01.653+02:00</Created>
+        <LastChange>2020-11-02T19:36:23.248+01:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747621" pageNr="34" tsid="49318014" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KPCZPPJITTILFOKCYJDBWSVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UKWOPIZJMTQJNWJEMNCOOAOC" imageId="14362801"/>
+    </Metadata>
+    <Page imageFilename="0094_page_411301_line_r1l34_docId_17280.jpg" imageWidth="1453" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803463" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1453,0 1453,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 260,285 378,222 739,227 844,285 995,228 1058,283 1174,214 1353,222 1353,142 932,123 841,178 640,101 389,175 296,100 100,177"/>
+                <Baseline points="114,207 175,205 236,205 297,205 358,203 420,203 481,203 542,203 603,203 664,203 726,203 787,203 848,203 909,203 970,203 1032,203 1093,205 1154,205 1215,205 1276,207 1338,207 1382,206"/>
+                <TextEquiv>
+                    <Unicode>billigerem Preise erhältlich wäre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>billigerem Preise erhältlich wäre.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

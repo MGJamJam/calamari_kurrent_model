@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:23:36.208+02:00</Created>
+        <LastChange>2020-10-27T09:10:15.422+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748608" pageNr="68" tsid="49304220" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RDOHAEUUVLJZCCYRQFXIGYFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OZHCUWLYGDSAVECCHGNMDTJW" imageId="14363788"/>
+    </Metadata>
+    <Page imageFilename="0129_page_391508_line_r1l22_docId_17266.jpg" imageWidth="2174" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425770531" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2174,0 2174,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 528,273 1564,206 1816,263 2074,213 2052,104 549,185 100,130"/>
+                <Baseline points="112,199 209,202 306,205 404,207 501,207 599,207 696,207 793,207 891,207 988,205 1086,203 1183,203 1280,201 1378,199 1475,198 1573,197 1670,197 1767,195 1865,196 1962,197 2060,197"/>
+                <TextEquiv>
+                    <Unicode>Rangierzug auf einen stationierenden Zugs-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rangierzug auf einen stationierenden Zugs-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

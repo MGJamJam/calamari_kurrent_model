@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:11.896+02:00</Created>
+        <LastChange>2020-08-22T11:34:28.775+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750870" pageNr="140" tsid="37765996" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FZJQMMFEXRUWUOOFEISUIEOU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCQHBRLYXTWTUTUASZUEZRBR" imageId="14366028"/>
+    </Metadata>
+    <Page imageFilename="0200_page_2434317_line_r2l6_docId_51508.jpg" imageWidth="1779" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425387060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1779,0 1779,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,172 1373,236 1677,212 1679,169 101,126"/>
+                <Baseline points="114,160 191,162 269,164 346,166 424,168 501,171 579,172 656,176 734,178 811,180 889,183 966,186 1044,188 1121,190 1199,193 1276,196 1354,197 1431,198 1509,200 1586,200 1664,202"/>
+                <TextEquiv>
+                    <Unicode>Nach Antrag wird verfügt zu antworten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach Antrag wird verfügt zu antworten:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

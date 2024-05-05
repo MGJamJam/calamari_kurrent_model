@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:02:41.341+02:00</Created>
+        <LastChange>2020-08-22T11:19:44.458+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747815" pageNr="82" tsid="37760951" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XBWRQUCSGRNGCJLCAJDNSQWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXUUWNQFHSKUQECURZCIBWSQ" imageId="14362995"/>
+    </Metadata>
+    <Page imageFilename="0173_page_385989_line_r2l6_docId_17258.jpg" imageWidth="2251" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425855211" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2251,0 2251,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,222 469,272 547,209 746,278 866,217 1516,203 1806,261 2151,212 2150,110 1733,170 1474,114 1283,168 899,108 100,131"/>
+                <Baseline points="113,207 214,207 315,205 416,205 517,205 619,205 720,203 821,203 922,201 1023,201 1125,201 1226,199 1327,199 1428,199 1529,197 1631,197 1732,197 1833,197 1934,195 2035,195 2137,195"/>
+                <TextEquiv>
+                    <Unicode>waltung festzusetzenden Ordnungsbuße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>waltung festzusetzenden Ordnungsbuße</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

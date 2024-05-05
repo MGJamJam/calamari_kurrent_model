@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:56.401+02:00</Created>
+        <LastChange>2020-11-10T07:53:55.945+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746486" pageNr="58" tsid="49318316" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LQGYXZKCZHSAKOQKMQUYGKCC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTRJHXRRFVCFSLASXCLIQWBU" imageId="14361666"/>
+    </Metadata>
+    <Page imageFilename="0088_page_375487_line_r1l12_docId_17245.jpg" imageWidth="1038" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953809" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1038,0 1038,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 171,236 239,198 330,216 377,189 466,225 793,184 937,203 938,123 879,108 775,143 731,111 675,146 634,125 528,154 466,119 100,109"/>
+                <Baseline points="114,168 154,169 194,170 235,172 275,172 316,174 356,174 396,174 437,174 477,174 518,174 558,174 598,174 639,174 679,174 720,174 760,174 800,172 841,172 881,172 922,172"/>
+                <TextEquiv>
+                    <Unicode>Genehmigung erteilt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Genehmigung erteilt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

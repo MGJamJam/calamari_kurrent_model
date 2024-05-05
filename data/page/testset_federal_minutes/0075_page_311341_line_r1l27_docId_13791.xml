@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:05.548+02:00</Created>
+        <LastChange>2020-08-22T07:34:38.717+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744776" pageNr="49" tsid="37715048" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VNRMSRUVRUCZSHPUWGMFJDUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BEYBSRLWQYXOXGTEXYXLFZFU" imageId="14360167"/>
+    </Metadata>
+    <Page imageFilename="0075_page_311341_line_r1l27_docId_13791.jpg" imageWidth="2048" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426297515" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2048,0 2048,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 249,248 554,195 760,270 873,206 1021,264 1245,202 1787,215 1948,275 1948,100 1665,172 1156,108 100,161"/>
+                <Baseline points="111,188 202,191 293,194 384,195 475,197 567,198 658,198 749,199 840,200 931,200 1023,200 1114,198 1205,198 1296,198 1387,198 1479,197 1570,197 1661,197 1752,197 1843,198 1935,198"/>
+                <TextEquiv>
+                    <Unicode>re Gewerbe, insbesondere auf die Wirtschaften, ausgedehnt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>re Gewerbe, insbesondere auf die Wirtschaften, ausgedehnt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

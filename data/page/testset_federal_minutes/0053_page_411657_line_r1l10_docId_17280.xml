@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:28:53.289+02:00</Created>
+        <LastChange>2020-10-13T21:20:55.960+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748819" pageNr="23" tsid="49315272" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TAGYMWWFCHRKCOHNOFMTAWIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LLDJUDUPBPLKIZOUNWGWUEGQ" imageId="14363995"/>
+    </Metadata>
+    <Page imageFilename="0053_page_411657_line_r1l10_docId_17280.jpg" imageWidth="711" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425628336" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 711,0 711,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,241 163,205 205,240 445,261 483,225 516,244 578,195 611,192 611,129 548,127 507,160 425,100 340,109 313,136 100,132"/>
+                <Baseline points="113,195 138,193 163,191 189,190 214,189 240,188 265,187 291,187 316,187 342,187 367,189 393,189 418,189 444,189 469,189 495,189 520,189 546,189 571,188 597,187 648,186"/>
+                <TextEquiv>
+                    <Unicode>heitshaft;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>heitshaft;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

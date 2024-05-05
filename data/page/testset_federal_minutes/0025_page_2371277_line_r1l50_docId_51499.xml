@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:37.554+02:00</Created>
+        <LastChange>2020-10-07T07:56:57.691+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749774" pageNr="17" tsid="49312227" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZKSPNQXGUGNGBGBHYQNEMIZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLLBRPYUEVYBRPCLXVVBFOBR" imageId="14364946"/>
+    </Metadata>
+    <Page imageFilename="0025_page_2371277_line_r1l50_docId_51499.jpg" imageWidth="1530" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425481411" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1530,0 1530,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,202 1235,194 1339,237 1430,195 1430,143 1317,100 1166,153 880,107 688,158 312,108 257,160 185,108 100,161"/>
+                <Baseline points="113,191 178,189 243,189 308,187 373,187 438,185 503,185 568,185 633,185 698,183 764,183 829,183 894,183 959,183 1024,183 1089,183 1154,183 1219,183 1284,183 1349,183 1415,183"/>
+                <TextEquiv>
+                    <Unicode>den des Vaters der Befunkten in Höngg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den des Vaters der Befunkten in Höngg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:33.517+02:00</Created>
+        <LastChange>2020-10-12T21:11:30.219+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749370" pageNr="60" tsid="49314497" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JYEUOFVMBPPMBRRLJWZRICGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZGTQSZTQEISVTZJECOXGBGW" imageId="14364546"/>
+    </Metadata>
+    <Page imageFilename="0121_page_425072_line_r1l31_docId_17773.jpg" imageWidth="2638" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425593712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2638,0 2638,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,221 2447,230 2537,114 100,142"/>
+                <Baseline points="117,186 243,186 370,184 496,182 623,182 750,180 876,180 1003,180 1130,180 1256,180 1383,180 1509,180 1636,180 1763,180 1889,180 2016,180 2143,180 2269,178 2396,178 2523,176"/>
+                <TextEquiv>
+                    <Unicode>bildet immerhin einen Bestandteil des Urteils, das dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bildet immerhin einen Bestandteil des Urteils, das dein</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

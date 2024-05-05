@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:23.076+02:00</Created>
+        <LastChange>2020-10-11T21:26:21.302+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749622" pageNr="96" tsid="49313695" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AGVJNWAHJFITFXGCCGTUWTIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWYSUKZMLCJRISOIKSJKSLRE" imageId="14364798"/>
+    </Metadata>
+    <Page imageFilename="0128_page_2352889_line_r1l23_docId_51495.jpg" imageWidth="2381" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425550730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2381,0 2381,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 2067,182 2281,243 2280,100 100,142"/>
+                <Baseline points="114,191 221,191 329,189 436,189 544,188 652,187 759,186 867,185 974,185 1082,183 1190,183 1297,181 1405,181 1512,181 1620,181 1728,181 1835,179 1943,181 2050,181 2158,181 2266,181"/>
+                <TextEquiv>
+                    <Unicode>schaft mit dem Bemerken zuzustellen, daß man die Aufschlüsse der ausstehen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schaft mit dem Bemerken zuzustellen, daß man die Aufschlüsse der ausstehen¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

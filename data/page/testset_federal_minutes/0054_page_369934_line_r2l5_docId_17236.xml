@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:40.129+02:00</Created>
+        <LastChange>2020-11-12T07:12:55.716+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746413" pageNr="33" tsid="49318412" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EBHAXTPVEJDLNZPALQUPDJWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BHXHJHTVXVYUIZYOIJCCFDDQ" imageId="14361593"/>
+    </Metadata>
+    <Page imageFilename="0054_page_369934_line_r2l5_docId_17236.jpg" imageWidth="1339" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426003077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1339,0 1339,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,220 288,196 465,227 536,194 589,226 677,193 802,247 892,199 1001,231 1239,209 1239,150 1069,154 970,112 847,151 679,104 455,162 244,100 100,131"/>
+                <Baseline points="114,191 169,189 225,189 280,187 336,187 392,185 447,185 503,185 558,183 614,183 670,183 725,183 781,181 836,181 892,181 948,181 1003,181 1059,181 1114,181 1170,183 1226,183"/>
+                <TextEquiv>
+                    <Unicode>und 15% der Roheinnahmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und 15% der Roheinnahmen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:59.316+02:00</Created>
+        <LastChange>2020-10-06T07:54:35.309+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750620" pageNr="80" tsid="49310758" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SRQCRAMWEWOYSQBFVIJOMYUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVTVGQEAAWGPOJKPYWYPJGIR" imageId="14365778"/>
+    </Metadata>
+    <Page imageFilename="0113_page_2425991_line_r6l24_docId_51509.jpg" imageWidth="1887" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425378747" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1887,0 1887,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,241 1436,189 1481,233 1676,210 1754,271 1787,137 996,107 665,167 169,116 100,161"/>
+                <Baseline points="114,200 197,200 280,200 363,200 446,200 529,199 612,198 695,198 778,197 861,196 944,196 1027,195 1110,194 1193,194 1276,194 1359,194 1442,194 1525,194 1608,196 1691,196 1774,198"/>
+                <TextEquiv>
+                    <Unicode>gebracht gewesenen Konrad Tribelhorn von Schwellbrunn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gebracht gewesenen Konrad Tribelhorn von Schwellbrunn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

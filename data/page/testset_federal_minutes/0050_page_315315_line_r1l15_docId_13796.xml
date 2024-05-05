@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:24.155+02:00</Created>
+        <LastChange>2020-08-22T07:34:46.338+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745562" pageNr="37" tsid="37715071" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OHZSTHMCBOBBDUTYGQOLXKCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXJINVKFYAVBZJQQSZVPATLE" imageId="14360742"/>
+    </Metadata>
+    <Page imageFilename="0050_page_315315_line_r1l15_docId_13796.jpg" imageWidth="2080" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426120023" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2080,0 2080,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1980,211 1980,163 1762,119 1679,165 1344,100 1191,157 294,115 208,162 100,112"/>
+                <Baseline points="112,186 204,186 297,186 390,186 483,186 576,186 668,186 761,186 854,186 947,186 1040,186 1132,186 1225,186 1318,186 1411,186 1504,186 1596,186 1689,188 1782,188 1875,190 1968,192"/>
+                <TextEquiv>
+                    <Unicode>dam betreffenden richterlichen Beamten seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dam betreffenden richterlichen Beamten seine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

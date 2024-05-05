@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:41.083+02:00</Created>
+        <LastChange>2020-08-22T11:21:33.773+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747976" pageNr="7" tsid="37761544" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WJNMCADOTMLBRUFTSMCMONQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DFYEZVJBEFTMFHAXPCYRUBIC" imageId="14363156"/>
+    </Metadata>
+    <Page imageFilename="0007_page_396036_line_r2l3_docId_17271.jpg" imageWidth="673" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425706168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 673,0 673,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 208,257 276,219 320,256 410,199 452,220 491,207 527,230 571,228 573,147 464,159 395,113 339,148 322,136 302,153 244,152 161,100 102,118"/>
+                <Baseline points="114,189 140,189 166,191 192,191 218,191 244,191 270,191 296,192 322,193 349,193 375,193 401,195 427,195 453,195 479,196 505,197 531,197 558,197"/>
+                <TextEquiv>
+                    <Unicode>Kongress in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kongress in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

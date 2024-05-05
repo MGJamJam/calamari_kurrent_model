@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:42.074+02:00</Created>
+        <LastChange>2020-10-06T10:35:41.950+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750150" pageNr="76" tsid="49311736" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GAEJOMIBGJAFZAEEBYEBRIII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LRGUDWGTHURDMJUGSYYJEUKW" imageId="14365322"/>
+    </Metadata>
+    <Page imageFilename="0125_page_2405722_line_r1l27_docId_51504.jpg" imageWidth="2371" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425435193" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2371,0 2371,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 2271,215 2271,165 1759,100 1611,155 100,158"/>
+                <Baseline points="113,189 220,191 327,193 434,195 541,195 649,195 756,195 863,195 970,195 1077,193 1185,193 1292,191 1399,191 1506,191 1613,191 1721,191 1828,191 1935,191 2042,193 2149,195 2257,197 2299,196"/>
+                <TextEquiv>
+                    <Unicode>aus Urlaubs gestellt, dessen Dauer im Laufe des Sommers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aus Urlaubs gestellt, dessen Dauer im Laufe des Sommers,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

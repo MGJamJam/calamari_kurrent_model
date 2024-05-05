@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:29.028+02:00</Created>
+        <LastChange>2020-11-10T08:18:25.834+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746631" pageNr="92" tsid="49318340" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FQFZLAKLJVCVEQGPEJCADQWF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GDKGSRKROSDKTUIHQZCQAYZS" imageId="14361811"/>
+    </Metadata>
+    <Page imageFilename="0138_page_380205_line_r2l14_docId_17250.jpg" imageWidth="2020" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425959092" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2020,0 2020,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 1920,186 1919,109 1840,105 100,152"/>
+                <Baseline points="111,180 200,182 290,182 380,182 470,182 560,182 650,182 740,182 830,180 920,180 1010,179 1099,179 1189,177 1279,177 1369,176 1459,176 1549,176 1639,176 1729,176 1819,176 1909,177"/>
+                <TextEquiv>
+                    <Unicode>und einem Rangierzug, s. Protokoll vom 21. August No 3516) in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und einem Rangierzug, s. Protokoll vom 21. August No 3516) in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

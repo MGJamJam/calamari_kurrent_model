@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:23.600+02:00</Created>
+        <LastChange>2020-08-22T11:29:03.317+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750348" pageNr="15" tsid="37764404" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZPGCJMWVEMTRGLIBERMJMKAO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDOLWNSQAGXYYXMCZCPPLINU" imageId="14365506"/>
+    </Metadata>
+    <Page imageFilename="0018_page_2447000_line_r1l36_docId_51510.jpg" imageWidth="2261" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425369700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2261,0 2261,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2118,235 2161,158 1721,181 1503,118 1441,179 1210,132 569,170 477,100 100,167"/>
+                <Baseline points="113,200 214,202 316,204 418,204 519,206 621,206 723,208 824,208 926,208 1028,209 1130,210 1231,210 1333,210 1435,211 1536,212 1638,212 1740,214 1841,214 1943,216 2045,218 2147,218"/>
+                <TextEquiv>
+                    <Unicode>den Lawinenverbau, ob dem Leukerbad wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Lawinenverbau, ob dem Leukerbad wird</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

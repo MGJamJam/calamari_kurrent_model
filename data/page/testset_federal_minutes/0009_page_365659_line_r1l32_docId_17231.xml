@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:28.959+02:00</Created>
+        <LastChange>2020-11-15T19:21:24.049+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745386" pageNr="8" tsid="49318614" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DOKOWTSAIIZXWJGAZRVBNINS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBFCHOVXCIBRHPOXZYLGTLQF" imageId="14360570"/>
+    </Metadata>
+    <Page imageFilename="0009_page_365659_line_r1l32_docId_17231.jpg" imageWidth="2239" imageHeight="382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426115927" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2239,0 2239,382 0,382"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 1877,273 2139,224 2139,100 1908,186 1306,182 1203,123 301,182 100,123"/>
+                <Baseline points="112,212 212,214 313,214 414,214 514,214 615,212 716,212 816,212 917,212 1018,212 1119,210 1219,210 1320,210 1421,210 1521,210 1622,210 1723,210 1823,210 1924,210 2025,210 2126,212"/>
+                <TextEquiv>
+                    <Unicode>Regierungsrat zu wählenden Beamten non gewählt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Regierungsrat zu wählenden Beamten non gewählt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

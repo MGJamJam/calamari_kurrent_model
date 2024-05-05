@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:02.414+02:00</Created>
+        <LastChange>2020-10-06T09:00:35.157+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749864" pageNr="7" tsid="49311517" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KELUSRRCBOPBUCEAHUFFQXEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DBYBKWRFCVWOQGEUCVGEFUDF" imageId="14365036"/>
+    </Metadata>
+    <Page imageFilename="0017_page_2395235_line_r2l2_docId_51503.jpg" imageWidth="2319" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425425487" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2319,0 2319,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 1746,268 2193,227 2219,139 100,152"/>
+                <Baseline points="113,204 217,206 322,206 426,206 531,208 636,208 740,210 845,210 949,211 1054,212 1159,213 1263,214 1368,214 1472,216 1577,216 1682,218 1786,218 1891,218 1995,220 2100,220 2205,220 2226,220"/>
+                <TextEquiv>
+                    <Unicode>13. Obenerwähnte Telegramme sind an Hrn. Bundes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13. Obenerwähnte Telegramme sind an Hrn. Bundes¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

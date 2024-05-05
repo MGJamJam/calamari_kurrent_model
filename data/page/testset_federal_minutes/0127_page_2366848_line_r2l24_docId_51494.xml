@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:20.908+02:00</Created>
+        <LastChange>2020-08-22T11:26:34.684+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749621" pageNr="95" tsid="37763263" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VACWQCRJEKISCUAVKIPBIVRK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYQEZAAKVNGZEPYQUEVXWYJB" imageId="14364797"/>
+    </Metadata>
+    <Page imageFilename="0127_page_2366848_line_r2l24_docId_51494.jpg" imageWidth="2371" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425550589" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2371,0 2371,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 2032,228 2271,196 2271,108 100,137"/>
+                <Baseline points="113,177 220,177 327,179 434,179 541,181 649,181 756,181 863,181 970,181 1077,181 1185,181 1292,183 1399,183 1506,183 1613,183 1721,183 1828,183 1935,183 2042,185 2149,185 2257,185"/>
+                <TextEquiv>
+                    <Unicode>berichtet die italienische Gesamtschaft sub 8. dieß, daß die Abgabe des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>berichtet die italienische Gesamtschaft sub 8. dieß, daß die Abgabe des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:12.447+02:00</Created>
+        <LastChange>2020-11-15T20:10:13.932+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745904" pageNr="89" tsid="49318705" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QQQKSUIDSUHZZMJIZFVOZQZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSFOGRTJFBXMKZPUNEGDRIBC" imageId="14361084"/>
+    </Metadata>
+    <Page imageFilename="0129_page_321781_line_r1l33_docId_14156.jpg" imageWidth="2233" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426127761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2233,0 2233,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,237 2133,237 2132,135 1938,100 1322,163 100,121"/>
+                <Baseline points="115,196 215,196 315,196 415,196 515,196 616,196 716,195 816,194 916,193 1016,192 1117,191 1217,190 1317,188 1417,188 1517,186 1618,186 1718,184 1818,184 1918,182 2018,182 2119,182"/>
+                <TextEquiv>
+                    <Unicode>Eidgenossenschaft vorbehalten bleiben müßte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eidgenossenschaft vorbehalten bleiben müßte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

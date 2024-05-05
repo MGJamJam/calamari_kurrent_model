@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:34:01.340+02:00</Created>
+        <LastChange>2020-09-22T15:27:55.318+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519163" pageNr="145" tsid="49307796" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JQYRIJQLQAXZTMNBVMCVBNSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRPVCONNJNOJBMNGRXOFBFXT" imageId="15086096"/>
+    </Metadata>
+    <Page imageFilename="0198_page_2457203_line_r1l19_docId_51515.jpg" imageWidth="1960" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425257383" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1960,0 1960,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,180 1070,188 1146,235 1458,192 1553,245 1859,205 1860,156 533,100 101,141 100,180"/>
+                <Baseline points="115,173 201,173 288,173 374,173 461,175 547,175 634,175 720,176 807,177 893,178 980,179 1066,181 1153,181 1239,183 1326,183 1412,185 1499,187 1585,187 1672,189 1758,191 1845,191"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="115,133 115,193 302,193 302,133"/>
+                    <TextEquiv>
+                        <Unicode>nenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="344,135 344,195 813,195 813,135"/>
+                    <TextEquiv>
+                        <Unicode>Modifikationen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="855,137 855,197 898,197 898,137"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="949,141 949,201 1256,201 1256,141"/>
+                    <TextEquiv>
+                        <Unicode>beantragen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1306,143 1306,203 1392,203 1392,143"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1426,145 1426,205 1469,205 1469,145"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1503,149 1503,209 1843,209 1843,149"/>
+                    <TextEquiv>
+                        <Unicode>begründen;</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>nenden Modifikationen zu beantragen und zu begründen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

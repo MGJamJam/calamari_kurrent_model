@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:37.531+02:00</Created>
+        <LastChange>2020-08-22T11:26:04.091+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750066" pageNr="56" tsid="37763063" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RFILGBHKECHVOAAISJLPOLOO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ETAEZVLUSREFXMMNVQVSBBPX" imageId="14365238"/>
+    </Metadata>
+    <Page imageFilename="0093_page_2400136_line_r3l14_docId_51505.jpg" imageWidth="2328" imageHeight="412">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425432367" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,412 0,412"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,259 1742,246 1910,312 2228,258 2228,156 1953,214 1470,133 704,118 551,196 421,109 100,149"/>
+                <Baseline points="114,248 219,248 324,248 429,248 534,248 639,248 744,248 849,248 954,246 1059,246 1164,246 1269,246 1374,246 1479,246 1584,246 1689,246 1794,248 1899,248 2004,250 2109,252 2214,254"/>
+                <TextEquiv>
+                    <Unicode>Zustiz- &amp; Polizeidepartemt. Randantrag v. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zustiz- &amp; Polizeidepartemt. Randantrag v. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

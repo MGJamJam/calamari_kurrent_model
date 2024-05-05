@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:38:54.151+02:00</Created>
+        <LastChange>2020-08-22T11:19:52.245+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746712" pageNr="109" tsid="37761001" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DTPTNCWUQGUPPUPDTBVGQLVH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXRQBDJJFINPRECSMNXRJBWQ" imageId="14361892"/>
+    </Metadata>
+    <Page imageFilename="0167_page_376305_line_r1l13_docId_17247.jpg" imageWidth="999" imageHeight="317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425961610" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 999,0 999,317 0,317"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 263,188 343,216 633,184 734,184 770,217 899,193 899,129 835,115 781,146 720,118 659,154 524,100 465,152 404,152 272,110 197,136 100,106"/>
+                <Baseline points="111,180 149,180 188,182 227,182 266,182 305,182 344,182 382,182 421,182 460,182 499,182 538,182 577,180 616,180 654,180 693,180 732,180 771,180 810,180 849,180 888,180"/>
+                <TextEquiv>
+                    <Unicode>Der Referendumsfrist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Referendumsfrist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

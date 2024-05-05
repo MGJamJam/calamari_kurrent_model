@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:34.077+02:00</Created>
+        <LastChange>2020-08-22T11:23:37.451+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749157" pageNr="27" tsid="37762150" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LQGHMFHETGMESHEPWZUGMKWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDSMWJEINYRNHOFHDKXUEBLQ" imageId="14364333"/>
+    </Metadata>
+    <Page imageFilename="0050_page_410172_line_r1l18_docId_17282.jpg" imageWidth="2388" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2388,0 2388,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 1375,256 1737,203 1900,266 2288,215 2288,150 2147,113 100,144"/>
+                <Baseline points="114,189 222,190 330,191 438,191 546,191 654,191 762,193 870,193 978,193 1086,194 1194,195 1302,195 1410,195 1518,195 1626,195 1734,195 1842,195 1950,193 2058,193 2166,191 2274,189"/>
+                <TextEquiv>
+                    <Unicode>des heute geltenden Bundesgesetzes betreffend den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des heute geltenden Bundesgesetzes betreffend den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

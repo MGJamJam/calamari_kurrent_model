@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:03.823+02:00</Created>
+        <LastChange>2020-08-22T07:34:09.390+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745413" pageNr="36" tsid="37714958" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZAFFVKHRBNQFUBYEERJDQFSV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FCQLXLWXOLUSZCEFRHCVAPHB" imageId="14360597"/>
+    </Metadata>
+    <Page imageFilename="0043_page_2264040_line_r3l29_docId_51004.jpg" imageWidth="2160" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426187886" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2160,0 2160,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,192 1608,202 2057,165 2060,103 100,123"/>
+                <Baseline points="113,169 209,169 306,167 403,167 499,165 596,165 693,163 789,163 886,163 983,161 1080,161 1176,161 1273,159 1370,159 1466,159 1563,158 1660,157 1756,157 1853,157 1950,155 2047,155"/>
+                <TextEquiv>
+                    <Unicode>Anzeige hievon an Neuenburg unter Beifügung der ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anzeige hievon an Neuenburg unter Beifügung der ent¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

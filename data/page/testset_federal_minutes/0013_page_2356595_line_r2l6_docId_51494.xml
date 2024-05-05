@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:23.575+02:00</Created>
+        <LastChange>2020-10-11T20:28:04.576+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749360" pageNr="10" tsid="49313473" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HWRHYAZAXICAETPHCPGOMABF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBCWKCTOYGEVYSIPBWCALWSH" imageId="14364536"/>
+    </Metadata>
+    <Page imageFilename="0013_page_2356595_line_r2l6_docId_51494.jpg" imageWidth="2263" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425538618" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2263,0 2263,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 2163,216 2085,108 353,151 216,100 100,152"/>
+                <Baseline points="114,184 215,184 317,184 419,184 521,184 623,184 724,184 826,184 928,184 1030,184 1132,184 1233,184 1335,182 1437,182 1539,182 1641,182 1742,182 1844,182 1946,182 2048,182 2150,182 2198,183"/>
+                <TextEquiv>
+                    <Unicode>Betreffend die Angelegenheit der zwei ehemaligen neapolitani¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Betreffend die Angelegenheit der zwei ehemaligen neapolitani¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

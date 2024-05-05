@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:15.224+02:00</Created>
+        <LastChange>2020-11-17T08:01:51.853+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744761" pageNr="103" tsid="49319277" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EMETVKGDGOOJEXFFVGEHTMAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSPGOWRFHSWUTSWUGXFREVAI" imageId="14360152"/>
+    </Metadata>
+    <Page imageFilename="0168_page_311174_line_r1l47_docId_13789.jpg" imageWidth="882" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426362512" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 882,0 882,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 240,238 306,206 360,240 397,213 470,247 551,208 635,238 782,208 782,127 711,110 659,130 566,100 421,152 321,154 264,127 242,144 191,117 100,154"/>
+                <Baseline points="112,191 144,189 177,187 210,187 243,186 276,185 309,185 342,185 375,185 408,185 441,185 473,186 506,187 539,187 572,187 605,187 638,187 671,187 704,187 737,187 770,187"/>
+                <TextEquiv>
+                    <Unicode>"eichengegerbtes Zahm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"eichengegerbtes Zahm¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

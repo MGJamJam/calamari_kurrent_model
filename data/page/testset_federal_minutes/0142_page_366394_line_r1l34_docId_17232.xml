@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:04.234+02:00</Created>
+        <LastChange>2020-11-15T20:16:34.896+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745960" pageNr="98" tsid="49318717" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SUGYUTAQPWTFEZBNGXGSQEGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLLUUALCPSACKBFPMMVJBRUI" imageId="14361140"/>
+    </Metadata>
+    <Page imageFilename="0142_page_366394_line_r1l34_docId_17232.jpg" imageWidth="2170" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426128877" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2170,0 2170,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,273 1239,207 2070,256 2069,140 1839,173 1709,100 1622,154 329,190 100,104"/>
+                <Baseline points="115,220 212,218 309,216 406,214 503,211 600,209 697,207 794,205 891,204 988,202 1085,201 1182,199 1279,199 1376,199 1473,199 1570,201 1667,202"/>
+                <TextEquiv>
+                    <Unicode>Dem von der schweizerischen Südostbahn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dem von der schweizerischen Südostbahn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

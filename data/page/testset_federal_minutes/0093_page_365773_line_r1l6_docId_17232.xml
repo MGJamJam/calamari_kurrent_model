@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:28.372+02:00</Created>
+        <LastChange>2020-11-15T19:56:25.641+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745756" pageNr="67" tsid="49318673" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SBMSZOEZAYUBZFYKZFFTRWQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZOJPNVZSLVSPSDGODQCDZIE" imageId="14360936"/>
+    </Metadata>
+    <Page imageFilename="0093_page_365773_line_r1l6_docId_17232.jpg" imageWidth="2037" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426124539" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2037,0 2037,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 1937,186 1520,109 1342,160 1083,100 915,160 100,132"/>
+                <Baseline points="112,183 202,183 293,183 384,183 474,183 565,183 656,183 746,183 837,184 928,184 1019,184 1109,183 1200,183 1291,183 1381,183 1472,183 1563,183 1653,183 1744,181 1835,181 1926,180"/>
+                <TextEquiv>
+                    <Unicode>selber beschafft um an die Kantone zuhanden der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>selber beschafft um an die Kantone zuhanden der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

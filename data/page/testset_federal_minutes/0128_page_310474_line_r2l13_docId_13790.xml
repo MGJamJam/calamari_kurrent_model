@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:12.046+02:00</Created>
+        <LastChange>2020-08-22T07:36:12.737+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744921" pageNr="83" tsid="37715337" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NWFOUJFWMSIEIIZNDVPBCSUN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OHCDUCPXAABYDEGWVPTAQLWP" imageId="14360312"/>
+    </Metadata>
+    <Page imageFilename="0128_page_310474_line_r2l13_docId_13790.jpg" imageWidth="2220" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426302303" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2220,0 2220,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,245 873,191 2120,232 2120,157 1869,115 572,159 101,102"/>
+                <Baseline points="114,176 213,178 313,178 413,180 512,182 612,182 712,182 811,184 911,184 1011,184 1111,184 1210,184 1310,184 1410,186 1509,186 1609,186 1709,186 1808,186 1908,186 2008,188 2108,188"/>
+                <TextEquiv>
+                    <Unicode>ersucht das schweizerische Konsulat in Melbourne mit Depesche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ersucht das schweizerische Konsulat in Melbourne mit Depesche</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

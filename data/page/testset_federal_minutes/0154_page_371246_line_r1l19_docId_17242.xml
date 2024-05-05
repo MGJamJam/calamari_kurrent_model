@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:46.244+02:00</Created>
+        <LastChange>2020-11-16T10:40:19.657+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745277" pageNr="88" tsid="49318971" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BTOSEZOZFJAXKXPWCXIGUBHW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYZXLLNESRKOLCFXEWHSAZAI" imageId="14360461"/>
+    </Metadata>
+    <Page imageFilename="0154_page_371246_line_r1l19_docId_17242.jpg" imageWidth="2094" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426250505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2094,0 2094,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,204 1994,181 1909,115 335,153 100,100"/>
+                <Baseline points="112,178 205,177 299,177 392,175 486,175 579,175 673,174 766,174 860,174 953,172 1047,172 1140,172 1234,172 1327,172 1421,171 1514,171 1608,171 1701,171 1795,171 1888,172 1982,172"/>
+                <TextEquiv>
+                    <Unicode>dem eine Frist nach B. G. 106–109 gesetzt ist, seinen Vindikationsanspruch nur dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dem eine Frist nach B. G. 106–109 gesetzt ist, seinen Vindikationsanspruch nur dann</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

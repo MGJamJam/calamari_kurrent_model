@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:50.327+02:00</Created>
+        <LastChange>2020-09-28T09:39:47.984+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519061" pageNr="70" tsid="49307497" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UJIBXBEOMJQOZLCJYJIOEDNO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXQJJYRCHBMOICHVXJCVCXWH" imageId="15085994"/>
+    </Metadata>
+    <Page imageFilename="0096_page_2456932_line_r2l35_docId_51515.jpg" imageWidth="2416" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2416,0 2416,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 1176,191 1254,253 1317,189 1615,183 1748,251 2139,174 2316,225 2315,117 100,128 101,230"/>
+                <Baseline points="114,192 223,190 332,188 442,186 551,184 661,182 770,181 879,179 989,178 1098,176 1208,174 1317,174 1426,172 1536,172 1645,170 1755,170 1864,170 1973,170 2083,168 2192,168 2302,170"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="160,150 160,210 210,210 210,150"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="230,148 230,208 412,208 412,148"/>
+                    <TextEquiv>
+                        <Unicode>fonds,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="432,145 432,205 552,205 552,145"/>
+                    <TextEquiv>
+                        <Unicode>resp.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="572,142 572,202 673,202 673,142"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="703,140 703,200 905,200 905,140"/>
+                    <TextEquiv>
+                        <Unicode>städtische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="955,137 955,197 1117,197 1117,137"/>
+                    <TextEquiv>
+                        <Unicode>Steŭer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1157,134 1157,194 1227,194 1227,134"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1277,134 1277,194 1337,194 1337,134"/>
+                    <TextEquiv>
+                        <Unicode>Fr.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1357,132 1357,192 1499,192 1499,132"/>
+                    <TextEquiv>
+                        <Unicode>690-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1559,130 1559,190 1629,190 1629,130"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1650,130 1650,190 1932,190 1932,130"/>
+                    <TextEquiv>
+                        <Unicode>Einfrage,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1942,130 1942,190 1992,190 1992,130"/>
+                    <TextEquiv>
+                        <Unicode>ob</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w13" custom="readingOrder {index:12;}">
+                    <Coords points="2043,128 2043,188 2104,188 2104,128"/>
+                    <TextEquiv>
+                        <Unicode>ein</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w14" custom="readingOrder {index:13;}">
+                    <Coords points="2144,128 2144,188 2264,188 2264,128"/>
+                    <TextEquiv>
+                        <Unicode>wei-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de fonds, resp. eine städtische Steuer von Fr. 690- die Einfrage, ob ein wei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>de fonds, resp. eine städtische Steuer von Fr. 690- die Einfrage, ob ein wei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

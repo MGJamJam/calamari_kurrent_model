@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:12.928+02:00</Created>
+        <LastChange>2020-11-10T07:13:12.215+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746268" pageNr="7" tsid="49318279" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PTHSMMDCCUXJJQCPDSVJKQGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKUVGMBEIRDJCGCXWFPHFJSJ" imageId="14361448"/>
+    </Metadata>
+    <Page imageFilename="0012_page_380897_line_r2l18_docId_17249.jpg" imageWidth="2165" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425946305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2165,0 2165,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 2065,223 2064,116 1927,100 100,146"/>
+                <Baseline points="112,189 209,189 306,187 403,187 500,187 597,185 694,183 791,183 888,181 985,181 1082,179 1179,179 1276,177 1373,175 1470,175 1567,173 1664,173 1761,173 1858,171 1955,171 2052,171 2069,170"/>
+                <TextEquiv>
+                    <Unicode>von Wieder-Gösgen um das Jahr 1874 eine Ehe abgeschlos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Wieder-Gösgen um das Jahr 1874 eine Ehe abgeschlos¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

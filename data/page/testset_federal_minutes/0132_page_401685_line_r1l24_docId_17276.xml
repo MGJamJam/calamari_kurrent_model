@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:00:53.942+02:00</Created>
+        <LastChange>2020-08-22T11:19:25.486+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747741" pageNr="52" tsid="37760833" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KTEEZJZRDKCJOCZWFALILDEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOHTWMPGHXRZSVWWGJGNUOBD" imageId="14362921"/>
+    </Metadata>
+    <Page imageFilename="0132_page_401685_line_r1l24_docId_17276.jpg" imageWidth="2216" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425806514" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2216,0 2216,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,256 226,198 1895,235 2067,215 2116,141 100,147"/>
+                <Baseline points="113,192 212,192 312,190 411,190 511,188 610,188 710,188 809,187 909,186 1008,186 1108,186 1207,186 1307,184 1406,184 1506,184 1605,184 1705,184 1804,184 1904,184 2003,184 2103,184"/>
+                <TextEquiv>
+                    <Unicode>gekommen würde, falls für den eidgenössischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gekommen würde, falls für den eidgenössischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

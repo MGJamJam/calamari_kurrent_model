@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:11:28.067+02:00</Created>
+        <LastChange>2020-11-16T10:34:01.008+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745243" pageNr="77" tsid="49318956" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MSUSUPHXOVRZIHKCBGBWASWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLDUNPSFSGLQFZYIHPZEJUXV" imageId="14360427"/>
+    </Metadata>
+    <Page imageFilename="0132_page_376126_line_r1l23_docId_17244.jpg" imageWidth="2156" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426248986" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2156,0 2156,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 2056,207 2056,140 1837,100 100,122"/>
+                <Baseline points="113,180 209,175 306,172 402,170 499,168 595,167 692,166 788,166 885,166 981,168 1078,168 1174,168 1271,170 1367,171 1464,172 1560,172 1657,172 1753,172 1850,172 1946,171 2043,168"/>
+                <TextEquiv>
+                    <Unicode>sicht auf diesen Tatbestand, die Kreispostdirektion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sicht auf diesen Tatbestand, die Kreispostdirektion</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

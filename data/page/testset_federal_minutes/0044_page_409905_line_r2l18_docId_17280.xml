@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:28:05.464+02:00</Created>
+        <LastChange>2020-08-22T11:23:09.062+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748789" pageNr="19" tsid="37761987" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UOCXFIJLCNSZIDWBQQABITFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EZMPTKZPHQAYEHGXLETXUQWL" imageId="14363965"/>
+    </Metadata>
+    <Page imageFilename="0044_page_409905_line_r2l18_docId_17280.jpg" imageWidth="2185" imageHeight="400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425627795" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2185,0 2185,400 0,400"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,264 1501,299 2058,236 2084,167 1617,185 1517,129 1316,190 1137,100 998,176 100,152"/>
+                <Baseline points="116,248 213,247 311,246 409,244 507,242 605,240 702,238 800,238 898,236 996,234 1094,232 1191,230 1289,229 1387,228 1485,226 1583,224 1680,223 1778,222 1876,220 1974,220 2072,218"/>
+                <TextEquiv>
+                    <Unicode>das Staats- und Justizdepartement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das Staats- und Justizdepartement</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

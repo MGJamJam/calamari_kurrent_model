@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:22.541+02:00</Created>
+        <LastChange>2020-08-22T11:17:38.818+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746512" pageNr="66" tsid="37760028" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KVRUBGLAIPRLEYJCRRFZBHLR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQPXKYMCYMBHSPIKXISKOCAB" imageId="14361692"/>
+    </Metadata>
+    <Page imageFilename="0097_page_377158_line_r2l26_docId_17247.jpg" imageWidth="2093" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425955170" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2093,0 2093,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 1993,213 1992,155 1791,120 1359,171 1182,100 779,178 552,127 100,171"/>
+                <Baseline points="112,215 205,213 298,211 392,209 485,208 579,207 672,205 765,205 859,203 952,203 1046,203 1139,203 1232,201 1326,201 1419,201 1513,201 1606,201 1699,201 1793,201 1886,199 1980,199"/>
+                <TextEquiv>
+                    <Unicode>angeblich in Brien aufhältliche Gregiertze von Poliez-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>angeblich in Brien aufhältliche Gregiertze von Poliez-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

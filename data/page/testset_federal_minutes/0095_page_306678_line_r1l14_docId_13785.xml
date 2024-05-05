@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:51:22.727+02:00</Created>
+        <LastChange>2020-08-21T22:14:35.391+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744622" pageNr="55" tsid="37657122" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MYNNTIPPHXDCPAXPKPBJLNWW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UFCGZUAFEZZXTTZDETYREAFC" imageId="14360013"/>
+    </Metadata>
+    <Page imageFilename="0095_page_306678_line_r1l14_docId_13785.jpg" imageWidth="2250" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426356007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2250,0 2250,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2150,234 2149,127 100,128"/>
+                <Baseline points="113,201 214,201 315,201 416,201 517,199 619,199 720,199 821,197 922,195 1023,195 1125,193 1226,193 1327,191 1428,189 1529,189 1631,189 1732,189 1833,189 1934,189 2035,189 2137,191"/>
+                <TextEquiv>
+                    <Unicode>laut Mitteilung des Bernhard Joseph Raphael Birchler,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>laut Mitteilung des Bernhard Joseph Raphael Birchler,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

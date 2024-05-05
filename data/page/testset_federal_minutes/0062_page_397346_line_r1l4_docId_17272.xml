@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:11:40.263+02:00</Created>
+        <LastChange>2020-08-22T11:23:10.910+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748164" pageNr="60" tsid="37761996" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ECQKUZKAXAOYXSJGOVSAELNM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKZKOXLRWWHCYBXPJOGXTCNP" imageId="14363344"/>
+    </Metadata>
+    <Page imageFilename="0062_page_397346_line_r1l4_docId_17272.jpg" imageWidth="1129" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425713682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1129,0 1129,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 190,237 474,198 618,236 897,194 1029,224 1029,126 980,116 764,146 626,108 588,141 539,100 447,155 228,144 181,101 100,128"/>
+                <Baseline points="113,183 158,183 203,183 248,183 293,183 339,183 384,183 429,183 474,183 519,183 565,183 610,181 655,181 700,181 745,181 791,181 836,181 881,181 926,182 971,183 1017,183"/>
+                <TextEquiv>
+                    <Unicode>die Franz. Botschaft hat eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die Franz. Botschaft hat eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

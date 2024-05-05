@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:25.612+02:00</Created>
+        <LastChange>2020-11-12T07:58:30.883+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746845" pageNr="109" tsid="49318501" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FXVXGXUPMVQRNOWHRRWCLLTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCZWJGFGCNBHNZZMOKVKLGHJ" imageId="14362025"/>
+    </Metadata>
+    <Page imageFilename="0190_page_368860_line_r1l27_docId_17237.jpg" imageWidth="2070" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426013327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 1970,199 1970,142 1819,102 1616,147 1382,100 1300,163 100,123"/>
+                <Baseline points="114,190 206,194 298,197 390,200 482,202 574,202 666,202 758,202 850,202 942,200 1035,199 1127,199 1219,197 1311,196 1403,194 1495,193 1587,193 1679,193 1771,193 1863,193 1956,196"/>
+                <TextEquiv>
+                    <Unicode>Mitgliedes für die Bergbahn Rorschach-Hei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mitgliedes für die Bergbahn Rorschach-Hei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:06:17.391+02:00</Created>
+        <LastChange>2020-11-16T10:01:06.386+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744897" pageNr="25" tsid="49318895" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PTWZUZKSBVAGCAZBJSNJGYXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVTAEFWQEGMBYYKNHNIARESH" imageId="14360288"/>
+    </Metadata>
+    <Page imageFilename="0043_page_373984_line_r1l13_docId_17244.jpg" imageWidth="2092" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426241671" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2092,0 2092,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1992,218 1992,148 1770,119 1106,168 100,116"/>
+                <Baseline points="112,175 205,177 298,180 392,183 485,185 579,187 672,189 765,191 859,191 952,193 1046,193 1139,193 1232,193 1326,193 1419,193 1513,193 1606,193 1699,193 1793,193 1886,191 1980,191"/>
+                <TextEquiv>
+                    <Unicode>den Bürgern zugesicherten Rechte zuständige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Bürgern zugesicherten Rechte zuständige</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

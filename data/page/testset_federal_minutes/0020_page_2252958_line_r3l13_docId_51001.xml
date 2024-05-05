@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:13.752+02:00</Created>
+        <LastChange>2020-08-22T07:33:27.930+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745377" pageNr="16" tsid="37714833" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TXKAWWDYXHOHJIHOVGBPJTUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOCJNOUHGUQQSZJTYIACZOGH" imageId="14360561"/>
+    </Metadata>
+    <Page imageFilename="0020_page_2252958_line_r3l13_docId_51001.jpg" imageWidth="2220" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426185241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2220,0 2220,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2119,238 2120,137 2013,124 1609,174 1373,116 101,145"/>
+                <Baseline points="115,196 214,196 314,196 413,194 513,195 612,196 712,196 811,198 911,198 1010,200 1110,201 1209,202 1309,204 1408,206 1508,208 1607,210 1707,211 1806,212 1906,214 2005,214 2105,214"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 16. Sitzung vom 12. dieß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 16. Sitzung vom 12. dieß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

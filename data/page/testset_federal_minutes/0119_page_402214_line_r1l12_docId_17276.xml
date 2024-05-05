@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:33:55.717+02:00</Created>
+        <LastChange>2020-08-22T11:25:16.520+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749019" pageNr="53" tsid="37762764" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BKYROEWMUJPHVYPXVUVBHVPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBPHHBEDLRRPMKKIYGGSINKL" imageId="14364195"/>
+    </Metadata>
+    <Page imageFilename="0119_page_402214_line_r1l12_docId_17276.jpg" imageWidth="2311" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425632541" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2311,0 2311,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 2211,210 2211,142 1949,106 100,139"/>
+                <Baseline points="115,199 219,197 323,197 427,195 531,195 635,195 739,195 843,195 947,195 1051,195 1156,195 1260,195 1364,195 1468,195 1572,195 1676,195 1780,193 1884,193 1988,191 2092,191 2197,189"/>
+                <TextEquiv>
+                    <Unicode>II. Klasse, Herrn Eduard von Sinner, wird eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>II. Klasse, Herrn Eduard von Sinner, wird eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

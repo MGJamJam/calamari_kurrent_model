@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:01.024+02:00</Created>
+        <LastChange>2020-08-22T11:25:09.775+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748403" pageNr="125" tsid="37762731" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DOXXABZLEDRFDTVEIJDCOHEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGWRMKBFZBRAXHKFIRRBBSPA" imageId="14363583"/>
+    </Metadata>
+    <Page imageFilename="0130_page_401567_line_r1l26_docId_17273.jpg" imageWidth="2274" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722086" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2274,0 2274,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,221 2174,194 2173,130 2041,100 100,136"/>
+                <Baseline points="113,200 215,200 317,200 420,200 522,199 625,199 727,199 829,197 932,197 1034,196 1137,196 1239,194 1341,193 1444,192 1546,191 1649,190 1751,188 1853,187 1956,185 2058,184 2161,181"/>
+                <TextEquiv>
+                    <Unicode>bisherigen Kommandanten dieses Bataillons Major Jules</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bisherigen Kommandanten dieses Bataillons Major Jules</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

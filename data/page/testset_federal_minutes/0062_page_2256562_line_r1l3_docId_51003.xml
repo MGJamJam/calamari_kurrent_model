@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:42.937+02:00</Created>
+        <LastChange>2020-11-16T07:37:45.500+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745449" pageNr="53" tsid="49318787" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JPKDTRNXTQNLJSHOCYXFXGWD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWODKNMBITWSNGUTREAGXMIU" imageId="14360633"/>
+    </Metadata>
+    <Page imageFilename="0062_page_2256562_line_r1l3_docId_51003.jpg" imageWidth="811" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426190347" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 811,0 811,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,280 175,261 232,274 288,224 336,249 395,205 447,224 571,209 614,240 711,218 708,127 683,122 649,140 533,131 494,169 422,128 380,168 329,155 292,179 220,124 134,100 100,112"/>
+                <Baseline points="118,227 146,224 175,219 204,216 233,214 262,213 291,211 320,209 349,208 378,207 407,207 435,207 464,207 493,207 522,207 551,207 580,207 609,209 638,209 667,209 696,211 727,211"/>
+                <TextEquiv>
+                    <Unicode> Zürich: Verkauf der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Zürich: Verkauf der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

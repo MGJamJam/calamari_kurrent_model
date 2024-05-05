@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:14.287+02:00</Created>
+        <LastChange>2020-08-22T11:24:27.384+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749248" pageNr="40" tsid="37762466" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NSVIPHGIFZRBGLTTTMBGFSAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWKKKODXWDMLTCWBICSPIKWN" imageId="14364424"/>
+    </Metadata>
+    <Page imageFilename="0080_page_412500_line_r3l28_docId_17281.jpg" imageWidth="2226" imageHeight="407">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425590852" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2226,0 2226,407 0,407"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,307 414,239 898,299 1541,220 1927,289 2126,238 2125,130 1996,177 1667,100 1508,188 1351,127 551,187 100,140"/>
+                <Baseline points="116,229 215,227 315,227 415,225 515,225 615,223 714,223 814,223 914,221 1014,221 1114,221 1213,219 1313,219 1413,217 1513,217 1613,215 1712,213 1812,212 1912,211 2012,207 2112,205"/>
+                <TextEquiv>
+                    <Unicode>chisch-ungarische Gesandtschaft dem Bundesrat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>chisch-ungarische Gesandtschaft dem Bundesrat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

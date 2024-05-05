@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:12.218+02:00</Created>
+        <LastChange>2020-11-15T17:58:30.180+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746036" pageNr="76" tsid="49318565" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VIPEBMUFGKIDDMNTJPWFTGIR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIYAYDUJTQEEVENCTXBZVEVO" imageId="14361216"/>
+    </Metadata>
+    <Page imageFilename="0115_page_2304680_line_r1l12_docId_51010.jpg" imageWidth="2417" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426065807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2417,0 2417,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,233 1247,184 2241,245 2317,149 100,129"/>
+                <Baseline points="114,189 223,189 332,189 442,189 551,187 661,187 770,187 879,185 989,185 1098,185 1208,183 1317,183 1426,183 1536,181 1645,181 1755,181 1864,181 1973,181 2083,181 2192,181 2302,181 2326,184"/>
+                <TextEquiv>
+                    <Unicode>Müller, von Boltigen, zurück, da sich aus den Akten der Gesandtschaftskanz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Müller, von Boltigen, zurück, da sich aus den Akten der Gesandtschaftskanz¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

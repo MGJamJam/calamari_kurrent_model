@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:30.917+02:00</Created>
+        <LastChange>2020-09-28T10:55:36.610+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519146" pageNr="133" tsid="49307746" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DBPJTBQNORBICVBVNCKEAQMJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GIINPGZFVJCYTRCLOMCITHKZ" imageId="15086079"/>
+    </Metadata>
+    <Page imageFilename="0181_page_2456887_line_r1l6_docId_51515.jpg" imageWidth="845" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425255665" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 845,0 845,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,244 230,191 354,216 601,202 640,239 678,235 745,193 744,121 705,100 673,134 565,112 541,135 481,117 449,151 254,128 161,155 100,118 103,244"/>
+                <Baseline points="114,186 144,184 175,184 206,184 237,183 268,182 298,182 329,180 360,180 391,179 422,178 452,178 483,178 514,176 545,176 576,174 606,174 637,173 668,172 699,171 730,170"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="137,142 137,202 388,202 388,142"/>
+                    <TextEquiv>
+                        <Unicode>verhältnißse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="407,138 407,198 446,198 446,138"/>
+                    <TextEquiv>
+                        <Unicode>im</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="465,137 465,197 523,197 523,137"/>
+                    <TextEquiv>
+                        <Unicode>Kt.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="532,132 532,192 744,192 744,132"/>
+                    <TextEquiv>
+                        <Unicode>Neuenburg.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>verhältniße im Kt. Neuenburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verhältniße im Kt. Neuenburg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

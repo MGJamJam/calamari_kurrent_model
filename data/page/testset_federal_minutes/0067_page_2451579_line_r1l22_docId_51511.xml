@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:56.776+02:00</Created>
+        <LastChange>2020-08-22T11:30:35.945+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750537" pageNr="52" tsid="49309348" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZXFRBNGWYUFPEILDXQJBAOHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HFRCYNJIFHHYRHLSFEJYBCRW" imageId="14365695"/>
+    </Metadata>
+    <Page imageFilename="0067_page_2451579_line_r1l22_docId_51511.jpg" imageWidth="1832" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425311162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1832,0 1832,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,211 519,192 759,252 981,186 1440,186 1628,236 1732,195 1732,117 100,128"/>
+                <Baseline points="113,187 193,185 273,185 353,185 434,183 514,183 594,182 675,181 755,181 835,179 916,179 996,179 1076,179 1156,177 1237,177 1317,177 1397,177 1478,177 1558,177 1638,177 1719,177"/>
+                <TextEquiv>
+                    <Unicode>worden und dieser Entscheid wurde unmit bestätigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>worden und dieser Entscheid wurde unmit bestätigt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

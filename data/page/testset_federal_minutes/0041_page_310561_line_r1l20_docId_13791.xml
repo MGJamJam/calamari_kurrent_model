@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:57:04.525+02:00</Created>
+        <LastChange>2020-08-22T07:33:34.991+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744704" pageNr="26" tsid="37714852" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AEDCANCNGSHQKURFMYTIHIBX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXXXGVIEKXKQXJSMJTNAEIHI" imageId="14360095"/>
+    </Metadata>
+    <Page imageFilename="0041_page_310561_line_r1l20_docId_13791.jpg" imageWidth="854" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426294487" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 854,0 854,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 345,175 417,212 476,187 523,220 556,201 590,221 676,176 754,193 754,143 662,112 640,126 537,101 404,128 351,100 287,119 229,100 101,121"/>
+                <Baseline points="115,171 146,171 177,171 208,171 240,171 271,171 302,171 333,171 365,171 396,172 427,173 458,173 490,173 521,173 552,173 583,173 615,173 646,173 677,173 708,173 740,171"/>
+                <TextEquiv>
+                    <Unicode>also nur bedingt richtig sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>also nur bedingt richtig sein.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:45.132+02:00</Created>
+        <LastChange>2020-11-10T08:20:23.037+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746645" pageNr="95" tsid="49318342" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UMFDCCGRCJCRMJNHDCTVDABF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQDLADGUZEDJOMTVOOIEQMAZ" imageId="14361825"/>
+    </Metadata>
+    <Page imageFilename="0143_page_376351_line_r1l34_docId_17246.jpg" imageWidth="2167" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425959504" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2167,0 2167,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2067,202 2067,152 1878,121 901,153 716,100 600,163 100,114"/>
+                <Baseline points="113,189 210,189 307,187 404,187 501,187 598,187 695,187 792,187 889,187 986,187 1084,187 1181,187 1278,189 1375,189 1472,189 1569,189 1666,189 1763,189 1860,189 1957,189 2055,189"/>
+                <TextEquiv>
+                    <Unicode>Aensein einer Forderungsurkunde, die die vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aensein einer Forderungsurkunde, die die vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:38.334+02:00</Created>
+        <LastChange>2020-08-22T07:38:45.315+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746127" pageNr="121" tsid="37715812" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PBMQRXBYRBYSJQESNQODAHMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFWBLJBKCPKAWOSBXKEUZPMW" imageId="14361307"/>
+    </Metadata>
+    <Page imageFilename="0179_page_364806_line_r1l23_docId_17231.jpg" imageWidth="588" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426132233" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 588,0 588,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,204 127,201 166,231 225,212 277,217 306,239 370,212 403,230 488,200 487,136 459,147 441,137 425,152 397,124 324,100 268,145 201,161 155,154 123,124 100,122"/>
+                <Baseline points="114,196 139,194 165,192 191,192 216,192 242,192 268,192 294,190 319,190 345,190 371,190 396,190 422,190 448,188 474,186"/>
+                <TextEquiv>
+                    <Unicode>sen habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sen habe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

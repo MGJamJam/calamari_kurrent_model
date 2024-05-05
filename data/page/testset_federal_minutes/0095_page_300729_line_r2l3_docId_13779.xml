@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:43.845+02:00</Created>
+        <LastChange>2020-11-18T16:49:12.054+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744456" pageNr="61" tsid="49319346" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IQPUEPZJSNRXYZPGTRMZSTAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQJBOARMEUHVTJIRACBUUDPC" imageId="14359847"/>
+    </Metadata>
+    <Page imageFilename="0095_page_300729_line_r2l3_docId_13779.jpg" imageWidth="2134" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426416756" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2134,0 2134,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,239 1648,197 1929,245 2034,205 2034,129 100,152"/>
+                <Baseline points="113,207 208,205 303,203 399,203 494,201 590,201 685,201 780,199 876,199 971,199 1067,199 1162,199 1257,197 1353,197 1448,197 1544,197 1639,197 1734,197 1830,195 1925,195 2021,195"/>
+                <TextEquiv>
+                    <Unicode>a. daß deren Mitglieder an den im § 104 &amp; 139</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a. daß deren Mitglieder an den im § 104 &amp; 139</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:56.881+02:00</Created>
+        <LastChange>2020-10-27T07:39:07.624+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748026" pageNr="22" tsid="49315783" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WWYPDLXWRXGMBSJWQMUWVRDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WCJBMLJQKICHSYEJUVDTEGOX" imageId="14363206"/>
+    </Metadata>
+    <Page imageFilename="0022_page_395183_line_r2l2_docId_17269.jpg" imageWidth="633" imageHeight="306">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425708221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 633,0 633,306 0,306"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 235,180 263,198 297,185 344,206 489,187 530,199 533,121 496,114 465,133 401,100 378,114 291,106 209,132 170,102 102,101"/>
+                <Baseline points="116,164 141,166 166,168 191,170 216,170 241,172 266,172 291,172 317,174 342,174 367,174 392,174 417,174 442,176 467,176 492,176 518,178"/>
+                <TextEquiv>
+                    <Unicode>Weissblech ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weissblech ab.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:46:31.488+02:00</Created>
+        <LastChange>2020-11-09T17:26:39.429+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747081" pageNr="56" tsid="49318224" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GQCDWXLLLKKZUCLOUHSUDVUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPZYZYMVHFMZUVZBQKUOCKUT" imageId="14362261"/>
+    </Metadata>
+    <Page imageFilename="0105_page_385616_line_r2l21_docId_17256.jpg" imageWidth="2183" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425896540" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2183,0 2183,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,226 1903,217 2083,186 2083,131 100,124"/>
+                <Baseline points="114,179 211,177 309,175 407,175 505,175 603,173 700,173 798,173 896,173 994,173 1092,174 1189,175 1287,175 1385,175 1483,175 1581,173 1678,173 1776,173 1874,171 1972,169 2070,167"/>
+                <TextEquiv>
+                    <Unicode>25. Juni 1885 wird den mit Zuschriften vom 6. und 19. November</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25. Juni 1885 wird den mit Zuschriften vom 6. und 19. November</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:55:20.221+02:00</Created>
+        <LastChange>2020-08-22T07:33:08.764+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744675" pageNr="19" tsid="37714780" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NSUUWUMBLZKXZBKGAAEVTUJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXXIQXJLPGYGNMKERTNPWOXZ" imageId="14360066"/>
+    </Metadata>
+    <Page imageFilename="0027_page_310389_line_r1l28_docId_13791.jpg" imageWidth="2103" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426293504" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2103,0 2103,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1482,185 1654,232 2003,200 2003,135 100,150"/>
+                <Baseline points="111,176 205,179 299,180 393,180 487,182 581,182 675,182 769,182 863,182 957,182 1051,180 1145,180 1239,179 1333,179 1427,177 1521,177 1615,177 1709,176 1803,176 1897,176 1992,177"/>
+                <TextEquiv>
+                    <Unicode>nanzdepartements macht darauf aufmerksam, daß der Druck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nanzdepartements macht darauf aufmerksam, daß der Druck</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

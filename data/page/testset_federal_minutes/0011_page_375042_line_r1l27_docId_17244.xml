@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:04:25.614+02:00</Created>
+        <LastChange>2020-11-16T09:43:54.203+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744848" pageNr="9" tsid="49318873" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GPVJSUMOYOYPWCQFIDSSWSKY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LQZGDZVVQWMFQOYGNZOHREFD" imageId="14360239"/>
+    </Metadata>
+    <Page imageFilename="0011_page_375042_line_r1l27_docId_17244.jpg" imageWidth="684" imageHeight="326">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426239459" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 684,0 684,326 0,326"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 199,206 243,226 468,181 495,199 520,184 584,194 584,110 500,105 394,134 362,112 283,110 248,127 174,100 100,125"/>
+                <Baseline points="112,173 137,173 163,173 188,173 214,173 239,174 265,175 290,175 316,175 342,175 367,175 393,175 418,175 444,174 469,173 495,173 520,173 546,173 572,171 623,168"/>
+                <TextEquiv>
+                    <Unicode>und Konkurs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und Konkurs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

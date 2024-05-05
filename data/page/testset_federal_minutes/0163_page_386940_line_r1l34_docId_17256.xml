@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:49:37.060+02:00</Created>
+        <LastChange>2020-08-22T11:19:45.491+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747224" pageNr="85" tsid="37760957" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BMISMAACFNBTTSRWMQENLZVZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYNZSKCFYNAFVJMZRAVZLGWZ" imageId="14362404"/>
+    </Metadata>
+    <Page imageFilename="0163_page_386940_line_r1l34_docId_17256.jpg" imageWidth="1691" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425900931" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1691,0 1691,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 349,252 674,203 746,257 1591,208 1590,103 1188,159 965,117 866,159 730,108 638,155 486,100 389,162 100,146"/>
+                <Baseline points="114,188 187,188 260,190 333,190 406,190 480,190 553,188 626,188 699,188 772,188 846,186 919,186 992,186 1065,185 1138,184 1212,184 1285,184 1358,182 1431,182 1504,182 1578,182"/>
+                <TextEquiv>
+                    <Unicode>An die schweizer. Gesandtschaft in Paris z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die schweizer. Gesandtschaft in Paris z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

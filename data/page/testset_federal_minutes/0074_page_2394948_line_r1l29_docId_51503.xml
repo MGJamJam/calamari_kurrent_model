@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:58.590+02:00</Created>
+        <LastChange>2020-10-06T10:04:56.904+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750017" pageNr="45" tsid="49311624" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DOEABTXNSIRYDJFUATGXEUCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUQHTSECDKIULCGRDHVYCDUS" imageId="14365189"/>
+    </Metadata>
+    <Page imageFilename="0074_page_2394948_line_r1l29_docId_51503.jpg" imageWidth="2368" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425430730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2368,0 2368,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 1911,197 2115,252 2268,187 2268,122 984,162 305,100 100,154"/>
+                <Baseline points="113,186 220,186 327,188 434,188 541,188 648,188 755,188 862,190 969,190 1076,190 1183,190 1290,190 1397,190 1504,190 1611,190 1718,190 1825,192 1932,192 2039,192 2146,193 2253,194 2271,193"/>
+                <TextEquiv>
+                    <Unicode>einkommen zu treffen und sich mit ihr über die fragli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>einkommen zu treffen und sich mit ihr über die fragli¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

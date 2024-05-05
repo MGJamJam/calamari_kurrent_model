@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:44.413+02:00</Created>
+        <LastChange>2020-11-15T19:53:27.290+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745710" pageNr="60" tsid="49318666" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IARKAOUDVXJHJACAPWRVFRUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCDARURYJLXQGABNWHZKQXCJ" imageId="14360890"/>
+    </Metadata>
+    <Page imageFilename="0082_page_321866_line_r2l25_docId_14155.jpg" imageWidth="872" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426123565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 872,0 872,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 161,193 239,223 278,190 315,227 365,198 495,215 635,199 772,224 771,116 696,149 613,132 581,100 509,133 455,111 234,139 182,113 100,120"/>
+                <Baseline points="112,185 144,186 176,187 209,187 241,187 274,187 306,187 338,187 371,187 403,185 436,185 468,185 500,185 533,183 565,183 598,183 630,183 662,183 695,185 727,185 760,185"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft der J-B-L.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gesellschaft der J-B-L.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

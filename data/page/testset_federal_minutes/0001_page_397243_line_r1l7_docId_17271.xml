@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:16.986+02:00</Created>
+        <LastChange>2020-10-27T07:32:02.460+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747959" pageNr="1" tsid="49315751" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LFUMGGEWQDXHOFNMGDGNSDBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYQZKZGVFVRYAWOYFGXDFGJD" imageId="14363139"/>
+    </Metadata>
+    <Page imageFilename="0001_page_397243_line_r1l7_docId_17271.jpg" imageWidth="1455" imageHeight="278">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425705269" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1455,0 1455,278 0,278"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,163 1240,178 1355,135 100,104"/>
+                <Baseline points="108,141 173,141 238,141 303,142 368,142 434,143 499,143 564,144 629,145 694,146 760,147 825,148 890,149 955,150 1020,151 1086,152 1151,153 1216,154 1281,154 1347,155"/>
+                <TextEquiv>
+                    <Unicode>periode ein kleiner Vorteil erwachsen ist; aber indem der Vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>periode ein kleiner Vorteil erwachsen ist; aber indem der Vor¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

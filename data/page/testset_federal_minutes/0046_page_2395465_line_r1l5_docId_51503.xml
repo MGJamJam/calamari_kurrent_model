@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:01.655+02:00</Created>
+        <LastChange>2020-08-22T11:24:41.168+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749943" pageNr="26" tsid="37762549" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MLHOXUHKDSVGOZQJHDJKKPTA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBDRPHDOJLHSGGTFLALQXJLA" imageId="14365115"/>
+    </Metadata>
+    <Page imageFilename="0046_page_2395465_line_r1l5_docId_51503.jpg" imageWidth="778" imageHeight="416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425428112" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 778,0 778,416 0,416"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,287 146,310 187,269 214,292 274,292 307,260 345,261 380,291 413,267 468,265 540,316 596,267 677,269 678,198 330,217 256,197 149,100 103,116"/>
+                <Baseline points="113,250 140,250 168,250 195,251 223,252 251,252 278,252 306,254 333,254 361,254 389,254 416,255 444,256 471,256 499,256 527,256 554,256 582,256 609,258 637,258 665,258"/>
+                <TextEquiv>
+                    <Unicode>Kriegsgerichts Urtheile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kriegsgerichts Urtheile</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

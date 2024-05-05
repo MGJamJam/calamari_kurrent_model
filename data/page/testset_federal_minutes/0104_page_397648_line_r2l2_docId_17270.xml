@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:15:30.544+02:00</Created>
+        <LastChange>2020-08-22T11:24:27.549+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748309" pageNr="100" tsid="37762467" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NRTNOVJJQDTKOXKBOVAOVSHS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLKIQLRUCUFFEZIFNCJJLORJ" imageId="14363489"/>
+    </Metadata>
+    <Page imageFilename="0104_page_397648_line_r2l2_docId_17270.jpg" imageWidth="2281" imageHeight="418">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425718516" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2281,0 2281,418 0,418"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,266 559,318 832,247 978,315 1189,248 1285,313 1389,244 2181,263 2180,151 1944,100 1723,176 1336,142 1018,208 875,129 635,188 100,131"/>
+                <Baseline points="114,236 216,238 319,240 422,240 524,242 627,242 730,242 832,242 935,240 1038,240 1141,238 1243,238 1346,236 1449,234 1551,234 1654,232 1757,232 1859,230 1962,230 2065,228 2168,228"/>
+                <TextEquiv>
+                    <Unicode>Berechnung des konzessionsgemäßen Reiner¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berechnung des konzessionsgemäßen Reiner¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

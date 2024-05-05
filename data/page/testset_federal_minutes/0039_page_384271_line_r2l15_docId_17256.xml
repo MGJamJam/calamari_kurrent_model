@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:13.685+02:00</Created>
+        <LastChange>2020-08-22T11:16:06.057+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746928" pageNr="22" tsid="37759343" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NNZXFGIZMVFQSFMMDSHLQDPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVKWMAZEXZRBOMKYFGMEUYCM" imageId="14362108"/>
+    </Metadata>
+    <Page imageFilename="0039_page_384271_line_r2l15_docId_17256.jpg" imageWidth="2203" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425891871" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2203,0 2203,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 2103,218 2103,132 1989,111 1609,154 1505,103 1426,156 572,102 432,153 100,104"/>
+                <Baseline points="112,182 211,180 310,180 409,180 508,180 607,180 706,180 805,180 904,180 1003,180 1102,180 1201,180 1300,180 1399,180 1498,182 1597,182 1696,182 1795,182 1894,182 1993,182 2092,180"/>
+                <TextEquiv>
+                    <Unicode>direktion), unter Rückschluß des mit der bundesrätlichen Genehmi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>direktion), unter Rückschluß des mit der bundesrätlichen Genehmi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

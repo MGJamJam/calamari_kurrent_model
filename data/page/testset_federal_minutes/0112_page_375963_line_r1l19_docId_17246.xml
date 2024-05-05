@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:07.462+02:00</Created>
+        <LastChange>2020-11-10T08:06:32.291+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746555" pageNr="74" tsid="49318328" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QPVYDQMZRVTDBPUDCSMVTOWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHAFEEMWZQHTPTNHCTSISION" imageId="14361735"/>
+    </Metadata>
+    <Page imageFilename="0112_page_375963_line_r1l19_docId_17246.jpg" imageWidth="2024" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425956295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2024,0 2024,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 1924,237 1924,154 1543,118 1198,100 1093,163 100,124"/>
+                <Baseline points="113,184 202,186 292,188 382,190 472,190 562,190 652,192 742,192 832,192 922,192 1012,192 1101,192 1191,192 1281,192 1371,192 1461,192 1551,193 1641,194 1731,194 1821,196 1911,198"/>
+                <TextEquiv>
+                    <Unicode>Bilten infolge pflichtwidrigen Verhaltens zweier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bilten infolge pflichtwidrigen Verhaltens zweier</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:05.050+02:00</Created>
+        <LastChange>2020-10-06T06:55:45.845+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750329" pageNr="9" tsid="49310547" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KUBVNMSEPLYWUYSYENNVKJXQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRKMVIQTFCDTNBHYZENYUYGK" imageId="14365487"/>
+    </Metadata>
+    <Page imageFilename="0010_page_2438051_line_r2l32_docId_51510.jpg" imageWidth="1567" imageHeight="407">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425368840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1567,0 1567,407 0,407"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,254 462,252 525,307 618,253 1087,284 1467,226 1466,146 1316,104 1154,151 1073,100 714,207 429,159 367,201 297,157 100,209"/>
+                <Baseline points="119,253 185,251 252,248 318,247 385,245 452,245 518,246 585,247 651,247 718,249 785,249 851,249 918,249 984,249 1051,247 1117,245 1184,241 1251,236 1317,231 1384,222 1451,213"/>
+                <TextEquiv>
+                    <Unicode>Randantrag v. 12. ds. Rousset Marie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Randantrag v. 12. ds. Rousset Marie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

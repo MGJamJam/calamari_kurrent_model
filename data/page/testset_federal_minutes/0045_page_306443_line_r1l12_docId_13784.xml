@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:29.592+02:00</Created>
+        <LastChange>2020-11-17T07:08:41.979+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744477" pageNr="28" tsid="49319192" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OQNXGHFKEFDKIXVDNHUUHWHZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOXTCPYWLAWIFGFMRMAWRHYC" imageId="14359868"/>
+    </Metadata>
+    <Page imageFilename="0045_page_306443_line_r1l12_docId_13784.jpg" imageWidth="1539" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426352200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1539,0 1539,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,235 545,200 654,263 835,207 931,252 1267,197 1330,248 1439,201 1439,100 1228,141 1175,101 832,141 575,101 456,165 356,102 242,141 100,113"/>
+                <Baseline points="113,190 182,192 251,193 320,194 389,196 458,196 527,196 597,196 666,196 735,196 804,196 873,194 942,194 1012,194 1081,192 1150,191 1219,190 1288,189 1357,188 1427,186"/>
+                <TextEquiv>
+                    <Unicode>An Wien, nach Entwurf, zum Bericht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Wien, nach Entwurf, zum Bericht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:54.396+02:00</Created>
+        <LastChange>2020-11-16T07:40:16.219+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745461" pageNr="58" tsid="49318791" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MKEQMCPRCJPJYVZPXHWPHSOS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AISQYIKSKAWRXDXZJYKFWAIJ" imageId="14360645"/>
+    </Metadata>
+    <Page imageFilename="0067_page_2265565_line_r3l32_docId_51002.jpg" imageWidth="2318" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426191032" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2318,0 2318,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,250 2217,244 2218,187 1744,120 1599,180 1521,114 1122,167 987,100 881,166 102,154"/>
+                <Baseline points="115,190 219,193 323,195 428,196 532,198 637,200 741,201 845,202 950,204 1054,205 1159,206 1263,208 1367,210 1472,210 1576,212 1681,214 1785,216 1889,219 1994,221 2098,224 2203,228"/>
+                <TextEquiv>
+                    <Unicode>Es ist dem Schweiz. Vice-Konsul in Odessa, Hrn. Richard, gegen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es ist dem Schweiz. Vice-Konsul in Odessa, Hrn. Richard, gegen¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

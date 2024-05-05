@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:29.922+02:00</Created>
+        <LastChange>2020-08-22T11:21:30.482+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747969" pageNr="5" tsid="37761531" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=STJYQWSTWJSBZCLJMRLHEJYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZXJONUGYCXVUFYIZAGZZXPY" imageId="14363149"/>
+    </Metadata>
+    <Page imageFilename="0005_page_402114_line_r1l12_docId_17273.jpg" imageWidth="2043" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425705851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2043,0 2043,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1221,248 1943,197 1835,117 1585,106 100,136"/>
+                <Baseline points="113,177 203,180 294,181 385,183 476,183 567,183 658,184 749,184 840,184 931,184 1022,184 1112,183 1203,183 1294,183 1385,183 1476,184 1567,184 1658,184 1749,186 1840,187 1931,189"/>
+                <TextEquiv>
+                    <Unicode>dein Gewählten wird die Vergütung der Umzugskosten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dein Gewählten wird die Vergütung der Umzugskosten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

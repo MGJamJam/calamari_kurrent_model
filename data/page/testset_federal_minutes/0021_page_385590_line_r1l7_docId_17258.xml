@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:45:13.548+02:00</Created>
+        <LastChange>2020-08-22T11:15:38.433+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747020" pageNr="12" tsid="37759123" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QFFXVJSHGHVTAJFJYEAHRSAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDMBAYVIXVCXBJLSSPTUQADF" imageId="14362200"/>
+    </Metadata>
+    <Page imageFilename="0021_page_385590_line_r1l7_docId_17258.jpg" imageWidth="2310" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425845339" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2310,0 2310,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 203,279 308,210 1330,279 1496,210 1828,277 1915,208 2210,239 2210,134 100,169"/>
+                <Baseline points="114,203 218,203 322,205 426,205 530,205 635,205 739,203 843,203 947,203 1051,203 1156,203 1260,201 1364,201 1468,201 1572,201 1677,201 1781,200 1885,199 1989,199 2093,199 2198,201"/>
+                <TextEquiv>
+                    <Unicode>nahme vom 18. Januar 1897 das Gesuch ab, von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nahme vom 18. Januar 1897 das Gesuch ab, von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

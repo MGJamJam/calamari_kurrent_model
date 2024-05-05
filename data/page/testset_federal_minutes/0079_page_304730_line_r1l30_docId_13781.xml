@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:51.616+02:00</Created>
+        <LastChange>2020-08-21T22:03:43.046+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744432" pageNr="50" tsid="37655319" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ILMTXSYLWMGCADIRBEPAQJRD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JVHQYULHUOVZBBTJRXJIYVUL" imageId="14359823"/>
+    </Metadata>
+    <Page imageFilename="0079_page_304730_line_r1l30_docId_13781.jpg" imageWidth="1585" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426415287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1585,0 1585,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1166,189 1341,234 1484,194 1485,118 1052,154 681,100 570,159 434,121 101,153"/>
+                <Baseline points="112,178 180,178 248,178 316,178 384,178 452,178 520,178 588,178 656,178 724,178 792,178 860,178 928,178 996,178 1064,178 1132,178 1200,178 1268,178 1336,180 1404,180 1472,182"/>
+                <TextEquiv>
+                    <Unicode>ad 1 wegen Vertrauensmisbrauchs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ad 1 wegen Vertrauensmisbrauchs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:31:01.658+02:00</Created>
+        <LastChange>2020-08-22T11:21:38.375+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748906" pageNr="90" tsid="37761560" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BQRKZMZQTEDLNKWERMGXKXGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSXVIZEDMQSBYJYNQXFIANNB" imageId="14364082"/>
+    </Metadata>
+    <Page imageFilename="0185_page_393443_line_r1l26_docId_17264.jpg" imageWidth="2227" imageHeight="388">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425773684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2227,0 2227,388 0,388"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,288 1013,211 1939,255 2127,234 2126,127 988,176 741,100 532,184 244,122 100,176"/>
+                <Baseline points="114,220 214,220 314,218 414,216 514,214 614,212 714,212 814,210 914,208 1014,207 1114,206 1214,204 1314,204 1414,202 1514,202 1614,200 1714,200 1814,200 1914,198 2014,198 2114,198"/>
+                <TextEquiv>
+                    <Unicode>Gefängnisstrafe von 18 Monaten, zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gefängnisstrafe von 18 Monaten, zur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

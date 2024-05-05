@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:53.846+02:00</Created>
+        <LastChange>2020-08-22T11:26:09.916+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749590" pageNr="87" tsid="37763106" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LBBTPBNJKIAYIORJXAGXUWDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HNNNKOSKPEDSOTTWADRLKYQR" imageId="14364766"/>
+    </Metadata>
+    <Page imageFilename="0114_page_2366597_line_r1l34_docId_51494.jpg" imageWidth="1211" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425549315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1211,0 1211,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 260,199 380,269 479,199 1111,204 1111,143 986,107 878,157 776,157 743,124 668,157 460,122 377,147 299,100 241,158 100,155"/>
+                <Baseline points="114,191 163,193 212,193 261,193 310,191 360,191 409,191 458,191 507,191 556,191 606,191 655,191 704,191 753,191 802,191 852,191 901,191 950,191 999,191 1048,191 1098,191"/>
+                <TextEquiv>
+                    <Unicode>an den eidg. Minister in Paris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an den eidg. Minister in Paris.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

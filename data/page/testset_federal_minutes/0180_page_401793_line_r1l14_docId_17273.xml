@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:22:45.076+02:00</Created>
+        <LastChange>2020-08-22T11:26:32.867+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748576" pageNr="175" tsid="37763249" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EVUBGNLKJBLVRRPEVAQLZHGF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJTWDKHDDZEZAUSKLJHMWJKR" imageId="14363756"/>
+    </Metadata>
+    <Page imageFilename="0180_page_401793_line_r1l14_docId_17273.jpg" imageWidth="631" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425728840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 631,0 631,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,249 221,198 342,230 387,199 478,210 499,188 531,190 530,142 479,149 414,100 359,141 296,105 273,125 211,118 161,154 100,156"/>
+                <Baseline points="113,187 138,187 163,187 188,185 214,185 239,184 264,183 290,181 315,181 340,179 366,178 391,178 416,178 442,178 467,178 492,180 518,181"/>
+                <TextEquiv>
+                    <Unicode>zu treffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu treffen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

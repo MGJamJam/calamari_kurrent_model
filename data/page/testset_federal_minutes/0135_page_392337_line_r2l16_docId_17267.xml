@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:24:23.517+02:00</Created>
+        <LastChange>2020-08-22T11:20:11.633+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748640" pageNr="73" tsid="37761127" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QAUWGPPFWAMEWWIUXJSQEPZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXQWMKHXPYCKVOWRZXDOVLRX" imageId="14363820"/>
+    </Metadata>
+    <Page imageFilename="0135_page_392337_line_r2l16_docId_17267.jpg" imageWidth="1176" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425771267" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1176,0 1176,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 331,214 362,243 567,198 885,235 1076,201 1076,105 930,100 758,147 659,108 482,105 418,153 100,113"/>
+                <Baseline points="114,183 161,183 208,185 256,185 303,185 351,185 398,187 445,187 493,187 540,187 588,187 635,187 682,187 730,187 777,187 825,187 872,185 919,185 967,185 1014,183 1062,183"/>
+                <TextEquiv>
+                    <Unicode>bb. nach Stickoxydul:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bb. nach Stickoxydul:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

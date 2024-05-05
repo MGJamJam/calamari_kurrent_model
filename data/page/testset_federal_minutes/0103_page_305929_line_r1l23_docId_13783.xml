@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:10.058+02:00</Created>
+        <LastChange>2020-08-21T22:04:33.526+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744468" pageNr="68" tsid="37655454" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KZDFLSJUDKSLQQLXZZXNBXZC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDXZOHIPMVTOOEQAYLCPXDLE" imageId="14359859"/>
+    </Metadata>
+    <Page imageFilename="0103_page_305929_line_r1l23_docId_13783.jpg" imageWidth="2143" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426417722" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2143,0 2143,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1891,245 2043,196 2043,142 1919,119 100,123"/>
+                <Baseline points="113,190 208,190 304,190 400,190 496,190 592,190 687,190 783,190 879,190 975,190 1071,192 1166,192 1262,192 1358,192 1454,192 1550,192 1645,190 1741,190 1837,190 1933,190 2029,188"/>
+                <TextEquiv>
+                    <Unicode>Herr Dr. Karl Burckhardt-Iselin die am 3. Juni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr Dr. Karl Burckhardt-Iselin die am 3. Juni</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

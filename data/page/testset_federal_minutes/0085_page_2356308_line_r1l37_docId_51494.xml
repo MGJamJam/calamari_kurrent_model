@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:54.499+02:00</Created>
+        <LastChange>2020-08-22T11:25:18.689+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749524" pageNr="66" tsid="37762780" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PXQBDUDZIFYKZMBOJFWFAJNT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FTHDRCNYRKMUDECISCEXSLHP" imageId="14364700"/>
+    </Metadata>
+    <Page imageFilename="0085_page_2356308_line_r1l37_docId_51494.jpg" imageWidth="737" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425546448" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 737,0 737,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,199 287,194 346,251 424,245 470,213 518,221 551,187 637,181 636,119 608,128 575,109 525,143 491,110 408,109 375,142 314,143 250,100 178,148 100,152"/>
+                <Baseline points="116,182 141,182 166,180 192,180 217,180 243,178 268,178 293,178 319,178 344,178 370,178 395,178 420,178 446,176 471,176 497,176 522,176 547,176 573,174 598,174 624,174"/>
+                <TextEquiv>
+                    <Unicode>wissen nöthig sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wissen nöthig sei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

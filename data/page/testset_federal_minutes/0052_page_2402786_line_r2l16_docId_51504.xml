@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:14.011+02:00</Created>
+        <LastChange>2020-10-06T09:19:39.998+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749959" pageNr="31" tsid="49311581" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QWBEZYOWCPHHZRJPDQJYNCQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYKOZHADQGVPFHGSEATFRHKG" imageId="14365131"/>
+    </Metadata>
+    <Page imageFilename="0052_page_2402786_line_r2l16_docId_51504.jpg" imageWidth="2259" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425428779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2259,0 2259,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2159,162 663,100 100,156"/>
+                <Baseline points="63,179 113,178 214,178 316,178 417,178 519,178 621,178 722,178 824,178 925,180 1027,180 1129,180 1230,182 1332,182 1433,182 1535,184 1637,184 1738,186 1840,186 1941,186 2043,188 2145,188"/>
+                <TextEquiv>
+                    <Unicode>1.Es seien die Kreispost Kattiere vom 1. Januar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.Es seien die Kreispost Kattiere vom 1. Januar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

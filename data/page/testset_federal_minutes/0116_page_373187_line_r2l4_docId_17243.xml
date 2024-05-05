@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:31.924+02:00</Created>
+        <LastChange>2020-11-16T10:28:33.240+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745112" pageNr="69" tsid="49318946" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GSZETYLTPBVITFNFJPRCNCRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOZNPISLSDWEYTMGQTVLSUBJ" imageId="14360404"/>
+    </Metadata>
+    <Page imageFilename="0116_page_373187_line_r2l4_docId_17243.jpg" imageWidth="1691" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426247608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1691,0 1691,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,247 422,200 1335,236 1591,209 1591,134 1476,159 1327,100 1260,153 1099,117 886,164 658,103 532,163 100,106"/>
+                <Baseline points="113,191 186,191 259,191 332,191 406,189 479,189 552,189 626,188 699,187 772,187 846,187 919,185 992,185 1065,185 1139,185 1212,185 1285,185 1359,185 1432,185 1505,185 1579,187 1622,187"/>
+                <TextEquiv>
+                    <Unicode>Der kleine Rat des Kantons Grau¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der kleine Rat des Kantons Grau¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

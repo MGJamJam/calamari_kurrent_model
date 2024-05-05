@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:22:19.881+02:00</Created>
+        <LastChange>2020-10-27T08:18:25.081+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748560" pageNr="170" tsid="49315956" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AQELGCONTWMRPWZIZMSVXHOP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJBOSUNAKBAYYVFIZTLFRPMV" imageId="14363740"/>
+    </Metadata>
+    <Page imageFilename="0175_page_379261_line_r2l1_docId_17274.jpg" imageWidth="1036" imageHeight="452">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425728213" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1036,0 1036,452 0,452"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,282 362,273 463,336 934,344 936,166 721,192 556,100 395,147 342,104 293,129 260,106 141,141 101,124"/>
+                <Baseline points="115,268 155,264 195,260 235,258 276,256 316,256 356,254 397,254 437,256 477,256 518,257 558,260 598,260 638,262 679,264 719,264 759,266 800,266 840,266 880,266 921,264"/>
+                <TextEquiv>
+                    <Unicode>49. Sitzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>49. Sitzung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

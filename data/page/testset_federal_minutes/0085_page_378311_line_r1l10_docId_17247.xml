@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:47.652+02:00</Created>
+        <LastChange>2020-11-10T07:53:10.876+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746478" pageNr="56" tsid="49318314" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VFYMBGSIOTIOGJTMSSGFDNXG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSDYQIUGHBVZNIAQVEWKJGPF" imageId="14361658"/>
+    </Metadata>
+    <Page imageFilename="0085_page_378311_line_r1l10_docId_17247.jpg" imageWidth="961" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425953473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 961,0 961,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,182 208,161 365,222 473,166 525,189 591,168 668,203 764,199 800,163 861,175 861,123 804,138 682,107 445,131 339,102 100,112"/>
+                <Baseline points="112,158 148,158 185,158 222,156 259,156 296,156 333,156 370,156 407,156 444,156 481,156 517,156 554,156 591,156 628,156 665,156 702,156 739,156 776,158 813,158 850,156 880,157"/>
+                <TextEquiv>
+                    <Unicode>gen Schulen zu erklären.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gen Schulen zu erklären.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

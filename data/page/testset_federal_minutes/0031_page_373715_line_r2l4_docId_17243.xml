@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:35.568+02:00</Created>
+        <LastChange>2020-11-16T09:52:56.917+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744879" pageNr="20" tsid="49318888" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HXGXCZJXHSIRGAMVRNAGTSBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBZZBWADNDRNDFOTTZIBDBNT" imageId="14360270"/>
+    </Metadata>
+    <Page imageFilename="0031_page_373715_line_r2l4_docId_17243.jpg" imageWidth="1337" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426240997" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1337,0 1337,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,244 218,193 426,241 686,187 786,233 887,188 1204,200 1237,190 1236,103 1075,147 584,118 453,157 398,118 100,100"/>
+                <Baseline points="113,186 168,186 224,186 279,186 335,185 391,184 446,184 502,184 557,184 613,182 669,182 724,182 780,182 835,180 891,180 947,180 1002,180 1058,178 1113,178 1169,178 1225,178"/>
+                <TextEquiv>
+                    <Unicode>zur Entscheidung dieser Beschwerde eingestellt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zur Entscheidung dieser Beschwerde eingestellt:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

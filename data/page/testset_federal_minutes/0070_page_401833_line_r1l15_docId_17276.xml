@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:30:09.531+02:00</Created>
+        <LastChange>2020-08-22T11:23:50.904+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748871" pageNr="31" tsid="37762247" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OZPMTFRSVVKOFHZPXJWUTMRU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBMCEPQSJJHYMRPBZPQDMTXG" imageId="14364047"/>
+    </Metadata>
+    <Page imageFilename="0070_page_401833_line_r1l15_docId_17276.jpg" imageWidth="2324" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425629386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,229 494,180 2173,242 2224,145 101,116"/>
+                <Baseline points="115,168 219,168 324,168 429,168 533,168 638,168 743,170 847,170 952,171 1057,172 1162,174 1266,174 1371,176 1476,178 1580,178 1685,180 1790,182 1894,183 1999,184 2104,186 2209,188"/>
+                <TextEquiv>
+                    <Unicode>Thäterschaft mit Steinen beworfen worden ist. — Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thäterschaft mit Steinen beworfen worden ist. — Die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

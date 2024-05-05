@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:17.929+02:00</Created>
+        <LastChange>2020-10-06T08:00:30.082+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750644" pageNr="85" tsid="49310772" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FFLRLHPCXSEMJVJCCVEOIKBQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXKTFHRWJJFAFGZWFJIMKFFK" imageId="14365802"/>
+    </Metadata>
+    <Page imageFilename="0121_page_2418293_line_r1l1_docId_51507.jpg" imageWidth="753" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425379419" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 753,0 753,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 154,196 371,193 428,231 482,236 526,195 653,192 653,119 431,141 347,119 325,141 243,141 184,100 100,136"/>
+                <Baseline points="113,188 139,187 165,186 192,186 218,186 245,185 271,184 297,184 324,184 350,184 377,184 403,184 429,185 456,186 482,186 509,186 535,186 561,186 588,186 614,185 641,184"/>
+                <TextEquiv>
+                    <Unicode>Gemeinderath la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gemeinderath la</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:58.804+02:00</Created>
+        <LastChange>2020-11-15T17:56:36.042+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746021" pageNr="72" tsid="49318562" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AYCLQTCUEWCRDHNGEPFVKOZN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FEOCVIKLZALOYSKZDYTROHJK" imageId="14361201"/>
+    </Metadata>
+    <Page imageFilename="0109_page_2271376_line_r2l25_docId_51007.jpg" imageWidth="2300" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426065244" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2300,0 2300,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2199,211 2200,153 1770,113 1554,162 102,100"/>
+                <Baseline points="113,172 216,174 320,176 423,178 527,180 631,182 734,184 838,186 941,188 1045,189 1149,190 1252,192 1356,194 1459,194 1563,196 1667,198 1770,200 1874,202 1977,204 2081,206 2185,208"/>
+                <TextEquiv>
+                    <Unicode>kranken Anton Giudice von Giornico (Tessin) während</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kranken Anton Giudice von Giornico (Tessin) während</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:37.835+02:00</Created>
+        <LastChange>2020-10-08T08:14:26.170+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749907" pageNr="52" tsid="49312341" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FRCDLDAOVKEEJKGGXZGYZPAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXMOQEOZTZLJXFUEVMQQOXCW" imageId="14365079"/>
+    </Metadata>
+    <Page imageFilename="0079_page_2354093_line_r3l50_docId_51496.jpg" imageWidth="741" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425486135" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 741,0 741,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 136,189 192,246 292,178 309,195 360,188 394,222 426,197 488,244 544,190 641,188 641,164 561,164 537,140 494,151 474,131 433,141 400,107 352,107 279,159 224,163 186,124 100,100"/>
+                <Baseline points="105,186 131,186 158,184 184,184 211,184 237,184 264,184 290,184 317,182 343,182 370,182 396,182 423,182 449,182 476,182 502,182 529,183 555,184 582,185 608,187 635,188"/>
+                <TextEquiv>
+                    <Unicode>bisherige Posthalterin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bisherige Posthalterin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

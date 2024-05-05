@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:27:43.913+02:00</Created>
+        <LastChange>2020-08-22T11:20:52.825+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748773" pageNr="83" tsid="37761339" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UWASQDZIUGEIUPLNWDFKNECE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIVIMNTDFHMURZWICNEHPZAS" imageId="14363949"/>
+    </Metadata>
+    <Page imageFilename="0159_page_391392_line_r1l6_docId_17264.jpg" imageWidth="627" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425772661" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 627,0 627,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,218 143,223 181,202 314,217 358,194 455,208 527,193 526,116 501,122 475,100 431,101 363,141 313,150 269,132 236,152 188,130 169,142 100,118"/>
+                <Baseline points="115,185 141,187 168,187 194,187 221,187 247,187 274,185 300,185 327,184 353,183 380,183 406,181 433,181 459,181 486,181 513,183"/>
+                <TextEquiv>
+                    <Unicode>2 Postkommis in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2 Postkommis in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

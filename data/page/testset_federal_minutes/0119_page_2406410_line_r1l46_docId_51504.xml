@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:29.046+02:00</Created>
+        <LastChange>2020-10-06T10:32:10.905+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750133" pageNr="71" tsid="49311723" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XJZPEKOZFZVLVHMYXMPHWKXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWGPQHDOODSTFUEKKSPXYYIM" imageId="14365305"/>
+    </Metadata>
+    <Page imageFilename="0119_page_2406410_line_r1l46_docId_51504.jpg" imageWidth="747" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425434473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 747,0 747,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 179,215 258,234 285,208 343,235 377,211 610,213 647,229 647,176 600,157 544,178 441,164 357,100 248,155 193,125 101,141"/>
+                <Baseline points="114,199 140,199 166,199 192,200 218,201 244,201 270,200 296,199 322,199 348,199 374,199 400,199 426,199 452,199 478,199 504,200 530,201 556,201 582,203 608,205 634,205 652,204"/>
+                <TextEquiv>
+                    <Unicode>Schweiz. Turnverein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schweiz. Turnverein,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

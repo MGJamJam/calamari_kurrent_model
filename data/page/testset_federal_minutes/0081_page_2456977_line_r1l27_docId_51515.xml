@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:21.876+02:00</Created>
+        <LastChange>2020-09-28T09:28:01.339+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519046" pageNr="59" tsid="49307449" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CISHSUYNLNDYWZUEYZKEEBLA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNGUHXRJLIFZBIFJVQDTLFUW" imageId="15085979"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2456977_line_r1l27_docId_51515.jpg" imageWidth="2329" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425244384" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2329,0 2329,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,234 2229,203 2229,125 2060,108 101,140 100,234"/>
+                <Baseline points="118,177 222,179 327,179 432,181 536,181 641,181 746,181 850,183 955,183 1060,183 1165,183 1269,183 1374,183 1479,183 1583,183 1688,185 1793,185 1897,185 2002,185 2107,187 2212,187"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="124,139 124,199 414,199 414,139"/>
+                    <TextEquiv>
+                        <Unicode>heimkehrte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="457,141 457,201 542,201 542,141"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="568,141 568,201 714,201 714,141"/>
+                    <TextEquiv>
+                        <Unicode>seinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="757,143 757,203 1254,203 1254,143"/>
+                    <TextEquiv>
+                        <Unicode>Heimathschein-ohne</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1288,143 1288,203 1468,203 1468,143"/>
+                    <TextEquiv>
+                        <Unicode>welchen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1510,143 1510,203 1553,203 1553,143"/>
+                    <TextEquiv>
+                        <Unicode>er</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1588,144 1588,204 1767,204 1767,144"/>
+                    <TextEquiv>
+                        <Unicode>Gefahr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1793,145 1793,205 1956,205 1956,145"/>
+                    <TextEquiv>
+                        <Unicode>lauft,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1973,146 1973,206 2220,206 2220,146"/>
+                    <TextEquiv>
+                        <Unicode>Heimath-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>heimkehrte und seinen Heimathschein - ohne welchen er Gefahr läuft, Heimath-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>heimkehrte und seinen Heimathschein - ohne welchen er Gefahr läuft, Heimath-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

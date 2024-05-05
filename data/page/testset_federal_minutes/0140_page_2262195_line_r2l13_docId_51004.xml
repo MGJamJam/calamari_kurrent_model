@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:27.424+02:00</Created>
+        <LastChange>2020-08-22T07:37:00.157+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745628" pageNr="120" tsid="37715484" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RTCKWDKVZAYCDPOZMETBPTXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ECXRALNCIQALYXVHSCOIYXWU" imageId="14360808"/>
+    </Metadata>
+    <Page imageFilename="0140_page_2262195_line_r2l13_docId_51004.jpg" imageWidth="2162" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199561" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2162,0 2162,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,213 1830,214 2004,205 2062,132 100,138"/>
+                <Baseline points="114,178 210,177 307,176 404,174 500,172 597,172 694,170 790,170 887,170 984,168 1081,168 1177,168 1274,168 1371,168 1467,168 1564,166 1661,166 1757,166 1854,166 1951,166 2048,166"/>
+                <TextEquiv>
+                    <Unicode>Es sei obiger, dem Kanton Zürich zugetheilter französische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es sei obiger, dem Kanton Zürich zugetheilter französische</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

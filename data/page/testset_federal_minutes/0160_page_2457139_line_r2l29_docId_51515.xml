@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:53.091+02:00</Created>
+        <LastChange>2020-09-22T15:27:40.707+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519125" pageNr="120" tsid="49307686" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=STFAPXUQJSDWSMWTNCCRVIQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXOVJBWIBOYUCSVNEXEMGMFJ" imageId="15086058"/>
+    </Metadata>
+    <Page imageFilename="0160_page_2457139_line_r2l29_docId_51515.jpg" imageWidth="1454" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425253441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1454,0 1454,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 245,221 742,204 778,240 819,202 1063,180 1354,193 1354,108 1005,138 841,100 794,141 630,141 396,100 100,144 100,186"/>
+                <Baseline points="113,172 174,172 235,170 296,170 358,170 419,170 480,170 542,170 603,168 664,168 726,168 787,168 848,168 909,168 971,168 1032,168 1093,170 1155,170 1216,170 1277,172 1339,172"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="110,132 110,192 221,192 221,132"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="251,130 251,190 645,190 645,130"/>
+                    <TextEquiv>
+                        <Unicode>Gratifikation</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="686,128 686,188 766,188 766,128"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="797,128 797,188 867,188 867,128"/>
+                    <TextEquiv>
+                        <Unicode>Fr.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="887,128 887,188 968,188 968,128"/>
+                    <TextEquiv>
+                        <Unicode>800</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1008,130 1008,190 1342,190 1342,130"/>
+                    <TextEquiv>
+                        <Unicode>zuerkannt;</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>eine Gratifikation von Fr. 800 zuerkannt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

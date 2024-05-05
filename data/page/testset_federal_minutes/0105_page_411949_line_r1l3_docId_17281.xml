@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:39:38.662+02:00</Created>
+        <LastChange>2020-08-22T11:25:15.841+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749319" pageNr="50" tsid="37762761" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DDLXFJFKUDWWYSROIPJXIHAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WFUVRQLOJTMXKWKQMRDRPULM" imageId="14364495"/>
+    </Metadata>
+    <Page imageFilename="0105_page_411949_line_r1l3_docId_17281.jpg" imageWidth="1996" imageHeight="396">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425592293" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1996,0 1996,396 0,396"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,267 1896,253 1857,159 1539,100 1395,166 100,134"/>
+                <Baseline points="115,210 203,212 291,214 380,216 468,216 557,218 645,220 733,220 822,220 910,222 999,222 1087,222 1175,222 1264,222 1352,220 1441,220 1529,218 1617,218 1706,216 1794,214 1883,212"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug aus Post- und Eisenbahn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug aus Post- und Eisenbahn¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

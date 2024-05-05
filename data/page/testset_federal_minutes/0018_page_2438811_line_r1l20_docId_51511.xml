@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:15.908+02:00</Created>
+        <LastChange>2020-08-22T11:29:15.448+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750406" pageNr="13" tsid="49309197" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BJEFFUAHQWVGMGUDUOPZFWUB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZCMNWCZIPODURDWDJDVPKUR" imageId="14365564"/>
+    </Metadata>
+    <Page imageFilename="0018_page_2438811_line_r1l20_docId_51511.jpg" imageWidth="976" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425305621" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 976,0 976,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 242,222 417,215 442,193 848,196 875,188 876,152 804,152 731,102 624,117 580,158 350,102 100,119"/>
+                <Baseline points="113,175 150,178 187,180 225,183 262,183 300,185 337,185 374,185 412,185 449,185 487,185 524,185 561,185 599,185 636,185 674,185 711,185 748,185 786,185 823,185 861,187"/>
+                <TextEquiv>
+                    <Unicode>Rübschlus der Akten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rübschlus der Akten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

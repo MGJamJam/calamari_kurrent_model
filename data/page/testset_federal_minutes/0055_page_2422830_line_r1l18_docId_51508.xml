@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:46.302+02:00</Created>
+        <LastChange>2020-10-06T07:20:53.437+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750444" pageNr="39" tsid="49310655" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TRMSCCNHSMOQNFYAXDUIKMBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFCUNVDUUKICNKGFQNBPQMRA" imageId="14365602"/>
+    </Metadata>
+    <Page imageFilename="0055_page_2422830_line_r1l18_docId_51508.jpg" imageWidth="2209" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425372999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2209,0 2209,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,205 2109,209 2108,144 1818,100 1590,163 100,150"/>
+                <Baseline points="114,197 213,197 312,199 411,199 510,199 609,199 708,199 807,199 906,197 1005,197 1105,195 1204,194 1303,193 1402,191 1501,191 1600,191 1699,189 1798,189 1897,190 1996,191 2096,191"/>
+                <TextEquiv>
+                    <Unicode>Unterm 3. ds. ersucht die Regierung von Luzern um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unterm 3. ds. ersucht die Regierung von Luzern um</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

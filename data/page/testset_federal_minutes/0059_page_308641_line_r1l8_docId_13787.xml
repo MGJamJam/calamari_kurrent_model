@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:17.777+02:00</Created>
+        <LastChange>2020-08-21T22:13:20.156+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744527" pageNr="32" tsid="37656919" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CEMCICPNQNOTWPJMQIRWGZYW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXTVNCVZXIEUQQFKQAJLCPOY" imageId="14359918"/>
+    </Metadata>
+    <Page imageFilename="0059_page_308641_line_r1l8_docId_13787.jpg" imageWidth="2123" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426352723" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2123,0 2123,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2023,210 2023,156 1769,111 1445,100 1269,164 1046,114 838,166 100,136"/>
+                <Baseline points="112,203 206,201 301,199 396,197 491,197 586,195 681,195 776,195 871,195 966,193 1061,193 1155,193 1250,193 1345,193 1440,193 1535,193 1630,193 1725,193 1820,193 1915,193 2010,191"/>
+                <TextEquiv>
+                    <Unicode>und Haag Karl, Sohn, zur Seeburg in Rorschacherberg ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und Haag Karl, Sohn, zur Seeburg in Rorschacherberg ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

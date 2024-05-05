@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:15.058+02:00</Created>
+        <LastChange>2020-11-18T17:44:54.414+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744554" pageNr="100" tsid="49319375" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IGJHQTBRHIZVPNTSTHADUOGQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PCIEYROYIGUGPSOLNGIATSOP" imageId="14359945"/>
+    </Metadata>
+    <Page imageFilename="0160_page_302778_line_r1l15_docId_13779.jpg" imageWidth="683" imageHeight="294">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426422093" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 683,0 683,294 0,294"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,185 210,193 283,172 333,194 386,171 435,190 475,165 583,156 581,115 551,124 524,104 489,123 429,100 331,135 260,107 205,142 184,125 100,128"/>
+                <Baseline points="115,167 140,167 165,169 191,169 216,169 241,167 267,167 292,165 317,165 343,162 368,160 393,159 419,158 444,157 469,156 495,155 520,155 545,155 571,155"/>
+                <TextEquiv>
+                    <Unicode>mäler; Kredit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mäler; Kredit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

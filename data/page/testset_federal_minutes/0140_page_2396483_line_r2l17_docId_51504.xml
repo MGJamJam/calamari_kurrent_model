@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:11.455+02:00</Created>
+        <LastChange>2020-10-06T10:42:34.243+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750187" pageNr="87" tsid="49311777" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KYHCKUXXGVTBYLARNURAZOAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AKREXUIUGAXMGRMIDOVEZTBX" imageId="14365359"/>
+    </Metadata>
+    <Page imageFilename="0140_page_2396483_line_r2l17_docId_51504.jpg" imageWidth="848" imageHeight="295">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425436697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 848,0 848,295 0,295"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 389,178 425,195 731,195 748,192 748,142 695,145 606,100 590,117 439,108 400,147 322,105 275,144 100,150"/>
+                <Baseline points="113,179 144,177 175,177 206,177 237,175 268,177 299,177 330,177 361,177 392,179 424,179 455,179 486,179 517,179 548,179 579,179 610,179 641,179 672,177 703,176 735,173"/>
+                <TextEquiv>
+                    <Unicode>renden Akten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>renden Akten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

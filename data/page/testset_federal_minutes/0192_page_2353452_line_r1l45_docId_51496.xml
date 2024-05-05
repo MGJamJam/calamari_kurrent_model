@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:40.571+02:00</Created>
+        <LastChange>2020-08-22T11:28:19.222+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750240" pageNr="122" tsid="37764102" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EQZMWQCUEASUOSQTJLBTDYEK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEYIJBBCELILBLTCJJJZTIIJ" imageId="14365398"/>
+    </Metadata>
+    <Page imageFilename="0192_page_2353452_line_r1l45_docId_51496.jpg" imageWidth="3011" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425495875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 3011,0 3011,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 1995,264 2658,218 2911,109 100,160"/>
+                <Baseline points="117,192 255,192 394,190 533,190 672,190 811,192 949,192 1088,192 1227,194 1366,194 1505,194 1643,194 1782,194 1921,194 2060,192 2199,190 2337,186 2476,182 2615,177 2754,170 2893,162"/>
+                <TextEquiv>
+                    <Unicode>in Rio de Daneiro seine Verwunderung darüber aus, daß der als geistes Henri Kacot-Guill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Rio de Daneiro seine Verwunderung darüber aus, daß der als geistes Henri Kacot-Guill</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

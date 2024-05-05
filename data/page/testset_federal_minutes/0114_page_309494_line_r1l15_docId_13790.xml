@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:36.590+02:00</Created>
+        <LastChange>2020-11-16T14:41:54.334+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744880" pageNr="76" tsid="49319089" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OELXUSSWETAQNQWBJRAVYEKY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEWLQQGXUHBBEQDYVKFRRTRK" imageId="14360271"/>
+    </Metadata>
+    <Page imageFilename="0114_page_309494_line_r1l15_docId_13790.jpg" imageWidth="2107" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426301368" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2107,0 2107,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 2007,227 2007,128 1649,100 1183,161 101,112"/>
+                <Baseline points="80,182 113,181 207,181 301,181 395,181 489,183 583,183 677,183 771,183 865,183 959,183 1054,183 1148,183 1242,183 1336,183 1430,183 1524,183 1618,183 1712,185 1806,185 1900,185 1995,187 2035,190"/>
+                <TextEquiv>
+                    <Unicode>genstandslos geworden sei, dagegen wird das Post- und Eisenbahn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>genstandslos geworden sei, dagegen wird das Post- und Eisenbahn¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:10.195+02:00</Created>
+        <LastChange>2020-10-06T10:26:16.497+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750110" pageNr="64" tsid="49311703" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QHKZJPPOHDULLPNMLXVQFJHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQEAWMXDHEJFFIWYBTGNHLIL" imageId="14365282"/>
+    </Metadata>
+    <Page imageFilename="0110_page_2399408_line_r2l6_docId_51504.jpg" imageWidth="2411" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425433499" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2411,0 2411,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 2310,250 2311,125 2239,179 991,117 677,167 101,100"/>
+                <Baseline points="114,195 223,195 332,195 441,197 550,197 659,198 768,199 877,199 986,201 1095,201 1205,203 1314,203 1423,205 1532,207 1641,207 1750,209 1859,211 1968,211 2077,213 2186,215 2296,217"/>
+                <TextEquiv>
+                    <Unicode>und mit der /: nach der Vorlage des Departements einläßlicher zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und mit der /: nach der Vorlage des Departements einläßlicher zu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

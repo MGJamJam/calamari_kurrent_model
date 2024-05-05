@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:12.546+02:00</Created>
+        <LastChange>2020-09-28T09:46:46.926+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519073" pageNr="79" tsid="49307540" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VPGCRPZOCQUKRDEQYPCWCQQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SJKEAVENVEBFBXCEBZRTWNFN" imageId="15086006"/>
+    </Metadata>
+    <Page imageFilename="0108_page_2456950_line_r2l14_docId_51515.jpg" imageWidth="2314" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425247357" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2314,0 2314,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 2214,195 2143,124 1225,100 100,145 100,196"/>
+                <Baseline points="113,183 217,183 321,183 426,181 530,181 635,181 739,181 843,181 948,181 1052,181 1157,182 1261,183 1365,183 1470,183 1574,183 1679,183 1783,185 1887,185 1992,185 2096,185 2201,185"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="147,143 147,203 394,203 394,143"/>
+                    <TextEquiv>
+                        <Unicode>Bezüglich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="427,141 427,201 510,201 510,141"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="559,141 559,201 765,201 765,141"/>
+                    <TextEquiv>
+                        <Unicode>Fezesche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="806,141 806,201 880,201 880,141"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="897,141 897,201 1086,201 1086,141"/>
+                    <TextEquiv>
+                        <Unicode>Grafen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1135,142 1135,202 1350,202 1350,142"/>
+                    <TextEquiv>
+                        <Unicode>Caovur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1399,143 1399,203 1449,203 1449,143"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1498,143 1498,203 1572,203 1572,143"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1613,144 1613,204 1877,204 1877,144"/>
+                    <TextEquiv>
+                        <Unicode>sardinischen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1935,145 1935,205 2190,205 2190,145"/>
+                    <TextEquiv>
+                        <Unicode>Minister-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Bezüglich der Depesche des Grafen Caovur an den sardinischen Minister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bezüglich der Depesche des Grafen Caovur an den sardinischen Minister</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

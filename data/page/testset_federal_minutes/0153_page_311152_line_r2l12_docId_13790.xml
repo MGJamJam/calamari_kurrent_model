@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:53.740+02:00</Created>
+        <LastChange>2020-08-22T07:36:58.183+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744997" pageNr="99" tsid="37715480" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YDFSXAOZYUHADJHJSIQEOIFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SADCGWZCKGYSLXTKINKSQHXJ" imageId="14360388"/>
+    </Metadata>
+    <Page imageFilename="0153_page_311152_line_r2l12_docId_13790.jpg" imageWidth="2190" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426304490" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2190,0 2190,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1482,250 1564,198 2051,214 2090,145 1762,104 1459,160 1280,103 695,154 442,100 100,161"/>
+                <Baseline points="112,186 210,186 308,186 406,186 505,186 603,186 701,186 800,186 898,186 996,186 1095,186 1193,186 1291,186 1389,186 1488,186 1586,188 1684,188 1783,188 1881,188 1979,188 2078,188"/>
+                <TextEquiv>
+                    <Unicode>nach dem Verfolgten die richtige Auskunft erteilt und so die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach dem Verfolgten die richtige Auskunft erteilt und so die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

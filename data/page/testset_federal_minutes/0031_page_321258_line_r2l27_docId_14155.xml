@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:06.351+02:00</Created>
+        <LastChange>2020-11-15T19:30:37.181+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745473" pageNr="23" tsid="49318627" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NFCAZITYPJMKSZTYWFCAGZUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDIBTZIMRTXRNECHHSKGRRPF" imageId="14360657"/>
+    </Metadata>
+    <Page imageFilename="0031_page_321258_line_r2l27_docId_14155.jpg" imageWidth="1862" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426118063" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1862,0 1862,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1762,219 1762,143 1599,111 1386,157 1159,100 1022,152 538,101 468,148 101,138"/>
+                <Baseline points="115,184 196,183 278,181 359,181 441,181 523,181 604,183 686,183 768,184 849,184 931,186 1013,186 1094,187 1176,187 1258,187 1339,187 1421,187 1503,187 1584,186 1666,183 1748,181"/>
+                <TextEquiv>
+                    <Unicode>Fr. 1980 auf Fr. 1440 per Jahr herabgesezt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fr. 1980 auf Fr. 1440 per Jahr herabgesezt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

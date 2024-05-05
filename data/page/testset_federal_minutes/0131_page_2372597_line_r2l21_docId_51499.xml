@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:29.640+02:00</Created>
+        <LastChange>2020-08-22T11:26:45.079+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750055" pageNr="83" tsid="37763322" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XPVAJYXOJPFWXCNNZAWRRPPH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SCXDQPROOLXJQMTILHMKYXQA" imageId="14365227"/>
+    </Metadata>
+    <Page imageFilename="0131_page_2372597_line_r2l21_docId_51499.jpg" imageWidth="2422" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425490419" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2422,0 2422,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 2283,244 2322,120 100,141"/>
+                <Baseline points="115,185 224,187 334,188 443,189 553,191 663,193 772,193 882,195 991,195 1101,196 1211,197 1320,197 1430,197 1539,197 1649,197 1759,197 1868,197 1978,197 2087,195 2197,195 2307,193"/>
+                <TextEquiv>
+                    <Unicode>Vater des in Nahway (New Jersey) verstorbenen Dosna Schindler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vater des in Nahway (New Jersey) verstorbenen Dosna Schindler</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:33:31.384+02:00</Created>
+        <LastChange>2020-10-13T21:48:13.766+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749003" pageNr="51" tsid="49315348" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TQZMQAASUNUHBCWNQGSXYQNM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TGVHLYJTCCCLQFUJWCSQGFLL" imageId="14364179"/>
+    </Metadata>
+    <Page imageFilename="0114_page_411132_line_r1l27_docId_17280.jpg" imageWidth="2314" imageHeight="399">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425632273" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2314,0 2314,399 0,399"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,253 1780,274 2214,248 2214,146 1504,183 1291,100 897,191 100,116"/>
+                <Baseline points="113,223 217,223 321,223 426,223 530,223 635,223 739,223 843,221 948,221 1052,221 1157,219 1261,219 1365,217 1470,217 1574,217 1679,217 1783,217 1887,217 1992,217 2096,219 2201,219 2252,216"/>
+                <TextEquiv>
+                    <Unicode>Kanton Schaffhausen, Jakob Stihl, von Altdorf, geb. 1830,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kanton Schaffhausen, Jakob Stihl, von Altdorf, geb. 1830,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

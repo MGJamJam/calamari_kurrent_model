@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:42.499+02:00</Created>
+        <LastChange>2020-10-08T08:16:27.732+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749913" pageNr="54" tsid="49312347" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CQHEJOELTBCINAOGVEBJEHFB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPZJTYCPGIFVRGULNUKXSZPV" imageId="14365085"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2374087_line_r1l48_docId_51498.jpg" imageWidth="2334" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425486456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2334,0 2334,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,204 1240,256 2234,219 2234,151 2104,100 100,153"/>
+                <Baseline points="113,189 218,190 323,191 429,191 534,191 640,191 745,189 850,189 956,189 1061,187 1167,187 1272,185 1377,185 1483,185 1588,183 1694,183 1799,183 1904,183 2010,183 2115,183 2221,185"/>
+                <TextEquiv>
+                    <Unicode>/: P. No. 440 :/, betreffend die Pensionsangelegenheit des Henri Simon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>/: P. No. 440 :/, betreffend die Pensionsangelegenheit des Henri Simon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

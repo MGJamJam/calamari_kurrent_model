@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:27.315+02:00</Created>
+        <LastChange>2020-08-22T11:32:20.456+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750657" pageNr="89" tsid="37765302" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JEAMHUKGAUTMBQGIWPNCFWHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHSORHBXBNOSMNKFGQEATMTF" imageId="14365815"/>
+    </Metadata>
+    <Page imageFilename="0125_page_2419854_line_r2l31_docId_51507.jpg" imageWidth="2437" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425379976" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2437,0 2437,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,198 2149,214 2337,199 2337,116 100,148"/>
+                <Baseline points="114,181 224,181 334,181 445,181 555,181 666,179 776,179 886,179 997,179 1107,177 1218,177 1328,177 1438,177 1549,177 1659,177 1770,177 1880,177 1990,177 2101,177 2211,178 2322,179"/>
+                <TextEquiv>
+                    <Unicode>mit der Einsendung einer Vollmacht der Mutter des Verstorbe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mit der Einsendung einer Vollmacht der Mutter des Verstorbe-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

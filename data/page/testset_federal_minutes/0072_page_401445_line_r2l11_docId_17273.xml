@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:12:46.580+02:00</Created>
+        <LastChange>2020-08-22T11:23:28.605+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748204" pageNr="70" tsid="37762097" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YGZWEEZTNHQTKFNDVLQWBCCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MYTFGRHWPQTSULWZOMAGMGRT" imageId="14363384"/>
+    </Metadata>
+    <Page imageFilename="0072_page_401445_line_r2l11_docId_17273.jpg" imageWidth="1433" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425714855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1433,0 1433,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,216 379,205 467,262 733,196 1172,203 1224,246 1333,202 1332,122 1155,100 1005,145 781,109 550,168 389,112 326,148 100,118"/>
+                <Baseline points="115,195 175,195 235,195 295,193 355,193 416,193 476,191 536,191 596,191 656,189 717,189 777,189 837,187 897,187 957,187 1018,187 1078,185 1138,185 1198,185 1258,185 1319,187"/>
+                <TextEquiv>
+                    <Unicode>Mehrertrag gegenüber dem Budget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mehrertrag gegenüber dem Budget</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

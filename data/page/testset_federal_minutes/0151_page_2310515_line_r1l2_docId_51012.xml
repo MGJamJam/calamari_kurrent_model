@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:12.897+02:00</Created>
+        <LastChange>2020-08-22T11:27:17.327+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749674" pageNr="113" tsid="37763576" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AISSESIMNYGFRFIYKAFDJBYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJBPEQDSPXVYOKYWPPBYNSZE" imageId="14364850"/>
+    </Metadata>
+    <Page imageFilename="0151_page_2310515_line_r1l2_docId_51012.jpg" imageWidth="2333" imageHeight="392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425553135" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2333,0 2333,392 0,392"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2231,292 2233,108 2072,182 960,111 101,158"/>
+                <Baseline points="119,213 223,215 328,215 433,217 538,217 643,219 747,219 852,221 957,223 1062,223 1167,225 1271,226 1376,227 1481,229 1586,231 1691,233 1795,235 1900,237 2005,239 2110,241 2215,243"/>
+                <TextEquiv>
+                    <Unicode>2., die Regierung von Bern von vorstehender Schlußnahme zu benach¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2., die Regierung von Bern von vorstehender Schlußnahme zu benach¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

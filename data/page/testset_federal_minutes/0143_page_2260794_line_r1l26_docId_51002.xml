@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:33.293+02:00</Created>
+        <LastChange>2020-11-16T08:16:37.719+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745634" pageNr="123" tsid="49318836" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CYQBVZZJYBACYENRGIVHQSSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDWCBARBGTHDBNDASTMJSGSL" imageId="14360814"/>
+    </Metadata>
+    <Page imageFilename="0143_page_2260794_line_r1l26_docId_51002.jpg" imageWidth="2314" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199986" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2314,0 2314,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,195 1148,197 1201,252 1294,204 1348,256 2214,208 2125,131 100,149"/>
+                <Baseline points="114,183 218,183 322,184 426,185 531,185 635,187 739,187 844,189 948,189 1052,191 1157,191 1261,193 1365,193 1469,195 1574,195 1678,195 1782,195 1887,196 1991,196 2095,195 2200,195"/>
+                <TextEquiv>
+                    <Unicode>von dem K. Oberpräsidium der Rheinprovinz unter in 24. Mai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von dem K. Oberpräsidium der Rheinprovinz unter in 24. Mai</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:26.041+02:00</Created>
+        <LastChange>2020-10-06T09:56:31.458+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749974" pageNr="34" tsid="49311593" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HJDKPAQZAWXVFDEYDCDXEVID&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWJRHSJILWHDZHVDXVTNYDZZ" imageId="14365146"/>
+    </Metadata>
+    <Page imageFilename="0058_page_2393501_line_r1l8_docId_51502.jpg" imageWidth="2341" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425429209" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2341,0 2341,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 1712,238 2241,203 2241,154 1147,100 1005,169 100,164"/>
+                <Baseline points="113,198 218,198 324,198 430,196 535,196 641,196 747,196 852,196 958,196 1064,194 1170,194 1275,194 1381,194 1487,192 1592,192 1698,192 1804,192 1909,192 2015,192 2121,192 2227,192"/>
+                <TextEquiv>
+                    <Unicode>Mittheilung hievon an Basel-Stadt behufs Anbrin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mittheilung hievon an Basel-Stadt behufs Anbrin¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

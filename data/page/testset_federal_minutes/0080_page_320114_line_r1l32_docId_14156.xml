@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:38.080+02:00</Created>
+        <LastChange>2020-11-15T19:51:26.578+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745703" pageNr="58" tsid="49318664" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WYOLLWLJOTTVVJOPVMYGLJHF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCKHWCSASLGHUAQAICEZQANI" imageId="14360883"/>
+    </Metadata>
+    <Page imageFilename="0080_page_320114_line_r1l32_docId_14156.jpg" imageWidth="1668" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426123296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1668,0 1668,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;} textStyle {offset:28; length:25;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="100,246 954,214 1016,268 1119,223 1568,219 1567,139 1425,116 1242,179 946,100 551,159 497,120 381,173 100,145"/>
+                <Baseline points="112,209 184,208 256,207 328,205 400,204 472,203 544,203 616,201 688,201 760,201 833,201 905,201 977,201 1049,201 1121,201 1193,201 1265,201 1337,201 1409,201 1481,201 1554,201"/>
+                <TextEquiv>
+                    <Unicode>fl. 2544. — (um fr. 247 80. Feberschritten worden ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fl. 2544. — (um fr. 247 80. Feberschritten worden ist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

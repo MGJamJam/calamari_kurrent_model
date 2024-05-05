@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:25:19.130+02:00</Created>
+        <LastChange>2020-08-22T11:22:02.088+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748669" pageNr="2" tsid="37761662" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BWZZIFJBLJPLWYLXUNNPNFJU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MFMFQKRINDQCXVMUSNTGJSJD" imageId="14363849"/>
+    </Metadata>
+    <Page imageFilename="0005_page_401894_line_r2l10_docId_17275.jpg" imageWidth="2333" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425625288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2333,0 2333,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,217 2233,192 2216,102 100,107"/>
+                <Baseline points="114,185 219,185 324,185 429,187 535,185 640,185 745,185 851,184 956,183 1061,181 1167,181 1272,179 1377,179 1482,177 1588,177 1693,175 1798,175 1904,173 2009,173 2114,173 2220,173"/>
+                <TextEquiv>
+                    <Unicode>trag der Bundesanwaltschaft hin Umgang genommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>trag der Bundesanwaltschaft hin Umgang genommen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

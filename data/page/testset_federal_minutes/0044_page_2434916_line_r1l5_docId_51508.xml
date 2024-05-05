@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:20.956+02:00</Created>
+        <LastChange>2020-08-22T11:29:49.729+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750413" pageNr="31" tsid="37764601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YYCFUUZUPSJKVMPXSTBZYXAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ENKCFYZZKRGLFTJJHRILCYZG" imageId="14365571"/>
+    </Metadata>
+    <Page imageFilename="0044_page_2434916_line_r1l5_docId_51508.jpg" imageWidth="2324" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425371941" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 2224,178 2154,116 1377,100 100,141"/>
+                <Baseline points="113,172 217,172 322,172 427,172 532,172 637,170 742,170 847,170 952,170 1057,170 1162,170 1266,170 1371,170 1476,170 1581,170 1686,170 1791,170 1896,172 2001,172 2106,172 2211,174"/>
+                <TextEquiv>
+                    <Unicode>Militärpflicht einberufen worden, und gedenke, obschon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Militärpflicht einberufen worden, und gedenke, obschon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

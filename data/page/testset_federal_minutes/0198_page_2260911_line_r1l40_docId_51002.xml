@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:28.253+02:00</Created>
+        <LastChange>2020-11-16T08:43:39.980+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745755" pageNr="164" tsid="49318862" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VDWQXOPLEIEXTLGRRVDBUKHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LILPFLIHKHUJVMPZVULLETNL" imageId="14360935"/>
+    </Metadata>
+    <Page imageFilename="0198_page_2260911_line_r1l40_docId_51002.jpg" imageWidth="1891" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426205815" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1891,0 1891,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 1304,238 1791,190 1695,127 1411,156 1354,104 1228,155 1059,114 360,153 226,100 100,138"/>
+                <Baseline points="114,180 197,180 280,180 363,180 446,180 530,182 613,182 696,182 779,182 862,182 946,182 1029,182 1112,182 1195,184 1278,184 1362,184 1445,184 1528,184 1611,184 1694,186 1778,186 1806,188"/>
+                <TextEquiv>
+                    <Unicode>mid darüber fortdauernde Mittheilung zu machen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mid darüber fortdauernde Mittheilung zu machen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

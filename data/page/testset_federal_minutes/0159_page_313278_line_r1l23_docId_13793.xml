@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:10:39.694+02:00</Created>
+        <LastChange>2020-11-16T16:11:46.112+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745137" pageNr="104" tsid="49319121" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AFPSPTFSRDRJRATBNNZJPPIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDGFWIUACNNWEXGKFGCFDKVL" imageId="14360407"/>
+    </Metadata>
+    <Page imageFilename="0159_page_313278_line_r1l23_docId_13793.jpg" imageWidth="1904" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426305163" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1904,0 1904,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,197 1743,232 1804,210 1804,124 873,161 100,119"/>
+                <Baseline points="112,187 196,187 280,185 364,185 448,185 532,185 616,185 700,185 784,185 868,185 952,185 1036,185 1120,185 1204,185 1288,185 1372,185 1456,183 1540,183 1624,181 1708,181 1792,177 1854,183"/>
+                <TextEquiv>
+                    <Unicode>für die Zeit, die er im Auslande zugebracht hat;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für die Zeit, die er im Auslande zugebracht hat;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

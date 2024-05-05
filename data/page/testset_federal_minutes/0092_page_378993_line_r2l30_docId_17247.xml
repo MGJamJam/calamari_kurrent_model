@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:08.237+02:00</Created>
+        <LastChange>2020-11-10T07:58:12.127+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746498" pageNr="62" tsid="49318318" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QHFTPFFKAQCUGPJQPQIBSKWR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PKHVBRVLNLBELOVMGNBXNFIO" imageId="14361678"/>
+    </Metadata>
+    <Page imageFilename="0092_page_378993_line_r2l30_docId_17247.jpg" imageWidth="2103" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425954405" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2103,0 2103,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,218 1885,223 2003,132 100,131"/>
+                <Baseline points="112,179 206,177 300,177 394,175 488,173 582,173 676,173 770,171 864,171 958,171 1052,171 1146,169 1240,169 1334,169 1428,169 1522,169 1616,169 1710,168 1804,167 1898,167 1992,167 2021,164"/>
+                <TextEquiv>
+                    <Unicode>dessen beglaubigte Vollmacht vor dem dortigen Konsul ausgestellt wor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dessen beglaubigte Vollmacht vor dem dortigen Konsul ausgestellt wor¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

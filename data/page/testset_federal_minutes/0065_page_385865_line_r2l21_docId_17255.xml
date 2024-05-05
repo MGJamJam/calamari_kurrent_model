@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:44:28.951+02:00</Created>
+        <LastChange>2020-08-22T11:16:51.656+02:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746988" pageNr="35" tsid="37759712" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KQBFRKMQZWMYHWALFYDLADAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQPBPXVTSZZNFCSUTIOVCOAM" imageId="14362168"/>
+    </Metadata>
+    <Page imageFilename="0065_page_385865_line_r2l21_docId_17255.jpg" imageWidth="2183" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425893620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2183,0 2183,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,202 1959,232 2083,206 2083,117 100,112"/>
+                <Baseline points="113,180 210,180 308,180 406,180 504,180 602,180 700,178 798,178 896,178 994,178 1092,178 1189,176 1287,176 1385,176 1483,174 1581,174 1679,174 1777,172 1875,172 1973,172 2071,170"/>
+                <TextEquiv>
+                    <Unicode>er werde sich des fraglichen Vorfalles wegen beim diplomatischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>er werde sich des fraglichen Vorfalles wegen beim diplomatischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

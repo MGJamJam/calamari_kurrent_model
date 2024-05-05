@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:13:10.282+02:00</Created>
+        <LastChange>2020-08-22T11:23:39.562+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748220" pageNr="75" tsid="37762167" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EMLOPDBFRHFULYKKEDLWVLWT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYUKGZEVICUCGPZNXWHNTMOB" imageId="14363400"/>
+    </Metadata>
+    <Page imageFilename="0078_page_395012_line_r2l6_docId_17269.jpg" imageWidth="2398" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425715462" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2398,0 2398,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,237 2298,233 2298,127 2127,100 1946,165 100,120"/>
+                <Baseline points="113,207 221,205 330,205 438,205 547,205 656,203 764,203 873,203 981,203 1090,203 1199,203 1307,201 1416,201 1524,201 1633,201 1742,201 1850,201 1959,201 2067,199 2176,199 2285,199"/>
+                <TextEquiv>
+                    <Unicode>2.) an die Stelle eines Postverwalters in Clarius,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.) an die Stelle eines Postverwalters in Clarius,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

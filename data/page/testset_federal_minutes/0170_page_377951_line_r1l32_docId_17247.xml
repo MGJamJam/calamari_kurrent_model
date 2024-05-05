@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:03.991+02:00</Created>
+        <LastChange>2020-11-10T08:27:44.501+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746721" pageNr="112" tsid="49318354" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XCKXJVNLACNYAXRBWCYQAJUR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RYMHKCQYCXDUOUCEMLCJMGHJ" imageId="14361901"/>
+    </Metadata>
+    <Page imageFilename="0170_page_377951_line_r1l32_docId_17247.jpg" imageWidth="2060" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425962054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2060,0 2060,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,212 1392,183 1573,247 1960,202 1852,100 100,138"/>
+                <Baseline points="112,181 203,181 295,181 387,181 479,181 571,181 662,181 754,181 846,179 938,179 1030,177 1121,177 1213,175 1305,175 1397,175 1489,173 1580,173 1672,173 1764,173 1856,175 1948,175"/>
+                <TextEquiv>
+                    <Unicode>merhin der Satz aufstellen, die Ueberordnung des eidgenössi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>merhin der Satz aufstellen, die Ueberordnung des eidgenössi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:04:27.151+02:00</Created>
+        <LastChange>2020-08-22T11:20:53.347+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747894" pageNr="66" tsid="37761343" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KISIXBRAFMOZJTJNJSWVPXQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCJFXSWTOGWTFPXPLGNSYHOJ" imageId="14363074"/>
+    </Metadata>
+    <Page imageFilename="0182_page_410157_line_r1l21_docId_17280.jpg" imageWidth="2257" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425808685" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2257,0 2257,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,271 228,212 300,273 447,211 1173,271 1436,198 2157,219 2156,119 2065,100 100,146"/>
+                <Baseline points="115,203 216,199 317,197 419,195 520,194 622,193 723,192 824,191 926,191 1027,191 1129,191 1230,191 1331,191 1433,191 1534,191 1636,189 1737,189 1838,189 1940,189 2041,187 2143,187"/>
+                <TextEquiv>
+                    <Unicode>Haftpflichtversicherungs-Aktiengesell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Haftpflichtversicherungs-Aktiengesell-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

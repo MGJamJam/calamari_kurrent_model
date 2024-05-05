@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:01.729+02:00</Created>
+        <LastChange>2020-10-06T10:24:48.972+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750098" pageNr="63" tsid="49311693" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NHIERONEZJFOTSJMBXTXOOFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCMHTHTTQBVJWIRLZNQGRFOF" imageId="14365270"/>
+    </Metadata>
+    <Page imageFilename="0105_page_2405990_line_r1l30_docId_51504.jpg" imageWidth="2298" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425433362" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2298,0 2298,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 1025,264 1362,214 1445,264 2198,179 1856,114 1712,171 957,178 668,100 524,165 101,163"/>
+                <Baseline points="113,201 216,203 320,203 423,203 527,203 631,203 734,203 838,203 941,205 1045,205 1149,205 1252,206 1356,207 1459,207 1563,207 1667,209 1770,209 1874,211 1977,211 2081,211 2185,213"/>
+                <TextEquiv>
+                    <Unicode>tirt einen Betrag von fr. 146., welcher vom Konsulat dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tirt einen Betrag von fr. 146., welcher vom Konsulat dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

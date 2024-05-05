@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:25.432+02:00</Created>
+        <LastChange>2020-08-22T07:37:08.794+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745269" pageNr="85" tsid="37715512" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BPNPIVPVELEAJNLQORXPVKRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WAXBPOOIGQBECVUYPHHVSDAE" imageId="14360453"/>
+    </Metadata>
+    <Page imageFilename="0149_page_372132_line_r1l28_docId_17241.jpg" imageWidth="1403" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426250086" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1403,0 1403,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 1155,197 1303,245 1302,128 1238,100 1149,147 1081,120 871,166 622,127 545,173 392,136 342,175 100,155"/>
+                <Baseline points="113,200 171,200 230,200 289,200 348,198 407,198 465,196 524,196 583,194 642,194 701,192 759,192 818,192 877,190 936,190 995,190 1053,192 1112,192 1171,193 1230,194 1289,196"/>
+                <TextEquiv>
+                    <Unicode>stizdepartements vom 21. dies);</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stizdepartements vom 21. dies);</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

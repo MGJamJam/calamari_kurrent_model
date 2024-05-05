@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:42.345+02:00</Created>
+        <LastChange>2020-11-15T18:24:30.177+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746197" pageNr="131" tsid="49318602" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VPDSGUIIKIPBCMDGTIYRZGOQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQECPPILYIYSEHKDYDLMPHWI" imageId="14361377"/>
+    </Metadata>
+    <Page imageFilename="0188_page_2290925_line_r1l16_docId_51010.jpg" imageWidth="1952" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426073602" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1952,0 1952,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1852,191 1811,122 100,124"/>
+                <Baseline points="113,176 199,176 285,176 371,176 457,176 544,178 630,178 716,178 802,178 888,180 975,180 1061,182 1147,182 1233,182 1319,184 1406,184 1492,184 1578,184 1664,186 1750,186 1837,186 1869,189"/>
+                <TextEquiv>
+                    <Unicode>Gegenbemerkungen sie anzubringen sich veranlaßt sehe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gegenbemerkungen sie anzubringen sich veranlaßt sehe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

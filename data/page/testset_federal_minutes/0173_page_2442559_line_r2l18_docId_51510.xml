@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:14.833+02:00</Created>
+        <LastChange>2020-08-22T11:33:43.578+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750794" pageNr="123" tsid="37765728" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RLQUDPSCYMCITSDXMTALMFSP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZLRVXHJTAIKYZHPFZODTIQZT" imageId="14365952"/>
+    </Metadata>
+    <Page imageFilename="0173_page_2442559_line_r2l18_docId_51510.jpg" imageWidth="1343" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425384648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1343,0 1343,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,251 199,187 263,219 365,173 427,226 515,181 635,218 694,167 766,209 1243,184 1218,115 151,139 100,110"/>
+                <Baseline points="113,189 168,183 224,177 280,173 336,170 392,168 447,167 503,165 559,165 615,167 671,167 726,168 782,169 838,171 894,173 950,173 1005,173 1061,175 1117,173 1173,173 1229,171"/>
+                <TextEquiv>
+                    <Unicode>pflichtung noch Befugnis habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>pflichtung noch Befugnis habe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

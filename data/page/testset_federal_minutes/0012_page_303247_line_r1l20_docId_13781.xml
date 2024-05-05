@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:11.688+02:00</Created>
+        <LastChange>2020-08-21T22:01:18.304+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744329" pageNr="6" tsid="37654964" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JBMZQATXKKZLBJQQKKZMXMXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIHPASDQIAQJDVVNJGRBLYKB" imageId="14359724"/>
+    </Metadata>
+    <Page imageFilename="0012_page_303247_line_r1l20_docId_13781.jpg" imageWidth="848" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426408885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 848,0 848,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 189,218 219,192 343,218 379,249 458,203 569,242 625,214 747,215 748,116 712,100 679,131 585,135 537,117 488,158 301,116 235,157 179,129 100,149"/>
+                <Baseline points="113,189 144,190 175,191 206,191 237,191 268,191 299,191 330,191 361,191 392,191 424,191 455,191 486,191 517,191 548,191 579,191 610,191 641,193 672,193 703,193 735,195"/>
+                <TextEquiv>
+                    <Unicode>den Ausgaben des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Ausgaben des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

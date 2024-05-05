@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:36.261+02:00</Created>
+        <LastChange>2020-08-22T07:33:38.384+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745392" pageNr="9" tsid="37714864" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZTJJHTTVGXKDCDMBPROOKLZR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RHOEHXVXSCRWUJNRQQYBVLQG" imageId="14360576"/>
+    </Metadata>
+    <Page imageFilename="0011_page_364523_line_r1l11_docId_17232.jpg" imageWidth="2035" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426116057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2035,0 2035,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1935,188 1849,120 100,113"/>
+                <Baseline points="112,178 202,178 293,178 383,178 474,178 564,178 655,177 745,177 836,175 926,175 1017,175 1108,175 1198,174 1289,174 1379,174 1470,174 1560,175 1651,175 1741,177 1832,178 1923,180"/>
+                <TextEquiv>
+                    <Unicode>Das hierseitige Projekt kritisirt und ein Gegenpre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das hierseitige Projekt kritisirt und ein Gegenpre¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:56:28.291+02:00</Created>
+        <LastChange>2020-11-17T07:43:48.559+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744692" pageNr="78" tsid="49319250" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QQGBBEYXBSKCXAQPHDYAKKJH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOIGPGWOJGHIAKHQWTDPQXYS" imageId="14360083"/>
+    </Metadata>
+    <Page imageFilename="0132_page_307845_line_r2l3_docId_13785.jpg" imageWidth="2219" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426359242" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2219,0 2219,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,215 1814,239 2119,207 2119,133 1454,161 1262,101 572,167 256,100 100,154"/>
+                <Baseline points="114,199 213,197 313,197 412,195 512,195 612,193 711,193 811,193 910,191 1010,191 1110,191 1209,191 1309,191 1408,191 1508,191 1608,191 1707,191 1807,189 1906,189 2006,189 2106,187 2142,187"/>
+                <TextEquiv>
+                    <Unicode>nes Berichtes an die eidgenöß.Rtäte vor, womit den¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nes Berichtes an die eidgenöß.Rtäte vor, womit den¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

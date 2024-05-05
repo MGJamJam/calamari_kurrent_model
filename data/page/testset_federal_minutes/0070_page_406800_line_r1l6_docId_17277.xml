@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:56:22.368+02:00</Created>
+        <LastChange>2020-08-22T11:17:36.625+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747552" pageNr="24" tsid="37760010" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HQIJXALDBMAYNPEDFYLLGWUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGXSNXEZWQCYLMCNILILKWKT" imageId="14362732"/>
+    </Metadata>
+    <Page imageFilename="0070_page_406800_line_r1l6_docId_17277.jpg" imageWidth="610" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425801943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 610,0 610,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,243 134,247 194,208 279,184 380,261 424,228 455,238 509,220 510,152 473,163 401,153 349,102 333,114 252,100 214,127 103,106"/>
+                <Baseline points="117,191 142,193 167,193 192,195 217,195 243,195 268,195 293,197 318,197 343,197 369,197 394,198 419,199 444,199 469,199 495,201"/>
+                <TextEquiv>
+                    <Unicode>Schätzungs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schätzungs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

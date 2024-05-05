@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:08.842+02:00</Created>
+        <LastChange>2020-09-28T10:49:08.213+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519134" pageNr="125" tsid="49307712" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PORIQIRGUMJOKSLJQRYQJJWE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLBGWILBSCTSNWEGVLQVMAEL" imageId="15086067"/>
+    </Metadata>
+    <Page imageFilename="0169_page_2457005_line_r1l24_docId_51515.jpg" imageWidth="2346" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425254223" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2346,0 2346,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,228 2246,178 2212,112 1626,100 100,142 100,228"/>
+                <Baseline points="115,188 220,186 326,186 432,185 538,184 644,184 749,182 855,182 961,182 1067,180 1173,180 1278,180 1384,178 1490,178 1596,176 1702,176 1807,174 1913,174 2019,172 2125,171 2231,170"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="115,146 115,206 234,206 234,146"/>
+                    <TextEquiv>
+                        <Unicode>dahin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="277,145 277,205 414,205 414,145"/>
+                    <TextEquiv>
+                        <Unicode>geht,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="440,144 440,204 499,204 499,144"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="552,144 552,204 594,204 594,144"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="620,143 620,203 688,203 688,143"/>
+                    <TextEquiv>
+                        <Unicode>sich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="714,142 714,202 808,202 808,142"/>
+                    <TextEquiv>
+                        <Unicode>nur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="876,142 876,202 928,202 928,142"/>
+                    <TextEquiv>
+                        <Unicode>um</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="971,140 971,200 1099,200 1099,140"/>
+                    <TextEquiv>
+                        <Unicode>einen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1142,138 1142,198 1527,198 1527,138"/>
+                    <TextEquiv>
+                        <Unicode>augenbliklichen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1570,136 1570,196 1750,196 1750,136"/>
+                    <TextEquiv>
+                        <Unicode>Errthum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1801,134 1801,194 1870,194 1870,134"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1904,131 1904,191 2212,191 2212,131"/>
+                    <TextEquiv>
+                        <Unicode>französischen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dahin geht, daß es sich nur um einen augenbliklichen Irrthum der französischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dahin geht, daß es sich nur um einen augenbliklichen Irrthum der französischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:53:08.027+02:00</Created>
+        <LastChange>2020-08-22T11:17:34.032+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747371" pageNr="45" tsid="37759992" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LOLSHUPSLWWHITEIHXTNZIUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFDDQEMRNZTQLFZUGMIHPVYM" imageId="14362551"/>
+    </Metadata>
+    <Page imageFilename="0092_page_387905_line_r1l28_docId_17258.jpg" imageWidth="2136" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425850071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2136,0 2136,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,219 2036,208 2036,137 100,120"/>
+                <Baseline points="114,187 209,185 304,185 400,185 495,183 591,183 686,183 781,183 877,183 972,183 1068,183 1163,183 1258,183 1354,183 1449,183 1545,181 1640,181 1735,181 1831,179 1926,179 2022,177"/>
+                <TextEquiv>
+                    <Unicode>unter 7 bis 8 Franken zu mieten, so daß er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unter 7 bis 8 Franken zu mieten, so daß er</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

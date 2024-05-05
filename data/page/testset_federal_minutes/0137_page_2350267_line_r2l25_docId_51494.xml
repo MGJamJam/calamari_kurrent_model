@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:43.493+02:00</Created>
+        <LastChange>2020-10-11T21:29:25.595+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749644" pageNr="103" tsid="49313705" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=INUMZQKLEZDAXSBTMOLUNLRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUBNARBTADBWTCVUAHTTNJIV" imageId="14364820"/>
+    </Metadata>
+    <Page imageFilename="0137_page_2350267_line_r2l25_docId_51494.jpg" imageWidth="2408" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425551775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2408,0 2408,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2308,243 2259,115 951,166 591,100 100,165"/>
+                <Baseline points="114,194 223,194 332,194 441,194 550,194 659,194 768,194 877,194 986,194 1095,194 1204,194 1313,194 1422,194 1531,194 1640,194 1749,194 1858,194 1967,194 2076,196 2185,196 2294,198"/>
+                <TextEquiv>
+                    <Unicode>in Gelterkinden mit der Witwe seines Vaters in Cleveland /:Chio :/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Gelterkinden mit der Witwe seines Vaters in Cleveland /:Chio :/</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

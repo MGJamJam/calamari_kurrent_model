@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:34.341+02:00</Created>
+        <LastChange>2020-08-22T11:31:36.480+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750587" pageNr="70" tsid="37765099" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CLJIOPEBHABXFQRWZWWLQMOS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWDUXLREEKNLXVFEUUVDSLFO" imageId="14365745"/>
+    </Metadata>
+    <Page imageFilename="0102_page_2431684_line_r2l11_docId_51508.jpg" imageWidth="2336" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425377402" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2336,0 2336,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 2236,199 2189,126 1613,100 101,141"/>
+                <Baseline points="114,170 219,171 324,172 430,174 535,174 641,176 746,176 851,176 957,176 1062,176 1168,176 1273,176 1378,178 1484,178 1589,178 1695,180 1800,180 1905,182 2011,184 2116,186 2222,188"/>
+                <TextEquiv>
+                    <Unicode>den, die Ausweisschriften der Lehrer und Angestellten des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den, die Ausweisschriften der Lehrer und Angestellten des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

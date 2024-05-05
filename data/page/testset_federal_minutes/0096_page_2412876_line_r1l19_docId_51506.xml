@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:21.492+02:00</Created>
+        <LastChange>2020-10-06T07:43:06.701+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750569" pageNr="66" tsid="49310727" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ICMPCZMGNVQGLUITINYOHLHE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BJSVRIZAUHIUTYSALZQHLQRQ" imageId="14365727"/>
+    </Metadata>
+    <Page imageFilename="0096_page_2412876_line_r1l19_docId_51506.jpg" imageWidth="2329" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425376817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2329,0 2329,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,211 1940,218 2229,202 2229,146 1444,100 1361,153 100,155"/>
+                <Baseline points="118,196 222,196 327,196 431,196 536,194 641,194 745,194 850,192 954,192 1059,190 1164,188 1268,188 1373,186 1477,186 1582,184 1687,184 1791,184 1896,184 2000,184 2105,184 2210,184"/>
+                <TextEquiv>
+                    <Unicode>der Mitglieder gelangt v werden nun als keine an-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Mitglieder gelangt v werden nun als keine an-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

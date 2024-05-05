@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:10.878+02:00</Created>
+        <LastChange>2020-09-21T09:45:21.789+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750554" pageNr="58" tsid="49309370" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OBZNRDUFWXPNNONNZXBJMJEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXKDRYCMQNCHRDNPBANGSJNA" imageId="14365712"/>
+    </Metadata>
+    <Page imageFilename="0074_page_2462322_line_r1l8_docId_51514.jpg" imageWidth="2304" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425311987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2304,0 2304,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2141,220 2204,153 888,100 794,159 100,161"/>
+                <Baseline points="114,194 217,194 321,194 425,194 529,192 633,192 736,192 840,192 944,190 1048,190 1152,190 1255,190 1359,188 1463,188 1567,188 1671,188 1774,188 1878,188 1982,188 2086,188 2218,192"/>
+                <TextEquiv>
+                    <Unicode>lungen über den Verkauf der Krankheit und die Über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lungen über den Verkauf der Krankheit und die Über¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:42.669+02:00</Created>
+        <LastChange>2020-08-22T11:32:30.699+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750677" pageNr="94" tsid="37765352" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ORHRWCVIGHMVAAXPWWSDKDFT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CQPACNTBMQFSBLPIKNSQLNAQ" imageId="14365835"/>
+    </Metadata>
+    <Page imageFilename="0132_page_2421611_line_r4l4_docId_51506.jpg" imageWidth="787" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425380717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 787,0 787,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 144,183 184,203 223,169 326,172 518,181 619,236 685,227 687,148 644,125 492,145 428,100 340,138 165,100 102,128"/>
+                <Baseline points="115,161 142,161 170,161 198,161 226,162 254,163 282,163 310,165 338,165 366,166 394,167 421,169 449,169 477,170 505,171 533,173 561,173 589,173 617,175 645,175 673,175"/>
+                <TextEquiv>
+                    <Unicode>haft u. Verweisung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>haft u. Verweisung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

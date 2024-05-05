@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:17.351+02:00</Created>
+        <LastChange>2020-08-22T11:24:00.915+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749196" pageNr="33" tsid="37762299" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VLIMTJPLUTDQXWRIOVUPGVWA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJCUABYGKOMCNBDGYTAFJBUN" imageId="14364372"/>
+    </Metadata>
+    <Page imageFilename="0063_page_412317_line_r2l5_docId_17281.jpg" imageWidth="676" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589904" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 676,0 676,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,209 135,194 183,220 234,190 305,187 401,203 460,178 513,201 540,178 576,188 572,106 474,101 455,121 414,112 382,130 354,114 308,127 228,111 142,145 100,127"/>
+                <Baseline points="116,178 142,178 168,178 194,178 220,178 247,178 273,177 299,176 325,175 352,173 378,172 404,171 430,169 457,167 483,166 509,165 535,164 562,162"/>
+                <TextEquiv>
+                    <Unicode>im Kanton Wal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>im Kanton Wal¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

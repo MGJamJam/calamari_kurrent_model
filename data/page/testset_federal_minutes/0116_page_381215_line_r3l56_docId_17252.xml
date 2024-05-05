@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:47:02.900+02:00</Created>
+        <LastChange>2020-11-09T17:30:34.784+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18747107" pageNr="62" tsid="49318230" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IFTHUFCHOLHKMNTSLIGCYPFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCXKEGKILSDZTQBPZVMSEOVJ" imageId="14362287"/>
+    </Metadata>
+    <Page imageFilename="0116_page_381215_line_r3l56_docId_17252.jpg" imageWidth="695" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425897564" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 695,0 695,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 229,235 300,203 576,215 595,207 594,100 546,103 516,133 363,130 271,172 223,154 100,170"/>
+                <Baseline points="112,199 138,199 164,197 190,197 216,197 242,197 269,196 295,196 321,196 347,194 373,194 399,194 426,194 452,193 478,193 504,193 530,191 556,191 583,191"/>
+                <TextEquiv>
+                    <Unicode>vom 18. dies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 18. dies.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

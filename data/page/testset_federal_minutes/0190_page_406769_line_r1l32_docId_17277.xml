@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:47.641+02:00</Created>
+        <LastChange>2020-08-22T11:27:14.974+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749276" pageNr="80" tsid="37763557" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TMTCRBLUXXMAPCWFPIYKQWTF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BLWGAHUAXDRBHNHNYDULLHRF" imageId="14364452"/>
+    </Metadata>
+    <Page imageFilename="0190_page_406769_line_r1l32_docId_17277.jpg" imageWidth="604" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425636612" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 604,0 604,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,265 306,250 357,279 378,265 419,273 453,251 504,245 503,136 439,142 363,100 302,148 241,125 198,131 142,182 100,169"/>
+                <Baseline points="114,215 139,217 164,218 189,219 214,219 239,219 264,219 289,217 314,217 339,217 364,216 389,215 414,215 439,215 464,215 490,215"/>
+                <TextEquiv>
+                    <Unicode>Art 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Art 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

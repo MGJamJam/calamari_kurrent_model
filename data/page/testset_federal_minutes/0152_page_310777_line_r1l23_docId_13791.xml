@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:46.146+02:00</Created>
+        <LastChange>2020-08-22T07:36:56.366+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744993" pageNr="98" tsid="37715474" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ETLKOLOCHAHXXWHKEUBCFJHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HPBXGRKTLKKSJDCEYDMKYYGJ" imageId="14360384"/>
+    </Metadata>
+    <Page imageFilename="0152_page_310777_line_r1l23_docId_13791.jpg" imageWidth="2108" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426304320" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2108,0 2108,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2008,209 2008,160 1747,106 100,135"/>
+                <Baseline points="112,181 206,183 300,183 394,183 488,183 583,183 677,183 771,183 865,183 959,183 1054,183 1148,183 1242,183 1336,183 1430,183 1525,184 1619,184 1713,184 1807,186 1901,186 1996,187"/>
+                <TextEquiv>
+                    <Unicode>der Jura - Bern-Luzern Bahn anheimgestellt, ob und inwie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Jura - Bern-Luzern Bahn anheimgestellt, ob und inwie¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

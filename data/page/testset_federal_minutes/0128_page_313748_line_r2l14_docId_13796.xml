@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:09.180+02:00</Created>
+        <LastChange>2020-11-15T20:09:49.408+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745900" pageNr="88" tsid="49318704" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VZPJVGPJGRAUIIOQOTJQPGQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISLOFMCIPKCCQMBLNSWKSWJA" imageId="14361080"/>
+    </Metadata>
+    <Page imageFilename="0128_page_313748_line_r2l14_docId_13796.jpg" imageWidth="2027" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426127645" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2027,0 2027,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,241 1462,184 1838,238 1927,140 1150,155 1045,100 804,165 480,109 363,168 100,163"/>
+                <Baseline points="112,184 202,188 292,190 382,192 472,192 563,192 653,192 743,192 833,192 923,192 1014,190 1104,188 1194,187 1284,186 1374,184 1465,182 1555,182 1645,180 1735,180 1825,180 1916,178"/>
+                <TextEquiv>
+                    <Unicode>gewesenen Baumeisters in Basel, dem Bunde "zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gewesenen Baumeisters in Basel, dem Bunde "zu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

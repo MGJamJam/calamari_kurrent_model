@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:50:21.869+02:00</Created>
+        <LastChange>2020-10-06T10:12:36.412+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750045" pageNr="52" tsid="49311650" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TUSAYRBAWQTQAPTNQFZQZDTV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OPGZFMFHIPKJCCEOUKVFPKHP" imageId="14365217"/>
+    </Metadata>
+    <Page imageFilename="0085_page_2394256_line_r1l42_docId_51504.jpg" imageWidth="2420" imageHeight="355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425431837" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2420,0 2420,355 0,355"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,253 2073,191 2320,255 2318,100 100,170"/>
+                <Baseline points="114,214 223,209 333,206 442,202 552,198 662,196 771,194 881,193 990,192 1100,192 1210,192 1319,192 1429,190 1538,190 1648,190 1758,190 1867,190 1977,190 2086,188 2196,187 2306,186 2328,184"/>
+                <TextEquiv>
+                    <Unicode>schen Eisenbahnverwaltungen abgeschlossenen und am 18. Dezem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schen Eisenbahnverwaltungen abgeschlossenen und am 18. Dezem¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:37.154+02:00</Created>
+        <LastChange>2020-09-28T09:34:23.943+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519054" pageNr="66" tsid="49307478" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PKLLVOYNFUECDIHCFUKVMPHQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLNYYZHFLSWRTXHFVWPKIOFG" imageId="15085987"/>
+    </Metadata>
+    <Page imageFilename="0089_page_2457025_line_r1l20_docId_51515.jpg" imageWidth="2256" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425245462" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2256,0 2256,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 2043,212 2156,127 100,131 100,189"/>
+                <Baseline points="115,174 216,174 317,174 419,174 520,174 622,174 723,174 824,174 926,174 1027,175 1129,176 1230,176 1331,176 1433,176 1534,176 1636,178 1737,178 1838,178 1940,180 2041,180 2160,181"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="136,134 136,194 303,194 303,134"/>
+                    <TextEquiv>
+                        <Unicode>Nach</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="341,134 341,194 424,194 424,134"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="507,134 507,194 825,194 825,134"/>
+                    <TextEquiv>
+                        <Unicode>Vorschlage</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="871,134 871,194 954,194 954,134"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1010,136 1010,196 1374,196 1374,136"/>
+                    <TextEquiv>
+                        <Unicode>Kommission</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1429,136 1429,196 1514,196 1514,136"/>
+                    <TextEquiv>
+                        <Unicode>für</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1551,138 1551,198 2053,198 2053,138"/>
+                    <TextEquiv>
+                        <Unicode>Handfeuerwaffen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2100,141 2100,201 2155,201 2155,141"/>
+                    <TextEquiv>
+                        <Unicode>sie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Nach dem Vorschlage der Kommission für Handfeuerwaffen sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach dem Vorschlage der Kommission für Handfeuerwaffen sind</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

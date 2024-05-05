@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:48.754+02:00</Created>
+        <LastChange>2020-11-10T08:32:37.281+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746764" pageNr="124" tsid="49318364" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KVSISXPLRBPVKOBTEDKRTMDE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LAQKHRNEKRWVQOWFTGHDZYBY" imageId="14361944"/>
+    </Metadata>
+    <Page imageFilename="0185_page_380362_line_r1l12_docId_17248.jpg" imageWidth="2178" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425963850" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2178,0 2178,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 1512,187 1713,236 2078,213 2078,107 100,124"/>
+                <Baseline points="114,176 211,175 309,174 406,174 504,174 602,174 699,174 797,173 894,172 992,172 1090,172 1187,172 1285,172 1382,172 1480,172 1578,172 1675,172 1773,172 1870,174 1968,174 2066,174"/>
+                <TextEquiv>
+                    <Unicode>Anpassung dieses Systems an die hierseitigen besonderen Verhältnisse, sowie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anpassung dieses Systems an die hierseitigen besonderen Verhältnisse, sowie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

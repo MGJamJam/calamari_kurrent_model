@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:10.319+02:00</Created>
+        <LastChange>2020-10-12T20:50:59.815+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749190" pageNr="32" tsid="49314408" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IBJJUKJLWNRFASLOXZVDAVPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMXULCIKDACYHGPCFNTIHMSR" imageId="14364366"/>
+    </Metadata>
+    <Page imageFilename="0061_page_425314_line_r1l10_docId_17773.jpg" imageWidth="2633" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589774" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2633,0 2633,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2351,236 2533,212 2533,137 100,148"/>
+                <Baseline points="116,187 242,187 368,189 495,189 621,189 748,189 874,189 1000,189 1127,189 1253,189 1380,189 1506,189 1633,189 1759,189 1885,189 2012,189 2138,189 2265,189 2391,189 2518,189"/>
+                <TextEquiv>
+                    <Unicode>eine mir vertraglich zugesicherte Bürgschaft für einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>eine mir vertraglich zugesicherte Bürgschaft für einen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

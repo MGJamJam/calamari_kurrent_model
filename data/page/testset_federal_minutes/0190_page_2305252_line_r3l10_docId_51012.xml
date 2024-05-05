@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:29.932+02:00</Created>
+        <LastChange>2020-08-22T11:28:23.387+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749764" pageNr="135" tsid="37764139" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WDRCVQRKFZHLQYEFCGUEQHQA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQCCDDIEJZRCUJQMPCGDKLIQ" imageId="14364936"/>
+    </Metadata>
+    <Page imageFilename="0190_page_2305252_line_r3l10_docId_51012.jpg" imageWidth="2241" imageHeight="418">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425555966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2241,0 2241,418 0,418"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 665,318 2118,286 2141,228 431,214 288,100 101,174"/>
+                <Baseline points="115,232 215,236 316,240 416,244 517,246 617,249 718,252 818,254 919,256 1019,256 1120,258 1220,260 1321,260 1421,262 1522,263 1622,264 1723,266 1823,268 1924,270 2024,272 2125,274"/>
+                <TextEquiv>
+                    <Unicode>Der päpstliche Geschäftsträgen verwahrt sich mit Note vom 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der päpstliche Geschäftsträgen verwahrt sich mit Note vom 10.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

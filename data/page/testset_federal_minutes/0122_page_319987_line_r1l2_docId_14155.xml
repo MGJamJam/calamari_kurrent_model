@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:39.763+02:00</Created>
+        <LastChange>2020-11-15T20:06:32.351+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745870" pageNr="83" tsid="49318699" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JKYBTKRMZJNINWSXFDRMFQKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXLHBGVNMZOQQMMUUTQYZXVT" imageId="14361050"/>
+    </Metadata>
+    <Page imageFilename="0122_page_319987_line_r1l2_docId_14155.jpg" imageWidth="2077" imageHeight="377">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426126905" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2077,0 2077,377 0,377"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,237 1949,248 1977,122 1589,100 1303,188 952,104 256,185 100,136"/>
+                <Baseline points="112,208 204,208 297,209 389,209 482,211 575,211 667,212 760,212 852,212 945,214 1038,214 1130,214 1223,214 1315,214 1408,214 1501,212 1593,212 1686,211 1778,209 1871,208 1964,206"/>
+                <TextEquiv>
+                    <Unicode>Ziegen-, Schaf- und Schweingeschlechts, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ziegen-, Schaf- und Schweingeschlechts, welche</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

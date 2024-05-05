@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:36.003+02:00</Created>
+        <LastChange>2020-11-16T10:51:02.310+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745334" pageNr="105" tsid="49318998" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MYWHKJKHIQPCAYCHUYDTPOTG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSYGLCMTVFGJWDEZMBIWNVYH" imageId="14360518"/>
+    </Metadata>
+    <Page imageFilename="0188_page_372111_line_r2l19_docId_17241.jpg" imageWidth="2044" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252710" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2044,0 2044,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,250 1284,195 1927,256 1944,148 1291,163 1212,110 1113,168 986,124 777,172 508,100 100,152"/>
+                <Baseline points="111,196 202,198 293,198 384,200 475,200 566,200 657,199 748,198 839,198 930,198 1021,196 1112,196 1203,196 1294,196 1385,196 1476,197 1567,198 1658,200 1749,202 1840,204 1931,208"/>
+                <TextEquiv>
+                    <Unicode>zuwechselnde Korrespondenz dienstlichen Inhalts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zuwechselnde Korrespondenz dienstlichen Inhalts,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

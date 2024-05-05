@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:02:18.139+02:00</Created>
+        <LastChange>2020-08-22T11:19:38.409+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747798" pageNr="80" tsid="37760911" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RDNFAFDXOODDPFQTLABMCPBQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDTZBXCJSFNBNFGXBIXGUZHU" imageId="14362978"/>
+    </Metadata>
+    <Page imageFilename="0169_page_386592_line_r2l24_docId_17257.jpg" imageWidth="2111" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425854963" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2111,0 2111,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 2011,198 1965,111 100,134"/>
+                <Baseline points="113,181 207,179 301,177 395,177 490,177 584,177 678,177 773,177 867,177 961,177 1056,177 1150,177 1244,177 1338,177 1433,177 1527,177 1621,177 1716,177 1810,177 1904,177 1999,175"/>
+                <TextEquiv>
+                    <Unicode>Departement provisorische Schritte zum Zusecke der rechtzeitigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Departement provisorische Schritte zum Zusecke der rechtzeitigen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

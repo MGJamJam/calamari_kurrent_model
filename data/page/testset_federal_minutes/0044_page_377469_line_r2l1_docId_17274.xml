@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:41.936+02:00</Created>
+        <LastChange>2020-08-22T11:22:37.568+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748094" pageNr="42" tsid="37761829" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TBMLWTMEICHBTOGVSPBRRHYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFGUMDEQZDFQGFAUBCPDLGFM" imageId="14363274"/>
+    </Metadata>
+    <Page imageFilename="0044_page_377469_line_r2l1_docId_17274.jpg" imageWidth="257" imageHeight="267">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425711059" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 257,0 257,267 0,267"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,167 115,167 119,162 122,165 125,163 133,166 142,163 147,158 157,158 155,101 146,100 140,106 131,105 125,101 118,101 113,107 100,106"/>
+                <Baseline points="110,142 149,141"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

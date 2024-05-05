@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:05:05.369+02:00</Created>
+        <LastChange>2020-08-22T11:21:10.239+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747921" pageNr="69" tsid="37761419" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QHLYIBFYQVBVIIBKZJRCIQRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INBTWVWSJVHQRZVRCKKROEIX" imageId="14363101"/>
+    </Metadata>
+    <Page imageFilename="0192_page_400461_line_r2l33_docId_17276.jpg" imageWidth="2368" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425809171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2368,0 2368,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 2093,248 2268,205 2268,105 100,141"/>
+                <Baseline points="114,203 221,203 328,203 435,203 542,201 649,201 756,201 863,201 970,199 1077,199 1184,199 1291,199 1398,198 1505,197 1612,197 1719,197 1826,197 1933,197 2040,197 2147,197 2254,197"/>
+                <TextEquiv>
+                    <Unicode>zu unterbreiten. Die Beschlußfassung über die Höhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu unterbreiten. Die Beschlußfassung über die Höhe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

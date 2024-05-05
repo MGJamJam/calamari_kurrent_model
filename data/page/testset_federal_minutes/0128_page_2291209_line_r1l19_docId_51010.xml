@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:39.402+02:00</Created>
+        <LastChange>2020-08-22T11:09:12.530+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746065" pageNr="87" tsid="37756756" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QWUJZHEGYLXTXXNDGOXGYLFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXGWVGHDRCSRCIHZDASGIZNM" imageId="14361245"/>
+    </Metadata>
+    <Page imageFilename="0128_page_2291209_line_r1l19_docId_51010.jpg" imageWidth="938" imageHeight="383">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426067254" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 938,0 938,383 0,383"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,262 151,241 399,240 471,283 547,239 636,279 838,243 838,195 582,175 489,194 451,154 386,154 341,198 260,161 218,197 127,103 102,106"/>
+                <Baseline points="115,230 150,230 186,232 221,232 257,232 292,234 328,234 363,234 399,236 434,236 470,236 505,236 541,236 576,238 612,238 647,238 683,238 718,238 754,238 789,237 825,236"/>
+                <TextEquiv>
+                    <Unicode>Verdankung beschlossen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verdankung beschlossen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

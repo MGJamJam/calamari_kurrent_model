@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:03.053+02:00</Created>
+        <LastChange>2020-10-06T08:11:56.101+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750704" pageNr="102" tsid="49310801" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SUAPAHRCVIVHRQILDZWJMWWA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQJTSJKZHQGVARBUOPWTWECI" imageId="14365862"/>
+    </Metadata>
+    <Page imageFilename="0141_page_2418898_line_r2l28_docId_51507.jpg" imageWidth="2386" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425381797" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2386,0 2386,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 866,267 973,203 1758,210 1971,273 2286,218 2160,142 1829,177 1638,119 779,166 555,100 100,165"/>
+                <Baseline points="114,199 221,199 329,199 437,199 545,199 653,199 761,201 869,201 977,201 1085,201 1193,203 1300,203 1408,203 1516,203 1624,205 1732,205 1840,207 1948,207 2056,207 2164,209 2272,209"/>
+                <TextEquiv>
+                    <Unicode>die von Chappuis hinterlassenen Schriften Versucht um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die von Chappuis hinterlassenen Schriften Versucht um</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:08.353+02:00</Created>
+        <LastChange>2020-08-22T11:16:04.559+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746381" pageNr="33" tsid="37759327" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JZOXMXFKHGEGMJSJCIBVAQPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCDHBTVNJLVAAZCQTRJRWSPK" imageId="14361561"/>
+    </Metadata>
+    <Page imageFilename="0051_page_377344_line_r2l14_docId_17247.jpg" imageWidth="2089" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425950010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2089,0 2089,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1989,227 1963,146 1567,100 1432,157 100,140"/>
+                <Baseline points="111,184 204,184 297,182 390,182 484,182 577,182 670,182 764,182 857,182 950,182 1044,182 1137,182 1230,182 1323,182 1417,182 1510,182 1603,184 1697,184 1790,184 1883,184 1977,184"/>
+                <TextEquiv>
+                    <Unicode>vom 23. Juni verwiesen, der dem Schreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 23. Juni verwiesen, der dem Schreiben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

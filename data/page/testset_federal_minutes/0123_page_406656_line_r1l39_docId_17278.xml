@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:07.414+02:00</Created>
+        <LastChange>2020-10-13T21:51:35.716+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749030" pageNr="56" tsid="49315365" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MNTWKEJYLOOAQQIAIAEAPHVS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCPQOIPGLXZNNWVQIBIGUCDP" imageId="14364206"/>
+    </Metadata>
+    <Page imageFilename="0123_page_406656_line_r1l39_docId_17278.jpg" imageWidth="2322" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425632960" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2322,0 2322,381 0,381"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 1364,212 1497,281 2191,226 2222,144 603,100 100,163"/>
+                <Baseline points="118,204 222,200 326,198 430,196 535,194 639,196 743,196 848,198 952,200 1056,202 1161,204 1265,206 1369,208 1473,210 1578,210 1682,210 1786,208 1891,206 1995,202 2099,198 2204,190"/>
+                <TextEquiv>
+                    <Unicode>nimmt. Das Anleihen wird in 1200 Titel von je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nimmt. Das Anleihen wird in 1200 Titel von je</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:53.015+02:00</Created>
+        <LastChange>2020-08-22T07:35:44.862+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745532" pageNr="84" tsid="37715251" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EYBJXKAECSADHVKBVHZQYIIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EGZZGXCCLNPVOGXVDZTIEVDO" imageId="14360712"/>
+    </Metadata>
+    <Page imageFilename="0094_page_2261144_line_r3l32_docId_51004.jpg" imageWidth="2161" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426194724" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2161,0 2161,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 944,242 1423,188 1521,241 2061,195 2061,139 100,140"/>
+                <Baseline points="114,179 210,179 307,181 404,183 500,183 597,183 694,183 790,183 887,183 984,183 1081,183 1177,181 1274,181 1371,181 1467,179 1564,179 1661,179 1757,179 1854,179 1951,179 2048,179"/>
+                <TextEquiv>
+                    <Unicode>Linthkommission zu, die nöthigen polizeilichen Anordnungen zum Schuze der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Linthkommission zu, die nöthigen polizeilichen Anordnungen zum Schuze der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

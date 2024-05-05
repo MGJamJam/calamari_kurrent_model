@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:35.532+02:00</Created>
+        <LastChange>2020-10-06T07:32:14.767+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750510" pageNr="52" tsid="49310695" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TZKASKPNMAYNRGRIVANQOKZL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TWKWJWQQKOUWSOMDZVGSZFIZ" imageId="14365668"/>
+    </Metadata>
+    <Page imageFilename="0076_page_2421269_line_r1l31_docId_51507.jpg" imageWidth="2270" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425374838" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2270,0 2270,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2170,204 1812,100 1695,153 1105,109 100,166"/>
+                <Baseline points="113,200 215,200 317,197 419,196 521,194 624,192 726,192 828,190 930,188 1032,188 1135,186 1237,186 1339,186 1441,184 1543,184 1646,184 1748,184 1850,184 1952,184 2054,184 2157,184"/>
+                <TextEquiv>
+                    <Unicode>unterm 13. ds. zur Kenntnis, daß Schnensen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unterm 13. ds. zur Kenntnis, daß Schnensen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

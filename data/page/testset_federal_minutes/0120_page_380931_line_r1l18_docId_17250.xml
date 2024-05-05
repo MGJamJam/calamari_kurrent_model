@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:32.781+02:00</Created>
+        <LastChange>2020-08-22T11:18:23.455+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746578" pageNr="80" tsid="37760397" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PXTBPEQPHREDYYSNZXVDSKNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLNSGNKGPSKLJKITUWNGBRLZ" imageId="14361758"/>
+    </Metadata>
+    <Page imageFilename="0120_page_380931_line_r1l18_docId_17250.jpg" imageWidth="2049" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425957144" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2049,0 2049,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,217 1949,203 1948,128 1768,100 1591,147 100,139"/>
+                <Baseline points="114,185 205,183 296,182 387,181 478,179 569,179 660,177 751,177 842,177 933,177 1025,177 1116,175 1207,175 1298,175 1389,175 1480,175 1571,175 1662,173 1753,173 1844,171 1936,171"/>
+                <TextEquiv>
+                    <Unicode>von welchem an der Verkauf, nicht gebrannter geistiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von welchem an der Verkauf, nicht gebrannter geistiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

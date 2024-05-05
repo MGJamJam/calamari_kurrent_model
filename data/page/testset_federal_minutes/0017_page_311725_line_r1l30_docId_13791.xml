@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:53:39.045+02:00</Created>
+        <LastChange>2020-08-22T07:32:48.914+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744654" pageNr="12" tsid="37714730" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PFIYIBHEWNDVKBFOQYNSDYJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BFJLPNTUGITMZUEKOCNTOBZY" imageId="14360045"/>
+    </Metadata>
+    <Page imageFilename="0017_page_311725_line_r1l30_docId_13791.jpg" imageWidth="2048" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426292558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2048,0 2048,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,197 671,248 1606,190 1720,237 1948,197 1948,142 1127,112 996,167 368,100 100,155"/>
+                <Baseline points="112,184 203,184 294,185 385,187 476,187 568,187 659,188 750,188 841,188 932,188 1024,188 1115,188 1206,187 1297,187 1388,186 1480,185 1571,184 1662,182 1753,181 1844,179 1936,178"/>
+                <TextEquiv>
+                    <Unicode>verunmöglicht, ihre Verkäufe zu den vereinbarten Preisen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verunmöglicht, ihre Verkäufe zu den vereinbarten Preisen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

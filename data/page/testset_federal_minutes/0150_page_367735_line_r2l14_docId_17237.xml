@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:08.377+02:00</Created>
+        <LastChange>2020-11-12T07:46:37.632+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746726" pageNr="89" tsid="49318482" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QKZZBLOFBBUDCCHWLYGCHHKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBPWUILYKNBPQVSRHODKZNKZ" imageId="14361906"/>
+    </Metadata>
+    <Page imageFilename="0150_page_367735_line_r2l14_docId_17237.jpg" imageWidth="2033" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426010454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2033,0 2033,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 1411,177 1559,226 1848,206 1933,132 100,137"/>
+                <Baseline points="113,175 203,170 293,167 384,166 474,164 565,163 655,163 745,163 836,163 926,163 1017,164 1107,164 1197,166 1288,167 1378,167 1469,169 1559,169 1649,169 1740,169 1830,169 1921,167"/>
+                <TextEquiv>
+                    <Unicode>genfalls mit einer Unterstützung zu verse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>genfalls mit einer Unterstützung zu verse¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:35.385+02:00</Created>
+        <LastChange>2020-08-22T11:24:05.117+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749439" pageNr="38" tsid="37762325" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IKAIHODYIZBJWINVXFCSUCVC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UFIWSWKETZWFAATVJUOWAWLB" imageId="14364615"/>
+    </Metadata>
+    <Page imageFilename="0047_page_2304402_line_r2l31_docId_51012.jpg" imageWidth="2373" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425542592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2373,0 2373,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 2272,220 2223,100 1188,156 101,109"/>
+                <Baseline points="114,173 221,175 328,175 435,177 542,177 650,177 757,179 864,179 971,181 1078,181 1186,183 1293,183 1400,183 1507,185 1614,185 1722,186 1829,187 1936,187 2043,187 2150,189 2258,189"/>
+                <TextEquiv>
+                    <Unicode>Bellenz den Empfang des dießseitigen Telegramms, womit die Vollziehungs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bellenz den Empfang des dießseitigen Telegramms, womit die Vollziehungs¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

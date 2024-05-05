@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:09.142+02:00</Created>
+        <LastChange>2020-08-22T07:38:09.153+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746032" pageNr="109" tsid="37715703" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VLXMRYLLRPXFKUJRQMKAFGEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLJSJAJESWLHZSSUOSZLHEIY" imageId="14361212"/>
+    </Metadata>
+    <Page imageFilename="0159_page_364509_line_r2l30_docId_17232.jpg" imageWidth="2063" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426130474" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2063,0 2063,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1931,234 1963,141 778,160 100,103"/>
+                <Baseline points="112,177 208,177 305,178 402,178 499,180 595,180 692,180 789,180 886,180 983,180 1079,181 1176,181 1273,181 1370,181 1467,181 1563,183 1660,183 1757,184 1854,184 1951,186"/>
+                <TextEquiv>
+                    <Unicode>berichtet mit Telegramm vom 29. Oktober, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>berichtet mit Telegramm vom 29. Oktober, daß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

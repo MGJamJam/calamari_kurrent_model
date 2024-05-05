@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:26.555+02:00</Created>
+        <LastChange>2020-11-15T20:19:56.262+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745983" pageNr="102" tsid="49318720" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZURREWOOPQDQTNEPZDXOLMYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOUYLPXVHVUBVHSEAARVCMSS" imageId="14361163"/>
+    </Metadata>
+    <Page imageFilename="0147_page_321857_line_r1l41_docId_14156.jpg" imageWidth="2248" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426129445" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2248,0 2248,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,261 639,189 770,245 1051,188 2148,233 2113,109 1584,160 100,101"/>
+                <Baseline points="113,188 214,186 315,186 416,186 517,186 618,186 719,186 820,186 921,188 1022,188 1124,188 1225,190 1326,190 1427,190 1528,192 1629,192 1730,192 1831,192 1932,192 2033,192 2135,190"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug ans Eisenbahndecht z. Kenntnis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug ans Eisenbahndecht z. Kenntnis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

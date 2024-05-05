@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:41.223+02:00</Created>
+        <LastChange>2020-11-15T19:52:59.698+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745707" pageNr="59" tsid="49318665" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TLMYXXKIOUSPPNXXLGZRCPXU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRPPXXRAGEXMBNGQGGPQGZFW" imageId="14360887"/>
+    </Metadata>
+    <Page imageFilename="0081_page_320454_line_r2l24_docId_14156.jpg" imageWidth="2297" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426123432" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2297,0 2297,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2145,264 2197,100 1715,169 100,158"/>
+                <Baseline points="113,206 216,210 320,212 423,214 527,214 631,214 734,214 838,214 941,213 1045,212 1149,211 1252,210 1356,208 1459,208 1563,208 1667,206 1770,206 1874,208 1977,208 2081,210 2185,214 2210,218"/>
+                <TextEquiv>
+                    <Unicode>v. Mts. Gestattet, den auf Ende des Jahres 1889 verbleibenden Rest des durch Bundes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>v. Mts. Gestattet, den auf Ende des Jahres 1889 verbleibenden Rest des durch Bundes¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:55.935+02:00</Created>
+        <LastChange>2020-08-22T11:26:12.111+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749593" pageNr="88" tsid="37763116" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BFWSBEWPWMGLYGQODXDIQYQX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=STZNRINIWJBZMMNYSPCWGYWX" imageId="14364769"/>
+    </Metadata>
+    <Page imageFilename="0115_page_2297778_line_r1l17_docId_51011.jpg" imageWidth="2380" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425549440" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2380,0 2380,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 1653,236 2280,189 2280,128 100,142"/>
+                <Baseline points="115,180 222,180 330,180 437,178 545,178 653,178 760,180 868,180 975,180 1083,180 1191,180 1298,182 1406,182 1513,182 1621,182 1729,182 1836,182 1944,182 2051,182 2159,180 2267,180"/>
+                <TextEquiv>
+                    <Unicode>nen Beanstandungen Anlaß geben, daß dieser leztere Artikel aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nen Beanstandungen Anlaß geben, daß dieser leztere Artikel aber</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

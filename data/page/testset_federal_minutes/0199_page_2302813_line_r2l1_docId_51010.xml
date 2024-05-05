@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:30:03.473+02:00</Created>
+        <LastChange>2020-11-15T19:07:51.615+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746218" pageNr="137" tsid="49318607" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XQVKVMJEOIDXRQWLOUEPSNKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BQYZFEDAHCVQMEQJQOKBCIIF" imageId="14361398"/>
+    </Metadata>
+    <Page imageFilename="0199_page_2302813_line_r2l1_docId_51010.jpg" imageWidth="732" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426074418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 732,0 732,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,182 491,191 528,205 544,189 631,182 632,129 547,115 534,128 503,117 254,141 204,101 101,100"/>
+                <Baseline points="113,172 138,170 163,170 188,170 214,170 239,170 264,170 290,170 315,171 340,172 366,172 391,172 416,174 441,174 467,174 492,174 517,174 543,174 568,174 593,174 619,172"/>
+                <TextEquiv>
+                    <Unicode>Lukmaniereisenbahn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lukmaniereisenbahn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

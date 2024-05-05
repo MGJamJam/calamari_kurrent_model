@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:04.901+02:00</Created>
+        <LastChange>2020-11-02T19:36:47.163+01:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747624" pageNr="35" tsid="49318015" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OOIRCQHOLCHNSSWNPWFEOVWV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYRPCNSEZNVRNXFWCBVTVDJA" imageId="14362804"/>
+    </Metadata>
+    <Page imageFilename="0095_page_406659_line_r1l8_docId_17277.jpg" imageWidth="2297" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425803611" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2297,0 2297,381 0,381"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,244 2108,217 2178,277 2196,124 864,111 744,169 496,100 100,187"/>
+                <Baseline points="117,215 220,213 323,211 426,209 529,207 633,205 736,205 839,203 942,203 1045,203 1149,203 1252,203 1355,203 1458,203 1561,203 1665,203 1768,203 1871,203 1974,203 2077,203 2181,203"/>
+                <TextEquiv>
+                    <Unicode>unter Festsetzung der Vertragsdauer auf je 5 Jahre mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unter Festsetzung der Vertragsdauer auf je 5 Jahre mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

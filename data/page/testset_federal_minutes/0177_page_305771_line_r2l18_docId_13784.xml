@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:06.555+02:00</Created>
+        <LastChange>2020-08-21T22:17:22.081+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744777" pageNr="110" tsid="37657597" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RULFRGRZNEHUYBUEPUUCNGYI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GLSDZQSNRERIXMARTIJEJECX" imageId="14360168"/>
+    </Metadata>
+    <Page imageFilename="0177_page_305771_line_r2l18_docId_13784.jpg" imageWidth="2044" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426363486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2044,0 2044,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1129,200 1292,250 1944,208 1944,151 1495,100 1175,166 890,100 542,156 101,103"/>
+                <Baseline points="113,180 208,182 304,184 400,184 495,186 591,186 687,187 782,188 878,188 974,188 1069,188 1165,188 1261,188 1356,188 1452,188 1548,188 1643,188 1739,188 1835,190 1931,190"/>
+                <TextEquiv>
+                    <Unicode>Nach obgewalteter Beratung wird dieser An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach obgewalteter Beratung wird dieser An-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

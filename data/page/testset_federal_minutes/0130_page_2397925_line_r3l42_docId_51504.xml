@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:51.962+02:00</Created>
+        <LastChange>2020-10-06T10:37:26.028+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750162" pageNr="81" tsid="49311746" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FNKQNLBIEJCGJDPSUATRIIBU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUTWHAUAAELXNHUYHVMHCASW" imageId="14365334"/>
+    </Metadata>
+    <Page imageFilename="0130_page_2397925_line_r3l42_docId_51504.jpg" imageWidth="2384" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425435862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2384,0 2384,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,266 239,201 317,265 413,200 981,251 1116,193 1848,254 2284,195 2284,116 100,134"/>
+                <Baseline points="118,194 225,194 333,194 440,194 548,194 655,194 763,192 870,192 978,192 1085,190 1193,190 1300,190 1408,188 1515,188 1623,188 1730,186 1838,186 1945,186 2053,186 2160,186 2268,186"/>
+                <TextEquiv>
+                    <Unicode>Gerichtsbehörden, welcher der damals königl. preußischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gerichtsbehörden, welcher der damals königl. preußischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

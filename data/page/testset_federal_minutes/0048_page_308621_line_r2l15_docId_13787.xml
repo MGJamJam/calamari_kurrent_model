@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:46:00.496+02:00</Created>
+        <LastChange>2020-11-17T07:09:49.630+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744490" pageNr="29" tsid="49319194" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LMJHMSCNHAQBZZRXAIXYENZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRPUGXOMGOIRRQWSPOWWBWHY" imageId="14359881"/>
+    </Metadata>
+    <Page imageFilename="0048_page_308621_line_r2l15_docId_13787.jpg" imageWidth="2168" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426352338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2168,0 2168,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,221 2068,233 2021,123 995,166 666,104 427,169 100,120"/>
+                <Baseline points="113,194 210,194 307,194 404,194 501,196 598,196 695,196 792,196 889,196 986,196 1084,196 1181,196 1278,194 1375,194 1472,194 1569,194 1666,194 1763,194 1860,193 1957,193 2055,193 2067,193"/>
+                <TextEquiv>
+                    <Unicode>für Hermann Braunschweig (Prot. vom 26. Mai, No 2730)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für Hermann Braunschweig (Prot. vom 26. Mai, No 2730)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:44:14.520+02:00</Created>
+        <LastChange>2020-08-21T22:03:58.068+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744442" pageNr="55" tsid="37655353" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TEQFBSGNTSJGLGIFHVMLQUAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWZFOYMFZFXBEUXSIVAEZWEZ" imageId="14359833"/>
+    </Metadata>
+    <Page imageFilename="0086_page_304855_line_r1l10_docId_13780.jpg" imageWidth="2157" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426415917" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2157,0 2157,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1924,258 2056,234 2057,152 1092,105 880,169 261,100 100,154"/>
+                <Baseline points="112,184 208,184 305,184 401,186 498,186 595,186 691,188 788,188 884,190 981,190 1078,192 1174,192 1271,194 1367,194 1464,196 1561,196 1657,198 1754,198 1850,198 1947,200 2044,200"/>
+                <TextEquiv>
+                    <Unicode>Dabei wurde bestimmt, daß für die Kosten dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dabei wurde bestimmt, daß für die Kosten dieser</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

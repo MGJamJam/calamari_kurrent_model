@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:25.484+02:00</Created>
+        <LastChange>2020-08-22T11:21:49.131+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748002" pageNr="15" tsid="37761602" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FELFJZEBVEMMBQSSBRHSMECJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNBPDDIQKHPKRLAIMJUPZPNB" imageId="14363182"/>
+    </Metadata>
+    <Page imageFilename="0015_page_379141_line_r2l2_docId_17274.jpg" imageWidth="729" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425707228" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 729,0 729,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,231 216,202 299,228 331,206 387,227 480,203 527,238 573,229 607,256 629,250 626,110 486,118 427,147 377,131 347,153 273,124 226,164 174,142 100,171"/>
+                <Baseline points="115,203 140,202 165,201 190,201 215,200 240,199 265,199 290,197 315,197 340,197 365,195 390,195 415,195 440,195 465,195 490,195 515,195 540,195 565,195 590,195 615,195"/>
+                <TextEquiv>
+                    <Unicode>des Justiz- &amp; Poli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Justiz- &amp; Poli¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

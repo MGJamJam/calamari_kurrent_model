@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:37.538+02:00</Created>
+        <LastChange>2020-08-22T11:28:35.531+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750297" pageNr="115" tsid="37764238" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TXBCDFFIVREAWOHXTPINMLCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJYVHZIKQEXBARRKXMDGASQH" imageId="14365455"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2397232_line_r2l25_docId_51503.jpg" imageWidth="2341" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425440784" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2341,0 2341,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,226 618,205 995,272 1609,196 1883,250 2241,220 2239,101 100,175"/>
+                <Baseline points="115,208 220,208 326,208 431,206 537,206 643,204 748,204 854,204 959,202 1065,202 1171,200 1276,200 1382,198 1487,198 1593,196 1699,195 1804,194 1910,192 2015,192 2121,190 2227,188"/>
+                <TextEquiv>
+                    <Unicode>verurtheilten Louis Hermann von Peterlingen stellt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>verurtheilten Louis Hermann von Peterlingen stellt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

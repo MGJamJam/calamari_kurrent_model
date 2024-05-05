@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:42.916+02:00</Created>
+        <LastChange>2020-10-11T21:16:20.139+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749579" pageNr="82" tsid="49313654" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RIOWDUFOVLFXHSPGZYNPXBBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JVPOMGFKOMFHJACZOPEKUCZA" imageId="14364755"/>
+    </Metadata>
+    <Page imageFilename="0109_page_2369319_line_r1l24_docId_51494.jpg" imageWidth="2344" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425548712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2344,0 2344,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 1970,217 2098,269 2242,229 2244,169 102,143"/>
+                <Baseline points="114,177 219,178 325,180 431,181 536,184 642,186 748,189 853,191 959,193 1065,195 1171,197 1276,199 1382,203 1488,205 1593,207 1699,209 1805,211 1910,213 2016,215 2122,217 2228,219"/>
+                <TextEquiv>
+                    <Unicode>au Locle, po. ungleiche Vertheilung der Steuerlast /: P. No 4345, 4390. &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>au Locle, po. ungleiche Vertheilung der Steuerlast /: P. No 4345, 4390. &amp;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

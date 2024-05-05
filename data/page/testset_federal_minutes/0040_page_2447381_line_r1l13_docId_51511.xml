@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:03.062+02:00</Created>
+        <LastChange>2020-08-22T11:29:52.810+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750465" pageNr="32" tsid="49309262" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SUNZMBWWAUGMCTAZBOJRQONZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVVFDWAINOEHMZNTNSETBHZH" imageId="14365623"/>
+    </Metadata>
+    <Page imageFilename="0040_page_2447381_line_r1l13_docId_51511.jpg" imageWidth="1666" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425308426" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1666,0 1666,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 249,220 398,177 1223,185 1282,220 1351,180 1545,196 1566,130 100,132"/>
+                <Baseline points="114,171 186,171 258,169 330,169 402,169 474,169 546,169 618,169 690,169 762,169 834,171 906,171 978,171 1050,171 1122,171 1194,171 1266,171 1338,171 1410,170 1482,169 1554,167"/>
+                <TextEquiv>
+                    <Unicode>dortigen Taubstummenanstalten erstattet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dortigen Taubstummenanstalten erstattet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

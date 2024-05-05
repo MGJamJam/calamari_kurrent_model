@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:30:54.895+02:00</Created>
+        <LastChange>2020-11-10T07:10:46.773+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746249" pageNr="4" tsid="49318273" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UVIINTOYUQSCITBRPIWITWMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YGUOGGZHFIBBLYNGOQVOHDFZ" imageId="14361429"/>
+    </Metadata>
+    <Page imageFilename="0006_page_378497_line_r2l10_docId_17246.jpg" imageWidth="677" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425945853" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 677,0 677,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 178,221 222,205 277,220 305,204 370,219 387,203 453,228 477,211 516,217 543,237 575,225 577,101 516,100 430,130 357,119 340,134 299,111 209,105 181,126 101,115"/>
+                <Baseline points="114,156 139,158 164,158 189,158 214,158 239,158 264,158 289,158 314,160 339,160 364,160 389,160 414,160 439,160 464,162 489,162 514,163 539,164 564,166 582,166"/>
+                <TextEquiv>
+                    <Unicode>strafrechtl. Verfolg g.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>strafrechtl. Verfolg g.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:54.806+02:00</Created>
+        <LastChange>2020-08-22T11:08:30.304+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746017" pageNr="70" tsid="37756519" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MOZAPIBRTIUIGBCZOZPQDUZT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZKUFGACVQZLVJWXIWNGOJYC" imageId="14361197"/>
+    </Metadata>
+    <Page imageFilename="0107_page_2303163_line_r2l11_docId_51010.jpg" imageWidth="2381" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426064932" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2381,0 2381,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 2281,217 2281,138 101,132"/>
+                <Baseline points="114,191 221,194 329,195 437,197 544,199 652,199 760,201 867,201 975,201 1083,203 1191,203 1298,203 1406,203 1514,204 1621,205 1729,205 1837,205 1944,207 2052,207 2160,207 2268,209"/>
+                <TextEquiv>
+                    <Unicode>der Bundesrath sich nicht im Falle sehe, weiter mit dieser Angelegenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Bundesrath sich nicht im Falle sehe, weiter mit dieser Angelegenheit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

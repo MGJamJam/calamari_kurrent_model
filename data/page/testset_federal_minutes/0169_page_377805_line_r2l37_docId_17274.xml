@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:21:45.297+02:00</Created>
+        <LastChange>2020-08-22T11:26:15.409+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748538" pageNr="164" tsid="37763137" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VUGUROKQEFNKWCCEHYHWAXPP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHNGOUNWWFQHDYNUDNGOHMHR" imageId="14363718"/>
+    </Metadata>
+    <Page imageFilename="0169_page_377805_line_r2l37_docId_17274.jpg" imageWidth="1403" imageHeight="272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425727468" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1403,0 1403,272 0,272"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,143 1303,166 1289,103 100,107"/>
+                <Baseline points="109,142 168,144 227,146 286,148 346,149 405,151 464,151 524,151 583,151 642,151 702,151 761,149 820,149 879,148 939,146 998,145 1057,143 1117,142 1176,140 1235,139 1295,137"/>
+                <TextEquiv>
+                    <Unicode>jeweilen nur von den an den Gemeinderat erlassenen Weisungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>jeweilen nur von den an den Gemeinderat erlassenen Weisungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

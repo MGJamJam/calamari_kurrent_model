@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:59:20.823+02:00</Created>
+        <LastChange>2020-08-22T11:19:00.337+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747678" pageNr="69" tsid="37760669" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DVHJHOJRCTEZLXAOYWQDVTAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SAMCXXGIBPLKXVFWNGELHMQS" imageId="14362858"/>
+    </Metadata>
+    <Page imageFilename="0145_page_390004_line_r2l24_docId_17261.jpg" imageWidth="2167" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425853494" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2167,0 2167,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,240 2067,221 2066,122 1815,104 100,135"/>
+                <Baseline points="113,196 210,194 307,193 404,192 501,192 598,190 695,190 792,190 889,190 986,190 1083,188 1180,188 1277,188 1374,188 1471,188 1568,188 1665,188 1762,188 1859,186 1956,186 2053,184"/>
+                <TextEquiv>
+                    <Unicode>2.) Zur Unterbringung des Scheibenmaterials der Schulen und Kurse ist auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.) Zur Unterbringung des Scheibenmaterials der Schulen und Kurse ist auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:40.838+02:00</Created>
+        <LastChange>2020-08-22T11:33:00.083+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750750" pageNr="109" tsid="49309669" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SVPEQMESNDPXNMGFGDBLVBWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQHSIMRBJBJNDDHFXHMUZWYJ" imageId="14365908"/>
+    </Metadata>
+    <Page imageFilename="0153_page_2442127_line_r1l3_docId_51511.jpg" imageWidth="775" imageHeight="307">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425319253" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 775,0 775,307 0,307"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 130,206 158,179 196,179 256,207 289,183 491,204 532,182 674,181 675,143 617,126 598,145 513,147 434,124 374,140 295,126 276,142 224,100 175,100 101,140"/>
+                <Baseline points="114,170 141,169 168,168 195,168 223,168 250,168 277,168 305,170 332,170 359,170 387,170 414,172 441,172 468,172 496,172 523,172 550,172 578,172 605,172 632,172 660,170"/>
+                <TextEquiv>
+                    <Unicode>Maximaltaxen im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Maximaltaxen im</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

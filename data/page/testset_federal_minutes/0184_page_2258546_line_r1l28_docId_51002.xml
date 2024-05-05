@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:57.376+02:00</Created>
+        <LastChange>2020-08-22T07:38:15.133+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745724" pageNr="153" tsid="37715722" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OAHIJRHNPMEZIPSMMIXVIBMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JQBQLKHPFGKYKPVGTJASPDWL" imageId="14360904"/>
+    </Metadata>
+    <Page imageFilename="0184_page_2258546_line_r1l28_docId_51002.jpg" imageWidth="2038" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426204321" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2038,0 2038,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,233 1903,232 1938,161 1716,100 1607,159 1231,118 444,164 357,116 100,162"/>
+                <Baseline points="117,215 207,215 297,215 387,215 477,213 568,213 658,213 748,213 838,212 928,211 1019,211 1109,211 1199,211 1289,211 1379,211 1470,211 1560,211 1650,211 1740,211 1830,212 1921,213"/>
+                <TextEquiv>
+                    <Unicode>Das Finanzdepartement erstattete unter in 20. Juni dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Finanzdepartement erstattete unter in 20. Juni dem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

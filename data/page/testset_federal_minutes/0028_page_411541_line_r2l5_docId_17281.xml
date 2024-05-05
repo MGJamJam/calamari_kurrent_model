@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:35:19.529+02:00</Created>
+        <LastChange>2020-10-12T20:36:20.044+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749091" pageNr="15" tsid="49314349" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CIKOQKQWEMDYJRGKXZOUUCRY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFHRDLNJZBSAMNDHXNBOWQED" imageId="14364267"/>
+    </Metadata>
+    <Page imageFilename="0028_page_411541_line_r2l5_docId_17281.jpg" imageWidth="2276" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425587354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2276,0 2276,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,261 2176,226 2122,133 100,130"/>
+                <Baseline points="113,197 215,197 318,199 420,199 523,199 625,199 728,199 830,199 933,199 1035,198 1138,197 1240,197 1343,197 1445,195 1548,195 1650,195 1753,195 1855,195 1958,195 2060,195 2163,195 2190,197"/>
+                <TextEquiv>
+                    <Unicode>Protokoll-Auszug aus Finanzdepartement und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokoll-Auszug aus Finanzdepartement und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

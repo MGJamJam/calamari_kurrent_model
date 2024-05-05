@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:54.746+02:00</Created>
+        <LastChange>2020-08-22T11:30:34.237+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750535" pageNr="51" tsid="49309346" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UZXZXZOCOLDSFJBFOODREQYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHZXICITZJWRWNHZPKLOAIOR" imageId="14365693"/>
+    </Metadata>
+    <Page imageFilename="0066_page_2448154_line_r1l5_docId_51513.jpg" imageWidth="666" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425311026" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 666,0 666,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 146,179 198,229 242,208 272,219 298,195 430,188 490,222 534,179 565,182 566,116 461,101 422,136 381,144 332,124 235,136 194,100 169,119 148,104 101,118"/>
+                <Baseline points="114,166 139,166 165,164 190,164 216,164 242,164 267,164 293,166 319,166 344,166 370,167 396,168 421,168 447,168 473,169 498,170 524,170 550,170"/>
+                <TextEquiv>
+                    <Unicode>Verpfandung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verpfandung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

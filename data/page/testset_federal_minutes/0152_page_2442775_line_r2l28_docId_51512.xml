@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:38.995+02:00</Created>
+        <LastChange>2020-08-22T11:32:58.764+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750747" pageNr="108" tsid="49309663" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NPHAFXHARJVGIZIRMMQGFSYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJJFOYEIKPIJDOBSXUSOEPUS" imageId="14365905"/>
+    </Metadata>
+    <Page imageFilename="0152_page_2442775_line_r2l28_docId_51512.jpg" imageWidth="875" imageHeight="333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425319113" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 875,0 875,333 0,333"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 165,180 239,233 314,165 407,183 434,210 491,180 610,203 642,173 775,180 775,123 650,132 617,100 569,100 485,134 268,135 184,101 151,131 100,131"/>
+                <Baseline points="114,161 146,164 178,165 211,167 243,167 276,167 308,167 340,167 373,167 405,166 438,165 470,165 502,164 535,163 567,163 600,162 632,161 664,161 697,161 729,163 762,163"/>
+                <TextEquiv>
+                    <Unicode>fung vorzulegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fung vorzulegen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

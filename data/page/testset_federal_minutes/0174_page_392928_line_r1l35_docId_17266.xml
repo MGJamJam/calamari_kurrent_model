@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:29:41.801+02:00</Created>
+        <LastChange>2020-08-22T11:21:19.765+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748850" pageNr="86" tsid="37761474" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CHAZQIIWSQQMVDRPSFTKVCAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WGPKHHDKFCDUJXAWYLUOCRXI" imageId="14364026"/>
+    </Metadata>
+    <Page imageFilename="0174_page_392928_line_r1l35_docId_17266.jpg" imageWidth="2230" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425773104" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2230,0 2230,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 1758,245 2130,200 2130,123 100,132"/>
+                <Baseline points="112,195 212,195 312,195 412,197 513,197 613,197 713,197 814,197 914,199 1014,199 1115,199 1215,199 1315,199 1415,197 1516,197 1616,197 1716,197 1817,195 1917,195 2017,195 2118,193"/>
+                <TextEquiv>
+                    <Unicode>Wochen der Rekurs ergriffen werden, und zwar bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wochen der Rekurs ergriffen werden, und zwar bei</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

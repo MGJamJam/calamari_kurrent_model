@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:31:45.451+02:00</Created>
+        <LastChange>2020-08-22T11:14:25.313+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746301" pageNr="11" tsid="37758604" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DAFQXMFNIGDXNEUABLLRZJNJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWWXWOUFWNHXTJMVWYHGKICT" imageId="14361481"/>
+    </Metadata>
+    <Page imageFilename="0020_page_366571_line_r2l30_docId_17235.jpg" imageWidth="2075" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426000114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2075,0 2075,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,201 1975,237 1975,156 1773,111 100,150"/>
+                <Baseline points="112,186 204,186 297,186 389,186 482,186 574,186 667,186 759,186 852,186 944,186 1037,186 1129,188 1222,188 1314,188 1407,188 1499,188 1592,188 1684,188 1777,188 1869,190 1962,190"/>
+                <TextEquiv>
+                    <Unicode>vor. Monats ausgesprochene Darbot der Ausführung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vor. Monats ausgesprochene Darbot der Ausführung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

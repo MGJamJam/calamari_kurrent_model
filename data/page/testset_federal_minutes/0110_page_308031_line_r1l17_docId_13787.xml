@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:53:23.907+02:00</Created>
+        <LastChange>2020-11-17T07:32:07.324+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744650" pageNr="65" tsid="49319230" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HQUUCWDKOMYETVWGURTIPXSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXHVYCUTZNIGZQBFBYHNBSPR" imageId="14360041"/>
+    </Metadata>
+    <Page imageFilename="0110_page_308031_line_r1l17_docId_13787.jpg" imageWidth="2169" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426357633" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2169,0 2169,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,212 2069,221 2069,143 1799,124 1289,172 969,112 828,171 101,100"/>
+                <Baseline points="113,188 210,188 307,190 404,192 501,194 598,196 695,196 792,198 889,199 986,200 1084,201 1181,202 1278,202 1375,204 1472,204 1569,204 1666,204 1763,204 1860,203 1957,202 2055,202"/>
+                <TextEquiv>
+                    <Unicode>dies das definitive Auslieferungsbegehren, gegen dem in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dies das definitive Auslieferungsbegehren, gegen dem in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

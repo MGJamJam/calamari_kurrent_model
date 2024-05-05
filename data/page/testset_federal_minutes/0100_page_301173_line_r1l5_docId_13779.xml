@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:00.099+02:00</Created>
+        <LastChange>2020-08-21T22:04:26.925+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744464" pageNr="66" tsid="37655439" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WQWZOIPSQQEJHMMTINTIRQTH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHLWPKFIQLFRRNNCJPMJIOWW" imageId="14359855"/>
+    </Metadata>
+    <Page imageFilename="0100_page_301173_line_r1l5_docId_13779.jpg" imageWidth="2205" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426417436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2205,0 2205,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 2105,217 2069,111 1699,162 1455,114 1367,173 734,100 377,164 100,124"/>
+                <Baseline points="113,194 211,194 310,192 409,192 508,192 607,192 706,192 805,192 904,192 1003,192 1102,192 1200,192 1299,192 1398,192 1497,192 1596,192 1695,190 1794,190 1893,190 1992,190 2091,188"/>
+                <TextEquiv>
+                    <Unicode>tion und mit Rücksicht auf seinen Beschluß vom 17. ds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tion und mit Rücksicht auf seinen Beschluß vom 17. ds.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

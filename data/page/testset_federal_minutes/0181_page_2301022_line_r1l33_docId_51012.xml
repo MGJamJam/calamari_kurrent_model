@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:11.357+02:00</Created>
+        <LastChange>2020-10-11T21:45:57.499+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749736" pageNr="129" tsid="49313782" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ONOXYKYDASMOEVSERVULUNGD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTNCAPBIICMRMPCKPBWDIXLC" imageId="14364912"/>
+    </Metadata>
+    <Page imageFilename="0181_page_2301022_line_r1l33_docId_51012.jpg" imageWidth="2322" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425555231" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2322,0 2322,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,193 1862,230 2222,183 2221,109 100,149"/>
+                <Baseline points="113,185 217,183 322,183 427,183 531,183 636,181 741,181 845,179 950,179 1055,178 1160,177 1264,177 1369,175 1474,175 1578,175 1683,173 1788,173 1892,173 1997,173 2102,175 2207,175"/>
+                <TextEquiv>
+                    <Unicode>die stattgefundene Aufhebung des Glarus-Richterschwyler Tagkurses und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die stattgefundene Aufhebung des Glarus-Richterschwyler Tagkurses und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:39.054+02:00</Created>
+        <LastChange>2020-10-06T07:45:34.753+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750593" pageNr="72" tsid="49310738" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UXBYSRSMPOWLJGESICSZEODZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XEXAWNDWKBLOOTHMYPTPUYDN" imageId="14365751"/>
+    </Metadata>
+    <Page imageFilename="0104_page_2414395_line_r1l36_docId_51506.jpg" imageWidth="2416" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425377646" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2416,0 2416,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,251 1592,189 1682,253 2091,183 2316,251 2315,147 1493,103 1067,158 988,100 622,169 506,106 100,178"/>
+                <Baseline points="114,205 223,203 332,201 441,197 551,195 660,194 769,193 879,191 988,189 1097,189 1207,187 1316,187 1425,185 1534,185 1644,183 1753,183 1862,182 1972,181 2081,181 2190,179 2300,179"/>
+                <TextEquiv>
+                    <Unicode>sen &amp;. die zwei Kinder wirklich dieser Ehe entsprungen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sen &amp;. die zwei Kinder wirklich dieser Ehe entsprungen </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

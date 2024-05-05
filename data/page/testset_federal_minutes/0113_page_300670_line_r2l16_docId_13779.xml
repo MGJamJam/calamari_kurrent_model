@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:45:42.861+02:00</Created>
+        <LastChange>2020-08-21T22:04:52.364+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744483" pageNr="75" tsid="37655504" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XKSVMUCMUEJWKQFYLBFCPDWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AANFFXOSUMZOGNLLMTYYCMZS" imageId="14359874"/>
+    </Metadata>
+    <Page imageFilename="0113_page_300670_line_r2l16_docId_13779.jpg" imageWidth="2192" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426418643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2192,0 2192,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1893,257 2092,228 2092,110 1861,174 100,133"/>
+                <Baseline points="111,196 209,196 307,198 406,198 504,198 603,198 701,200 799,200 898,200 996,200 1095,200 1193,200 1291,200 1390,202 1488,202 1587,202 1685,202 1783,202 1882,202 1980,203 2079,204"/>
+                <TextEquiv>
+                    <Unicode>Cairo mit Note vom 18. v. Mts. in Antwort auf das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cairo mit Note vom 18. v. Mts. in Antwort auf das</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

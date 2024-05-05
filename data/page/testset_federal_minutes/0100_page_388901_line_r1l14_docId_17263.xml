@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:19:46.901+02:00</Created>
+        <LastChange>2020-10-27T09:00:08.691+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748466" pageNr="53" tsid="49304151" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FGGSHKKPHWGOPCKELZIKTWXR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WKWDMORFFGLJDLUYRHYLVHOE" imageId="14363646"/>
+    </Metadata>
+    <Page imageFilename="0100_page_388901_line_r1l14_docId_17263.jpg" imageWidth="2230" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425768370" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2230,0 2230,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 596,275 740,208 1805,200 1945,254 2130,198 1883,104 100,147"/>
+                <Baseline points="114,205 214,203 314,201 414,199 514,199 615,197 715,197 815,195 915,195 1015,193 1116,193 1216,193 1316,191 1416,191 1516,191 1617,191 1717,189 1817,189 1917,189 2017,189 2118,189"/>
+                <TextEquiv>
+                    <Unicode>vom 27. Juni / 1. Juli betr. Konzession einer elektrischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom 27. Juni / 1. Juli betr. Konzession einer elektrischen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

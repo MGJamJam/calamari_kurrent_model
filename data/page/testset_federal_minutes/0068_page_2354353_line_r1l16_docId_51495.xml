@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:19.982+02:00</Created>
+        <LastChange>2020-08-22T11:24:46.166+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749487" pageNr="54" tsid="37762582" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JVKVTMHSEEKYCGLAAMWLNNFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GDAALBDIOPJLMDEZHYAEGWJV" imageId="14364663"/>
+    </Metadata>
+    <Page imageFilename="0068_page_2354353_line_r1l16_docId_51495.jpg" imageWidth="2316" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425544767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2316,0 2316,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 1720,211 1922,268 2215,211 2216,141 101,147"/>
+                <Baseline points="114,179 218,181 322,183 426,185 531,187 635,189 739,191 844,193 948,195 1052,197 1157,199 1261,201 1365,202 1469,203 1574,205 1678,207 1782,207 1887,209 1991,209 2095,211 2200,211"/>
+                <TextEquiv>
+                    <Unicode>auch das vorgängige schweizerische verschaffen müssen. Hr. General-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auch das vorgängige schweizerische verschaffen müssen. Hr. General-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

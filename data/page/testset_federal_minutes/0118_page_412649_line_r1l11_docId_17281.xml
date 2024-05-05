@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:22.689+02:00</Created>
+        <LastChange>2020-10-12T21:10:22.108+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749359" pageNr="58" tsid="49314493" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LJIAXNJBFCVZUBYCQMFSJFZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFYBLMNDUMZNCKBMEPCKGAGT" imageId="14364535"/>
+    </Metadata>
+    <Page imageFilename="0118_page_412649_line_r1l11_docId_17281.jpg" imageWidth="2245" imageHeight="386">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425593440" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2245,0 2245,386 0,386"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,259 1037,219 1134,286 1267,221 1430,284 1747,221 1882,281 2145,235 2145,107 1435,175 1327,105 1256,173 858,116 788,165 693,100 528,181 100,154"/>
+                <Baseline points="112,211 213,209 314,209 415,207 516,207 617,207 718,207 819,207 920,207 1021,209 1122,209 1223,209 1324,209 1425,209 1526,209 1627,209 1728,209 1829,209 1930,207 2031,207 2132,205"/>
+                <TextEquiv>
+                    <Unicode>zu können. Ein derartiges Zugeständnis sei bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu können. Ein derartiges Zugeständnis sei bis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

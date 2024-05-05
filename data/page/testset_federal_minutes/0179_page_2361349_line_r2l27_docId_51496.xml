@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:13.628+02:00</Created>
+        <LastChange>2020-10-08T09:24:59.018+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750191" pageNr="113" tsid="49312516" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TUNDMMKUSOGSDMDUHRABUMSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJCTZLIEYDZHCLWYFAKLWEKQ" imageId="14365363"/>
+    </Metadata>
+    <Page imageFilename="0179_page_2361349_line_r2l27_docId_51496.jpg" imageWidth="2314" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425494559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2314,0 2314,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,220 1864,221 2189,174 2213,111 100,168"/>
+                <Baseline points="113,197 217,195 321,195 426,193 530,191 635,189 739,187 843,185 948,183 1052,181 1157,179 1261,177 1365,175 1470,173 1574,171 1679,171 1783,169 1887,167 1992,167 2096,167 2201,165 2232,168"/>
+                <TextEquiv>
+                    <Unicode>wyl, welcher 1837 oder 1858 in holländische Militärdienste getreten sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wyl, welcher 1837 oder 1858 in holländische Militärdienste getreten sei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

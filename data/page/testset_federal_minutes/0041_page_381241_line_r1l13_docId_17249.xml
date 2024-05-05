@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:38.320+02:00</Created>
+        <LastChange>2020-08-22T11:15:44.614+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746351" pageNr="27" tsid="37759176" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LIHTCFANOFYGWHTQZPOEXCDC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HOSMJYBRSKEJOPOHXNVGPORL" imageId="14361531"/>
+    </Metadata>
+    <Page imageFilename="0041_page_381241_line_r1l13_docId_17249.jpg" imageWidth="2139" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425949183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2139,0 2139,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2039,198 2039,121 1972,111 100,110"/>
+                <Baseline points="112,179 207,179 303,179 399,179 494,179 590,179 686,179 781,179 877,179 973,179 1069,179 1164,177 1260,177 1356,177 1451,177 1547,177 1643,175 1738,175 1834,175 1930,173 2026,173"/>
+                <TextEquiv>
+                    <Unicode>folgen, aber nur gegen die eidliche Erklärung, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>folgen, aber nur gegen die eidliche Erklärung, daß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

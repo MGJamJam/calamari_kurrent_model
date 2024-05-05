@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:25.782+02:00</Created>
+        <LastChange>2020-11-16T16:18:01.910+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745270" pageNr="115" tsid="49319134" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VOJSXGKVBLHDYTORDRNGSTBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWBJVMHGYRSUBGLVYJBMIIZL" imageId="14360454"/>
+    </Metadata>
+    <Page imageFilename="0175_page_309785_line_r2l29_docId_13791.jpg" imageWidth="2050" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426306785" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2050,0 2050,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1884,218 1950,118 100,128"/>
+                <Baseline points="111,181 202,178 293,177 385,175 476,175 568,174 659,175 750,175 842,175 933,177 1025,177 1116,178 1207,180 1299,180 1390,181 1482,181 1573,181 1664,181 1756,180 1847,178 1939,175 1966,180"/>
+                <TextEquiv>
+                    <Unicode>vorgeschriebene Verfahren gewärtige; eventuell werde der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vorgeschriebene Verfahren gewärtige; eventuell werde der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

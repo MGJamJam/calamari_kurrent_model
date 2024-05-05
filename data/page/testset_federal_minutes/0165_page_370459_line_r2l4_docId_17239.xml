@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:13:22.735+02:00</Created>
+        <LastChange>2020-11-16T10:43:53.826+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745295" pageNr="95" tsid="49318982" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TJCXSAGLCSIQTGYNKOZATIGN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JIFGJXIKDEMTGUEWLSIXUELW" imageId="14360479"/>
+    </Metadata>
+    <Page imageFilename="0165_page_370459_line_r2l4_docId_17239.jpg" imageWidth="953" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426251393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 953,0 953,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 339,190 505,239 627,205 806,224 853,201 852,118 827,111 750,149 666,100 592,153 444,162 278,105 228,139 100,130"/>
+                <Baseline points="112,184 148,184 184,184 221,184 257,186 294,186 330,186 366,184 403,184 439,184 476,184 512,182 548,182 585,182 621,181 658,180 694,180 730,180 767,180 803,180 840,180 886,180"/>
+                <TextEquiv>
+                    <Unicode>An Bern zum Bericht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Bern zum Bericht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

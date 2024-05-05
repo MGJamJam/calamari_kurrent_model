@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:31:16.055+02:00</Created>
+        <LastChange>2020-09-28T09:48:27.207+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519075" pageNr="80" tsid="49307545" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AOKQHACQECTPQBTMXJNJDYKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSGAVXKWNTYOJRCGOHTYDWPE" imageId="15086008"/>
+    </Metadata>
+    <Page imageFilename="0110_page_2457249_line_r2l32_docId_51515.jpg" imageWidth="2380" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425247529" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2380,0 2380,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 1709,188 1791,244 2068,193 2156,257 2280,189 2247,126 101,141 100,196"/>
+                <Baseline points="115,174 222,174 330,174 437,174 545,174 652,176 760,176 867,176 975,178 1082,178 1190,180 1297,180 1405,182 1512,182 1620,184 1727,184 1835,184 1942,186 2050,186 2157,186 2265,186"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="137,134 137,194 465,194 465,134"/>
+                    <TextEquiv>
+                        <Unicode>bewilligung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="513,134 513,194 561,194 561,134"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="617,135 617,195 633,195 633,135"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="729,136 729,196 929,196 929,136"/>
+                    <TextEquiv>
+                        <Unicode>Jauber</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="993,138 993,198 1073,198 1073,138"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1121,140 1121,200 1321,200 1321,140"/>
+                    <TextEquiv>
+                        <Unicode>Albruk</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1369,142 1369,202 1489,202 1489,142"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1529,143 1529,203 1689,203 1689,143"/>
+                    <TextEquiv>
+                        <Unicode>dessen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1737,145 1737,205 2145,205 2145,145"/>
+                    <TextEquiv>
+                        <Unicode>eingegangener</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2169,146 2169,206 2249,206 2249,146"/>
+                    <TextEquiv>
+                        <Unicode>Ehe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bewilligung an Jb. Tauber von Albruk oder dessen eingegangener Ehe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bewilligung an Jb. Tauber von Albruk oder dessen eingegangener Ehe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

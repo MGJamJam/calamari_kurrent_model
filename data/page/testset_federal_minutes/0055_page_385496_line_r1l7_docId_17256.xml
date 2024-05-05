@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:44:00.148+02:00</Created>
+        <LastChange>2020-11-09T17:12:09.328+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746964" pageNr="30" tsid="49318203" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NPEJSKZOWHWNXPXIDEPTPXSE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYAHHSBVZBAIRZVSQVHALFZB" imageId="14362144"/>
+    </Metadata>
+    <Page imageFilename="0055_page_385496_line_r1l7_docId_17256.jpg" imageWidth="600" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425892922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 600,0 600,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,252 206,224 234,196 314,212 342,199 370,218 500,214 500,112 447,109 367,140 348,122 317,134 289,119 215,125 178,100 100,138"/>
+                <Baseline points="115,179 141,177 167,177 194,177 220,178 247,179 273,179 300,179 326,179 352,179 379,179 405,179 432,177 458,176 485,173"/>
+                <TextEquiv>
+                    <Unicode>ment z. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ment z. K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

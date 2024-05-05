@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:44.991+02:00</Created>
+        <LastChange>2020-11-16T07:13:55.269+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745357" pageNr="6" tsid="49318760" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ERLJJSJUJEBRJHXCOSALGAMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIWYCVCGQFCAFSXRFHACZGQN" imageId="14360541"/>
+    </Metadata>
+    <Page imageFilename="0007_page_2266811_line_r3l3_docId_51002.jpg" imageWidth="2298" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426183927" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2298,0 2298,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,184 1233,195 1301,247 2197,205 2198,104 100,142"/>
+                <Baseline points="115,173 218,175 321,175 425,177 528,179 632,179 735,181 838,181 942,183 1045,184 1149,185 1252,185 1355,187 1459,187 1562,187 1666,187 1769,189 1872,189 1976,187 2079,187 2183,187"/>
+                <TextEquiv>
+                    <Unicode>In Erwiederung auf die diesseitige Zuschrift vom 24. Oktober ab¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Erwiederung auf die diesseitige Zuschrift vom 24. Oktober ab¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

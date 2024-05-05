@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:51:29.695+02:00</Created>
+        <LastChange>2020-11-17T07:27:36.159+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744625" pageNr="57" tsid="49319223" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RXMKGQKPEGHFDNAAZVSVXFOF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWSLRBBVJPJDCGQHKMBRIHUU" imageId="14360016"/>
+    </Metadata>
+    <Page imageFilename="0097_page_306732_line_r2l23_docId_13787.jpg" imageWidth="2090" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426356295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2090,0 2090,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 1990,213 1990,129 1048,161 528,100 389,161 101,111"/>
+                <Baseline points="112,179 205,185 298,187 391,191 485,193 578,195 671,197 765,197 858,199 951,199 1045,199 1138,199 1231,199 1324,199 1418,199 1511,199 1604,199 1698,199 1791,201 1884,201 1978,201 2045,201"/>
+                <TextEquiv>
+                    <Unicode>Amerika aufgehalten und am 18. Juni 1860 in Wooster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Amerika aufgehalten und am 18. Juni 1860 in Wooster,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

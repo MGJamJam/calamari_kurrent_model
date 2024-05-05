@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:52.038+02:00</Created>
+        <LastChange>2020-08-22T11:05:29.765+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745821" pageNr="13" tsid="37755556" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QESYTBSOFIYLAUEILETBSHMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBRWFASGIUYXGVHGLZSLLHNQ" imageId="14361001"/>
+    </Metadata>
+    <Page imageFilename="0018_page_2271356_line_r3l17_docId_51007.jpg" imageWidth="2356" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426056714" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2356,0 2356,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,205 2204,211 2256,122 101,123"/>
+                <Baseline points="115,160 221,162 327,164 433,165 540,166 646,168 752,170 859,170 965,172 1071,173 1178,174 1284,176 1390,176 1496,178 1603,178 1709,180 1815,182 1922,182 2028,184 2134,186 2241,188"/>
+                <TextEquiv>
+                    <Unicode>1. es sei der Vertrag in die, nächsten Samstag den 18. dβ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1. es sei der Vertrag in die, nächsten Samstag den 18. dβ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

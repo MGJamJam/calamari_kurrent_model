@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:22.471+02:00</Created>
+        <LastChange>2020-11-16T08:14:40.129+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745623" pageNr="118" tsid="49318832" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RFXEOWVFUDCEMDSCLMUVMHJT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDKRDIOHTHWPXIPKZKOKJVAW" imageId="14360803"/>
+    </Metadata>
+    <Page imageFilename="0138_page_2257325_line_r3l40_docId_51003.jpg" imageWidth="2254" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2254,0 2254,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,206 603,245 696,189 896,257 966,191 1687,184 1977,248 2154,179 2154,121 704,157 600,100 248,162 176,102 100,160"/>
+                <Baseline points="114,193 215,191 316,189 418,187 519,185 621,185 722,185 823,185 925,185 1026,185 1128,185 1229,185 1330,185 1432,185 1533,183 1635,183 1736,183 1837,181 1939,179 2040,177 2142,175"/>
+                <TextEquiv>
+                    <Unicode>deren Bestimmung von der K. K. österreichischen Gesandtschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>deren Bestimmung von der K. K. österreichischen Gesandtschaft</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

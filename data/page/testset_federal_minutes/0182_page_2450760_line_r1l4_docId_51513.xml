@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:37.761+02:00</Created>
+        <LastChange>2020-09-21T15:48:32.905+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750825" pageNr="131" tsid="49309796" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CHCAHRKORBQNFDBUIJKQKUWL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMKPIQVGDYJTLFERVAVPWRLA" imageId="14365983"/>
+    </Metadata>
+    <Page imageFilename="0182_page_2450760_line_r1l4_docId_51513.jpg" imageWidth="2266" imageHeight="394">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425322358" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2266,0 2266,394 0,394"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,262 2192,265 2192,188 2030,174 446,196 100,100"/>
+                <Baseline points="113,239 215,239 317,237 419,237 521,237 623,237 725,237 827,237 929,237 1031,239 1133,239 1235,239 1337,241 1439,241 1541,241 1643,241 1745,241 1847,241 1949,241 2051,241 2189,242"/>
+                <TextEquiv>
+                    <Unicode>Das Komite der in Locarno versammelten Schüzengesell¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Komite der in Locarno versammelten Schüzengesell¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

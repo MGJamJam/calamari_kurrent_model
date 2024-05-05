@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:51.684+02:00</Created>
+        <LastChange>2020-11-10T08:33:13.841+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746767" pageNr="125" tsid="49318365" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PBLNSVZIXHLRVHHSWUVWMCHZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQVRFQYEGSLXNRDDWFVMNLFD" imageId="14361947"/>
+    </Metadata>
+    <Page imageFilename="0186_page_378483_line_r2l9_docId_17248.jpg" imageWidth="2141" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425963983" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2141,0 2141,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 2041,203 1961,107 100,137"/>
+                <Baseline points="112,180 207,180 303,180 399,180 495,180 591,180 686,180 782,180 878,180 974,180 1070,178 1165,178 1261,178 1357,178 1453,176 1549,176 1644,176 1740,176 1836,176 1932,176 2028,176 2044,177"/>
+                <TextEquiv>
+                    <Unicode>zum Vollzug und ans Eisenbahndepartement zur Kenntnis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zum Vollzug und ans Eisenbahndepartement zur Kenntnis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

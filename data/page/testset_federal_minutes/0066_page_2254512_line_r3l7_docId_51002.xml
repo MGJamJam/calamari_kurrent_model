@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:51.746+02:00</Created>
+        <LastChange>2020-08-22T07:34:50.981+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745459" pageNr="57" tsid="37715083" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GGSQISWGPWEVIVWJJSYPHUDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ODUTKYQHAIOEECAQODZACIZJ" imageId="14360643"/>
+    </Metadata>
+    <Page imageFilename="0066_page_2254512_line_r3l7_docId_51002.jpg" imageWidth="2113" imageHeight="384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426190889" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2113,0 2113,384 0,384"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 735,199 905,284 1031,208 2013,229 2013,147 1361,159 1297,100 1174,164 833,118 452,165 296,102 100,155"/>
+                <Baseline points="114,199 208,201 302,201 396,201 490,203 585,203 679,203 773,203 867,201 961,201 1056,201 1150,201 1244,201 1338,201 1432,203 1527,203 1621,205 1715,205 1809,207 1903,209 1998,211"/>
+                <TextEquiv>
+                    <Unicode>Die Gemeinden Wangen, Käppigen Utzenstorf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Gemeinden Wangen, Käppigen Utzenstorf,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

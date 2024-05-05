@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:30.431+02:00</Created>
+        <LastChange>2020-11-16T10:07:08.035+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744929" pageNr="35" tsid="49318907" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OPVRNDAQLRSWUKQSSLIMDCUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDZDICJXUJJDYNWBFUKYBNTX" imageId="14360320"/>
+    </Metadata>
+    <Page imageFilename="0064_page_373678_line_r2l25_docId_17242.jpg" imageWidth="1152" imageHeight="279">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426243033" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1152,0 1152,279 0,279"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,170 338,151 592,179 646,148 692,171 1043,141 1052,118 100,124"/>
+                <Baseline points="107,147 153,146 200,146 247,146 294,146 341,145 388,145 435,145 482,145 529,144 576,144 622,144 669,144 716,143 763,143 810,142 857,142 904,141 951,140 998,140 1045,139"/>
+                <TextEquiv>
+                    <Unicode>gehalt von Fr. 1500. Hrn. Gottfried Stauber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehalt von Fr. 1500. Hrn. Gottfried Stauber</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

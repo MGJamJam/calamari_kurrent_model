@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:01:08.200+02:00</Created>
+        <LastChange>2020-08-22T11:34:25.563+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750865" pageNr="139" tsid="37765977" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XPLXQHOURJQVEUFDQQEOAPPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQHNYKYQFPYKBUQWELCGQYNC" imageId="14366023"/>
+    </Metadata>
+    <Page imageFilename="0198_page_2433857_line_r2l26_docId_51508.jpg" imageWidth="1046" imageHeight="309">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425386928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1046,0 1046,309 0,309"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,181 530,178 589,209 732,205 945,189 946,145 892,117 834,144 711,117 541,143 229,139 186,100 101,115"/>
+                <Baseline points="113,166 153,164 194,164 235,164 276,164 317,166 358,166 399,166 440,168 481,168 522,168 562,170 603,170 644,171 685,172 726,172 767,172 808,172 849,172 890,172 931,172"/>
+                <TextEquiv>
+                    <Unicode>Lausanne mitzutheilen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lausanne mitzutheilen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

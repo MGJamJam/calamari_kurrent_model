@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:35:37.343+02:00</Created>
+        <LastChange>2020-08-22T11:25:55.731+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749105" pageNr="65" tsid="37763011" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UEBTMUONBGVLBZPHVXMDLQSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSTOESYXBVYQTLLXWTUXGFID" imageId="14364281"/>
+    </Metadata>
+    <Page imageFilename="0142_page_401255_line_r1l11_docId_17276.jpg" imageWidth="638" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425634510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 638,0 638,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,237 145,250 177,223 233,210 270,225 378,193 538,207 534,103 478,100 421,144 365,160 328,147 293,160 238,117 201,113 130,166 100,167"/>
+                <Baseline points="115,195 140,195 166,193 191,190 217,188 242,187 268,186 293,185 319,185 344,183 370,183 395,183 421,181 446,181 472,181 497,180 523,179"/>
+                <TextEquiv>
+                    <Unicode>subventio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>subventio¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

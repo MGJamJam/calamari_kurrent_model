@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:03.560+02:00</Created>
+        <LastChange>2020-08-22T11:22:16.572+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749026" pageNr="4" tsid="37761728" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EGZSQLNAOXYPGQEKXAJJITYY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPNLMVMOTLDUNTHZWFSUQIHF" imageId="14364202"/>
+    </Metadata>
+    <Page imageFilename="0006_page_410408_line_r1l36_docId_17281.jpg" imageWidth="2344" imageHeight="380">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425585725" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2344,0 2344,380 0,380"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,231 2244,232 2159,106 1329,174 945,106 819,175 100,134"/>
+                <Baseline points="114,218 219,214 325,211 431,209 537,207 643,206 748,204 854,204 960,204 1066,204 1172,204 1277,204 1383,204 1489,204 1595,204 1701,202 1806,202 1912,200 2018,198 2124,196 2230,194"/>
+                <TextEquiv>
+                    <Unicode>überschreitung von Fr. 57.02, wogegen die Ausgaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>überschreitung von Fr. 57.02, wogegen die Ausgaben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

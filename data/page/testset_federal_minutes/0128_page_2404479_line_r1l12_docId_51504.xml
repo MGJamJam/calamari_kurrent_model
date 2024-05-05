@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:51:47.640+02:00</Created>
+        <LastChange>2020-08-22T11:27:00.226+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750158" pageNr="79" tsid="37763439" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GPLPYAWPJXHWRWBERTCXLSMK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZVBOHSYGHJJFNEPNHDONIVG" imageId="14365330"/>
+    </Metadata>
+    <Page imageFilename="0128_page_2404479_line_r1l12_docId_51504.jpg" imageWidth="762" imageHeight="302">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425435577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 762,0 762,302 0,302"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 197,155 295,168 325,198 396,165 442,178 480,162 589,202 662,170 662,129 618,129 583,102 466,121 379,100 333,127 276,127 243,103 203,133 165,112 100,133"/>
+                <Baseline points="113,159 139,158 166,157 193,157 220,157 247,157 273,157 300,157 327,157 354,157 381,157 407,157 434,157 461,157 488,157 515,157 541,157 568,157 595,155 622,155 649,155"/>
+                <TextEquiv>
+                    <Unicode>fahren für Fringe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fahren für Fringe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

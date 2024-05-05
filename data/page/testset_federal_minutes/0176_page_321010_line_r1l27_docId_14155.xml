@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:29.322+02:00</Created>
+        <LastChange>2020-11-15T20:35:11.918+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746116" pageNr="120" tsid="49318737" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RLHZTHILPPJXMAJMBUUKJZHJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EIIEUMGOXPXDOLGFDNYBJAOA" imageId="14361296"/>
+    </Metadata>
+    <Page imageFilename="0176_page_321010_line_r1l27_docId_14155.jpg" imageWidth="2155" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426132103" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2155,0 2155,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1647,231 1847,180 2055,232 2055,155 1917,119 100,122"/>
+                <Baseline points="112,182 208,184 305,185 401,185 498,185 595,185 691,185 788,185 884,184 981,184 1078,184 1174,182 1271,182 1367,182 1464,182 1561,181 1657,182 1754,182 1850,182 1947,184 2044,185"/>
+                <TextEquiv>
+                    <Unicode>Leute mehrere Stunden lang die Kugeln um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Leute mehrere Stunden lang die Kugeln um</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

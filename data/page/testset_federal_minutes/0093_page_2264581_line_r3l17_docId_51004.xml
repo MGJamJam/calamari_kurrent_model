@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:50.845+02:00</Created>
+        <LastChange>2020-08-22T07:35:43.087+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745530" pageNr="83" tsid="37715246" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YQUBZLJJDBXZMQWCWRPCFECU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTJWXKCEINIBQJGPLDOODFHP" imageId="14360710"/>
+    </Metadata>
+    <Page imageFilename="0093_page_2264581_line_r3l17_docId_51004.jpg" imageWidth="658" imageHeight="286">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426194589" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 658,0 658,286 0,286"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,171 194,178 218,161 303,186 383,164 558,155 557,118 427,107 408,123 376,100 342,119 268,126 257,115 100,126"/>
+                <Baseline points="115,157 140,156 165,155 190,155 216,155 241,155 266,153 292,153 317,153 342,153 367,153 393,153 418,151 443,151 469,151 494,150 519,149 545,147"/>
+                <TextEquiv>
+                    <Unicode>Wahl des H. Landammann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wahl des H. Landammann</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

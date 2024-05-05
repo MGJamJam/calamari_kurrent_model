@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:45.253+02:00</Created>
+        <LastChange>2020-11-18T17:42:34.271+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744540" pageNr="94" tsid="49319370" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VLVOGXJKYYCXTTDSIMHXAINV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IRJCDSXWUCNVUHJQMUFEGQFS" imageId="14359931"/>
+    </Metadata>
+    <Page imageFilename="0151_page_304745_line_r1l6_docId_13783.jpg" imageWidth="2195" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426421218" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2195,0 2195,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2095,226 2076,112 1893,164 1296,106 1077,173 100,121"/>
+                <Baseline points="114,195 212,197 310,197 409,197 507,199 606,199 704,199 802,199 901,199 999,199 1098,198 1196,197 1294,197 1393,197 1491,197 1590,195 1688,195 1786,195 1885,195 1983,195 2082,195 2114,196"/>
+                <TextEquiv>
+                    <Unicode>Forderungssache gegen den niederländischen General¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Forderungssache gegen den niederländischen General¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

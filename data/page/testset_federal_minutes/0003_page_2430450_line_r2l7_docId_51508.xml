@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:47.880+02:00</Created>
+        <LastChange>2020-08-22T11:28:33.039+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750309" pageNr="3" tsid="37764223" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XFJZZGGXDAHZPKSLCLJRPRQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKUYRUYPBDUWSZSOIWLWOSMJ" imageId="14365467"/>
+    </Metadata>
+    <Page imageFilename="0003_page_2430450_line_r2l7_docId_51508.jpg" imageWidth="2257" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425368090" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2257,0 2257,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,248 2157,186 1995,117 100,114"/>
+                <Baseline points="114,192 215,191 317,190 418,188 520,188 621,186 723,186 824,186 926,186 1027,185 1129,184 1230,184 1332,184 1433,184 1535,183 1636,182 1738,182 1839,182 1941,180 2042,178 2144,178"/>
+                <TextEquiv>
+                    <Unicode>Generalkonsul zur Kenntnis, daß er eine Urlaubsreise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Generalkonsul zur Kenntnis, daß er eine Urlaubsreise</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:48.183+02:00</Created>
+        <LastChange>2020-09-21T15:06:43.803+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750760" pageNr="113" tsid="49309691" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PMTYTNRTJJFXZFUGMRVVMBPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CWGRHQWHRUZOOWCXGNHJSBGQ" imageId="14365918"/>
+    </Metadata>
+    <Page imageFilename="0157_page_2470405_line_r4l14_docId_51514.jpg" imageWidth="2112" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425319848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2112,0 2112,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 659,187 718,248 793,194 1232,196 1615,256 1703,203 1976,216 2012,148 101,140"/>
+                <Baseline points="114,174 208,176 302,178 396,180 490,182 585,183 679,184 773,186 867,188 961,188 1056,190 1150,192 1244,192 1338,194 1432,196 1527,197 1621,198 1715,200 1809,202 1903,204 1998,206"/>
+                <TextEquiv>
+                    <Unicode>binders übrig gebliebenen Betrag von fr. 180,05.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>binders übrig gebliebenen Betrag von fr. 180,05.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

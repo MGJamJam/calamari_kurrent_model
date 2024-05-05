@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:14.160+02:00</Created>
+        <LastChange>2020-08-22T11:17:32.141+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746504" pageNr="64" tsid="37759981" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FMENFMHSBELKYPUGXOHHIPMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVHGBJOBNPQGPXQKOAFKMNWA" imageId="14361684"/>
+    </Metadata>
+    <Page imageFilename="0094_page_381201_line_r1l5_docId_17250.jpg" imageWidth="635" imageHeight="277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425954864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 635,0 635,277 0,277"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,177 225,163 271,177 291,163 411,175 535,165 535,126 462,100 329,100 291,129 221,107 167,122 141,105 100,114"/>
+                <Baseline points="111,155 136,156 162,157 188,159 214,159 239,159 265,159 291,159 317,158 342,157 368,157 394,157 420,157 445,157 471,157 497,157 523,159"/>
+                <TextEquiv>
+                    <Unicode>der Retourbillets.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Retourbillets.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

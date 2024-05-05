@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:44.983+02:00</Created>
+        <LastChange>2020-08-22T11:30:54.335+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750522" pageNr="55" tsid="37764891" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UBQNCJIDTSHWRNHXPRNUMMXG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YIXECPBYVDOKLSYHOERQAYXY" imageId="14365680"/>
+    </Metadata>
+    <Page imageFilename="0080_page_2440831_line_r2l13_docId_51510.jpg" imageWidth="2200" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425375230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2200,0 2200,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 971,204 1180,260 1240,202 2100,194 2039,140 752,158 401,100 100,159"/>
+                <Baseline points="115,197 213,197 312,197 410,199 509,198 608,197 706,197 805,197 903,195 1002,195 1101,195 1199,193 1298,193 1396,191 1495,191 1594,191 1692,189 1791,189 1889,189 1988,189 2087,189"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 49. Sizung vom 331. v. Mts. wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 49. Sizung vom 331. v. Mts. wird</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

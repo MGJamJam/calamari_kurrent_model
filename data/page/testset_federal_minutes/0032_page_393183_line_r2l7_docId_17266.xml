@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:10:34.372+02:00</Created>
+        <LastChange>2020-10-27T08:38:03.237+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748126" pageNr="19" tsid="49304010" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SRZTERBNUOXOIUNELWNPNWST&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ECTCGRRHSPYUQUFFXIELAXLB" imageId="14363306"/>
+    </Metadata>
+    <Page imageFilename="0032_page_393183_line_r2l7_docId_17266.jpg" imageWidth="2309" imageHeight="353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425763704" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2309,0 2309,353 0,353"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 2209,205 2167,131 1661,168 1248,100 100,150"/>
+                <Baseline points="112,197 216,197 320,197 424,197 528,197 633,195 737,195 841,195 945,195 1049,195 1154,195 1258,195 1362,195 1466,195 1570,195 1675,195 1779,195 1883,195 1987,197 2091,197 2196,199"/>
+                <TextEquiv>
+                    <Unicode>strafrechtliche Verfolgung des in Solothurn festgenommenen Na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>strafrechtliche Verfolgung des in Solothurn festgenommenen Na¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

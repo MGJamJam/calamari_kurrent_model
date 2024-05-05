@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:48:37.943+02:00</Created>
+        <LastChange>2020-11-18T17:48:11.801+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744563" pageNr="105" tsid="49319379" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IRBLNSGTJNOJYCVJGPXCMXYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BREVZYGSSNIFNPSNHNXOTGBF" imageId="14359954"/>
+    </Metadata>
+    <Page imageFilename="0167_page_301057_line_r2l20_docId_13779.jpg" imageWidth="1780" imageHeight="373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426422850" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1780,0 1780,373 0,373"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,261 388,214 767,207 866,273 1680,217 1680,148 1332,160 1154,101 859,100 752,166 416,112 101,160"/>
+                <Baseline points="113,204 190,203 268,202 346,204 423,204 501,204 579,206 656,207 734,208 812,210 890,211 967,212 1045,212 1123,212 1200,212 1278,212 1356,210 1433,208 1511,205 1589,201 1667,196"/>
+                <TextEquiv>
+                    <Unicode>An Petenten in Zug z. R., J. Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Petenten in Zug z. R., J. Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

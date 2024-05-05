@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:47:55.238+02:00</Created>
+        <LastChange>2020-08-21T22:06:12.622+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744545" pageNr="97" tsid="37655708" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RZJBBAVFBPYCTKGECPLMAVZR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AZXZWGXASTTOSEXCSGPLOGST" imageId="14359936"/>
+    </Metadata>
+    <Page imageFilename="0154_page_303523_line_r1l14_docId_13780.jpg" imageWidth="506" imageHeight="281">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426421667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 506,0 506,281 0,281"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,171 162,162 207,181 222,166 229,174 268,165 283,178 328,177 357,159 406,168 405,102 344,113 326,105 277,116 265,129 250,117 204,112 184,123 152,111 100,116"/>
+                <Baseline points="112,154 137,156 163,156 188,156 214,156 240,156 265,156 291,154 317,154 342,152 368,152 394,152"/>
+                <TextEquiv>
+                    <Unicode>wirken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wirken.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

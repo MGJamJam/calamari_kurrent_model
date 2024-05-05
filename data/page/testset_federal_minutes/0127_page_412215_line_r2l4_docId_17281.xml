@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:51.914+02:00</Created>
+        <LastChange>2020-08-22T11:25:53.749+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749390" pageNr="61" tsid="37762996" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KTBPBAZIZDTACELXAWMNWXLR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LFUFKKMJOKIXOBAJYQKRYANA" imageId="14364566"/>
+    </Metadata>
+    <Page imageFilename="0127_page_412215_line_r2l4_docId_17281.jpg" imageWidth="342" imageHeight="317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425593829" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 342,0 342,317 0,317"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,210 130,210 144,198 169,217 177,217 190,216 198,208 210,213 223,202 242,201 240,133 205,136 174,107 166,110 155,102 100,101"/>
+                <Baseline points="115,183 143,183 171,181 199,179 227,183"/>
+                <TextEquiv>
+                    <Unicode>die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

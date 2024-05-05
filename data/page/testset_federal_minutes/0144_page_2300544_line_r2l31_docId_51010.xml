@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:11.191+02:00</Created>
+        <LastChange>2020-11-15T18:08:15.204+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746098" pageNr="99" tsid="49318582" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DCGVMCHKFDUXGXFVFDVXCVOU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QJUVJGYVTUTZEWQZWAUURPAB" imageId="14361278"/>
+    </Metadata>
+    <Page imageFilename="0144_page_2300544_line_r2l31_docId_51010.jpg" imageWidth="1956" imageHeight="333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426068836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1956,0 1956,333 0,333"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,229 1820,233 1856,133 101,137"/>
+                <Baseline points="114,176 200,178 286,180 373,180 459,182 546,182 632,184 718,184 805,184 891,184 978,184 1064,186 1150,186 1237,186 1323,186 1410,186 1496,188 1582,188 1669,190 1755,190 1842,192"/>
+                <TextEquiv>
+                    <Unicode>fikation der Botschaft im Sinne der stattgefundenen Berathung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fikation der Botschaft im Sinne der stattgefundenen Berathung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

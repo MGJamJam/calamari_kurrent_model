@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:51:26.305+02:00</Created>
+        <LastChange>2020-08-21T22:14:38.108+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744624" pageNr="56" tsid="37657129" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FLANCKLUUNMVCAHCUMOAKJDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWJEFHGTCZYBRMGDCASNVGXW" imageId="14360015"/>
+    </Metadata>
+    <Page imageFilename="0096_page_308878_line_r2l9_docId_13788.jpg" imageWidth="2290" imageHeight="392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426356154" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2290,0 2290,392 0,392"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 2190,271 2190,174 1887,191 1618,100 1428,166 100,139"/>
+                <Baseline points="114,217 217,219 320,219 423,221 526,221 629,221 732,220 835,219 938,219 1041,217 1145,217 1248,217 1351,215 1454,215 1557,215 1660,213 1763,213 1866,215 1969,215 2072,216 2176,217"/>
+                <TextEquiv>
+                    <Unicode>daß es ebenso unzweifelhaft ist, daß kantonale Bestimmungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>daß es ebenso unzweifelhaft ist, daß kantonale Bestimmungen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

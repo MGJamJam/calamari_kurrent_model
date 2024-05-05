@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:23:16.537+02:00</Created>
+        <LastChange>2020-08-22T11:04:59.157+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745786" pageNr="2" tsid="37755360" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AKUVNLGLCIJOYZOJZIBFDVJG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVJSYGLQDPEGQSQIROQWIGJH" imageId="14360966"/>
+    </Metadata>
+    <Page imageFilename="0002_page_2290313_line_r1l34_docId_51010.jpg" imageWidth="1365" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426055081" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1365,0 1365,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,192 278,222 411,190 463,230 510,192 653,229 733,200 777,231 813,198 983,222 1066,190 1176,230 1265,195 1232,129 1141,150 1109,116 792,110 750,150 704,114 626,149 258,100 100,129"/>
+                <Baseline points="115,173 171,173 228,175 285,175 342,177 399,177 455,178 512,179 569,179 626,181 683,181 739,183 796,183 853,183 910,185 967,185 1023,185 1080,185 1137,185 1194,185 1251,185"/>
+                <TextEquiv>
+                    <Unicode>Mittheilung an H. Gudel kr. Kanzlei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mittheilung an H. Gudel kr. Kanzlei</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

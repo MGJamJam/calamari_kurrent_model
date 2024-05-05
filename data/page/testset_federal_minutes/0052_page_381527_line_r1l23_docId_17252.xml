@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:50.575+02:00</Created>
+        <LastChange>2020-11-09T17:10:57.808+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746958" pageNr="28" tsid="49318200" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EOJCVMNSBMQWWFWSHWROMNDI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILTBTGZKENOUUDEKVGIKKWRS" imageId="14362138"/>
+    </Metadata>
+    <Page imageFilename="0052_page_381527_line_r1l23_docId_17252.jpg" imageWidth="1799" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425892658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1799,0 1799,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,213 1698,240 1699,134 1598,109 1213,171 810,103 101,112"/>
+                <Baseline points="112,189 190,187 269,186 347,186 426,186 505,186 583,187 662,187 741,189 819,189 898,190 977,192 1055,193 1134,193 1213,195 1291,195 1370,196 1449,196 1527,196 1606,195 1685,195"/>
+                <TextEquiv>
+                    <Unicode>Botschaft S. 116. Ziff. 20 ist unter Erhöhung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Botschaft S. 116. Ziff. 20 ist unter Erhöhung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

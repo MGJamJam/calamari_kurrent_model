@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:26.352+02:00</Created>
+        <LastChange>2020-10-06T09:07:21.631+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749893" pageNr="15" tsid="49311541" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HASIMRVWEFDMXOFXHBOZTSFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IORFHPQQFHMKFQLSDLJESKAM" imageId="14365065"/>
+    </Metadata>
+    <Page imageFilename="0028_page_2404486_line_r2l5_docId_51504.jpg" imageWidth="789" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425426544" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 789,0 789,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 154,198 221,241 335,214 388,239 460,198 686,220 689,120 614,167 535,113 399,156 320,149 286,113 232,100 167,139 102,129"/>
+                <Baseline points="113,185 141,186 169,187 197,188 225,189 253,191 281,191 309,191 337,192 365,193 393,193 421,193 449,193 477,195 505,195 533,196 561,197 589,197 617,199 645,201 673,201"/>
+                <TextEquiv>
+                    <Unicode>französisch. Dienst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>französisch. Dienst.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

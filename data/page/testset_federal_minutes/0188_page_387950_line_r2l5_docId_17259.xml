@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:04:09.508+02:00</Created>
+        <LastChange>2020-11-09T08:49:44.917+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747882" pageNr="91" tsid="49318146" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VXPLTWMHTTKKBLGOAFUHRXUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZHEKYAQDGRSTDPOTWJLQPPFI" imageId="14363062"/>
+    </Metadata>
+    <Page imageFilename="0188_page_387950_line_r2l5_docId_17259.jpg" imageWidth="721" imageHeight="326">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425856566" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 721,0 721,326 0,326"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 209,208 276,173 304,196 365,183 395,201 553,186 621,226 621,105 583,103 516,153 425,115 365,145 241,108 193,123 171,100 100,133"/>
+                <Baseline points="113,186 139,184 165,182 191,181 217,180 243,180 269,180 295,180 321,180 347,181 374,182 400,182 426,182 452,183 478,184 504,184 530,183 556,182 582,181 609,178"/>
+                <TextEquiv>
+                    <Unicode>phreist, in Wimmis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>phreist, in Wimmis.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

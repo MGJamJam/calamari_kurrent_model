@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:18.293+02:00</Created>
+        <LastChange>2020-08-22T11:23:59.540+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748259" pageNr="84" tsid="37762288" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JKUAHFVLYZXQUMGIJVWAWYFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFZIMVSFKVSFXGOGYKYNAODD" imageId="14363439"/>
+    </Metadata>
+    <Page imageFilename="0088_page_396065_line_r1l33_docId_17272.jpg" imageWidth="2089" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2089,0 2089,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,255 1989,204 1988,137 1817,105 100,130"/>
+                <Baseline points="114,193 207,193 300,193 393,193 486,193 579,193 672,191 765,191 858,191 951,189 1044,189 1137,189 1230,187 1323,187 1416,187 1509,185 1602,185 1695,185 1788,183 1881,183 1974,183"/>
+                <TextEquiv>
+                    <Unicode>Zum Übersetzer II Klasse des Industriedepartements wird mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zum Übersetzer II Klasse des Industriedepartements wird mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

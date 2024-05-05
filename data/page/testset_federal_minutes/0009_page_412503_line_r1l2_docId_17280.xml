@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:25:31.048+02:00</Created>
+        <LastChange>2020-10-13T20:58:52.912+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748678" pageNr="3" tsid="49315214" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JQQMKJYWJFXHBPJOMKXPSQZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPFJJWGRXAJUUHDUWGPSTTLA" imageId="14363858"/>
+    </Metadata>
+    <Page imageFilename="0009_page_412503_line_r1l2_docId_17280.jpg" imageWidth="649" imageHeight="393">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425625422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 649,0 649,393 0,393"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,293 248,259 309,263 331,282 365,260 445,275 506,260 549,276 546,100 429,118 332,186 214,135 143,160 100,150"/>
+                <Baseline points="116,252 142,250 168,248 194,247 221,246 247,246 273,246 299,247 326,248 352,248 378,248 404,248 431,247 457,246 483,243 509,241 536,238"/>
+                <TextEquiv>
+                    <Unicode>Vormerk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vormerk.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

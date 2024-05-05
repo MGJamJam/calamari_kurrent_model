@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:13.146+02:00</Created>
+        <LastChange>2020-08-22T11:23:43.752+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749414" pageNr="31" tsid="37762199" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QJRAXZVAJURULFKJSQMPLEAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIEDFITGLDCAUBCAKNJWWPYG" imageId="14364590"/>
+    </Metadata>
+    <Page imageFilename="0036_page_2302928_line_r1l24_docId_51013.jpg" imageWidth="1150" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425541552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1150,0 1150,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 146,237 191,194 440,180 514,212 868,196 915,230 962,189 1049,188 1050,146 858,108 688,148 101,111"/>
+                <Baseline points="113,174 159,172 205,172 251,172 297,172 344,173 390,174 436,174 482,174 528,176 575,176 621,178 667,178 713,180 759,180 806,180 852,180 898,180 944,180 990,180 1037,180"/>
+                <TextEquiv>
+                    <Unicode>Wahltatelle sammt Beilagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wahltatelle sammt Beilagen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

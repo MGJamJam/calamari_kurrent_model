@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:54:39.073+02:00</Created>
+        <LastChange>2020-08-22T11:17:58.913+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747474" pageNr="53" tsid="37760165" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VVOHMYZYHCRKVXUWYPXFJKYD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XSCNBZPZENDYSMDUFTRDBRAO" imageId="14362654"/>
+    </Metadata>
+    <Page imageFilename="0107_page_390199_line_r1l5_docId_17260.jpg" imageWidth="639" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425851290" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 639,0 639,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,250 170,232 201,262 228,248 253,259 319,213 431,212 451,228 473,208 495,222 539,213 537,119 507,131 400,121 334,150 295,131 254,143 193,100 100,115"/>
+                <Baseline points="116,198 141,201 167,204 192,205 218,206 243,206 269,206 294,206 320,204 345,203 371,202 396,201 422,200 447,199 473,198 498,198 524,198"/>
+                <TextEquiv>
+                    <Unicode>Postgebäude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Postgebäude</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

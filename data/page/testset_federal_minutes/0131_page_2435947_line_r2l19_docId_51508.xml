@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:40.773+02:00</Created>
+        <LastChange>2020-10-06T08:04:40.961+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750674" pageNr="93" tsid="49310783" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FMUNJJKJIYOPWSJHKORPUYBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SLWGSJJZEDDTXFSJOQDOMELW" imageId="14365832"/>
+    </Metadata>
+    <Page imageFilename="0131_page_2435947_line_r2l19_docId_51508.jpg" imageWidth="2376" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425380536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2376,0 2376,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1890,260 2275,222 2276,125 2159,178 1438,118 1298,177 101,100"/>
+                <Baseline points="114,187 221,190 328,191 435,193 543,195 650,197 757,197 865,199 972,199 1079,201 1187,201 1294,203 1401,203 1508,205 1616,205 1723,207 1830,209 1938,209 2045,211 2152,213 2260,215"/>
+                <TextEquiv>
+                    <Unicode>tionäre vom 20. Juni 1876 revidirten Art. 38 § 45 der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tionäre vom 20. Juni 1876 revidirten Art. 38 § 45 der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

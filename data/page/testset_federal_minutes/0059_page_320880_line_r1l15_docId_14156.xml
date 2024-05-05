@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:06.914+02:00</Created>
+        <LastChange>2020-08-22T07:35:02.605+02:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18745605" pageNr="44" tsid="37715119" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LHOIOBIQWGLFSAPHQGMXQHKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUYUBGXVHCVZSRNFDMXDNXOW" imageId="14360785"/>
+    </Metadata>
+    <Page imageFilename="0059_page_320880_line_r1l15_docId_14156.jpg" imageWidth="1018" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426120986" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1018,0 1018,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 167,241 229,213 371,222 396,245 616,195 918,204 918,137 786,149 681,100 557,151 240,110 160,141 101,117"/>
+                <Baseline points="114,184 153,183 193,182 232,182 272,182 312,182 351,182 391,182 430,182 470,183 510,184 549,184 589,184 628,186 668,186 708,186 747,186 787,186 826,186 866,184 906,184"/>
+                <TextEquiv>
+                    <Unicode>Zolldirektion Basel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zolldirektion Basel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

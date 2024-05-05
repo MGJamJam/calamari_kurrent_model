@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:00:39.727+02:00</Created>
+        <LastChange>2020-11-17T08:03:43.027+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744768" pageNr="106" tsid="49319281" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZFVXUYDVDDOTISBQGPWRNYEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZAPZPWRWCUVWPZCDCIRIUKP" imageId="14360159"/>
+    </Metadata>
+    <Page imageFilename="0172_page_307317_line_r1l20_docId_13786.jpg" imageWidth="1896" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426362947" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1896,0 1896,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,202 332,187 435,255 560,187 802,186 878,240 1000,186 1359,257 1544,185 1606,227 1796,186 1744,100 1651,152 1391,101 1276,151 1154,106 704,154 100,111"/>
+                <Baseline points="114,175 197,176 281,177 364,178 448,179 531,179 615,179 698,181 782,181 865,181 949,181 1032,181 1116,181 1199,181 1283,181 1366,181 1450,181 1533,181 1617,181 1700,181 1784,183"/>
+                <TextEquiv>
+                    <Unicode>Am 22. Januar brachte mehrere Zeitungen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am 22. Januar brachte mehrere Zeitungen des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

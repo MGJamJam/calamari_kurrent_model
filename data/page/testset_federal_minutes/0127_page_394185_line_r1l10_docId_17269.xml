@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:17:47.266+02:00</Created>
+        <LastChange>2020-08-22T11:25:05.432+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748394" pageNr="122" tsid="37762698" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OQTNYFFZLKXKPXHEEDADYQSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EROJPUSQEXLSJBYHGOTIPHBO" imageId="14363574"/>
+    </Metadata>
+    <Page imageFilename="0127_page_394185_line_r1l10_docId_17269.jpg" imageWidth="684" imageHeight="292">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425721702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 684,0 684,292 0,292"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,179 133,167 200,184 240,167 290,187 318,167 374,187 427,170 522,192 547,172 584,189 584,113 497,133 433,108 363,136 295,120 262,142 217,120 178,131 147,100 100,109"/>
+                <Baseline points="114,159 139,159 164,159 190,160 215,161 240,161 266,159 291,159 316,159 342,159 367,161 392,159 418,159 443,159 468,159 494,159 519,159 544,159 570,159"/>
+                <TextEquiv>
+                    <Unicode>fungen. Kredit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fungen. Kredit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

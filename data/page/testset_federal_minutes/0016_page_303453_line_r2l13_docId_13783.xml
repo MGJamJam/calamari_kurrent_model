@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:40:24.474+02:00</Created>
+        <LastChange>2020-11-18T15:43:37.036+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744335" pageNr="9" tsid="49319306" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GLXHVLPUTKUGGPTHGCDSAHTS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UZVISZWNVVKRJWJBPLSDTYHK" imageId="14359730"/>
+    </Metadata>
+    <Page imageFilename="0016_page_303453_line_r2l13_docId_13783.jpg" imageWidth="1947" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426409293" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1947,0 1947,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 305,264 474,208 1847,209 1785,143 1455,117 1317,161 963,100 771,161 100,108"/>
+                <Baseline points="114,192 200,194 286,194 372,194 458,194 544,194 630,194 716,194 802,194 888,194 974,192 1060,192 1146,192 1232,192 1318,192 1404,192 1490,192 1576,192 1662,193 1748,194 1862,194"/>
+                <TextEquiv>
+                    <Unicode>Die Inhaber der am 18. Dezember 1884 für eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Inhaber der am 18. Dezember 1884 für eine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

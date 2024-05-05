@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:37:55.525+02:00</Created>
+        <LastChange>2020-08-22T11:26:52.741+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749230" pageNr="74" tsid="37763375" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HNSENVVILUROWGPINBJVLBFO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SXXCFPLPUMHAOVEEECFRWEJJ" imageId="14364406"/>
+    </Metadata>
+    <Page imageFilename="0177_page_401544_line_r2l28_docId_17276.jpg" imageWidth="2363" imageHeight="382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425635787" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2363,0 2363,382 0,382"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,271 350,207 584,275 839,211 913,276 1077,210 1549,271 2263,211 2262,112 2131,173 1862,106 1774,169 1519,101 1071,100 959,169 100,142"/>
+                <Baseline points="114,204 220,204 327,204 434,204 540,204 647,202 754,202 860,202 967,202 1074,200 1181,200 1287,200 1394,198 1501,198 1607,198 1714,198 1821,198 1927,198 2034,198 2141,198 2248,198"/>
+                <TextEquiv>
+                    <Unicode>Sicherstellung eines zur Vollendung und Ausrichst¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sicherstellung eines zur Vollendung und Ausrichst¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

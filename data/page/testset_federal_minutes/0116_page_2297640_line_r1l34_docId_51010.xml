@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:14.172+02:00</Created>
+        <LastChange>2020-11-15T17:58:55.868+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746039" pageNr="77" tsid="49318567" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KDABDQWWFKRAZDWXWZKMKOWV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WHBICPYYVIUZMSRJTKUYITRW" imageId="14361219"/>
+    </Metadata>
+    <Page imageFilename="0116_page_2297640_line_r1l34_docId_51010.jpg" imageWidth="1018" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426065935" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1018,0 1018,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 583,186 658,225 893,195 918,143 741,109 556,141 501,100 459,141 343,141 288,102 227,146 100,148"/>
+                <Baseline points="115,181 154,179 194,179 233,179 273,179 312,179 352,179 391,179 431,179 470,179 510,179 549,179 589,179 628,179 668,181 707,181 747,181 786,181 826,182 865,183 905,183 930,183"/>
+                <TextEquiv>
+                    <Unicode>in Roment aufzuheben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Roment aufzuheben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:02.560+02:00</Created>
+        <LastChange>2020-11-16T07:42:03.857+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745468" pageNr="62" tsid="49318794" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IEBZXDKOXYOCKFUSOSSZDXCV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDWDJEIYVMHKCZKRQFJAOYJG" imageId="14360652"/>
+    </Metadata>
+    <Page imageFilename="0071_page_2252151_line_r2l2_docId_51004.jpg" imageWidth="2107" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426191594" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2107,0 2107,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 1945,229 2007,124 100,134"/>
+                <Baseline points="114,186 208,184 302,184 396,184 490,184 584,184 678,184 772,184 866,184 960,184 1054,186 1148,186 1242,186 1336,185 1430,184 1524,184 1618,182 1712,180 1806,178 1900,174 1994,170 2040,173"/>
+                <TextEquiv>
+                    <Unicode>Auf den Antrag des politischen Departements wird verfügt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf den Antrag des politischen Departements wird verfügt,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

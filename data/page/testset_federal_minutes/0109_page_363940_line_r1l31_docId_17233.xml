@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:48.531+02:00</Created>
+        <LastChange>2020-08-22T11:17:07.533+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746593" pageNr="64" tsid="37759820" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=AMBEIGEVFKDVAFKTQEYGIGPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMGDTWIDXZXWIMYLBLZYBLHM" imageId="14361773"/>
+    </Metadata>
+    <Page imageFilename="0109_page_363940_line_r1l31_docId_17233.jpg" imageWidth="1991" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426007043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1991,0 1991,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 1891,211 1829,149 1141,100 984,172 859,108 504,163 100,128"/>
+                <Baseline points="112,193 200,192 288,192 377,190 465,190 554,190 642,189 730,189 819,189 907,189 996,189 1084,189 1172,189 1261,189 1349,189 1438,189 1526,189 1614,189 1703,189 1791,190 1880,190"/>
+                <TextEquiv>
+                    <Unicode>Bundeskanzlei wird Herr Paul Scholer, von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bundeskanzlei wird Herr Paul Scholer, von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

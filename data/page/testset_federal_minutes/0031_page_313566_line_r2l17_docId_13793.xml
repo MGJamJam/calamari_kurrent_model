@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:55:47.108+02:00</Created>
+        <LastChange>2020-08-22T07:33:16.627+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744683" pageNr="21" tsid="37714801" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NWQXMXUPPPHMEJBEFCPLWQDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLYHSIBKRMHWSSJXOTSKWMMY" imageId="14360074"/>
+    </Metadata>
+    <Page imageFilename="0031_page_313566_line_r2l17_docId_13793.jpg" imageWidth="1873" imageHeight="370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426293828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1873,0 1873,370 0,370"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 603,270 944,203 1480,246 1773,222 1773,101 1580,165 1313,101 1111,162 100,110"/>
+                <Baseline points="112,192 194,194 277,194 359,194 442,194 524,194 607,194 689,194 772,194 854,192 937,192 1019,192 1102,192 1184,192 1267,192 1349,192 1432,192 1514,194 1597,194 1679,196 1762,198"/>
+                <TextEquiv>
+                    <Unicode>Aktuariat: Herr Kanzler Ringier und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aktuariat: Herr Kanzler Ringier und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

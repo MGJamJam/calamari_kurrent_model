@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:09.463+02:00</Created>
+        <LastChange>2020-11-16T10:48:56.408+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745321" pageNr="101" tsid="49318992" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YKMOAYGWFTKPGXSLYORHIEVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYZVHWRGCRBIYIVMGVZXCROC" imageId="14360505"/>
+    </Metadata>
+    <Page imageFilename="0180_page_375705_line_r1l23_docId_17239.jpg" imageWidth="1854" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252155" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1854,0 1854,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 1386,177 1522,240 1754,220 1718,100 599,148 100,105"/>
+                <Baseline points="112,185 193,185 275,185 356,185 438,185 519,185 601,185 682,183 764,183 845,183 927,183 1008,183 1090,183 1171,183 1253,183 1334,183 1416,184 1497,185 1579,185 1660,186 1742,188"/>
+                <TextEquiv>
+                    <Unicode>Die Oberzolldirektion hat nun ein Gesuch des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Oberzolldirektion hat nun ein Gesuch des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

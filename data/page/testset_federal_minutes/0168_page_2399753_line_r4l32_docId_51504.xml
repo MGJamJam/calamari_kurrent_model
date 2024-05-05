@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:07.131+02:00</Created>
+        <LastChange>2020-10-06T11:02:29.481+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750271" pageNr="108" tsid="49311849" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EELBICAHZYMMDIZSBUOOQPAD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGJSWKTEUPLLDPWSOHUZFRGG" imageId="14365429"/>
+    </Metadata>
+    <Page imageFilename="0168_page_2399753_line_r4l32_docId_51504.jpg" imageWidth="2349" imageHeight="322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425439762" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2349,0 2349,322 0,322"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 2249,220 2249,105 100,132"/>
+                <Baseline points="114,175 220,175 326,174 432,173 538,173 644,173 750,173 856,173 962,171 1068,171 1174,171 1280,171 1386,171 1492,171 1598,171 1704,173 1810,173 1916,173 2022,175 2128,175 2234,177 2260,178"/>
+                <TextEquiv>
+                    <Unicode>ten in Berlin vom 21. v. Mts. auch bereits vom Reichs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ten in Berlin vom 21. v. Mts. auch bereits vom Reichs¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

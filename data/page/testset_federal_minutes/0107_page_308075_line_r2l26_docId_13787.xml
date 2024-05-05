@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:52:59.708+02:00</Created>
+        <LastChange>2020-08-21T22:14:59.282+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744644" pageNr="63" tsid="37657183" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ROJXGMYXIRGTGEJNVSFRNOYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWCJNFOQBQNBDBBTJJTVUGCW" imageId="14360035"/>
+    </Metadata>
+    <Page imageFilename="0107_page_308075_line_r2l26_docId_13787.jpg" imageWidth="2088" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426357333" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2088,0 2088,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,194 1988,227 1988,138 1825,114 1750,164 1597,113 1183,162 101,112"/>
+                <Baseline points="112,177 205,178 298,179 391,180 484,182 578,182 671,183 764,183 857,185 950,185 1044,186 1137,186 1230,186 1323,188 1416,188 1510,188 1603,189 1696,189 1789,189 1882,191 1976,191"/>
+                <TextEquiv>
+                    <Unicode>Unterhandlungen anzunehmen, sofern die schwedische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unterhandlungen anzunehmen, sofern die schwedische</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

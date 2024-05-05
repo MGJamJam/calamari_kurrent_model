@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:09.336+02:00</Created>
+        <LastChange>2020-11-16T07:30:22.940+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745416" pageNr="39" tsid="49318776" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PMFRTFGBUEZDPPDGAYJIEIEY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BLCVJDXRUWXWMLJRSXIQELAI" imageId="14360600"/>
+    </Metadata>
+    <Page imageFilename="0046_page_2267623_line_r3l31_docId_51004.jpg" imageWidth="1032" imageHeight="300">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426188283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1032,0 1032,300 0,300"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,169 179,200 229,168 416,194 448,162 785,187 824,161 932,161 932,100 850,124 152,105 100,129"/>
+                <Baseline points="114,157 154,155 194,155 234,155 274,153 315,153 355,153 395,153 435,153 475,153 516,153 556,153 596,153 636,153 676,153 717,153 757,153 797,153 837,153 877,151 918,151"/>
+                <TextEquiv>
+                    <Unicode>eidgenössischen Wahlkreises.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>eidgenössischen Wahlkreises.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

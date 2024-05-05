@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:43:44.684+02:00</Created>
+        <LastChange>2020-08-22T11:15:16.834+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18746953" pageNr="8" tsid="37758957" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FOGHEMTIGRXOKKSVIMOKOFJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDJDADETVBEPUGXLEDGTTGWB" imageId="14362133"/>
+    </Metadata>
+    <Page imageFilename="0009_page_385363_line_r1l6_docId_17258.jpg" imageWidth="2265" imageHeight="391">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425844822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2265,0 2265,391 0,391"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,214 427,217 517,291 700,221 1468,207 1627,278 1731,214 2068,276 2165,230 2164,156 2011,100 1435,182 1309,116 1200,176 1133,125 481,184 307,108 100,170"/>
+                <Baseline points="114,207 215,207 317,208 419,209 521,209 623,209 725,209 827,207 929,207 1031,207 1133,206 1234,205 1336,205 1438,203 1540,203 1642,202 1744,201 1846,201 1948,201 2050,201 2152,201"/>
+                <TextEquiv>
+                    <Unicode>1247) nachgesucht, aber bei der Zusendung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1247) nachgesucht, aber bei der Zusendung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

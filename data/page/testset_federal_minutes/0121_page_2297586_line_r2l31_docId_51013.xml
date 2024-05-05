@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:07.797+02:00</Created>
+        <LastChange>2020-10-11T21:23:02.016+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749606" pageNr="91" tsid="49313683" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NMHJZSXYAFHRLMIOLWAYRYNG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDZCWUTEQUDQEXUDQGEQTASZ" imageId="14364782"/>
+    </Metadata>
+    <Page imageFilename="0121_page_2297586_line_r2l31_docId_51013.jpg" imageWidth="2312" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425549977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2312,0 2312,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,196 2212,213 2212,104 100,126"/>
+                <Baseline points="114,187 218,189 322,189 426,189 530,189 635,189 739,189 843,189 947,189 1051,189 1156,189 1260,189 1364,189 1468,189 1572,189 1677,189 1781,189 1885,189 1989,189 2093,189 2198,189 2227,187"/>
+                <TextEquiv>
+                    <Unicode>Bezugnehmend auf herwärtiges vom 12. Dezember 1859 /: P. No 5228,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bezugnehmend auf herwärtiges vom 12. Dezember 1859 /: P. No 5228,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

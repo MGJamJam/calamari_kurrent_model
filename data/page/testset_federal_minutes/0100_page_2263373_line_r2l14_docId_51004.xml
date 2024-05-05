@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:05.208+02:00</Created>
+        <LastChange>2020-11-16T07:53:20.528+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745545" pageNr="88" tsid="49318812" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FUAOSECVAWMTFFZNPVBBOCIL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TWYMEUQBYRVOSPTMGOGLIKHB" imageId="14360725"/>
+    </Metadata>
+    <Page imageFilename="0100_page_2263373_line_r2l14_docId_51004.jpg" imageWidth="1986" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426195211" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1986,0 1986,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,205 1886,163 1885,109 1387,100 100,141"/>
+                <Baseline points="115,184 202,184 290,186 378,186 466,185 554,184 642,182 730,181 818,180 906,178 994,174 1081,172 1169,170 1257,168 1345,166 1433,164 1521,162 1609,160 1697,158 1785,158 1873,158"/>
+                <TextEquiv>
+                    <Unicode>Das Reinfürstlich hessische Ministerium ersucht mit Note vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Reinfürstlich hessische Ministerium ersucht mit Note vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

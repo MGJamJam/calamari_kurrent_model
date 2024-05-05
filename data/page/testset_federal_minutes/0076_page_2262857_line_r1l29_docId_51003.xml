@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:13.150+02:00</Created>
+        <LastChange>2020-11-16T07:44:08.225+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745481" pageNr="67" tsid="49318796" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DIURMXAXUHKPHVGFMEPZPPPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RRSSVGCAAMETYGURAHEBJFOH" imageId="14360665"/>
+    </Metadata>
+    <Page imageFilename="0076_page_2262857_line_r1l29_docId_51003.jpg" imageWidth="1996" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426192338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1996,0 1996,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1086,204 1245,252 1896,204 1821,118 100,142"/>
+                <Baseline points="114,187 202,189 290,189 379,191 467,193 556,193 644,195 732,195 821,195 909,197 998,197 1086,197 1174,197 1263,197 1351,197 1440,197 1528,197 1616,195 1705,195 1793,194 1882,193 1895,193"/>
+                <TextEquiv>
+                    <Unicode>An Bern. – An die österreichische Gesandtschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Bern. – An die österreichische Gesandtschaft.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

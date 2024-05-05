@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:53:06.696+02:00</Created>
+        <LastChange>2020-08-22T11:15:50.508+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747369" pageNr="4" tsid="37759209" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VKGSZEOATLIFBFOCAQMVTFCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQNCNJFRATQRBGSNZUFFJHTO" imageId="14362549"/>
+    </Metadata>
+    <Page imageFilename="0013_page_410635_line_r1l6_docId_17280.jpg" imageWidth="2299" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425799183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2299,0 2299,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,220 218,271 318,209 2043,211 2199,264 2198,147 1871,102 100,169"/>
+                <Baseline points="114,199 217,199 321,199 424,199 528,197 632,197 735,197 839,197 942,195 1046,195 1150,195 1253,195 1357,194 1460,193 1564,193 1668,193 1771,193 1875,193 1978,193 2082,193 2186,193"/>
+                <TextEquiv>
+                    <Unicode>tessiner Polizeidirektion wird diesem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tessiner Polizeidirektion wird diesem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

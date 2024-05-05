@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:38:37.733+02:00</Created>
+        <LastChange>2020-11-12T07:43:21.060+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746697" pageNr="82" tsid="49318476" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QFZJYYFTGDSHSKODYEITIBHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YEHZXOMNETQVQSLYGYKKWZFI" imageId="14361877"/>
+    </Metadata>
+    <Page imageFilename="0141_page_365828_line_r1l2_docId_17233.jpg" imageWidth="2039" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426009470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2039,0 2039,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1939,202 1939,136 1702,101 1535,155 1093,118 1034,169 819,100 662,164 492,104 100,131"/>
+                <Baseline points="112,195 202,195 293,195 384,195 475,195 565,195 656,195 747,195 838,194 928,194 1019,194 1110,194 1201,194 1291,194 1382,194 1473,194 1564,195 1654,197 1745,197 1836,200 1927,201"/>
+                <TextEquiv>
+                    <Unicode>in die Stationen boote und Levières revidirten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in die Stationen boote und Levières revidirten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

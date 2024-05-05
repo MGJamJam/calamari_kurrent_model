@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:11:17.189+02:00</Created>
+        <LastChange>2020-11-16T10:33:20.934+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745238" pageNr="74" tsid="49318955" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IEZBNITXAVOTNPTWIBKSWFPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TFCXUKYZSMNNDIHPKZYOXICE" imageId="14360422"/>
+    </Metadata>
+    <Page imageFilename="0129_page_374213_line_r1l8_docId_17244.jpg" imageWidth="2103" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426248527" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2103,0 2103,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 1783,206 1925,260 2003,154 1814,105 1503,169 1058,112 101,142"/>
+                <Baseline points="113,186 206,186 300,186 394,186 488,186 582,186 675,188 769,188 863,189 957,190 1051,190 1144,192 1238,193 1332,194 1426,196 1520,196 1613,198 1707,200 1801,200 1895,202 1989,204 2018,207"/>
+                <TextEquiv>
+                    <Unicode>gehandem Maße auf Beschaffung inländischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehandem Maße auf Beschaffung inländischer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:48.673+02:00</Created>
+        <LastChange>2020-08-22T11:21:59.103+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748022" pageNr="21" tsid="37761648" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BFMEJXYMRETCTUIDNVSLYNKY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KQKFWMTPIRRFMONRQZTHMCDQ" imageId="14363202"/>
+    </Metadata>
+    <Page imageFilename="0021_page_402012_line_r2l29_docId_17273.jpg" imageWidth="599" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425708093" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 599,0 599,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 170,203 209,191 252,223 283,198 317,209 361,179 415,193 444,173 498,171 499,122 471,127 435,110 406,125 349,122 319,100 230,135 172,105 132,122 102,116"/>
+                <Baseline points="113,158 139,158 166,160 192,160 219,161 246,161 272,163 299,164 326,164 352,166 379,166 406,166 432,165 459,164 486,163"/>
+                <TextEquiv>
+                    <Unicode>gehülfen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehülfen in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

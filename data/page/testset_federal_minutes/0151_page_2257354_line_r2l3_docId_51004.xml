@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:50.220+02:00</Created>
+        <LastChange>2020-08-22T07:37:22.802+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745650" pageNr="131" tsid="37715554" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HSPPYNTMZWHAGBJGKXIVFZET&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JCFDIZIJUTMUPZZHPWYAANSP" imageId="14360830"/>
+    </Metadata>
+    <Page imageFilename="0151_page_2257354_line_r2l3_docId_51004.jpg" imageWidth="2324" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426201178" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,165 2224,180 2198,108 100,125"/>
+                <Baseline points="114,152 218,154 323,154 428,156 533,156 638,156 742,158 847,158 952,158 1057,158 1162,158 1266,158 1371,160 1476,160 1581,160 1686,161 1790,162 1895,164 2000,164 2105,166 2210,168"/>
+                <TextEquiv>
+                    <Unicode>nach später einmal bei zufällig sich ergebendem schiklichem Anlasse bes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nach später einmal bei zufällig sich ergebendem schiklichem Anlasse bes¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

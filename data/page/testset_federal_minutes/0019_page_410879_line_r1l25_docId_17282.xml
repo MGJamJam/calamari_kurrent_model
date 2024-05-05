@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:48.956+02:00</Created>
+        <LastChange>2020-08-22T11:22:39.261+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749065" pageNr="11" tsid="37761837" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IKYUBUTSTVPFHUIEMFYIHFLV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MHDTQHLZBABILEBGDIHWRWYV" imageId="14364241"/>
+    </Metadata>
+    <Page imageFilename="0019_page_410879_line_r1l25_docId_17282.jpg" imageWidth="2423" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425586801" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2423,0 2423,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,252 2106,245 2323,208 2323,103 1342,175 100,114"/>
+                <Baseline points="114,197 223,197 333,197 443,197 552,197 662,197 772,197 881,197 991,197 1101,197 1211,197 1320,197 1430,197 1540,197 1649,197 1759,197 1869,195 1978,195 2088,195 2198,195 2308,193"/>
+                <TextEquiv>
+                    <Unicode>Schiffahrt auf dem Lemansee, wo die Verhältnisse ähnlich sind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schiffahrt auf dem Lemansee, wo die Verhältnisse ähnlich sind,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

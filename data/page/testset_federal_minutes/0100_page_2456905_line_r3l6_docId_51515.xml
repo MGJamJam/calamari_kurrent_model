@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:30:57.127+02:00</Created>
+        <LastChange>2020-09-28T09:41:53.814+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519065" pageNr="73" tsid="49307510" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RJJGHGYZMZZZWDENCTUGTJDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQEMIDYFKCVAXPMRSNOFNJGR" imageId="15085998"/>
+    </Metadata>
+    <Page imageFilename="0100_page_2456905_line_r3l6_docId_51515.jpg" imageWidth="2195" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425246505" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2195,0 2195,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,209 385,252 736,198 851,257 1087,188 1858,228 2095,178 1827,100 1345,161 1258,115 100,149 101,209"/>
+                <Baseline points="114,198 212,200 310,200 409,200 507,200 606,198 704,198 802,196 901,194 999,192 1098,191 1196,190 1294,188 1393,186 1491,184 1590,183 1688,182 1786,182 1885,180 1983,180 2082,182"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="130,159 130,219 262,219 262,159"/>
+                    <TextEquiv>
+                        <Unicode>Mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="312,160 312,220 557,220 557,160"/>
+                    <TextEquiv>
+                        <Unicode>Depesche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="608,158 608,218 689,218 689,158"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="750,156 750,216 801,216 801,156"/>
+                    <TextEquiv>
+                        <Unicode>7.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="821,152 821,212 1086,212 1086,152"/>
+                    <TextEquiv>
+                        <Unicode>Dezember</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1127,150 1127,210 1198,210 1198,150"/>
+                    <TextEquiv>
+                        <Unicode>a.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1219,148 1219,208 1289,208 1289,148"/>
+                    <TextEquiv>
+                        <Unicode>p.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1320,144 1320,204 1606,204 1606,144"/>
+                    <TextEquiv>
+                        <Unicode>übermacht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1646,142 1646,202 1727,202 1727,142"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1768,140 1768,200 1961,200 1961,140"/>
+                    <TextEquiv>
+                        <Unicode>Konsŭl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2002,140 2002,200 2053,200 2053,140"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mit Depesche vom 7. Dezember a. p. übermacht der Konsul in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit Depesche vom 7. Dezember a. p. übermacht der Konsul in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

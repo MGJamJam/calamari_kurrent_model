@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:59:41.828+02:00</Created>
+        <LastChange>2020-08-22T11:33:17.105+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750751" pageNr="112" tsid="37765578" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NMNTZTVFOOBLTHFVCSJRDSJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EUPCUDOJFXCZPYFPAGQZWUHR" imageId="14365909"/>
+    </Metadata>
+    <Page imageFilename="0158_page_2423740_line_r2l4_docId_51506.jpg" imageWidth="727" imageHeight="320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425383155" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 727,0 727,320 0,320"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,177 181,167 289,205 331,173 445,172 492,220 519,220 576,174 626,175 627,125 515,134 482,100 412,138 368,109 232,132 101,124"/>
+                <Baseline points="115,154 141,155 167,157 193,158 219,160 245,161 271,163 297,164 323,164 349,165 376,166 402,166 428,166 454,166 480,166 506,165 532,164 558,164 584,162 611,160"/>
+                <TextEquiv>
+                    <Unicode>matischen Corps.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>matischen Corps.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

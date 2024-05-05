@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:14.230+02:00</Created>
+        <LastChange>2020-09-28T10:51:57.959+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519137" pageNr="128" tsid="49307720" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LBMTARYCNFMQFTUMTFQENPTV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIPWRRPBWNVWDZSMMGFSPBKZ" imageId="15086070"/>
+    </Metadata>
+    <Page imageFilename="0172_page_2457239_line_r1l17_docId_51515.jpg" imageWidth="779" imageHeight="308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425254948" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 779,0 779,308 0,308"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,206 238,199 314,160 336,182 388,174 417,201 679,178 677,120 499,135 471,111 439,131 416,110 100,105 104,206"/>
+                <Baseline points="118,190 145,184 172,180 199,177 227,175 254,172 281,170 309,168 336,168 363,168 391,167 418,166 445,166 472,166 500,166 527,166 554,166 582,166 609,164 636,164 664,162"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="181,136 181,196 237,196 237,136"/>
+                    <TextEquiv>
+                        <Unicode>5.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="246,129 246,189 328,189 328,129"/>
+                    <TextEquiv>
+                        <Unicode>Juli</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="357,128 357,188 366,188 366,128"/>
+                    <TextEquiv>
+                        <Unicode>v</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="393,126 393,186 559,186 559,126"/>
+                    <TextEquiv>
+                        <Unicode>elargu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="587,124 587,184 642,184 642,124"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>5. Juli v Raislarge von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5. Juli v Raislarge von</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

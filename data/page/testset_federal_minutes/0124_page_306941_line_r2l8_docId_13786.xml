@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:55:25.343+02:00</Created>
+        <LastChange>2020-11-17T07:38:31.856+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744676" pageNr="74" tsid="49319243" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SZHBNCLHPPISQGRDAZMKMYBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TOPTDELMMHPRHJAGYQDMQTKI" imageId="14360067"/>
+    </Metadata>
+    <Page imageFilename="0124_page_306941_line_r2l8_docId_13786.jpg" imageWidth="2042" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426358725" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2042,0 2042,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,222 1942,201 1921,108 1704,156 1590,103 1501,154 100,111"/>
+                <Baseline points="112,180 202,182 293,182 384,182 475,184 566,184 657,184 748,184 839,184 930,184 1021,184 1111,182 1202,182 1293,182 1384,182 1475,182 1566,180 1657,180 1748,180 1839,180 1930,178"/>
+                <TextEquiv>
+                    <Unicode>Air das Direktorium der Schweizer. Centralbahn als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Air das Direktorium der Schweizer. Centralbahn als</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

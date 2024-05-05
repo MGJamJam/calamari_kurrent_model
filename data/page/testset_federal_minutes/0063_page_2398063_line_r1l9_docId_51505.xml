@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:36.123+02:00</Created>
+        <LastChange>2020-10-06T09:58:54.306+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749987" pageNr="36" tsid="49311607" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MIFADIIZTBOXWFHTCFJSGOTR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMBWKERWGDIZKHROSQZKKSEU" imageId="14365159"/>
+    </Metadata>
+    <Page imageFilename="0063_page_2398063_line_r1l9_docId_51505.jpg" imageWidth="2331" imageHeight="396">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425429492" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2331,0 2331,396 0,396"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,248 451,232 536,296 668,229 2021,234 2181,295 2231,118 1993,185 101,181"/>
+                <Baseline points="120,221 224,221 329,221 433,221 538,221 643,222 747,223 852,223 956,223 1061,225 1166,225 1270,225 1375,227 1479,227 1584,227 1689,227 1793,227 1898,227 2002,227 2107,227 2212,227"/>
+                <TextEquiv>
+                    <Unicode>2. Kenntnisgabe von vorstehender Verfügung an den Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Kenntnisgabe von vorstehender Verfügung an den Ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

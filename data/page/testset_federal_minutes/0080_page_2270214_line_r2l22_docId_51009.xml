@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:00.425+02:00</Created>
+        <LastChange>2020-11-15T17:47:06.206+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745956" pageNr="53" tsid="49318546" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KZQZGAFBKBDQLHXELCWEKFRF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCWSNMYNHDPHBMGXCMDJVRUU" imageId="14361136"/>
+    </Metadata>
+    <Page imageFilename="0080_page_2270214_line_r2l22_docId_51009.jpg" imageWidth="2171" imageHeight="323">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426062602" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2171,0 2171,323 0,323"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,176 2070,215 2071,122 100,130"/>
+                <Baseline points="116,166 213,168 310,168 407,170 504,172 601,172 698,174 795,174 892,174 989,176 1086,176 1183,176 1280,176 1377,178 1474,178 1571,178 1668,178 1765,180 1862,180 1959,180 2056,182"/>
+                <TextEquiv>
+                    <Unicode>das Departement legt den Entwurf eines Preisschreibens an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das Departement legt den Entwurf eines Preisschreibens an die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:58:31.334+02:00</Created>
+        <LastChange>2020-11-17T07:52:59.437+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744729" pageNr="91" tsid="49319264" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DGNLPDRPYOUSRGNRLUFBNNPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDLXXTQNMNOJGBMBJNJNUSVU" imageId="14360120"/>
+    </Metadata>
+    <Page imageFilename="0151_page_309847_line_r1l6_docId_13789.jpg" imageWidth="2174" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426360881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2174,0 2174,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 355,259 641,204 989,251 2074,209 1900,112 1652,162 1294,159 1225,102 1135,157 822,100 666,167 100,123"/>
+                <Baseline points="112,192 209,192 307,192 404,192 502,192 599,192 697,190 794,190 892,190 989,190 1087,190 1184,190 1282,190 1379,190 1477,190 1574,190 1672,190 1769,190 1867,192 1964,192 2062,194"/>
+                <TextEquiv>
+                    <Unicode>lokalen 9, Anständen bei frühern Braunverträgen 2, Nicht¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lokalen 9, Anständen bei frühern Braunverträgen 2, Nicht¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

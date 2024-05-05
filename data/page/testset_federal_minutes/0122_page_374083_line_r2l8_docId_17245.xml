@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:36:40.513+02:00</Created>
+        <LastChange>2020-11-10T08:11:53.065+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746585" pageNr="81" tsid="49318332" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CNKVERYKFBOCMDALEGYNVJTQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVORFSMWZZBKIKFJMALLNJVR" imageId="14361765"/>
+    </Metadata>
+    <Page imageFilename="0122_page_374083_line_r2l8_docId_17245.jpg" imageWidth="1629" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425957283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1629,0 1629,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 310,186 1334,226 1529,201 1529,149 1097,114 628,159 418,100 366,152 100,157"/>
+                <Baseline points="113,184 183,182 253,182 323,180 393,180 464,180 534,180 604,180 674,180 744,180 815,180 885,180 955,180 1025,180 1095,180 1166,180 1236,180 1306,180 1376,182 1446,182 1517,182 1539,188"/>
+                <TextEquiv>
+                    <Unicode>net von Loele wegen Unterschlagung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>net von Loele wegen Unterschlagung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:23:58.341+02:00</Created>
+        <LastChange>2020-08-22T11:26:58.142+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748623" pageNr="190" tsid="37763418" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NHHPQOTZKUTMRBVFHTWDDCKT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLOCPYPUXDBBSJBLXDQGXALI" imageId="14363803"/>
+    </Metadata>
+    <Page imageFilename="0195_page_397439_line_r1l18_docId_17272.jpg" imageWidth="2239" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425730681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2239,0 2239,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 2123,242 2139,117 476,157 201,100 100,155"/>
+                <Baseline points="115,191 215,191 316,193 416,193 517,193 618,195 718,195 819,195 919,193 1020,193 1121,193 1221,193 1322,193 1422,191 1523,191 1624,191 1724,191 1825,191 1925,191 2026,191 2127,193"/>
+                <TextEquiv>
+                    <Unicode>daβ seine Besoldung auf Fr. 6500 bestimmt bleibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>daβ seine Besoldung auf Fr. 6500 bestimmt bleibt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

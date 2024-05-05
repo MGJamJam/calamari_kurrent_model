@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:06:33.573+02:00</Created>
+        <LastChange>2020-11-16T15:56:24.322+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744904" pageNr="81" tsid="49319095" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XYQXZYBBRTMEQYWVWNAFFCUD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCGJXYUFFOKZJIXQHTLOWJXU" imageId="14360295"/>
+    </Metadata>
+    <Page imageFilename="0122_page_310883_line_r1l5_docId_13792.jpg" imageWidth="1975" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426302036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1975,0 1975,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,237 1875,211 1874,125 658,166 100,120"/>
+                <Baseline points="112,196 199,196 287,194 374,194 462,193 549,191 637,190 724,188 812,187 899,185 987,184 1074,182 1162,181 1249,181 1337,179 1424,178 1512,176 1599,175 1687,175 1774,173 1862,173"/>
+                <TextEquiv>
+                    <Unicode>Zuschrift vom 29. v. Monats mit, daß die Beschwerde des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zuschrift vom 29. v. Monats mit, daß die Beschwerde des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

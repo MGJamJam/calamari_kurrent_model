@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:28:53.620+02:00</Created>
+        <LastChange>2020-08-22T11:10:27.213+02:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746145" pageNr="112" tsid="37757176" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PMPCGDZARQUEYDHPGINUZUQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSDBJITENDDMTJXWWOSDKYOA" imageId="14361325"/>
+    </Metadata>
+    <Page imageFilename="0165_page_2298432_line_r1l6_docId_51010.jpg" imageWidth="2345" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426070789" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2345,0 2345,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,187 2027,221 2245,181 2245,124 100,134"/>
+                <Baseline points="118,171 223,173 329,173 434,173 540,173 645,173 751,173 856,173 962,173 1067,173 1173,173 1278,173 1384,173 1489,173 1595,173 1700,173 1806,173 1911,173 2017,173 2122,173 2228,173"/>
+                <TextEquiv>
+                    <Unicode>im Anwendung des Art 4. des Besoldungsgesetzes vom 2. Aug. 1853.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>im Anwendung des Art 4. des Besoldungsgesetzes vom 2. Aug. 1853.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

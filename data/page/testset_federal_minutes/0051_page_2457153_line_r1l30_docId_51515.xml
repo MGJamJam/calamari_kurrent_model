@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:24.522+02:00</Created>
+        <LastChange>2020-09-28T09:01:40.394+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519016" pageNr="41" tsid="49307326" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UGNPNNIZZIRNBAXGMBRSKGBP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BKUVCYFYJPWAAWAEYPCVPDKE" imageId="15085949"/>
+    </Metadata>
+    <Page imageFilename="0051_page_2457153_line_r1l30_docId_51515.jpg" imageWidth="2378" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425241457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2378,0 2378,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,244 2278,194 2072,108 101,137 100,244"/>
+                <Baseline points="115,183 222,183 330,183 437,183 545,183 652,183 760,183 867,183 975,185 1082,185 1190,185 1297,185 1405,185 1512,185 1620,185 1727,185 1835,185 1942,187 2050,187 2157,187 2265,187"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="119,143 119,203 228,203 228,143"/>
+                    <TextEquiv>
+                        <Unicode>1859</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="267,143 267,203 547,203 547,143"/>
+                    <TextEquiv>
+                        <Unicode>zugestellt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="596,143 596,203 795,203 795,143"/>
+                    <TextEquiv>
+                        <Unicode>worden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="844,144 844,204 1053,204 1053,144"/>
+                    <TextEquiv>
+                        <Unicode>waren.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1094,145 1094,205 1362,205 1362,145"/>
+                    <TextEquiv>
+                        <Unicode>Beigefügt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1402,145 1402,205 1441,205 1441,145"/>
+                    <TextEquiv>
+                        <Unicode>ist</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1471,145 1471,205 1541,205 1541,145"/>
+                    <TextEquiv>
+                        <Unicode>ein</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1581,145 1581,205 1809,205 1809,145"/>
+                    <TextEquiv>
+                        <Unicode>Schreiben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1849,146 1849,206 1929,206 1929,146"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1959,147 1959,207 2276,207 2276,147"/>
+                    <TextEquiv>
+                        <Unicode>Bürgerme-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1859 zugestellt worden waren. Beigefügt ist ein Schreiben des Bürgermei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1859 zugestellt worden waren. Beigefügt ist ein Schreiben des Bürgermei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

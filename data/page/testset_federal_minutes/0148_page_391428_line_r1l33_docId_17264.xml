@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:26:10.603+02:00</Created>
+        <LastChange>2020-08-22T11:20:34.434+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748703" pageNr="79" tsid="37761253" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DPOFYTDVBIPQHNFPJKVMZENT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJHDESQLERAAUTMVUIFDOMSF" imageId="14363883"/>
+    </Metadata>
+    <Page imageFilename="0148_page_391428_line_r1l33_docId_17264.jpg" imageWidth="2160" imageHeight="371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425772129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2160,0 2160,371 0,371"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,230 2060,220 2059,155 1937,113 100,144"/>
+                <Baseline points="115,198 211,198 308,200 404,200 501,200 597,198 694,198 790,196 887,196 983,194 1080,192 1176,190 1273,190 1369,188 1466,186 1562,184 1659,184 1755,184 1852,184 1948,184 2045,184"/>
+                <TextEquiv>
+                    <Unicode>Der Sekretär der belgischen Gesandtschaft in Bern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Sekretär der belgischen Gesandtschaft in Bern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

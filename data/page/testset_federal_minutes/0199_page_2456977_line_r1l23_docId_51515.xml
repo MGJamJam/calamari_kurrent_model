@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:34:02.715+02:00</Created>
+        <LastChange>2020-09-22T15:27:55.636+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519164" pageNr="146" tsid="49307797" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WQPKHESROUJVMDIFURQJLXSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZVZJTKOVRCSLMUHLEERYTOPP" imageId="15086097"/>
+    </Metadata>
+    <Page imageFilename="0199_page_2456977_line_r1l23_docId_51515.jpg" imageWidth="801" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425257525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 801,0 801,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,213 226,203 289,227 350,202 406,220 437,199 616,193 672,214 701,200 698,102 559,126 540,147 442,130 361,162 341,144 198,155 145,121 100,129 103,213"/>
+                <Baseline points="117,198 145,198 173,198 202,197 230,196 259,196 287,195 315,194 344,193 372,192 401,190 429,190 457,188 486,188 514,186 543,186 571,184 599,184 628,182 656,182 685,180"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="112,156 112,216 400,216 400,156"/>
+                    <TextEquiv>
+                        <Unicode>Heimathschein</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="437,148 437,208 498,208 498,148"/>
+                    <TextEquiv>
+                        <Unicode>für</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="528,143 528,203 680,203 680,143"/>
+                    <TextEquiv>
+                        <Unicode>Michel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Heimathschein für Michel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

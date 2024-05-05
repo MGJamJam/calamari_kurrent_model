@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:15.299+02:00</Created>
+        <LastChange>2020-10-27T08:06:43.760+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748412" pageNr="127" tsid="49315905" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JKRLHLEJIQVTJATEUVBCHXUF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUMZOFIGHFXBPMGKWBLBHJTT" imageId="14363592"/>
+    </Metadata>
+    <Page imageFilename="0132_page_394846_line_r1l14_docId_17269.jpg" imageWidth="2411" imageHeight="362">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722389" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2411,0 2411,362 0,362"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,249 2310,246 2311,143 101,114"/>
+                <Baseline points="114,201 223,201 332,201 441,201 550,201 659,203 768,203 877,205 986,205 1095,207 1205,209 1314,209 1423,211 1532,212 1641,213 1750,215 1859,215 1968,215 2077,217 2186,217 2296,215"/>
+                <TextEquiv>
+                    <Unicode>3.) Eugène Ruclin, auf Frankreich, in Carouge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3.) Eugène Ruclin, auf Frankreich, in Carouge.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

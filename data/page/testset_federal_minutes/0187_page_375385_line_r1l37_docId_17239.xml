@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:14:32.152+02:00</Created>
+        <LastChange>2020-11-16T10:50:43.402+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745333" pageNr="104" tsid="49318997" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ILSYHZJBAYQGQAPTIXQENLJL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQHYCMCSZWGUBJEADANCLLLA" imageId="14360517"/>
+    </Metadata>
+    <Page imageFilename="0187_page_375385_line_r1l37_docId_17239.jpg" imageWidth="2090" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426252573" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2090,0 2090,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 677,235 866,184 1529,249 1891,232 1990,158 102,114"/>
+                <Baseline points="112,173 205,172 298,172 391,173 484,173 578,175 671,178 764,179 857,182 950,184 1044,187 1137,190 1230,193 1323,194 1416,197 1510,199 1603,200 1696,200 1789,200 1882,200 1976,199"/>
+                <TextEquiv>
+                    <Unicode>für die vorliegende Bahnfektion zutreffend, aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>für die vorliegende Bahnfektion zutreffend, aus-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

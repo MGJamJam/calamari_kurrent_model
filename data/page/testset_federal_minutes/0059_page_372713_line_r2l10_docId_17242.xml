@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:13.404+02:00</Created>
+        <LastChange>2020-11-16T10:05:48.883+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744922" pageNr="33" tsid="49318904" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UZRLAOIDRNVXCFVKLHYXSJXZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEDABMKLZOPKKAUCJPGEZMBU" imageId="14360313"/>
+    </Metadata>
+    <Page imageFilename="0059_page_372713_line_r2l10_docId_17242.jpg" imageWidth="2090" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426242765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2090,0 2090,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 1703,193 1989,259 1990,149 100,116"/>
+                <Baseline points="113,186 206,186 299,186 392,186 485,186 579,186 672,186 765,186 858,187 951,188 1045,188 1138,188 1231,188 1324,190 1417,190 1511,190 1604,192 1697,192 1790,192 1883,194 1977,194"/>
+                <TextEquiv>
+                    <Unicode>strator das Centralamtes mit Fr. 3600 Jahresbesoldung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>strator das Centralamtes mit Fr. 3600 Jahresbesoldung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

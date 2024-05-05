@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:40:50.879+02:00</Created>
+        <LastChange>2020-08-22T11:19:24.138+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746819" pageNr="104" tsid="37760826" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WHJAYIQFYLXNKXLRRPXKUQLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MQEIJMZHULMZSUGYLOUZJWMZ" imageId="14361999"/>
+    </Metadata>
+    <Page imageFilename="0180_page_367603_line_r1l36_docId_17235.jpg" imageWidth="2019" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426012481" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2019,0 2019,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,225 1919,212 1919,131 1738,100 1646,152 1538,104 1419,153 100,125"/>
+                <Baseline points="111,183 200,185 290,187 380,187 470,187 560,187 649,187 739,185 829,185 919,183 1009,182 1098,181 1188,179 1278,179 1368,179 1458,179 1547,179 1637,179 1727,181 1817,183 1907,185"/>
+                <TextEquiv>
+                    <Unicode>2. Man ist ferner darüber einverstanden, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2. Man ist ferner darüber einverstanden, </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

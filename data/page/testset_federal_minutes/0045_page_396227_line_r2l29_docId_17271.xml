@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:50.831+02:00</Created>
+        <LastChange>2020-08-22T11:22:39.557+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748099" pageNr="43" tsid="37761839" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LXPCAKOJVZYWNQQMGUAGHLCL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SHXUJBJGIPRDWKFDBPUUWCVB" imageId="14363279"/>
+    </Metadata>
+    <Page imageFilename="0045_page_396227_line_r2l29_docId_17271.jpg" imageWidth="2340" imageHeight="366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425711322" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2340,0 2340,366 0,366"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,222 2240,228 2240,136 2033,108 100,132"/>
+                <Baseline points="113,193 218,193 324,193 429,193 535,193 641,193 746,193 852,195 957,195 1063,195 1169,195 1274,195 1380,195 1485,195 1591,195 1697,195 1802,193 1908,193 2013,191 2119,189 2225,187"/>
+                <TextEquiv>
+                    <Unicode>der Schweiz beziehungsweise im Kanton Bern ablegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Schweiz beziehungsweise im Kanton Bern ablegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

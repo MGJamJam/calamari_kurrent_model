@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:00.196+02:00</Created>
+        <LastChange>2020-11-10T08:27:21.570+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746718" pageNr="111" tsid="49318353" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=APHWCYNXQUYIYXVJZJCTJEPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FYTXOUPBBTGUVWIYWUIRIEUG" imageId="14361898"/>
+    </Metadata>
+    <Page imageFilename="0169_page_381394_line_r1l3_docId_17249.jpg" imageWidth="2094" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425961899" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2094,0 2094,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,211 1644,190 1993,250 1946,119 101,112"/>
+                <Baseline points="113,169 206,169 299,171 393,171 486,172 580,173 673,173 766,175 860,175 953,175 1047,175 1140,177 1233,177 1327,177 1420,177 1514,177 1607,177 1700,179 1794,179 1887,179 1981,177"/>
+                <TextEquiv>
+                    <Unicode>tement zum Vollzug und ans Finanzdepartement zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tement zum Vollzug und ans Finanzdepartement zur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

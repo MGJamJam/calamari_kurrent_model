@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:35.620+02:00</Created>
+        <LastChange>2020-08-22T11:15:57.876+02:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746466" pageNr="44" tsid="37759272" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KJCYUIDXMWNLRIRLTVDBPERN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJUBZKNJSLDMPGXWFKYGSGNE" imageId="14361646"/>
+    </Metadata>
+    <Page imageFilename="0070_page_368967_line_r1l2_docId_17235.jpg" imageWidth="688" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426004430" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 688,0 688,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,266 137,268 230,205 273,210 317,251 371,205 517,203 588,232 588,169 451,161 405,118 315,127 254,100 203,139 157,112 101,122"/>
+                <Baseline points="113,202 138,200 164,199 190,197 215,196 241,196 267,196 292,196 318,196 344,196 369,196 395,196 421,197 446,198 472,198 498,198 523,199 549,200 575,200"/>
+                <TextEquiv>
+                    <Unicode>stattfinden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stattfinden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

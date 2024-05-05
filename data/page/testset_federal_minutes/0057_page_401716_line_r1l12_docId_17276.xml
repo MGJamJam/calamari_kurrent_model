@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:29:20.903+02:00</Created>
+        <LastChange>2020-10-13T21:22:25.803+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748836" pageNr="26" tsid="49315281" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LHGDTBHPTOHIPLLHUXRPDZEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFCBXLQWJTWBROVTXPLLQYZX" imageId="14364012"/>
+    </Metadata>
+    <Page imageFilename="0057_page_401716_line_r1l12_docId_17276.jpg" imageWidth="2342" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425628725" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2342,0 2342,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,215 1407,263 1502,204 2107,236 2242,150 1535,100 100,157"/>
+                <Baseline points="114,195 219,195 325,195 431,195 536,193 642,193 748,193 853,191 959,191 1065,191 1171,189 1276,189 1382,188 1488,187 1593,187 1699,187 1805,185 1910,185 2016,185 2122,185 2228,185 2252,184"/>
+                <TextEquiv>
+                    <Unicode>tät beurteilt jeder Staat ausschließlich nach seinem eige¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tät beurteilt jeder Staat ausschließlich nach seinem eige¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

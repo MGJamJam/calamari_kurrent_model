@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:09:53.492+02:00</Created>
+        <LastChange>2020-11-16T10:22:12.599+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744996" pageNr="58" tsid="49318939" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YUIBRWAERMWGWWNFTHXUEWUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTEEYLSBAHASRPPHLNYVPFJO" imageId="14360387"/>
+    </Metadata>
+    <Page imageFilename="0105_page_373907_line_r2l11_docId_17243.jpg" imageWidth="2118" imageHeight="381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426246093" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2118,0 2118,381 0,381"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 1688,209 2018,281 1986,135 100,145"/>
+                <Baseline points="112,193 206,195 301,197 396,198 490,199 585,199 680,199 774,201 869,201 964,199 1059,199 1153,199 1248,199 1343,199 1437,199 1532,199 1627,201 1721,201 1816,203 1911,204 2006,207 2029,207"/>
+                <TextEquiv>
+                    <Unicode>Das Protokoll der 64. Sitzŭng vom 8. d. Mts. wird verlesen und genehmig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Protokoll der 64. Sitzŭng vom 8. d. Mts. wird verlesen und genehmig.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

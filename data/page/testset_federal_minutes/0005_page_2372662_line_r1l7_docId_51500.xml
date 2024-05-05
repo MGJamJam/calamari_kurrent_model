@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:45:50.413+02:00</Created>
+        <LastChange>2020-08-22T11:23:04.111+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749711" pageNr="3" tsid="37761967" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZBMRDTHTQQQTRTTKDCDSSEHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYVMVQBRXRIISISLBPYUMIZD" imageId="14364887"/>
+    </Metadata>
+    <Page imageFilename="0005_page_2372662_line_r1l7_docId_51500.jpg" imageWidth="748" imageHeight="305">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425479515" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 748,0 748,305 0,305"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,174 182,166 320,199 382,185 401,205 540,184 579,195 647,173 648,109 484,130 450,101 408,135 368,134 335,100 284,125 100,112"/>
+                <Baseline points="114,156 140,156 166,155 192,154 218,154 244,154 270,154 296,156 322,156 348,156 374,157 400,158 426,158 452,159 478,160 504,160 530,160 556,158 582,158 608,156 634,156"/>
+                <TextEquiv>
+                    <Unicode>Unterstüzungsgesuch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unterstüzungsgesuch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

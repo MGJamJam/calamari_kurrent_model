@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:31.043+02:00</Created>
+        <LastChange>2020-11-16T08:16:15.314+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745632" pageNr="122" tsid="49318835" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KETKDXOLNBIHRBYYWGDAPCBE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDXQLJIJCXZKUOIGPXDYYXPX" imageId="14360812"/>
+    </Metadata>
+    <Page imageFilename="0142_page_2263582_line_r1l34_docId_51004.jpg" imageWidth="1990" imageHeight="314">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199823" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1990,0 1990,314 0,314"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,206 1890,175 1890,114 100,125"/>
+                <Baseline points="114,169 202,167 290,167 378,167 466,165 555,165 643,163 731,163 819,163 907,161 996,161 1084,161 1172,159 1260,159 1348,159 1437,159 1525,159 1613,159 1701,159 1789,159 1878,159 1919,159"/>
+                <TextEquiv>
+                    <Unicode>Der Ständerath macht mit Schreiben vom 26. ds die An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Ständerath macht mit Schreiben vom 26. ds die An¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

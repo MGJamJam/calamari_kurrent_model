@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:16:46.669+02:00</Created>
+        <LastChange>2020-08-22T07:33:55.335+02:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745399" pageNr="29" tsid="37714913" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SYMBQTNLDHCGUABINPLNKUVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZFZYQCOMADKTUSTGXIZQRGU" imageId="14360583"/>
+    </Metadata>
+    <Page imageFilename="0035_page_2261622_line_r1l2_docId_51002.jpg" imageWidth="2322" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426186941" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2322,0 2322,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 2222,258 2222,168 2088,100 1966,187 1119,117 100,159"/>
+                <Baseline points="113,217 217,215 322,213 427,211 532,211 637,209 741,209 846,207 951,207 1056,207 1161,207 1265,207 1370,207 1475,209 1580,209 1685,209 1789,209 1894,211 1999,211 2104,211 2209,213"/>
+                <TextEquiv>
+                    <Unicode>Confession in der Gesetzgebung den Bürgern des eigenen Kantons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Confession in der Gesetzgebung den Bürgern des eigenen Kantons</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

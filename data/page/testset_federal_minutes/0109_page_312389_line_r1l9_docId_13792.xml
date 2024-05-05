@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:07.736+02:00</Created>
+        <LastChange>2020-11-16T14:39:05.572+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744867" pageNr="71" tsid="49319085" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YLZNRRRWRZFJFIWVMUWWMTFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JQQIZLVINDQXKMRQFOSMIMCH" imageId="14360258"/>
+    </Metadata>
+    <Page imageFilename="0109_page_312389_line_r1l9_docId_13792.jpg" imageWidth="2061" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426300635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2061,0 2061,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,204 387,180 753,262 1170,222 1267,274 1398,213 1924,237 1961,155 101,127"/>
+                <Baseline points="116,190 207,190 298,190 390,190 481,190 573,190 664,192 755,194 847,195 938,196 1030,198 1121,200 1212,200 1304,202 1395,204 1487,204 1578,206 1669,206 1761,206 1852,206 1944,206"/>
+                <TextEquiv>
+                    <Unicode>he Kind Victor Chartes Tschanz, geboren am 1. Mai 1888 in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>he Kind Victor Chartes Tschanz, geboren am 1. Mai 1888 in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

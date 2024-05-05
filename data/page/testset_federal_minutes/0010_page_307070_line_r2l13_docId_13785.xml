@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:41:27.216+02:00</Created>
+        <LastChange>2020-11-17T06:57:15.614+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744362" pageNr="8" tsid="49319170" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NUMWFEGMTYFZQXQVKIWLEYZG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFYWXDRENCTEWVFOPBSIZFAN" imageId="14359757"/>
+    </Metadata>
+    <Page imageFilename="0010_page_307070_line_r2l13_docId_13785.jpg" imageWidth="2233" imageHeight="341">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426349434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2233,0 2233,341 0,341"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 1922,185 2115,241 2133,120 100,140"/>
+                <Baseline points="112,181 212,179 312,177 413,175 513,173 614,173 714,171 814,171 915,171 1015,171 1116,172 1216,173 1316,173 1417,173 1517,174 1618,175 1718,175 1818,175 1919,175 2019,173 2120,173 2159,175"/>
+                <TextEquiv>
+                    <Unicode>gehalt von fr. 1500.- Herr Otto Burkhardt, von Hutt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehalt von fr. 1500.- Herr Otto Burkhardt, von Hutt¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

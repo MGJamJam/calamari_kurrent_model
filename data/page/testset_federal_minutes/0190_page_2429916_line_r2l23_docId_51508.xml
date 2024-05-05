@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:50.479+02:00</Created>
+        <LastChange>2020-10-06T08:36:18.358+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750842" pageNr="134" tsid="49310873" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XOAPFRAACSBVVAHHJCCFWXEZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXKOOHQKYGRYLKSLAEMYZIMV" imageId="14366000"/>
+    </Metadata>
+    <Page imageFilename="0190_page_2429916_line_r2l23_docId_51508.jpg" imageWidth="2360" imageHeight="379">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425386241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2360,0 2360,379 0,379"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 1314,253 1741,196 2257,279 2260,111 1872,172 101,130"/>
+                <Baseline points="114,171 220,173 327,175 433,175 540,177 646,179 753,181 859,183 966,185 1072,187 1179,189 1285,191 1392,193 1498,195 1605,195 1711,197 1818,199 1924,200 2031,201 2137,203 2244,203"/>
+                <TextEquiv>
+                    <Unicode>Mittheilung der Vorstellung, die er zufolge Auftrags vom 12. Februar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mittheilung der Vorstellung, die er zufolge Auftrags vom 12. Februar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

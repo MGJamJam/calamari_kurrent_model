@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:38.483+02:00</Created>
+        <LastChange>2020-11-10T08:01:58.266+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746526" pageNr="68" tsid="49318321" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=REDGPLOTDUGFLIODTYDBPANX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXOEHZWESVKJTRJUTGADAQBU" imageId="14361706"/>
+    </Metadata>
+    <Page imageFilename="0102_page_377735_line_r3l11_docId_17247.jpg" imageWidth="1907" imageHeight="342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425955496" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1907,0 1907,342 0,342"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 1807,215 1542,105 1447,163 1139,118 996,173 101,116"/>
+                <Baseline points="112,172 196,180 280,184 364,188 448,192 533,194 617,195 701,196 785,196 869,196 954,194 1038,194 1122,192 1206,192 1290,190 1375,190 1459,190 1543,190 1627,190 1711,192 1796,196"/>
+                <TextEquiv>
+                    <Unicode>Laut einem vom waadtländischen Staats¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Laut einem vom waadtländischen Staats¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

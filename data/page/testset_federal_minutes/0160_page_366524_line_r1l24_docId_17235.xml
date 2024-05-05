@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:42.347+02:00</Created>
+        <LastChange>2020-11-12T07:48:31.731+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746758" pageNr="95" tsid="49318485" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UHDQZCKUMHARQKUZCYNNZUIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCXBGDXJAIIJNGFZKPHLRCKL" imageId="14361938"/>
+    </Metadata>
+    <Page imageFilename="0160_page_366524_line_r1l24_docId_17235.jpg" imageWidth="2209" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426011325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2209,0 2209,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 2053,257 2109,130 100,180"/>
+                <Baseline points="112,211 211,213 310,215 409,215 508,215 608,217 707,215 806,215 905,215 1004,215 1104,213 1203,213 1302,211 1401,211 1500,211 1600,211 1699,211 1798,213 1897,214 1996,217 2096,219"/>
+                <TextEquiv>
+                    <Unicode>es wird für die Vollendung sämtlicher Entsumpfungs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>es wird für die Vollendung sämtlicher Entsumpfungs¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

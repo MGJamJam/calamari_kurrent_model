@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:58:49.557+02:00</Created>
+        <LastChange>2020-08-21T22:16:37.842+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744735" pageNr="94" tsid="37657461" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UECJRPVSJAVFJRZSYRSPREPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFISHMNBJNICVLEBHTWADHCJ" imageId="14360126"/>
+    </Metadata>
+    <Page imageFilename="0155_page_309916_line_r3l28_docId_13788.jpg" imageWidth="2230" imageHeight="369">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426361250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2230,0 2230,369 0,369"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,269 184,208 2130,244 2130,158 1965,127 100,134"/>
+                <Baseline points="114,195 214,197 314,197 414,197 514,197 615,197 715,197 815,197 915,197 1015,197 1116,197 1216,197 1316,197 1416,197 1516,197 1617,195 1717,195 1817,195 1917,195 2017,195 2118,195"/>
+                <TextEquiv>
+                    <Unicode>gung eingereicht und diese Vorlage später durch Einsendungs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gung eingereicht und diese Vorlage später durch Einsendungs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

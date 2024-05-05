@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:36:56.876+02:00</Created>
+        <LastChange>2020-08-22T11:23:49.545+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749179" pageNr="31" tsid="37762238" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EFYTKQYGSBLEWYFCFXVBGXHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZTSUWEWJTIRLXODOAZMDOSA" imageId="14364355"/>
+    </Metadata>
+    <Page imageFilename="0057_page_410589_line_r1l27_docId_17281.jpg" imageWidth="882" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425589621" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 882,0 882,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,221 362,209 445,246 477,216 623,210 765,234 781,102 609,121 574,100 542,133 415,163 334,101 267,129 100,127"/>
+                <Baseline points="115,199 147,201 180,201 212,201 245,202 278,202 310,201 343,201 375,201 408,201 441,201 473,199 506,199 538,199 571,199 604,199 636,198 669,199 701,199 734,199 767,199"/>
+                <TextEquiv>
+                    <Unicode>Ins Bundesblatt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ins Bundesblatt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:24.173+02:00</Created>
+        <LastChange>2020-09-21T09:52:00.745+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750573" pageNr="61" tsid="49309394" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SZDPORFBBNUWGRYYDDTOOOJL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PYCPGPCZFFEINPESKZSUBWOG" imageId="14365731"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2441836_line_r1l20_docId_51512.jpg" imageWidth="2292" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425312434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2292,0 2292,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,167 1489,178 1561,234 1633,179 2228,187 1940,101 100,127"/>
+                <Baseline points="114,161 217,161 320,163 423,163 526,163 630,165 733,165 836,167 939,167 1042,167 1146,169 1249,169 1352,169 1455,171 1558,171 1662,173 1765,173 1868,174 1971,175 2114,187 2218,187"/>
+                <TextEquiv>
+                    <Unicode>ner (NNo. 316) erstattet die Regierung von Bern un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ner (NNo. 316) erstattet die Regierung von Bern un¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:56:45.096+02:00</Created>
+        <LastChange>2020-08-22T11:17:49.637+02:00</LastChange>
+        <TranskribusMetadata docId="457238" pageId="18747570" pageNr="26" tsid="37760100" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NUBTGDRCQUSSEVHIWZMLIZMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZRZUFFONEGDEUEUZAFGQUBCX" imageId="14362750"/>
+    </Metadata>
+    <Page imageFilename="0077_page_407277_line_r2l8_docId_17277.jpg" imageWidth="653" imageHeight="378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425802216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 653,0 653,378 0,378"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="103,262 249,278 295,233 337,248 443,224 515,241 553,227 551,114 453,174 326,138 290,147 217,100 196,117 168,103 138,126 100,127"/>
+                <Baseline points="116,224 142,226 169,226 195,226 222,226 248,226 275,226 301,224 328,224 354,222 381,222 407,220 434,220 460,218 487,218 513,218 540,220"/>
+                <TextEquiv>
+                    <Unicode>Beschwerde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beschwerde</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

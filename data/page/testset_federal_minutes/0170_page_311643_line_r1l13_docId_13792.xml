@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:11:57.292+02:00</Created>
+        <LastChange>2020-08-22T07:37:27.115+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18745256" pageNr="111" tsid="37715568" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BSOJRYXZYBFSNZHVNFMFTTTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HSCPURYCUMAABTZGBLPXDEJV" imageId="14360440"/>
+    </Metadata>
+    <Page imageFilename="0170_page_311643_line_r1l13_docId_13792.jpg" imageWidth="412" imageHeight="309">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426306096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 412,0 412,309 0,309"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,167 145,177 188,209 210,208 253,173 308,176 312,124 262,108 214,117 200,104 164,104 156,111 104,100"/>
+                <Baseline points="113,149 139,151 165,153 191,154 217,156 243,158 269,160 296,161"/>
+                <TextEquiv>
+                    <Unicode>28. Juli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>28. Juli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

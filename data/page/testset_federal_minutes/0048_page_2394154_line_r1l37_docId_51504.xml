@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:05.901+02:00</Created>
+        <LastChange>2020-08-22T11:24:44.237+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749949" pageNr="27" tsid="37762570" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GRQSLMAVQAROQSXUTXEKMYUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FMXRWECKQKTGQHMOBANPYRQN" imageId="14365121"/>
+    </Metadata>
+    <Page imageFilename="0048_page_2394154_line_r1l37_docId_51504.jpg" imageWidth="2323" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425428248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2323,0 2323,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 299,237 1451,190 1549,244 2192,196 2223,109 100,138"/>
+                <Baseline points="115,181 219,181 324,181 429,181 533,181 638,183 743,183 847,183 952,183 1057,183 1162,184 1266,185 1371,185 1476,185 1580,185 1685,185 1790,186 1894,187 1999,187 2104,187 2209,187"/>
+                <TextEquiv>
+                    <Unicode>tung zu nehmen und dieselbe ad acta zu legen, da die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tung zu nehmen und dieselbe ad acta zu legen, da die</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:57.552+02:00</Created>
+        <LastChange>2020-10-06T07:23:36.329+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750458" pageNr="41" tsid="49310662" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XCGERIYXCQIUIATCMHOOMCNA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVDEUNWZABFOBTNTVSTWIPFL" imageId="14365616"/>
+    </Metadata>
+    <Page imageFilename="0060_page_2422660_line_r2l31_docId_51507.jpg" imageWidth="2228" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425373274" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2228,0 2228,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,186 1909,227 2127,192 2128,119 101,108"/>
+                <Baseline points="113,171 213,173 313,173 413,175 513,175 613,175 713,175 813,177 913,177 1013,177 1113,177 1213,177 1313,177 1413,177 1513,179 1613,179 1713,181 1813,181 1913,183 2013,185 2113,187"/>
+                <TextEquiv>
+                    <Unicode>Jerr. befindlichen Chr. A. Lantheaume, behufs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jerr. befindlichen Chr. A. Lantheaume, behufs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

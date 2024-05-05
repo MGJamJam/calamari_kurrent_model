@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:56.502+02:00</Created>
+        <LastChange>2020-09-21T14:40:16.302+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750695" pageNr="93" tsid="49309569" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YEICDMIHHZUXFSLVZHFAECTE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KALUGISSAEHVEWABUYJSNANY" imageId="14365853"/>
+    </Metadata>
+    <Page imageFilename="0131_page_2445184_line_r2l31_docId_51511.jpg" imageWidth="2206" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425316957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2206,0 2206,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,234 1500,185 1705,245 2106,136 100,141"/>
+                <Baseline points="114,185 212,185 311,187 410,187 509,187 608,185 707,185 806,185 905,183 1004,183 1103,181 1201,181 1300,179 1399,179 1498,178 1597,177 1696,177 1795,177 1894,177 1993,177 2092,177"/>
+                <TextEquiv>
+                    <Unicode>Hectaren Fläche, der Kaufpreis beträgt Fr. 19000.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hectaren Fläche, der Kaufpreis beträgt Fr. 19000.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:09:24.681+02:00</Created>
+        <LastChange>2020-08-22T11:22:30.408+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748082" pageNr="38" tsid="37761795" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RVCMFDIUIBVLEBLUSDLXSJSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPUACQMGMNHWKPBJTODOTJFA" imageId="14363262"/>
+    </Metadata>
+    <Page imageFilename="0040_page_395122_line_r1l25_docId_17269.jpg" imageWidth="2388" imageHeight="435">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425710546" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2388,0 2388,435 0,435"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,326 209,268 1015,335 1113,266 2288,280 2249,208 1804,210 1717,140 1172,226 903,103 570,223 100,102"/>
+                <Baseline points="113,254 221,256 329,256 437,258 545,258 653,260 761,260 869,260 977,260 1085,260 1194,260 1302,260 1410,258 1518,258 1626,258 1734,258 1842,258 1950,258 2058,258 2166,260 2275,260"/>
+                <TextEquiv>
+                    <Unicode>Grad von Selbstverschulden bei diesem Un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grad von Selbstverschulden bei diesem Un-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:37:05.504+02:00</Created>
+        <LastChange>2020-11-12T07:33:06.834+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746609" pageNr="65" tsid="49318452" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IYMCFGRRETKPBWTOQFYOLNLC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VXNENLQQMNOSYCNXYIUWSZKJ" imageId="14361789"/>
+    </Metadata>
+    <Page imageFilename="0114_page_364855_line_r2l9_docId_17234.jpg" imageWidth="2286" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426007170" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2286,0 2286,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 451,252 2186,200 2103,116 1696,100 1281,160 100,125"/>
+                <Baseline points="112,192 215,194 318,194 421,194 524,192 627,192 730,192 833,190 936,190 1039,188 1143,188 1246,186 1349,186 1452,184 1555,184 1658,184 1761,184 1864,184 1967,184 2070,184 2174,186"/>
+                <TextEquiv>
+                    <Unicode>dung ihres Gatten im Betrage von Fr. 1500 aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dung ihres Gatten im Betrage von Fr. 1500 aus¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

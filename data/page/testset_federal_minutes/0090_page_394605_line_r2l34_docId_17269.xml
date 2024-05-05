@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:28.381+02:00</Created>
+        <LastChange>2020-10-27T07:55:43.781+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748265" pageNr="86" tsid="49315854" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ENJVXRATODJCXWXUQJJTUAIF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBPESLGZFOZJSVOYXHAFNHJD" imageId="14363445"/>
+    </Metadata>
+    <Page imageFilename="0090_page_394605_line_r2l34_docId_17269.jpg" imageWidth="2430" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425716782" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2430,0 2430,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,245 2330,207 2076,108 100,145"/>
+                <Baseline points="113,197 223,195 333,193 443,193 553,191 664,191 774,189 884,189 994,189 1104,187 1215,187 1325,187 1435,187 1545,187 1655,187 1766,187 1876,185 1986,185 2096,185 2206,185 2317,185"/>
+                <TextEquiv>
+                    <Unicode>schaften bei den Krediten der Artillerie und zwar die Gefrei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schaften bei den Krediten der Artillerie und zwar die Gefrei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

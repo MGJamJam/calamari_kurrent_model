@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:58.686+02:00</Created>
+        <LastChange>2020-08-22T11:21:38.276+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747985" pageNr="9" tsid="37761559" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PXVHEFGLUKNTPCPAIVAEBJRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWMQVYLTIANXMFKBMXAFPDGA" imageId="14363165"/>
+    </Metadata>
+    <Page imageFilename="0009_page_396845_line_r1l23_docId_17271.jpg" imageWidth="2324" imageHeight="372">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425706418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2324,0 2324,372 0,372"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,231 1762,208 2076,272 2224,221 2224,109 100,136"/>
+                <Baseline points="115,204 219,202 324,200 429,199 534,198 639,198 743,196 848,196 953,196 1058,196 1163,196 1267,196 1372,196 1477,196 1582,198 1687,198 1791,198 1896,196 2001,196 2106,196 2211,196"/>
+                <TextEquiv>
+                    <Unicode>Zürich ein Nachtragskredit von Fr. 140,000 bewilligt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zürich ein Nachtragskredit von Fr. 140,000 bewilligt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:54:01.583+02:00</Created>
+        <LastChange>2020-11-09T07:56:30.543+01:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747417" pageNr="49" tsid="49318104" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WJUKLISPGCMECOBGBBXXNOUK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDUFPIZUQFSDVQXTPCDDXTJL" imageId="14362597"/>
+    </Metadata>
+    <Page imageFilename="0101_page_386098_line_r1l20_docId_17257.jpg" imageWidth="1870" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425850781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1870,0 1870,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,245 1770,219 1770,156 1683,111 1223,161 954,106 787,158 100,125"/>
+                <Baseline points="112,187 194,189 276,189 358,189 441,189 523,189 605,187 688,187 770,187 852,187 935,185 1017,185 1099,185 1181,185 1264,185 1346,187 1428,187 1511,189 1593,190 1675,193 1758,195"/>
+                <TextEquiv>
+                    <Unicode>3) das Fridolin Roth von Heuheim (fl. 9. 38 Rp.),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3) das Fridolin Roth von Heuheim (fl. 9. 38 Rp.),</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

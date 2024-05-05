@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:22:25.810+02:00</Created>
+        <LastChange>2020-11-16T08:43:06.527+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745753" pageNr="163" tsid="49318861" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TOUAJXUJPOOYTHNQOIYJJXXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UWNCNZXSHRHTLGTISEGGEUTI" imageId="14360933"/>
+    </Metadata>
+    <Page imageFilename="0197_page_2260145_line_r4l19_docId_51003.jpg" imageWidth="2333" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426205681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2333,0 2333,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,217 2233,212 2191,140 1612,117 100,147"/>
+                <Baseline points="114,176 219,178 324,180 429,180 535,182 640,184 745,185 851,186 956,187 1061,188 1167,188 1272,190 1377,190 1482,190 1588,190 1693,192 1798,192 1904,192 2009,193 2114,194 2220,194"/>
+                <TextEquiv>
+                    <Unicode>zu 4 % zu machen, die Eidgenossenschaft hingegen noch et¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu 4 % zu machen, die Eidgenossenschaft hingegen noch et¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:06.332+02:00</Created>
+        <LastChange>2020-08-22T11:25:28.809+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749341" pageNr="55" tsid="37762842" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LQAUHDVUCYLLOYOYVVBMSNFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTXZNINXBRNAEHOQLTZDCMXE" imageId="14364517"/>
+    </Metadata>
+    <Page imageFilename="0113_page_410525_line_r1l28_docId_17282.jpg" imageWidth="2395" imageHeight="390">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425592959" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2395,0 2395,390 0,390"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 921,282 2294,265 2279,163 101,127"/>
+                <Baseline points="115,191 223,195 331,197 439,201 547,203 656,205 764,207 872,209 980,211 1088,213 1197,215 1305,217 1413,219 1521,221 1629,221 1738,223 1846,225 1954,227 2062,229 2170,231 2279,233"/>
+                <TextEquiv>
+                    <Unicode>legen, die während seiner Amtsdauer unveräußerlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>legen, die während seiner Amtsdauer unveräußerlich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

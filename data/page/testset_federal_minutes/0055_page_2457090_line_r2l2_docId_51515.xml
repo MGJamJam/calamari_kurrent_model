@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:29:32.302+02:00</Created>
+        <LastChange>2020-09-22T15:27:01.323+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519020" pageNr="43" tsid="49307343" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=LAEGROIECAESWHTKYSVCOAVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKUXTQRIWTVBXXHYKINBYGWH" imageId="15085953"/>
+    </Metadata>
+    <Page imageFilename="0055_page_2457090_line_r2l2_docId_51515.jpg" imageWidth="2351" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425241753" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2351,0 2351,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 2019,223 2250,174 2251,111 100,125 100,210"/>
+                <Baseline points="113,170 219,170 325,168 431,168 537,168 644,170 750,170 856,170 962,172 1068,172 1175,174 1281,174 1387,176 1493,176 1599,178 1706,178 1812,178 1918,180 2024,180 2130,178 2237,178"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="122,128 122,188 444,188 444,128"/>
+                    <TextEquiv>
+                        <Unicode>Intimation</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="494,128 494,188 601,188 601,128"/>
+                    <TextEquiv>
+                        <Unicode>nicht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="634,130 634,190 914,190 914,130"/>
+                    <TextEquiv>
+                        <Unicode>gestattet,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="931,132 931,192 1046,192 1046,132"/>
+                    <TextEquiv>
+                        <Unicode>weil</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1071,133 1071,193 1278,193 1278,133"/>
+                    <TextEquiv>
+                        <Unicode>derselbe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1311,136 1311,196 1533,196 1533,136"/>
+                    <TextEquiv>
+                        <Unicode>entgegen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1583,138 1583,198 1658,198 1658,138"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1715,139 1715,199 2095,199 2095,139"/>
+                    <TextEquiv>
+                        <Unicode>Staatsvertrage</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2136,138 2136,198 2218,198 2218,138"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Intimation nicht gestattet, weil derselbe entgegen dem Staatsvertrage mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

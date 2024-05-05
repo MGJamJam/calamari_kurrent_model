@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:20:20.331+02:00</Created>
+        <LastChange>2020-11-16T08:14:07.588+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745621" pageNr="117" tsid="49318831" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DHMKONJWCGENDEKJXQWWCNUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYNYDNFRYOGNJWKAPLIYOQET" imageId="14360801"/>
+    </Metadata>
+    <Page imageFilename="0137_page_2252026_line_r1l12_docId_51001.jpg" imageWidth="2404" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426199150" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2404,0 2404,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,244 2304,203 1933,132 1442,160 1349,100 1056,171 335,179 256,124 100,188"/>
+                <Baseline points="114,225 222,221 331,217 440,213 549,209 658,207 766,204 875,201 984,199 1093,199 1202,197 1310,195 1419,195 1528,195 1637,195 1746,195 1854,195 1963,195 2072,195 2181,195 2290,197"/>
+                <TextEquiv>
+                    <Unicode>deutschen Staaten und Piemont aufgenommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>deutschen Staaten und Piemont aufgenommen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

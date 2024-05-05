@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:15.969+02:00</Created>
+        <LastChange>2020-08-22T11:25:34.064+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749352" pageNr="56" tsid="37762874" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IVZDSNVFKUCKJZFGPLVTXTKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHKPRKHZTTDDQBCUGFXYQOUE" imageId="14364528"/>
+    </Metadata>
+    <Page imageFilename="0116_page_411016_line_r2l6_docId_17281.jpg" imageWidth="2272" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425593114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2272,0 2272,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,257 1642,202 2149,255 2171,142 692,102 100,160"/>
+                <Baseline points="114,201 216,201 318,199 420,199 522,197 625,197 727,197 829,195 931,195 1033,195 1136,195 1238,195 1340,195 1442,193 1544,193 1647,193 1749,193 1851,193 1953,191 2055,191 2158,189"/>
+                <TextEquiv>
+                    <Unicode>gelegten Rechnungen und der Bilanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gelegten Rechnungen und der Bilanz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

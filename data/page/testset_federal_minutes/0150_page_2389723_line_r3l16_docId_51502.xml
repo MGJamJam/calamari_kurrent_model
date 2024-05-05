@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:31.553+02:00</Created>
+        <LastChange>2020-08-22T11:27:38.121+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750228" pageNr="95" tsid="37763740" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QLNBQZEGZMTDKZLZVGCIILFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DBSNEGZMMYHOMTQVSHKMVVKQ" imageId="14365386"/>
+    </Metadata>
+    <Page imageFilename="0150_page_2389723_line_r3l16_docId_51502.jpg" imageWidth="2286" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425437877" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2286,0 2286,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,226 1781,235 2186,195 2185,123 100,173"/>
+                <Baseline points="114,211 216,211 319,209 422,209 525,207 628,205 731,204 834,202 937,201 1040,199 1143,197 1245,195 1348,193 1451,191 1554,189 1657,187 1760,187 1863,185 1966,183 2069,183 2172,181"/>
+                <TextEquiv>
+                    <Unicode>rung von Zürich den Empfang des Hierseitigen vom 26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rung von Zürich den Empfang des Hierseitigen vom 26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

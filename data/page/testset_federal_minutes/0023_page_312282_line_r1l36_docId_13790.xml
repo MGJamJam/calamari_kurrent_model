@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:54:43.900+02:00</Created>
+        <LastChange>2020-08-22T07:32:59.732+02:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744667" pageNr="16" tsid="37714757" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WKUSQFALBIMNSFYYTRUCHOUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EIFHGZZUHVUCFTPTSJWISJDI" imageId="14360058"/>
+    </Metadata>
+    <Page imageFilename="0023_page_312282_line_r1l36_docId_13790.jpg" imageWidth="2207" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426293077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2207,0 2207,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,243 2107,213 2001,104 1716,155 1653,100 1193,155 495,114 203,182 100,128"/>
+                <Baseline points="112,217 211,212 310,207 409,203 508,200 607,197 706,195 805,193 904,191 1003,191 1103,189 1202,189 1301,189 1400,189 1499,189 1598,189 1697,191 1796,191 1895,191 1994,191 2094,193"/>
+                <TextEquiv>
+                    <Unicode>3. Der öffentliche Gebrauch einer Anlage begründet für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3. Der öffentliche Gebrauch einer Anlage begründet für</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

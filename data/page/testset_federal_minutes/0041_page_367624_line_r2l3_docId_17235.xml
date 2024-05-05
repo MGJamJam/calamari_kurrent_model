@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:56.178+02:00</Created>
+        <LastChange>2020-11-12T07:10:14.513+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746368" pageNr="24" tsid="49318406" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JCQVCOOJVTEKVVWVSKLXGDTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDFIXHFWLUXISHYTTLZZMFPF" imageId="14361548"/>
+    </Metadata>
+    <Page imageFilename="0041_page_367624_line_r2l3_docId_17235.jpg" imageWidth="2236" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426001846" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2236,0 2236,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 2136,237 2135,153 1922,108 100,170"/>
+                <Baseline points="113,199 213,201 314,201 414,201 515,199 615,199 716,198 816,197 917,195 1017,195 1118,193 1218,193 1319,191 1419,191 1520,191 1620,191 1721,193 1821,194 1922,196 2022,199 2123,203"/>
+                <TextEquiv>
+                    <Unicode>von Schutzbauben in der alten Schuzriche bei Chur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Schutzbauben in der alten Schuzriche bei Chur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

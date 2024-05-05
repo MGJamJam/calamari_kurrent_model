@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:49:20.035+02:00</Created>
+        <LastChange>2020-08-22T11:25:50.209+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749967" pageNr="65" tsid="37762979" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QEQKYXFTFZXYJIQQDOFMHYZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMGCPQGWCXLOUPXEGXCVLIHC" imageId="14365139"/>
+    </Metadata>
+    <Page imageFilename="0099_page_2371968_line_r1l17_docId_51498.jpg" imageWidth="2203" imageHeight="325">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425487955" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2203,0 2203,325 0,325"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,198 1989,204 2103,195 2103,114 100,143"/>
+                <Baseline points="113,183 211,183 310,183 409,183 508,183 607,183 705,183 804,185 903,185 1002,185 1101,187 1199,187 1298,187 1397,187 1496,187 1595,187 1693,185 1792,184 1891,183 1990,180 2089,177"/>
+                <TextEquiv>
+                    <Unicode>Unterm 1. dieß ersucht die preußische Gesandtschaft um Bestel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Unterm 1. dieß ersucht die preußische Gesandtschaft um Bestel-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

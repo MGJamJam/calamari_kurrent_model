@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:18:07.026+02:00</Created>
+        <LastChange>2020-10-27T08:05:56.991+01:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748407" pageNr="126" tsid="49315904" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZBPDUPITTUJGTOVWXEJQWAWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDCKAODDCKKRAETFDKRGSLPW" imageId="14363587"/>
+    </Metadata>
+    <Page imageFilename="0131_page_395777_line_r2l10_docId_17270.jpg" imageWidth="1376" imageHeight="283">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425722226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1376,0 1376,283 0,283"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,156 1276,167 1233,100 100,122"/>
+                <Baseline points="108,152 166,152 224,152 282,153 340,153 398,152 456,152 514,152 572,152 630,150 688,150 746,149 804,148 862,147 920,146 978,144 1036,144 1094,143 1152,141 1210,141 1268,140 1285,140"/>
+                <TextEquiv>
+                    <Unicode>mann als Arbeiter oder Angestellter in einem fremden Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mann als Arbeiter oder Angestellter in einem fremden Ge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

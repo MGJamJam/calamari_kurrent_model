@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:14.681+02:00</Created>
+        <LastChange>2020-10-06T06:57:57.546+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750341" pageNr="11" tsid="49310557" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=YNJYKYJAIVIVEPWCCAPAMBDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ASBEREFBEDYDWSLYLRRXFJVO" imageId="14365499"/>
+    </Metadata>
+    <Page imageFilename="0014_page_2425290_line_r2l11_docId_51506.jpg" imageWidth="2366" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425369108" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2366,0 2366,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 271,190 382,263 494,198 583,253 704,191 1503,177 1823,237 2266,133 100,159"/>
+                <Baseline points="114,197 220,193 327,191 434,189 541,187 648,185 755,184 862,183 969,181 1076,181 1183,179 1289,179 1396,177 1503,177 1610,177 1717,175 1824,175 1931,173 2038,173 2145,171 2252,169"/>
+                <TextEquiv>
+                    <Unicode>zug entsprechenden Todtenregister eintrags in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zug entsprechenden Todtenregister eintrags in der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

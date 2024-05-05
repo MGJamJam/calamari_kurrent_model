@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:00.925+02:00</Created>
+        <LastChange>2020-08-22T11:27:49.903+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750175" pageNr="109" tsid="37763823" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TDSMWYFDTOOHAEXUFKYTZKCY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXRASQZBDNPCCYHICNNROTYB" imageId="14365347"/>
+    </Metadata>
+    <Page imageFilename="0173_page_2377266_line_r2l20_docId_51498.jpg" imageWidth="2394" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425494017" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2394,0 2394,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,205 1920,231 2294,198 2294,109 100,145"/>
+                <Baseline points="117,180 225,180 333,180 441,180 549,180 657,180 765,180 873,180 981,180 1089,180 1197,180 1305,180 1413,180 1521,180 1629,180 1737,178 1845,178 1953,178 2061,178 2169,176 2277,176"/>
+                <TextEquiv>
+                    <Unicode>konsulats in Rom vom 20. dieß, betreffend die Einführung eines neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>konsulats in Rom vom 20. dieß, betreffend die Einführung eines neuen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

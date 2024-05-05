@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:58:24.551+02:00</Created>
+        <LastChange>2020-08-22T11:31:58.369+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750653" pageNr="83" tsid="49309505" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FWAEGVAAZVCJRVRSSHLVZXBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HBAQPMFCOMYUYGQJDSNNZOLV" imageId="14365811"/>
+    </Metadata>
+    <Page imageFilename="0114_page_2446720_line_r1l15_docId_51511.jpg" imageWidth="1418" imageHeight="337">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425315492" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1418,0 1418,337 0,337"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,198 1062,237 1271,213 1318,189 1318,119 962,139 838,100 799,141 566,148 523,109 379,142 295,111 223,146 159,109 100,142"/>
+                <Baseline points="114,183 173,185 233,186 292,187 352,187 412,189 471,189 531,189 590,189 650,187 710,187 769,187 829,185 888,185 948,183 1008,181 1067,179 1127,179 1186,177 1246,175 1306,173"/>
+                <TextEquiv>
+                    <Unicode>An die italienische Gesandtschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die italienische Gesandtschaft.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

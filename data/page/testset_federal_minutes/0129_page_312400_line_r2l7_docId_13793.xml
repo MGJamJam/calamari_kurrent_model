@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:07:19.580+02:00</Created>
+        <LastChange>2020-11-16T15:59:28.578+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744925" pageNr="84" tsid="49319099" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OSVTJIPXEPNTZBQIUNRCQGGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSPCWYMWTJGIKBRDFNCHMQHS" imageId="14360316"/>
+    </Metadata>
+    <Page imageFilename="0129_page_312400_line_r2l7_docId_13793.jpg" imageWidth="1925" imageHeight="389">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426302442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1925,0 1925,389 0,389"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,246 302,289 644,235 1825,260 1782,159 1474,204 1338,137 883,169 766,100 546,187 100,108"/>
+                <Baseline points="112,219 197,221 282,223 367,225 452,225 537,226 622,227 707,227 792,227 877,227 962,225 1047,225 1132,225 1217,225 1302,225 1387,225 1472,225 1557,225 1642,227 1727,229 1812,231 1835,230"/>
+                <TextEquiv>
+                    <Unicode>Nach Einsicht eines Berichtes das Regierungsrats des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach Einsicht eines Berichtes das Regierungsrats des</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

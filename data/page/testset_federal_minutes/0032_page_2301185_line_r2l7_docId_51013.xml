@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:05.556+02:00</Created>
+        <LastChange>2020-10-11T20:35:07.702+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749404" pageNr="27" tsid="49313516" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QZDFZQMCHRDJRSTYZEEIYSZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHRGJTWMBJLBWJRDLFBBTTUF" imageId="14364580"/>
+    </Metadata>
+    <Page imageFilename="0032_page_2301185_line_r2l7_docId_51013.jpg" imageWidth="2375" imageHeight="347">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425541048" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2375,0 2375,347 0,347"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,178 2274,224 2275,158 1960,136 101,123"/>
+                <Baseline points="113,169 220,171 327,173 435,175 542,177 650,179 757,181 864,183 972,185 1079,187 1187,189 1294,191 1401,193 1509,195 1616,197 1724,199 1831,200 1938,201 2046,203 2153,203 2261,205"/>
+                <TextEquiv>
+                    <Unicode>b. vom 2. dieß /: No 531 :/ wesentlich des Inhalts: er halte dafür, mit ei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>b. vom 2. dieß /: No 531 :/ wesentlich des Inhalts: er halte dafür, mit ei¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:46:31.658+02:00</Created>
+        <LastChange>2020-08-22T11:15:55.536+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747082" pageNr="17" tsid="37759250" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RJTBTXLPTPFCLDXQXUGXGBML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJTMRUBZMSNRSNXQVVUUZMFK" imageId="14362262"/>
+    </Metadata>
+    <Page imageFilename="0032_page_389520_line_r1l39_docId_17261.jpg" imageWidth="2331" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425846031" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2331,0 2331,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 1727,241 2231,215 2231,132 100,153"/>
+                <Baseline points="114,188 219,188 324,188 429,188 534,188 640,190 745,190 850,190 955,190 1060,190 1166,192 1271,192 1376,192 1481,192 1586,192 1692,192 1797,190 1902,190 2007,188 2112,186 2218,186"/>
+                <TextEquiv>
+                    <Unicode>kusbau entstehen, der sowohl an sich von großem male</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kusbau entstehen, der sowohl an sich von großem male</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

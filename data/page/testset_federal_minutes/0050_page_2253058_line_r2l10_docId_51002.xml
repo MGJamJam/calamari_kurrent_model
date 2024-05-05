@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:17.432+02:00</Created>
+        <LastChange>2020-11-16T07:33:35.960+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745425" pageNr="43" tsid="49318779" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RFWELBOYMBDBHWPSGKBFVEZC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SUATSSQWJGMTOHMYRAWQMBJV" imageId="14360609"/>
+    </Metadata>
+    <Page imageFilename="0050_page_2253058_line_r2l10_docId_51002.jpg" imageWidth="2491" imageHeight="340">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426188854" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2491,0 2491,340 0,340"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,235 1689,239 2391,144 217,154 100,100"/>
+                <Baseline points="115,195 228,193 341,193 454,191 567,191 680,191 793,191 906,189 1019,189 1132,189 1245,189 1358,189 1471,189 1584,189 1697,189 1810,189 1923,187 2036,187 2149,187 2262,187 2375,185"/>
+                <TextEquiv>
+                    <Unicode>schäftsordnung für den Ständerath insbesondere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schäftsordnung für den Ständerath insbesondere</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

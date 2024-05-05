@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:17.645+02:00</Created>
+        <LastChange>2020-11-10T07:32:15.746+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746331" pageNr="21" tsid="49318290" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RBNJJWHGRHAERUHGMBLIALET&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YTNEMDZNJRRPHOOQMIXDEQTV" imageId="14361511"/>
+    </Metadata>
+    <Page imageFilename="0034_page_377088_line_r2l2_docId_17245.jpg" imageWidth="1803" imageHeight="348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425948311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1803,0 1803,348 0,348"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,233 1682,215 1703,125 1344,118 1229,167 100,120"/>
+                <Baseline points="112,203 190,203 269,201 348,201 427,201 506,199 585,199 664,199 743,199 822,197 901,197 979,197 1058,195 1137,195 1216,195 1295,194 1374,193 1453,193 1532,193 1611,193 1690,191"/>
+                <TextEquiv>
+                    <Unicode>3). als Sekretär: Hr. v. Sury, Wilhelm, von Solothurn;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3). als Sekretär: Hr. v. Sury, Wilhelm, von Solothurn;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

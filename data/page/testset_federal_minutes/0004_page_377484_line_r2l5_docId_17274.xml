@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:06:26.910+02:00</Created>
+        <LastChange>2020-08-22T11:21:28.500+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18747967" pageNr="4" tsid="37761526" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BTTAXUXSWWNWPXSVQKLUHPVS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQIZVHKPQNGJEMJLATDKAKXI" imageId="14363147"/>
+    </Metadata>
+    <Page imageFilename="0004_page_377484_line_r2l5_docId_17274.jpg" imageWidth="720" imageHeight="294">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425705695" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 720,0 720,294 0,294"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,173 218,171 254,194 309,194 386,167 438,193 503,163 620,168 620,114 586,105 509,131 364,100 240,141 217,124 100,119"/>
+                <Baseline points="107,161 132,161 157,161 182,161 208,161 233,161 258,161 283,161 309,161 334,161 359,161 384,161 410,161 435,161 460,161 485,161 511,161 536,161 561,160 586,159 612,159"/>
+                <TextEquiv>
+                    <Unicode>Bern, den 9. April 1901.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bern, den 9. April 1901.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

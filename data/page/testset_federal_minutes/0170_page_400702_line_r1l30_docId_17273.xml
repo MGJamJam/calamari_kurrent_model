@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:21:48.232+02:00</Created>
+        <LastChange>2020-08-22T11:26:17.200+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748541" pageNr="165" tsid="37763149" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RMNTVWKLYUUSVDZXMLUIWHYY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HXDFDVBEEUEGBFZREYGCNQUK" imageId="14363721"/>
+    </Metadata>
+    <Page imageFilename="0170_page_400702_line_r1l30_docId_17273.jpg" imageWidth="2163" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425727627" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2163,0 2163,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,214 2063,211 2062,120 1989,108 1864,158 1486,100 100,141"/>
+                <Baseline points="113,176 209,180 306,184 403,186 500,188 597,188 693,190 790,188 887,188 984,186 1081,186 1177,184 1274,182 1371,181 1468,180 1565,178 1661,177 1758,176 1855,176 1952,176 2049,178"/>
+                <TextEquiv>
+                    <Unicode>sandtschaft wird auf ihre Anfrage hin Aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sandtschaft wird auf ihre Anfrage hin Aus¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

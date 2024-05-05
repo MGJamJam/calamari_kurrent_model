@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:35.425+02:00</Created>
+        <LastChange>2020-08-21T22:12:02.910+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744396" pageNr="14" tsid="37656714" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TSWIHORLYLGGHUDTZKEHNKJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RLXQYOTSIFOAKDPDQXETFDYI" imageId="14359787"/>
+    </Metadata>
+    <Page imageFilename="0019_page_308268_line_r2l4_docId_13785.jpg" imageWidth="1876" imageHeight="401">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426350216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1876,0 1876,401 0,401"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,296 408,249 1776,270 1738,190 1604,216 1437,154 1314,218 1059,157 493,208 100,113"/>
+                <Baseline points="114,245 196,245 279,245 361,245 444,245 526,245 609,245 691,245 774,245 856,245 939,245 1021,243 1104,243 1186,243 1269,245 1351,245 1434,245 1516,245 1599,245 1681,245 1764,245"/>
+                <TextEquiv>
+                    <Unicode>Der Statsrat des Kantons Tessin ersucht mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Statsrat des Kantons Tessin ersucht mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

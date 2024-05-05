@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:52.209+02:00</Created>
+        <LastChange>2020-10-06T08:57:27.057+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749851" pageNr="6" tsid="49311513" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZWIGUCQLWGPOWDQYUMXBFTRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJVIRIUJJERTMUSMAMHLQXUA" imageId="14365023"/>
+    </Metadata>
+    <Page imageFilename="0013_page_2395992_line_r1l30_docId_51504.jpg" imageWidth="1130" imageHeight="345">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425425368" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1130,0 1130,345 0,345"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,228 160,244 205,198 309,187 1030,179 1029,119 288,147 186,100 100,125"/>
+                <Baseline points="115,193 160,189 205,185 250,182 295,180 340,179 385,177 430,177 475,175 520,175 566,175 611,175 656,175 701,175 746,175 791,174 836,173 881,173 926,171 971,169 1017,165 1042,168"/>
+                <TextEquiv>
+                    <Unicode>Schreiben vom 31. v. Mts:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schreiben vom 31. v. Mts:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

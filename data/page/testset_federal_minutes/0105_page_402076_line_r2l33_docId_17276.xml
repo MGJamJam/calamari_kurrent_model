@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:32:55.205+02:00</Created>
+        <LastChange>2020-08-22T11:24:53.296+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748980" pageNr="47" tsid="37762623" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HXMXOOWAQIYTQFAYFLYNHPJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MKLPOEQRDPUUCXTEFDOGTBXR" imageId="14364156"/>
+    </Metadata>
+    <Page imageFilename="0105_page_402076_line_r2l33_docId_17276.jpg" imageWidth="1881" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425631698" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1881,0 1881,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 656,267 916,204 1376,247 1781,208 1781,118 100,136"/>
+                <Baseline points="113,194 195,194 278,194 361,192 443,192 526,192 609,192 691,192 774,192 857,192 940,193 1022,194 1105,194 1188,194 1270,194 1353,192 1436,192 1518,192 1601,190 1684,190 1767,188"/>
+                <TextEquiv>
+                    <Unicode>an Hrn. Schenkel, Abwart des General¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an Hrn. Schenkel, Abwart des General¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

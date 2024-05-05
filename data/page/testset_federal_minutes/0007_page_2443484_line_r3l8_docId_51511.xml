@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:55.590+02:00</Created>
+        <LastChange>2020-08-22T11:28:59.331+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750379" pageNr="7" tsid="49309162" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DBGNCZRCYUTIEMLGQBAQNCPB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZAYRODIPYFJOUUXJSIVXHEIE" imageId="14365537"/>
+    </Metadata>
+    <Page imageFilename="0007_page_2443484_line_r3l8_docId_51511.jpg" imageWidth="2275" imageHeight="361">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425304817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2275,0 2275,361 0,361"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,193 2174,230 2175,163 2053,142 1523,173 1456,117 1364,170 515,158 405,100 101,155"/>
+                <Baseline points="113,184 215,186 317,186 420,186 522,188 625,189 727,190 829,192 932,194 1034,194 1137,196 1239,198 1341,200 1444,202 1546,202 1649,204 1751,206 1853,208 1956,210 2058,210 2161,212"/>
+                <TextEquiv>
+                    <Unicode>des Landwehre Infanterie Regiment N. 2 nicht mehr gestattet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>des Landwehre Infanterie Regiment N. 2 nicht mehr gestattet</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

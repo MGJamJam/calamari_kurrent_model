@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:27.287+02:00</Created>
+        <LastChange>2020-11-10T08:30:12.595+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746744" pageNr="118" tsid="49318360" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=PCKOJCRVRSXDRJKSAMPYNVYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBBPISIOEXAQWJMFLJDNAYFL" imageId="14361924"/>
+    </Metadata>
+    <Page imageFilename="0178_page_376059_line_r1l21_docId_17247.jpg" imageWidth="2050" imageHeight="338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425962923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2050,0 2050,338 0,338"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 1950,231 1950,129 1680,100 1129,164 100,104"/>
+                <Baseline points="112,179 203,182 294,183 386,184 477,185 568,185 660,185 751,185 842,185 934,185 1025,185 1116,185 1208,185 1299,184 1390,184 1482,184 1573,184 1664,184 1756,184 1847,185 1939,185"/>
+                <TextEquiv>
+                    <Unicode>Altersjahr das französische Bürgerrecht ausdrücklich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Altersjahr das französische Bürgerrecht ausdrücklich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

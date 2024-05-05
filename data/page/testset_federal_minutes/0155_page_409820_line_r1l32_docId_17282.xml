@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:42:27.925+02:00</Created>
+        <LastChange>2020-08-22T11:26:42.601+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749495" pageNr="71" tsid="37763306" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=UACYLVIYNXJZPKVOKDSUFYZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQDFJVYQHBQWDPFZATLATZBL" imageId="14364671"/>
+    </Metadata>
+    <Page imageFilename="0155_page_409820_line_r1l32_docId_17282.jpg" imageWidth="2389" imageHeight="364">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425595219" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2389,0 2389,364 0,364"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 2289,210 2288,151 2026,100 1897,166 1030,169 946,107 100,153"/>
+                <Baseline points="115,202 223,202 331,200 439,200 547,200 655,200 763,200 871,200 979,200 1087,200 1195,200 1303,199 1411,198 1519,198 1627,198 1735,198 1843,196 1951,196 2059,194 2167,194 2275,192"/>
+                <TextEquiv>
+                    <Unicode>Sache hineinzog. Zwischen diesen drei Personen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sache hineinzog. Zwischen diesen drei Personen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

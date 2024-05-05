@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:17:23.946+02:00</Created>
+        <LastChange>2020-11-16T07:35:02.953+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745432" pageNr="46" tsid="49318781" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BOBXVVIGCUZPUREXYUDPKAVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUDSHUDXUSRDGNIEOQQDYVRV" imageId="14360616"/>
+    </Metadata>
+    <Page imageFilename="0053_page_2258571_line_r2l42_docId_51004.jpg" imageWidth="2265" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426189323" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2265,0 2265,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,201 1127,227 2143,173 2164,118 100,160"/>
+                <Baseline points="114,185 215,185 317,183 419,181 521,179 623,177 724,176 826,175 928,173 1030,171 1132,169 1233,168 1335,167 1437,165 1539,163 1641,163 1742,161 1844,159 1946,159 2048,157 2150,155"/>
+                <TextEquiv>
+                    <Unicode>waltungsrath der Postdampfschifffahrtsgesellschaft in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>waltungsrath der Postdampfschifffahrtsgesellschaft in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

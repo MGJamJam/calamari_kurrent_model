@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:52:15.525+02:00</Created>
+        <LastChange>2020-08-22T11:28:00.043+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18750193" pageNr="114" tsid="37763923" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NGTLFLMDZSNMFKNRYZBRPEQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TONJALCINVDVVNSBOGZPFHRB" imageId="14365365"/>
+    </Metadata>
+    <Page imageFilename="0180_page_2376350_line_r1l20_docId_51500.jpg" imageWidth="764" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425494709" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 764,0 764,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 299,199 343,229 432,187 537,186 570,206 664,183 663,100 575,101 550,126 417,126 401,143 357,143 335,121 100,128"/>
+                <Baseline points="113,189 139,186 166,184 193,182 220,181 247,181 273,179 300,179 327,179 354,179 381,179 407,179 434,180 461,181 488,181 515,181 541,181 568,181 595,181 622,181 649,181"/>
+                <TextEquiv>
+                    <Unicode>Vortrag v. 27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vortrag v. 27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

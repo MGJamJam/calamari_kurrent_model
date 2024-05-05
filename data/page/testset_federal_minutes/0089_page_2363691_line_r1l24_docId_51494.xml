@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:43:02.731+02:00</Created>
+        <LastChange>2020-10-11T21:07:22.378+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749534" pageNr="69" tsid="49313614" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CRKMXKUKVSBHRQALQZAWJVCJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIXDPIVRASDPUMOFSVWOGFVB" imageId="14364710"/>
+    </Metadata>
+    <Page imageFilename="0089_page_2363691_line_r1l24_docId_51494.jpg" imageWidth="2249" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425546848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2249,0 2249,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,264 435,214 534,275 663,223 1009,268 1157,209 2148,252 2149,139 1086,170 867,100 663,165 218,116 100,163"/>
+                <Baseline points="115,204 216,206 317,206 418,206 519,208 620,208 721,208 822,208 923,208 1024,208 1125,208 1226,208 1327,208 1428,208 1529,210 1630,210 1731,212 1832,212 1933,214 2034,216 2135,220"/>
+                <TextEquiv>
+                    <Unicode>In Erwiderung des Herwärtigen vom 29. v. Mts. /: P. No. 3231:/ be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Erwiderung des Herwärtigen vom 29. v. Mts. /: P. No. 3231:/ be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

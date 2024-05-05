@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:14:30.600+02:00</Created>
+        <LastChange>2020-10-27T08:45:42.309+01:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748267" pageNr="32" tsid="49304074" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CGKFYAZFRVFVMVWXMXHULQPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGVUNENRCTBHIBWUPSYNNOTJ" imageId="14363447"/>
+    </Metadata>
+    <Page imageFilename="0060_page_388897_line_r3l29_docId_17263.jpg" imageWidth="1992" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425765500" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1992,0 1992,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,223 1892,226 1891,140 1695,157 1640,105 1408,174 1261,122 874,164 783,100 485,101 396,165 100,121"/>
+                <Baseline points="115,191 203,193 291,193 379,193 467,195 556,195 644,193 732,193 820,193 908,193 997,193 1085,191 1173,191 1261,191 1349,191 1438,191 1526,191 1614,191 1702,191 1790,193 1879,193"/>
+                <TextEquiv>
+                    <Unicode>An die L. L.- Direktion in Bern z. Kanzlei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die L. L.- Direktion in Bern z. Kanzlei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

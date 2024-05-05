@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:59.543+02:00</Created>
+        <LastChange>2020-10-06T09:15:12.297+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749941" pageNr="25" tsid="49311571" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MCCFSTNSMUBVBELQDZCTGJRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPXFIUHBDBCUVAXYSYOEXLNT" imageId="14365113"/>
+    </Metadata>
+    <Page imageFilename="0045_page_2400734_line_r2l27_docId_51505.jpg" imageWidth="2296" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425427958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2296,0 2296,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 2196,197 1998,100 1755,157 626,100 529,157 100,149"/>
+                <Baseline points="115,192 218,190 321,189 424,188 528,188 631,186 734,186 838,186 941,185 1044,184 1148,184 1251,184 1354,185 1457,186 1561,186 1664,186 1767,186 1871,188 1974,188 2077,190 2181,190"/>
+                <TextEquiv>
+                    <Unicode>Abschrift der Gesuchs einer am 25. v. Mts. in Carouge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Abschrift der Gesuchs einer am 25. v. Mts. in Carouge</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

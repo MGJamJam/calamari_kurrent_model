@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:48:06.721+02:00</Created>
+        <LastChange>2020-10-06T09:01:34.943+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18749869" pageNr="9" tsid="49311522" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FZMNYZJMLYEONSPHTQAIIMZK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGPBZBIHFJYBWEATXMSKSIGL" imageId="14365041"/>
+    </Metadata>
+    <Page imageFilename="0019_page_2402355_line_r4l23_docId_51504.jpg" imageWidth="2322" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425425739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2322,0 2322,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,219 2222,226 2184,149 1822,122 994,183 673,174 599,100 333,186 100,142"/>
+                <Baseline points="115,194 219,199 324,203 429,206 533,208 638,210 743,210 847,210 952,210 1057,208 1162,206 1266,206 1371,204 1476,204 1580,202 1685,202 1790,202 1894,202 1999,204 2104,206 2209,208"/>
+                <TextEquiv>
+                    <Unicode>Tod eines Johannes Niesch von Balgach, der als Schlos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tod eines Johannes Niesch von Balgach, der als Schlos¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

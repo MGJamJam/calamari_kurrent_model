@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:02:12.661+02:00</Created>
+        <LastChange>2020-11-17T08:11:41.369+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744800" pageNr="120" tsid="49319292" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NYEZOCLIEJYAIOCYHGXBINSX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFMLSFBACOSWWYLLURJJPGJP" imageId="14360191"/>
+    </Metadata>
+    <Page imageFilename="0191_page_308691_line_r1l7_docId_13788.jpg" imageWidth="2321" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426364889" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2321,0 2321,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,226 2046,231 2221,199 2221,112 100,132"/>
+                <Baseline points="114,195 218,195 323,195 428,197 532,197 637,195 742,195 846,195 951,195 1056,193 1161,193 1265,191 1370,191 1475,189 1579,189 1684,189 1789,187 1893,187 1998,187 2103,187 2208,187"/>
+                <TextEquiv>
+                    <Unicode>kantonalen Gesetzgebungen den Israeliten gestattet, den Christen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kantonalen Gesetzgebungen den Israeliten gestattet, den Christen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

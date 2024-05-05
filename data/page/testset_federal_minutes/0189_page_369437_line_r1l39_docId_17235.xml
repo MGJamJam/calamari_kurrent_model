@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:41:22.693+02:00</Created>
+        <LastChange>2020-11-12T07:58:05.609+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746842" pageNr="108" tsid="49318500" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BJQNTBZTFPMBBSWYZPJLVMCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWAZQZBYKNBNABZHHUZFWJGH" imageId="14362022"/>
+    </Metadata>
+    <Page imageFilename="0189_page_369437_line_r1l39_docId_17235.jpg" imageWidth="2149" imageHeight="359">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426013143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2149,0 2149,359 0,359"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,229 2049,211 2014,138 1639,109 1380,169 1095,100 543,162 100,117"/>
+                <Baseline points="114,196 210,196 306,194 402,194 498,194 594,194 690,194 786,194 882,194 978,194 1075,196 1171,196 1267,196 1363,196 1459,196 1555,198 1651,198 1747,198 1843,198 1939,198 2036,196"/>
+                <TextEquiv>
+                    <Unicode>Es wurde dann jedenfalls Vollzug des Requisito-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es wurde dann jedenfalls Vollzug des Requisito-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

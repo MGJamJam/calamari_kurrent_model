@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:57:43.997+02:00</Created>
+        <LastChange>2020-10-06T07:50:43.605+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750599" pageNr="74" tsid="49310745" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NQGQNGSAPDYYYWNJUKDMMKQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SACUTWZZUOXRARISMRYSYZRO" imageId="14365757"/>
+    </Metadata>
+    <Page imageFilename="0106_page_2422217_line_r2l9_docId_51508.jpg" imageWidth="2300" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425377934" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2300,0 2300,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,200 1907,236 2200,147 100,143"/>
+                <Baseline points="113,180 216,180 320,180 423,182 527,182 631,182 734,184 838,184 941,185 1045,186 1149,186 1252,186 1356,188 1459,188 1563,188 1667,188 1770,188 1874,188 1977,188 2081,188 2185,186"/>
+                <TextEquiv>
+                    <Unicode>Aenderungen vorläufig für das Jahr 1876 ins Werk zu sezen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aenderungen vorläufig für das Jahr 1876 ins Werk zu sezen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

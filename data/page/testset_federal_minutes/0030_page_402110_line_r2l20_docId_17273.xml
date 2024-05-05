@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:08:31.694+02:00</Created>
+        <LastChange>2020-08-22T11:22:14.446+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748049" pageNr="28" tsid="37761720" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OHXXGUFCXFOASKQDNOUNXTBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YYWEHJZNEOAAUDMDKICLUALC" imageId="14363229"/>
+    </Metadata>
+    <Page imageFilename="0030_page_402110_line_r2l20_docId_17273.jpg" imageWidth="555" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425709005" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 555,0 555,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,236 155,254 267,226 317,241 368,195 455,215 453,126 398,129 380,117 354,133 330,115 291,136 233,106 199,104 173,123 144,100 100,111"/>
+                <Baseline points="114,187 139,188 164,190 189,190 214,191 239,191 264,191 290,191 315,191 340,190 365,188 390,186 415,184 441,179"/>
+                <TextEquiv>
+                    <Unicode>Diebstahls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Diebstahls.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

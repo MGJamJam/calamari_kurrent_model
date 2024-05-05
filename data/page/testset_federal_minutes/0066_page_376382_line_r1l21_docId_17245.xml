@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:33:52.481+02:00</Created>
+        <LastChange>2020-11-10T07:46:01.356+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746424" pageNr="43" tsid="49318303" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SIJMULHQVNRPTSIEQFIADNEH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKJCSEMKEZJVDMHFPBNAWCGY" imageId="14361604"/>
+    </Metadata>
+    <Page imageFilename="0066_page_376382_line_r1l21_docId_17245.jpg" imageWidth="2036" imageHeight="349">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425951458" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2036,0 2036,349 0,349"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 750,189 1183,246 1470,190 1677,249 1936,202 1936,119 1799,164 1614,110 100,132"/>
+                <Baseline points="112,183 202,181 293,181 383,181 474,181 565,179 655,179 746,179 836,179 927,179 1018,179 1108,179 1199,179 1289,179 1380,179 1471,180 1561,181 1652,181 1742,183 1833,183 1924,185"/>
+                <TextEquiv>
+                    <Unicode>ben Bugen Albert Comte (Prot. von 15. Jan. No.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ben Bugen Albert Comte (Prot. von 15. Jan. No.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

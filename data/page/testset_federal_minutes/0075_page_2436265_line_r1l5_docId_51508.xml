@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:33.096+02:00</Created>
+        <LastChange>2020-10-06T07:31:06.849+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750506" pageNr="51" tsid="49310693" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MXIZYXEHAVAJECEXHXIRILCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YHWZLISYOKJFWCOBUMPUIDSA" imageId="14365664"/>
+    </Metadata>
+    <Page imageFilename="0075_page_2436265_line_r1l5_docId_51508.jpg" imageWidth="2436" imageHeight="365">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425374700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2436,0 2436,365 0,365"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,265 963,201 2302,248 2336,125 100,168"/>
+                <Baseline points="115,206 225,204 335,204 445,202 556,202 666,202 776,200 887,200 997,200 1107,200 1218,200 1328,198 1438,198 1548,200 1659,200 1769,200 1879,200 1990,200 2100,202 2210,202 2321,204"/>
+                <TextEquiv>
+                    <Unicode>gung von 98,000 Mark verfolgten und in Zürich, am 23. dies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gung von 98,000 Mark verfolgten und in Zürich, am 23. dies</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

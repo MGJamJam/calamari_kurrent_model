@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:53:23.316+02:00</Created>
+        <LastChange>2020-08-22T11:28:22.106+02:00</LastChange>
+        <TranskribusMetadata docId="457262" pageId="18750285" pageNr="110" tsid="37764129" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VOXQNZBWXQOODQMYUVJKRQFA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXRGGWSRRWEWWPODLCZAQNDC" imageId="14365443"/>
+    </Metadata>
+    <Page imageFilename="0176_page_2394426_line_r3l36_docId_51504.jpg" imageWidth="2364" imageHeight="343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425440020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2364,0 2364,343 0,343"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,209 1154,243 2264,201 2264,145 296,108 100,161"/>
+                <Baseline points="115,194 221,194 328,192 435,190 542,190 649,190 755,190 862,190 969,190 1076,190 1183,190 1289,190 1396,192 1503,192 1610,192 1717,192 1823,192 1930,192 2037,192 2144,190 2251,190"/>
+                <TextEquiv>
+                    <Unicode>Neutralität und Unabhängigkeit des Vaterlandes mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Neutralität und Unabhängigkeit des Vaterlandes mit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:27:24.039+02:00</Created>
+        <LastChange>2020-11-15T20:29:56.980+01:00</LastChange>
+        <TranskribusMetadata docId="457196" pageId="18746048" pageNr="111" tsid="49318728" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DQMNXCRHSUGZLDGHYEDOAJVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YCVNYXJFASCTETQOIOHKGBJP" imageId="14361228"/>
+    </Metadata>
+    <Page imageFilename="0162_page_320458_line_r1l15_docId_14156.jpg" imageWidth="1568" imageHeight="358">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426130732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1568,0 1568,358 0,358"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 358,242 482,204 603,258 655,216 897,245 1189,198 1468,244 1468,156 1305,105 1096,100 967,157 750,103 588,149 355,101 100,116"/>
+                <Baseline points="113,186 180,186 247,188 314,188 381,188 448,188 515,188 582,188 649,188 716,188 784,186 851,186 918,186 985,186 1052,185 1119,184 1186,186 1253,186 1320,186 1387,188 1455,190"/>
+                <TextEquiv>
+                    <Unicode>2.) Zur Erneuerungsbeträge gemäß Verordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2.) Zur Erneuerungsbeträge gemäß Verordnung</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:34:18.174+02:00</Created>
+        <LastChange>2020-08-22T11:22:24.235+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749038" pageNr="7" tsid="37761762" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NDXTLPEXGOFQDVKMLKGLNJXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DGXNDTRLPENLXYJWEGFWPMSR" imageId="14364214"/>
+    </Metadata>
+    <Page imageFilename="0010_page_410745_line_r2l33_docId_17282.jpg" imageWidth="2431" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425586185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2431,0 2431,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 1015,195 1168,267 1282,200 2331,218 2211,108 100,107"/>
+                <Baseline points="115,192 225,192 335,190 445,190 555,190 665,188 775,188 885,186 995,186 1105,186 1216,184 1326,184 1436,184 1546,184 1656,184 1766,184 1876,184 1986,184 2096,184 2206,186 2317,186"/>
+                <TextEquiv>
+                    <Unicode>der sorgfältigen Vorbereitung. Die nötigen Vorkehren dazu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der sorgfältigen Vorbereitung. Die nötigen Vorkehren dazu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

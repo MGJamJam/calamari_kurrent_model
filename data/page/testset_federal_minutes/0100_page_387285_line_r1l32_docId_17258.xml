@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:53:58.085+02:00</Created>
+        <LastChange>2020-08-22T11:17:48.482+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747412" pageNr="48" tsid="37760091" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ULBOVFGKGSXIOIIITPUDYOBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THGKBBVVZXYDRSSIUJPDVLWH" imageId="14362592"/>
+    </Metadata>
+    <Page imageFilename="0100_page_387285_line_r1l32_docId_17258.jpg" imageWidth="2235" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425850641" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2235,0 2235,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 2135,219 2135,148 1977,115 100,159"/>
+                <Baseline points="113,200 213,196 314,194 414,194 515,192 615,190 716,190 816,190 917,190 1017,190 1118,190 1218,190 1319,190 1419,190 1520,190 1620,190 1721,190 1821,190 1922,190 2022,188 2123,188"/>
+                <TextEquiv>
+                    <Unicode>von durch eine kompetente Behörde dieses Hafenortes ausge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von durch eine kompetente Behörde dieses Hafenortes ausge¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

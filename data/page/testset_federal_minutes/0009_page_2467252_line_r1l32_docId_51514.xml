@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:59.670+02:00</Created>
+        <LastChange>2020-08-22T11:29:02.415+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750385" pageNr="9" tsid="49309169" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GMPTPSTINTGFFMOUUGLKLWUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SEOIJEHKCOTOIIAGPSVQRWLY" imageId="14365543"/>
+    </Metadata>
+    <Page imageFilename="0009_page_2467252_line_r1l32_docId_51514.jpg" imageWidth="712" imageHeight="317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425305100" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 712,0 712,317 0,317"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,171 299,163 334,193 514,185 610,217 612,106 593,101 542,119 327,129 281,107 101,131"/>
+                <Baseline points="113,158 138,157 163,155 189,154 214,153 240,152 265,152 291,152 316,154 342,154 367,154 393,155 418,156 444,156 469,157 495,158 520,160 546,161 571,162 597,164"/>
+                <TextEquiv>
+                    <Unicode>von Längenbühl,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Längenbühl,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

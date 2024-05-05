@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:28:46.017+02:00</Created>
+        <LastChange>2020-09-28T08:36:53.901+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19518996" pageNr="27" tsid="49307238" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QLVXIFGMCAYIESZCKETAAYCT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPSDTVUZCKSAEOIOBCVJUQKO" imageId="15085929"/>
+    </Metadata>
+    <Page imageFilename="0031_page_2456896_line_r1l6_docId_51515.jpg" imageWidth="2350" imageHeight="328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425239349" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2350,0 2350,328 0,328"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,208 2250,190 2249,131 2109,100 100,146 101,208"/>
+                <Baseline points="118,184 223,184 329,184 435,184 540,184 646,182 752,182 857,182 963,180 1069,178 1175,178 1280,176 1386,176 1492,174 1597,174 1703,172 1809,172 1914,170 2020,170 2126,170 2266,176"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="113,144 113,204 159,204 159,144"/>
+                    <TextEquiv>
+                        <Unicode>v.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="182,144 182,204 350,204 350,144"/>
+                    <TextEquiv>
+                        <Unicode>Mts.,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="381,144 381,204 482,204 482,144"/>
+                    <TextEquiv>
+                        <Unicode>nach</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="505,142 505,202 696,202 696,142"/>
+                    <TextEquiv>
+                        <Unicode>welcher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="728,142 728,202 805,202 805,142"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="836,142 836,202 874,202 874,142"/>
+                    <TextEquiv>
+                        <Unicode>im</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="928,138 928,198 1274,198 1274,138"/>
+                    <TextEquiv>
+                        <Unicode>Herwärtigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1327,136 1327,196 1413,196 1413,136"/>
+                    <TextEquiv>
+                        <Unicode>vom</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1474,134 1474,194 1559,194 1559,134"/>
+                    <TextEquiv>
+                        <Unicode>26.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1574,133 1574,193 1690,193 1690,133"/>
+                    <TextEquiv>
+                        <Unicode>abhin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1736,132 1736,192 1751,192 1751,132"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1790,131 1790,191 1836,191 1836,131"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w13" custom="readingOrder {index:12;}">
+                    <Coords points="1851,130 1851,190 1905,190 1905,130"/>
+                    <TextEquiv>
+                        <Unicode>No</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w14" custom="readingOrder {index:13;}">
+                    <Coords points="1935,130 1935,190 2136,190 2136,130"/>
+                    <TextEquiv>
+                        <Unicode>5484/</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w15" custom="readingOrder {index:14;}">
+                    <Coords points="2159,130 2159,190 2236,190 2236,130"/>
+                    <TextEquiv>
+                        <Unicode>er-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>v. Mts., nach welcher der im Herwärtigen vom 26. abhin ( J. No 5454) er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>v. Mts., nach welcher der im Herwärtigen vom 26. abhin ( J. No 5454) er¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

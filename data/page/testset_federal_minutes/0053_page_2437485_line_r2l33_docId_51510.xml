@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:55:41.684+02:00</Created>
+        <LastChange>2020-10-06T07:18:56.201+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750438" pageNr="37" tsid="49310653" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VIGKHGMWRSYTTEOTMSNLBNQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CPSTJILZLVQTBGREKYVFAQPH" imageId="14365596"/>
+    </Metadata>
+    <Page imageFilename="0053_page_2437485_line_r2l33_docId_51510.jpg" imageWidth="992" imageHeight="318">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425372750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 992,0 992,318 0,318"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 229,166 333,177 368,212 423,180 892,178 892,101 733,125 528,125 500,104 389,128 354,100 288,125 239,100 100,117"/>
+                <Baseline points="116,164 153,164 191,164 229,164 267,164 305,166 343,166 381,166 419,166 457,166 495,166 532,166 570,166 608,166 646,166 684,166 722,166 760,166 798,166 836,164 874,164"/>
+                <TextEquiv>
+                    <Unicode>sal übergeben werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sal übergeben werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

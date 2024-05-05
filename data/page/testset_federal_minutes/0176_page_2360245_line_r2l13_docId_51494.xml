@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:46:00.793+02:00</Created>
+        <LastChange>2020-10-11T21:44:28.241+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749724" pageNr="127" tsid="49313775" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CXQLPWYDYIFWMNAKBFHRWRMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNMVHOVHBXKFXGRQWZBOHMYO" imageId="14364900"/>
+    </Metadata>
+    <Page imageFilename="0176_page_2360245_line_r2l13_docId_51494.jpg" imageWidth="2216" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425554984" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2216,0 2216,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,210 432,267 645,211 2116,203 2115,150 1523,158 1379,100 1152,159 100,169"/>
+                <Baseline points="115,208 214,206 313,204 413,204 512,202 612,202 711,202 810,202 910,202 1009,202 1109,202 1208,200 1307,200 1407,200 1506,200 1606,200 1705,200 1804,200 1904,198 2003,198 2103,196"/>
+                <TextEquiv>
+                    <Unicode>Auf ein Gesuch des Großherzogl. Badischen Ministerium vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf ein Gesuch des Großherzogl. Badischen Ministerium vom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

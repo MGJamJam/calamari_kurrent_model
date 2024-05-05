@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:04:26.372+02:00</Created>
+        <LastChange>2020-11-16T14:36:35.685+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744849" pageNr="69" tsid="49319079" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=CCQEEFTERXHECFTDXRCSITHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FWGEHFTVNHLDKUIIZGRXRCSW" imageId="14360240"/>
+    </Metadata>
+    <Page imageFilename="0103_page_314324_line_r2l8_docId_13793.jpg" imageWidth="2139" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426300366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2139,0 2139,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,197 2039,224 2016,109 100,117"/>
+                <Baseline points="112,186 207,184 303,182 399,182 494,180 590,180 686,180 781,178 877,178 973,178 1069,178 1164,178 1260,178 1356,176 1451,176 1547,176 1643,176 1738,175 1834,174 1930,174 2026,172 2063,171"/>
+                <TextEquiv>
+                    <Unicode>Verbauungen, angemeldet und um Genehmigung dersel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verbauungen, angemeldet und um Genehmigung dersel¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

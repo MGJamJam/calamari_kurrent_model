@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:26:02.635+02:00</Created>
+        <LastChange>2020-11-15T17:47:35.238+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745958" pageNr="54" tsid="49318548" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DPHKARSXWPYEJDJJMSSHMHAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUXNSRYXXJPGKNOWGSRESDNY" imageId="14361138"/>
+    </Metadata>
+    <Page imageFilename="0081_page_2300456_line_r1l20_docId_51010.jpg" imageWidth="2415" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426062714" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2415,0 2415,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,181 2315,196 2315,135 2039,110 1908,167 1676,109 100,118"/>
+                <Baseline points="114,173 223,175 332,175 441,175 551,177 660,177 769,179 879,180 988,181 1097,183 1207,183 1316,185 1425,185 1534,187 1644,189 1753,189 1862,191 1972,191 2081,193 2190,193 2300,195"/>
+                <TextEquiv>
+                    <Unicode>Auslieferung eines Philipp Steuffer, von Erlach, der sich in Frühern Mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auslieferung eines Philipp Steuffer, von Erlach, der sich in Frühern Mo¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

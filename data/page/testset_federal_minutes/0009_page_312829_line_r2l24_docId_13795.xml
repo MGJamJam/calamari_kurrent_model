@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:52:22.547+02:00</Created>
+        <LastChange>2020-11-16T11:42:15.347+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744637" pageNr="6" tsid="49319019" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NBHCRRGVVGHGFUBPORRNUXVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPMIUJLEYYOJHHRQKYUFJWSY" imageId="14360028"/>
+    </Metadata>
+    <Page imageFilename="0009_page_312829_line_r2l24_docId_13795.jpg" imageWidth="2070" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426291779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 847,240 1218,187 1307,244 1460,184 1789,236 1970,188 1735,100 1163,155 100,115"/>
+                <Baseline points="113,177 205,179 297,179 389,180 481,181 574,181 666,181 758,181 850,179 942,179 1035,179 1127,179 1219,177 1311,177 1403,177 1496,177 1588,177 1680,177 1772,177 1864,179 1957,181"/>
+                <TextEquiv>
+                    <Unicode>klären, ob sie diesen Antrag annehme oder nicht, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>klären, ob sie diesen Antrag annehme oder nicht, in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

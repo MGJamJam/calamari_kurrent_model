@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:59.581+02:00</Created>
+        <LastChange>2020-11-16T14:43:35.459+01:00</LastChange>
+        <TranskribusMetadata docId="457186" pageId="18744890" pageNr="78" tsid="49319092" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TCJXYVKNLMPEHIUKKDAASGZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKJXQBWWWUPHAGCAQSXOJFKD" imageId="14360281"/>
+    </Metadata>
+    <Page imageFilename="0117_page_311891_line_r2l27_docId_13792.jpg" imageWidth="1831" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426301625" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1831,0 1831,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,252 388,182 596,233 710,188 846,237 1566,203 1730,263 1731,130 100,137"/>
+                <Baseline points="111,191 191,191 271,191 352,191 432,191 513,191 593,191 673,193 754,193 834,193 915,193 995,193 1075,195 1156,195 1236,195 1317,197 1397,197 1477,197 1558,197 1638,199 1719,199 1747,198"/>
+                <TextEquiv>
+                    <Unicode>durch die erwähnte Reduktion, sowie auch dadurch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>durch die erwähnte Reduktion, sowie auch dadurch,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

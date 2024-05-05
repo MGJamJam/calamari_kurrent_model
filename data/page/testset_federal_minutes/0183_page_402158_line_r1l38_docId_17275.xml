@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:18.035+02:00</Created>
+        <LastChange>2020-08-22T11:27:04.926+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749251" pageNr="76" tsid="37763473" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BKDDQSYPPRMEQAVLAFJURURN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IRALUXOAOOKTXXSUPMRTUEJI" imageId="14364427"/>
+    </Metadata>
+    <Page imageFilename="0183_page_402158_line_r1l38_docId_17275.jpg" imageWidth="2293" imageHeight="363">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425636076" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2293,0 2293,363 0,363"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,224 2139,243 2193,161 100,144"/>
+                <Baseline points="112,198 215,198 318,198 422,198 525,198 629,198 732,198 835,198 939,198 1042,198 1146,198 1249,198 1352,198 1456,200 1559,200 1663,200 1766,200 1869,200 1973,200 2076,202 2180,202"/>
+                <TextEquiv>
+                    <Unicode>an die Stelle eines Telegraphisten in Silvaplana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an die Stelle eines Telegraphisten in Silvaplana</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

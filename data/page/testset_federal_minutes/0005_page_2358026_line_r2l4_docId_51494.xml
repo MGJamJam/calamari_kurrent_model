@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:40:05.264+02:00</Created>
+        <LastChange>2020-08-22T11:22:38.302+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749340" pageNr="4" tsid="37761834" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JNJDTXEABNJGJYKYZIUKWRAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFPKTUVVNYAACHLMAOQXFXCZ" imageId="14364516"/>
+    </Metadata>
+    <Page imageFilename="0005_page_2358026_line_r2l4_docId_51494.jpg" imageWidth="840" imageHeight="691">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425537796" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 840,0 840,691 0,691"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="102,553 598,530 675,591 740,539 736,143 659,100 310,456 147,452 100,426"/>
+                <Baseline points="115,526 145,526 176,526 206,526 237,526 268,525 298,524 329,524 359,524 390,522 421,522 451,522 482,522 512,520 543,520 574,520 604,520 635,522 665,522 696,522 727,524"/>
+                <TextEquiv>
+                    <Unicode>Ehrleiten in Servitut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ehrleiten in Servitut</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

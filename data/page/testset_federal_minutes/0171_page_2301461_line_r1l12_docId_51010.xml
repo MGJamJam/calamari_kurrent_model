@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:29:07.027+02:00</Created>
+        <LastChange>2020-11-15T18:19:21.889+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18746159" pageNr="118" tsid="49318594" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KEANGJKAFNXFWMWJBMZAKTEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPDVGIHHULJJVRLKPNIZSQUB" imageId="14361339"/>
+    </Metadata>
+    <Page imageFilename="0171_page_2301461_line_r1l12_docId_51010.jpg" imageWidth="2354" imageHeight="331">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426071719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2354,0 2354,331 0,331"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,228 2254,216 2184,109 101,100"/>
+                <Baseline points="114,174 220,174 326,176 432,176 539,177 645,178 751,178 858,178 964,180 1070,180 1177,180 1283,180 1389,180 1495,180 1602,182 1708,182 1814,182 1921,182 2027,184 2133,184 2240,184 2290,184"/>
+                <TextEquiv>
+                    <Unicode>P. A. an das Departement zur Vollziehung unter Rückschluß der Akten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P. A. an das Departement zur Vollziehung unter Rückschluß der Akten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:07:42.255+02:00</Created>
+        <LastChange>2020-08-22T11:16:21.534+02:00</LastChange>
+        <TranskribusMetadata docId="457242" pageId="18748018" pageNr="8" tsid="37759474" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VMYAHDFDDKLYTKOVGZGOACNX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFMIMOXWOXCRPQLKXBQBFMOD" imageId="14363198"/>
+    </Metadata>
+    <Page imageFilename="0011_page_393223_line_r2l11_docId_17265.jpg" imageWidth="2354" imageHeight="368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425762274" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2354,0 2354,368 0,368"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,238 1796,253 2254,223 2253,110 854,181 100,131"/>
+                <Baseline points="115,214 221,212 327,210 433,210 540,208 646,208 752,208 859,208 965,206 1071,206 1178,206 1284,206 1390,204 1496,204 1603,203 1709,202 1815,200 1922,198 2028,196 2134,194 2241,190"/>
+                <TextEquiv>
+                    <Unicode>3) denselben die in solchen Fällen üblichen Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3) denselben die in solchen Fällen üblichen Be¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

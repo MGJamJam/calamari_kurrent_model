@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:19:29.545+02:00</Created>
+        <LastChange>2020-11-16T07:58:11.936+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745568" pageNr="98" tsid="49318816" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KNZEJSNHCTXQFJFVRKFYWYHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DZATZOUOFSYKOTUJLVTUSQIF" imageId="14360748"/>
+    </Metadata>
+    <Page imageFilename="0112_page_2251288_line_r4l16_docId_51001.jpg" imageWidth="2505" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426196607" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2505,0 2505,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,178 487,244 2077,254 2374,245 2405,167 101,138"/>
+                <Baseline points="114,163 227,168 341,173 455,177 568,179 682,183 796,186 909,189 1023,191 1137,193 1251,197 1364,199 1478,201 1592,205 1705,207 1819,210 1933,213 2046,217 2160,221 2274,227 2388,231"/>
+                <TextEquiv>
+                    <Unicode>vember thun werde; er sucht am Remboursement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vember thun werde; er sucht am Remboursement</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

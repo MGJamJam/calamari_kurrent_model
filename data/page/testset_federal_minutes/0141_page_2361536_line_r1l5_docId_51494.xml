@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:52.238+02:00</Created>
+        <LastChange>2020-10-11T21:31:22.545+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749654" pageNr="107" tsid="49313716" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MRXNWKAAOYONZRCXOOAQZTYB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQAWCZKDSDTLFNDGRWCYLMAW" imageId="14364830"/>
+    </Metadata>
+    <Page imageFilename="0141_page_2361536_line_r1l5_docId_51494.jpg" imageWidth="663" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425552363" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 663,0 663,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,232 179,185 240,198 295,238 443,239 475,206 563,197 562,101 521,126 480,110 452,130 367,111 289,156 184,100 151,103 100,142"/>
+                <Baseline points="113,184 138,184 164,182 189,180 215,180 241,178 266,178 292,178 318,178 343,178 369,178 395,178 420,178 446,178 472,178 497,178 523,177 549,176"/>
+                <TextEquiv>
+                    <Unicode>Heimathörigkeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Heimathörigkeit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

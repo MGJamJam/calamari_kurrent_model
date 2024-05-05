@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:33:53.573+02:00</Created>
+        <LastChange>2020-09-28T11:02:31.332+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519159" pageNr="141" tsid="49307784" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BQVVUWUZUAHFPXGOJOYECGUH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADVNUILUDEQLNEELSHWGNMDG" imageId="15086092"/>
+    </Metadata>
+    <Page imageFilename="0194_page_2456896_line_r1l2_docId_51515.jpg" imageWidth="800" imageHeight="387">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425256831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 800,0 800,387 0,387"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="107,258 190,287 254,254 323,278 374,246 432,240 456,259 540,239 613,275 654,237 700,241 695,141 651,172 225,191 126,100 100,102 107,258"/>
+                <Baseline points="124,250 152,249 180,247 208,246 236,243 264,242 292,240 320,240 348,238 376,237 404,235 432,234 460,232 488,232 516,231 544,230 572,229 600,228 628,228 656,226 684,226"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="130,198 130,258 540,258 540,198"/>
+                    <TextEquiv>
+                        <Unicode>Rechtsverhältniße</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="567,188 567,248 625,248 625,188"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="638,186 638,246 710,246 710,186"/>
+                    <TextEquiv>
+                        <Unicode>o¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Rechtsverhältniße der Ho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rechtsverhältniße der Ho¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:47:52.476+02:00</Created>
+        <LastChange>2020-10-08T08:03:54.206+02:00</LastChange>
+        <TranskribusMetadata docId="457257" pageId="18749852" pageNr="39" tsid="49312301" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=SOAMFWFIXSBJNNELLBEJHGVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULJBLAVDFNKWEJUMNMPAXNKM" imageId="14365024"/>
+    </Metadata>
+    <Page imageFilename="0059_page_2351275_line_r1l12_docId_51496.jpg" imageWidth="1623" imageHeight="356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425484359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1623,0 1623,356 0,356"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 267,241 808,205 890,256 942,204 1353,201 1523,160 1523,115 560,148 354,100 100,144"/>
+                <Baseline points="118,196 187,196 257,198 326,198 396,198 465,197 535,196 604,196 674,196 743,196 813,194 882,194 952,193 1021,192 1091,192 1160,190 1230,190 1299,190 1369,190 1438,190 1508,190"/>
+                <TextEquiv>
+                    <Unicode>Auf Hierseitiges vom 13. Juni a. p. /:. P. Nr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf Hierseitiges vom 13. Juni a. p. /:. P. Nr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:25:30.422+02:00</Created>
+        <LastChange>2020-11-15T17:42:00.657+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745923" pageNr="43" tsid="49318539" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=TJRRAZIEXQWWGNSJGCNZCCZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EZTNOOPJFGDQILHUCWLSIMOU" imageId="14361103"/>
+    </Metadata>
+    <Page imageFilename="0065_page_2269570_line_r3l5_docId_51007.jpg" imageWidth="2301" imageHeight="297">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426061101" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2301,0 2301,297 0,297"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,173 2201,192 2200,121 2105,103 100,113"/>
+                <Baseline points="115,164 218,162 322,162 425,162 529,162 633,162 736,162 840,162 943,160 1047,160 1151,160 1254,160 1358,160 1461,158 1565,158 1669,158 1772,158 1876,156 1979,156 2083,156 2187,154"/>
+                <TextEquiv>
+                    <Unicode>dem nach Havre abgehenden Segelschiffe vor übergeben habe (Nr. 4956 aufs)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dem nach Havre abgehenden Segelschiffe vor übergeben habe (Nr. 4956 aufs)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:05:00.132+02:00</Created>
+        <LastChange>2020-11-16T09:46:56.045+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744864" pageNr="13" tsid="49318881" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HWQUEDKHDXWNIOIAFDYFRFAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MOINTVUUVPJKWOASTTQBJPZL" imageId="14360255"/>
+    </Metadata>
+    <Page imageFilename="0021_page_372531_line_r1l19_docId_17239.jpg" imageWidth="2000" imageHeight="334">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426240018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2000,0 2000,334 0,334"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,199 1900,209 1900,133 1819,101 1281,149 1203,100 1075,149 100,116"/>
+                <Baseline points="112,171 200,173 289,175 378,175 467,177 556,177 644,177 733,177 822,177 911,177 1000,177 1088,177 1177,177 1266,177 1355,177 1444,177 1532,177 1621,177 1710,177 1799,177 1888,177"/>
+                <TextEquiv>
+                    <Unicode>tament (Postableibung z. K. unter Beschluβ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tament (Postableibung z. K. unter Beschluβ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

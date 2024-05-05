@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:13:32.759+02:00</Created>
+        <LastChange>2020-08-22T07:37:47.268+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745300" pageNr="97" tsid="37715631" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZBOWOYZSNWSZOLLAWOWRNDIU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IYSDUHAJFCVXTPFZHNAYAURG" imageId="14360484"/>
+    </Metadata>
+    <Page imageFilename="0168_page_370736_line_r2l27_docId_17242.jpg" imageWidth="2099" imageHeight="330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426251635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2099,0 2099,330 0,330"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,190 1998,225 1949,138 101,121"/>
+                <Baseline points="113,173 206,173 300,175 394,175 487,177 581,177 675,179 768,180 862,181 956,183 1050,183 1143,185 1237,185 1331,187 1424,187 1518,189 1612,189 1705,189 1799,191 1893,191 1987,191"/>
+                <TextEquiv>
+                    <Unicode>Stationsvorstand Gribi ohne Entschädigung, dagegen die übrigen 5 An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stationsvorstand Gribi ohne Entschädigung, dagegen die übrigen 5 An</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:24:24.971+02:00</Created>
+        <LastChange>2020-11-15T17:31:12.636+01:00</LastChange>
+        <TranskribusMetadata docId="457212" pageId="18745856" pageNr="21" tsid="49318525" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=WRXIXEEUXZHBJVVTEELQUEIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EIILZSMXVAFUMBORZPQKZASP" imageId="14361036"/>
+    </Metadata>
+    <Page imageFilename="0034_page_2294581_line_r2l20_docId_51010.jpg" imageWidth="2395" imageHeight="339">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426057830" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2395,0 2395,339 0,339"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,191 2295,217 2295,106 101,102"/>
+                <Baseline points="113,181 221,181 329,181 438,183 546,183 655,183 763,183 871,185 980,185 1088,185 1197,187 1305,187 1413,187 1522,187 1630,187 1739,187 1847,187 1955,187 2064,187 2172,187 2281,185 2337,187"/>
+                <TextEquiv>
+                    <Unicode>Kenntniß der Aktenlage u. den von H. Kern erhaltenen Auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kenntniß der Aktenlage u. den von H. Kern erhaltenen Auf¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

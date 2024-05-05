@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:26:10.132+02:00</Created>
+        <LastChange>2020-08-22T11:22:21.136+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18748702" pageNr="8" tsid="37761749" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NCTATHZCGVDJSXOFDCYPVENB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUWPJXUFVABBVRJNNGDZHGRS" imageId="14363882"/>
+    </Metadata>
+    <Page imageFilename="0017_page_401525_line_r2l15_docId_17276.jpg" imageWidth="2283" imageHeight="382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425626270" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2283,0 2283,382 0,382"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,282 317,210 999,273 1229,209 2183,230 2183,124 1144,103 829,175 697,107 399,166 327,100 100,167"/>
+                <Baseline points="115,203 217,203 320,203 423,204 525,205 628,205 731,205 833,203 936,203 1039,203 1142,203 1244,203 1347,201 1450,201 1552,201 1655,199 1758,199 1860,199 1963,198 2066,197 2169,197"/>
+                <TextEquiv>
+                    <Unicode>in Thun wird genehmigt und bis auf weiteres in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>in Thun wird genehmigt und bis auf weiteres in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

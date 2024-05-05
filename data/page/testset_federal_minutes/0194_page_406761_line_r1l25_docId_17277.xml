@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:59.505+02:00</Created>
+        <LastChange>2020-08-22T11:27:23.395+02:00</LastChange>
+        <TranskribusMetadata docId="457248" pageId="18749289" pageNr="81" tsid="37763622" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BVWKTCSISWGPMONGIPPQCJMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZMDUCHVANIVPIOYTJWNIHWSL" imageId="14364465"/>
+    </Metadata>
+    <Page imageFilename="0194_page_406761_line_r1l25_docId_17277.jpg" imageWidth="2328" imageHeight="374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425636746" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2328,0 2328,374 0,374"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 2228,233 2228,113 1899,100 101,155"/>
+                <Baseline points="117,194 221,194 326,194 431,196 535,196 640,196 745,196 849,196 954,196 1059,194 1164,194 1268,194 1373,194 1478,194 1582,194 1687,194 1792,196 1896,196 2001,198 2106,198 2211,200"/>
+                <TextEquiv>
+                    <Unicode>Februar 1902 vorgelegten Prämientarif für Einzel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Februar 1902 vorgelegten Prämientarif für Einzel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

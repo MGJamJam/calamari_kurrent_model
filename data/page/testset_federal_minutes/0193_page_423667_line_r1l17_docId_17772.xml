@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:38.849+02:00</Created>
+        <LastChange>2020-08-22T11:27:53.594+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749639" pageNr="90" tsid="37763856" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QGUYACPAOBJFIRXAYNMPHRCJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIDNJGMUHGFBZIONRTLBZBAP" imageId="14364815"/>
+    </Metadata>
+    <Page imageFilename="0193_page_423667_line_r1l17_docId_17772.jpg" imageWidth="2538" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425598037" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2538,0 2538,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,207 2438,252 2438,132 2199,106 100,154"/>
+                <Baseline points="114,199 229,199 345,199 460,199 576,200 691,200 807,200 922,200 1038,200 1153,200 1269,200 1384,200 1500,200 1615,200 1731,200 1846,200 1962,200 2077,200 2193,200 2308,200 2424,200"/>
+                <TextEquiv>
+                    <Unicode>von der dem Bunde durch Art. 35 des Gesetzes auferlegten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von der dem Bunde durch Art. 35 des Gesetzes auferlegten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

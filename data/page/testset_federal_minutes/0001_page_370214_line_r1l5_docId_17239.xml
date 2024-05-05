@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:03:50.768+02:00</Created>
+        <LastChange>2020-08-25T08:24:59.109+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18744824" pageNr="1" tsid="38150142" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=IOIYFWRCZJLTLUCBOEWJYAJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDMIKHOYVCYCGVSCURJAOPYD" imageId="14360215"/>
+    </Metadata>
+    <Page imageFilename="0001_page_370214_line_r1l5_docId_17239.jpg" imageWidth="2115" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426238395" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2115,0 2115,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,236 998,198 1179,252 1482,191 1993,241 2015,122 100,164"/>
+                <Baseline points="112,192 206,192 301,190 395,190 490,190 585,190 679,190 774,188 868,188 963,188 1058,188 1152,188 1247,187 1341,186 1436,186 1531,186 1625,186 1720,186 1814,186 1909,186 2004,184"/>
+                <TextEquiv>
+                    <Unicode>gesetzes über Jagd und Vogelschutz vom 17. September</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gesetzes über Jagd und Vogelschutz vom 17. September</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

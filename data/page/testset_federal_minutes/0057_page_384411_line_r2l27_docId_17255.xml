@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:44:05.894+02:00</Created>
+        <LastChange>2020-11-09T17:12:46.272+01:00</LastChange>
+        <TranskribusMetadata docId="457236" pageId="18746969" pageNr="32" tsid="49318204" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QMSTVGPJRHLQYOOCDOZLRBFA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOYWJFBWRZPHJLWWLLAQJKWE" imageId="14362149"/>
+    </Metadata>
+    <Page imageFilename="0057_page_384411_line_r2l27_docId_17255.jpg" imageWidth="2059" imageHeight="312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425893201" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2059,0 2059,312 0,312"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,203 1825,205 1959,176 1959,114 100,127"/>
+                <Baseline points="111,176 202,174 294,174 386,173 478,171 570,171 661,170 753,170 845,168 937,168 1029,167 1120,167 1212,167 1304,165 1396,165 1488,165 1579,164 1671,164 1763,164 1855,163 1947,162 1968,164"/>
+                <TextEquiv>
+                    <Unicode>den Karmelitergeist in der N. 13. zu 20/21 des Gebrauchstarifs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den Karmelitergeist in der N. 13. zu 20/21 des Gebrauchstarifs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

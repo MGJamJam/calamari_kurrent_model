@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:34:26.960+02:00</Created>
+        <LastChange>2020-08-22T11:17:03.430+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746458" pageNr="52" tsid="37759791" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EBIOBANKWTVTXMAUOEVFEEKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CMSZISYSDYPZAOXCAPETOQMP" imageId="14361638"/>
+    </Metadata>
+    <Page imageFilename="0078_page_379314_line_r1l25_docId_17248.jpg" imageWidth="2184" imageHeight="324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425952870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2184,0 2184,324 0,324"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,208 2084,189 2084,133 1961,105 100,112"/>
+                <Baseline points="115,168 212,168 310,168 408,168 505,168 603,168 701,168 798,168 896,168 994,168 1092,168 1189,168 1287,168 1385,168 1482,168 1580,168 1678,170 1775,170 1873,170 1971,170 2069,170"/>
+                <TextEquiv>
+                    <Unicode>es konnten daher jeweilen nur die dringenderen Reparaturen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>es konnten daher jeweilen nur die dringenderen Reparaturen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-22T00:00:35.933+02:00</Created>
+        <LastChange>2020-09-21T15:46:48.700+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750822" pageNr="130" tsid="49309795" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=RAWWKIMLLEOKJGMDHVHSNUJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JOAERGHITUGNQNRPHNDIEBGF" imageId="14365980"/>
+    </Metadata>
+    <Page imageFilename="0181_page_2473909_line_r1l2_docId_51514.jpg" imageWidth="741" imageHeight="308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425322208" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 741,0 741,308 0,308"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,200 135,208 177,176 664,173 663,99 606,100 584,123 519,104 497,127 460,128 432,103 333,104 297,138 100,141"/>
+                <Baseline points="116,173 141,171 167,169 192,169 218,167 244,167 269,165 295,165 320,165 346,165 372,165 397,165 423,165 448,165 474,165 500,165 525,165 551,164 576,163 602,163 657,161"/>
+                <TextEquiv>
+                    <Unicode>genant Derial,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>genant Derial,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

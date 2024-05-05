@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:42:55.824+02:00</Created>
+        <LastChange>2020-11-18T16:02:43.760+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744406" pageNr="38" tsid="49319328" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HAOPXEBHXATTAKNKQMTGIJSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNZJSAMTTKOIBTGESWEJLRZL" imageId="14359797"/>
+    </Metadata>
+    <Page imageFilename="0062_page_304411_line_r1l31_docId_13780.jpg" imageWidth="2172" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426413500" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2172,0 2172,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,229 505,198 719,267 951,202 1565,247 1915,199 2071,258 2072,143 1937,165 1855,101 1752,157 101,117"/>
+                <Baseline points="113,189 210,191 307,191 404,191 502,191 599,191 696,191 794,191 891,191 988,191 1086,191 1183,191 1280,191 1377,193 1475,193 1572,193 1669,193 1767,193 1864,195 1961,195 2059,195"/>
+                <TextEquiv>
+                    <Unicode>Protokollauszug ans Departement zur Kennt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Protokollauszug ans Departement zur Kennt¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

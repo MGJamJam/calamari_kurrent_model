@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:39:42.858+02:00</Created>
+        <LastChange>2020-08-22T11:20:25.931+02:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746759" pageNr="122" tsid="37761203" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=KYWAKYPTNMWRTHNIMSPMAPWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISGRTREASPDBCNSGAQYHYHEU" imageId="14361939"/>
+    </Metadata>
+    <Page imageFilename="0183_page_376569_line_r2l4_docId_17246.jpg" imageWidth="2152" imageHeight="354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425963548" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2152,0 2152,354 0,354"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,216 1289,197 1696,254 2052,204 1759,125 274,153 100,100"/>
+                <Baseline points="113,179 209,181 305,183 401,183 498,183 594,185 690,185 787,185 883,185 979,185 1076,185 1172,185 1268,185 1364,185 1461,185 1557,187 1653,189 1750,191 1846,193 1942,196 2039,199"/>
+                <TextEquiv>
+                    <Unicode>toment, falls dieses angezeigt erscheint, als dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>toment, falls dieses angezeigt erscheint, als dann</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

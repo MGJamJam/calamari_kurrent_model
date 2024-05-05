@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:19:09.522+02:00</Created>
+        <LastChange>2020-08-22T11:25:28.909+02:00</LastChange>
+        <TranskribusMetadata docId="457243" pageId="18748443" pageNr="136" tsid="37762843" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=JPDAAEVGAESTCBBWYHFMTZAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AUWGTEZGGQIXXRDQHRYBPMLC" imageId="14363623"/>
+    </Metadata>
+    <Page imageFilename="0141_page_395791_line_r2l31_docId_17271.jpg" imageWidth="1707" imageHeight="357">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425723710" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1707,0 1707,357 0,357"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,235 1266,199 1428,257 1607,214 1606,141 1419,148 1363,101 1171,155 941,100 841,156 100,131"/>
+                <Baseline points="116,202 189,199 263,196 337,194 411,194 485,192 558,192 632,192 706,192 780,192 854,192 927,192 1001,192 1075,192 1149,192 1223,192 1296,192 1370,192 1444,190 1518,190 1592,188"/>
+                <TextEquiv>
+                    <Unicode>4) Georg Laskos aus Athen, in Zugano;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4) Georg Laskos aus Athen, in Zugano;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

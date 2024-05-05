@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:56:36.106+02:00</Created>
+        <LastChange>2020-08-22T11:30:19.145+02:00</LastChange>
+        <TranskribusMetadata docId="457271" pageId="18750511" pageNr="43" tsid="49309317" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=HONCJDJSNTGDFHDOKNMAKNSX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQMJPZAWTKBACLAXLRYIZFXO" imageId="14365669"/>
+    </Metadata>
+    <Page imageFilename="0057_page_2457508_line_r2l27_docId_51514.jpg" imageWidth="751" imageHeight="346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425309878" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 751,0 751,346 0,346"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,203 187,196 236,245 297,215 373,246 404,229 478,244 524,200 651,203 651,110 596,113 547,159 467,126 396,164 319,100 261,149 168,119 100,151"/>
+                <Baseline points="114,188 140,189 166,190 192,190 218,190 245,191 271,192 297,192 323,192 349,192 376,194 402,194 428,194 454,194 480,194 507,194 533,193 559,192 585,191 611,190 638,188"/>
+                <TextEquiv>
+                    <Unicode>An Genf z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Genf z. B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

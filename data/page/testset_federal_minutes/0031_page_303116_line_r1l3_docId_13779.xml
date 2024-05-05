@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:41:13.907+02:00</Created>
+        <LastChange>2020-08-21T22:02:00.421+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744356" pageNr="19" tsid="37655073" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=XOWEQBYQLTQBNBAAPUJSJLAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BMPXVNIRVIWGLSEPDPZHWGIE" imageId="14359751"/>
+    </Metadata>
+    <Page imageFilename="0031_page_303116_line_r1l3_docId_13779.jpg" imageWidth="1169" imageHeight="360">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426410732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1169,0 1169,360 0,360"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,238 191,260 500,191 832,240 868,205 930,224 1069,191 1069,146 993,121 764,157 681,100 575,161 505,158 389,103 321,142 100,160"/>
+                <Baseline points="113,188 160,188 207,188 254,188 301,188 348,188 395,188 442,188 489,188 536,188 584,188 631,188 678,188 725,186 772,186 819,186 866,186 913,186 960,184 1007,184 1055,184"/>
+                <TextEquiv>
+                    <Unicode>noch sehr in Frage stehe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>noch sehr in Frage stehe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

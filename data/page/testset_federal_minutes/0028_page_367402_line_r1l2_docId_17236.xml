@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:10.642+02:00</Created>
+        <LastChange>2020-11-12T07:04:44.043+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746325" pageNr="16" tsid="49318394" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VLLBEKKMPEQZYKMSVBHADDPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVPHXSYKPJQXQDZXJWNFAKHV" imageId="14361505"/>
+    </Metadata>
+    <Page imageFilename="0028_page_367402_line_r1l2_docId_17236.jpg" imageWidth="2053" imageHeight="376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426000754" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2053,0 2053,376 0,376"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,264 1551,205 1859,276 1953,264 1953,139 100,136"/>
+                <Baseline points="112,211 203,209 295,207 386,205 478,203 569,203 661,203 752,201 844,201 935,201 1027,201 1118,201 1210,203 1301,203 1393,203 1484,203 1576,203 1667,205 1759,205 1850,205 1942,205"/>
+                <TextEquiv>
+                    <Unicode>stehe dem Funktioniren des leztern als Zi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>stehe dem Funktioniren des leztern als Zi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

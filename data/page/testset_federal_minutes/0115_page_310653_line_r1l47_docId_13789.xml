@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:54:05.213+02:00</Created>
+        <LastChange>2020-08-21T22:15:15.942+02:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744659" pageNr="69" tsid="37657226" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NSORGVHDKLDSQMLKGNJNGIKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVTDNKUQPWDLYHJJNKYUAAFO" imageId="14360050"/>
+    </Metadata>
+    <Page imageFilename="0115_page_310653_line_r1l47_docId_13789.jpg" imageWidth="2193" imageHeight="382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426358121" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2193,0 2193,382 0,382"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,264 1724,268 2093,240 2093,172 472,180 100,103"/>
+                <Baseline points="116,200 214,204 312,208 410,210 508,212 606,213 704,214 802,214 900,214 998,212 1097,212 1195,210 1293,210 1391,208 1489,208 1587,207 1685,206 1783,206 1881,206 1979,208 2078,208"/>
+                <TextEquiv>
+                    <Unicode>Kapital der ausgelosten Obligationen ausbezahlt worden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kapital der ausgelosten Obligationen ausbezahlt worden,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

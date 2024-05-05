@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:32:28.321+02:00</Created>
+        <LastChange>2020-11-12T07:06:54.381+01:00</LastChange>
+        <TranskribusMetadata docId="457224" pageId="18746343" pageNr="19" tsid="49318397" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ERAWQOBULHTSLHUWKEWPDSPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJNIOTNQKXPKBKWDVCBKCTXM" imageId="14361523"/>
+    </Metadata>
+    <Page imageFilename="0033_page_367097_line_r1l7_docId_17237.jpg" imageWidth="1965" imageHeight="327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426001103" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1965,0 1965,327 0,327"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,188 1865,220 1865,128 1627,100 1229,151 1102,106 100,120"/>
+                <Baseline points="112,176 199,174 286,174 373,174 460,174 547,174 634,174 721,174 808,173 895,173 982,173 1069,174 1156,174 1243,174 1330,174 1417,174 1504,174 1591,175 1678,176 1765,176 1853,176"/>
+                <TextEquiv>
+                    <Unicode>übersandten Untersuchungsakten des Parisar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>übersandten Untersuchungsakten des Parisar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

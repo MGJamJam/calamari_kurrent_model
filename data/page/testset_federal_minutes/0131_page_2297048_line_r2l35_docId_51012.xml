@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:44:29.325+02:00</Created>
+        <LastChange>2020-10-11T21:26:57.815+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749630" pageNr="98" tsid="49313698" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FYVCTXQTMNWHDKYKNJMAIWLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KNQBBMMPGALDRGRVFSDDGOSO" imageId="14364806"/>
+    </Metadata>
+    <Page imageFilename="0131_page_2297048_line_r2l35_docId_51012.jpg" imageWidth="908" imageHeight="329">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425551015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 908,0 908,329 0,329"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,180 535,181 612,193 656,229 714,188 807,186 808,129 601,140 464,100 401,138 357,108 282,135 211,131 167,100 101,136"/>
+                <Baseline points="113,170 147,169 181,168 215,168 249,168 283,170 317,170 351,170 385,170 419,172 454,172 488,172 522,174 556,174 590,174 624,174 658,174 692,174 726,174 760,172 795,172"/>
+                <TextEquiv>
+                    <Unicode>kation des Bundesrathes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kation des Bundesrathes.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:54:07.724+02:00</Created>
+        <LastChange>2020-10-06T06:56:20.038+02:00</LastChange>
+        <TranskribusMetadata docId="457270" pageId="18750334" pageNr="10" tsid="49310551" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QTWTQESOTUATNPNGVMYTYFGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPNXXFDDQTAKUILEKKXJGTHE" imageId="14365492"/>
+    </Metadata>
+    <Page imageFilename="0011_page_2434876_line_r1l13_docId_51508.jpg" imageWidth="2372" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425368981" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2372,0 2372,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,189 2272,217 2272,158 1899,113 100,146"/>
+                <Baseline points="113,177 220,177 327,177 434,177 542,177 649,177 756,177 864,177 971,175 1078,175 1186,175 1293,175 1400,175 1507,175 1615,175 1722,177 1829,179 1937,181 2044,183 2151,185 2259,189"/>
+                <TextEquiv>
+                    <Unicode>betreffend die Veräußerung der Bibliothek des Verstorbenen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>betreffend die Veräußerung der Bibliothek des Verstorbenen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

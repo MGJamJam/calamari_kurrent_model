@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:27
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.2.8:model_id=26068:lm=none:date=22_09_2020_15:26
+Transkribus</Creator>
+        <Created>2020-09-07T10:32:56.781+02:00</Created>
+        <LastChange>2020-09-22T15:27:41.397+02:00</LastChange>
+        <TranskribusMetadata docId="471755" pageId="19519127" pageNr="122" tsid="49307690" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=GYPSCOJUOIGTGXUUSQCCVQMC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTYAFVEVOZJJWYZZUFJJHAWN" imageId="15086060"/>
+    </Metadata>
+    <Page imageFilename="0162_page_2456995_line_r2l6_docId_51515.jpg" imageWidth="1209" imageHeight="319">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425253731" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1209,0 1209,319 0,319"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,170 328,211 406,178 615,203 745,178 810,219 881,178 1109,178 1109,110 100,129 100,170"/>
+                <Baseline points="113,176 162,174 211,172 260,172 309,172 358,172 407,172 456,172 505,172 554,172 604,172 653,172 702,172 751,174 800,174 849,174 898,174 947,174 996,172 1045,172 1095,170"/>
+                <Word id="r1_l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="123,132 123,192 451,192 451,132"/>
+                    <TextEquiv>
+                        <Unicode>Anwesend</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="511,132 511,192 620,192 620,132"/>
+                    <TextEquiv>
+                        <Unicode>alle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1_l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="688,134 688,194 1101,194 1101,134"/>
+                    <TextEquiv>
+                        <Unicode>Mitglieder.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Anwesend alle Mitglieder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

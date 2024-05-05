@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:03.264+02:00</Created>
+        <LastChange>2020-08-22T11:23:33.347+02:00</LastChange>
+        <TranskribusMetadata docId="457256" pageId="18749403" pageNr="26" tsid="37762126" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=EHZEZHIUVDKDLWIPMIHJOWXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BAIIUKJQWDOKERBLEFGKBPZP" imageId="14364579"/>
+    </Metadata>
+    <Page imageFilename="0031_page_2308413_line_r2l4_docId_51012.jpg" imageWidth="756" imageHeight="336">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425540910" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 756,0 756,336 0,336"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,227 150,236 192,195 244,209 294,193 465,198 500,232 572,194 655,190 656,135 209,140 138,100 102,111"/>
+                <Baseline points="115,185 141,183 167,183 193,183 220,183 246,183 272,183 299,185 325,185 351,186 378,187 404,187 430,188 456,189 483,189 509,189 535,189 562,189 588,188 614,187 641,185"/>
+                <TextEquiv>
+                    <Unicode>Expropriationsverfahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Expropriationsverfahren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

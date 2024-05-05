@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:12:59.731+02:00</Created>
+        <LastChange>2020-08-22T07:37:27.406+02:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745284" pageNr="90" tsid="37715569" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=ZOEEPHBQROHLEFLFJZCFHUBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILEAITDEDGOUQHPACFDFIBPL" imageId="14360468"/>
+    </Metadata>
+    <Page imageFilename="0158_page_372181_line_r2l34_docId_17239.jpg" imageWidth="2048" imageHeight="332">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426250781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2048,0 2048,332 0,332"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,218 1948,210 1948,156 1821,120 1549,102 1173,162 100,113"/>
+                <Baseline points="112,192 203,191 294,191 385,189 476,189 568,188 659,188 750,188 841,188 932,186 1024,186 1115,186 1206,186 1297,186 1388,186 1480,185 1571,185 1662,185 1753,183 1844,183 1936,183"/>
+                <TextEquiv>
+                    <Unicode>das Departement wird nun ermächtigt, Hrn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das Departement wird nun ermächtigt, Hrn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

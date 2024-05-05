@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:35:52.495+02:00</Created>
+        <LastChange>2020-11-10T08:03:22.729+01:00</LastChange>
+        <TranskribusMetadata docId="457225" pageId="18746540" pageNr="72" tsid="49318323" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=VBYNPOXOARMUJHALMAXAMADE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJRFWBNIXYGKJBVCEQFJNDZI" imageId="14361720"/>
+    </Metadata>
+    <Page imageFilename="0107_page_376237_line_r2l4_docId_17245.jpg" imageWidth="1062" imageHeight="335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425956036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1062,0 1062,335 0,335"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,223 359,196 486,234 727,202 961,225 962,147 920,137 612,163 539,138 437,165 346,106 102,117"/>
+                <Baseline points="114,185 155,187 197,189 239,189 281,191 323,191 364,191 406,193 448,193 490,193 532,193 573,195 615,195 657,195 699,195 741,197 782,197 824,199 866,199 908,201 950,201"/>
+                <TextEquiv>
+                    <Unicode>Vormittags 9 - 11 3/4 Uhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vormittags 9 - 11 3/4 Uhr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:21:55.065+02:00</Created>
+        <LastChange>2020-11-16T08:35:56.294+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745722" pageNr="152" tsid="49318852" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=QIWJLMXXDVLENJPFHQSIDTEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JOBOUEMBLOJUKXCLWZFLHNDB" imageId="14360902"/>
+    </Metadata>
+    <Page imageFilename="0183_page_2253535_line_r1l9_docId_51002.jpg" imageWidth="2499" imageHeight="367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426204130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2499,0 2499,367 0,367"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,239 1780,222 2399,134 100,175"/>
+                <Baseline points="115,216 228,212 342,208 455,204 569,202 682,198 796,196 909,194 1023,194 1136,192 1250,190 1363,189 1477,188 1590,186 1704,186 1817,184 1931,182 2044,182 2158,180 2271,178 2385,174"/>
+                <TextEquiv>
+                    <Unicode>größerer Wohnlichkeit, sehr zu wünschen, daß unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>größerer Wohnlichkeit, sehr zu wünschen, daß unter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

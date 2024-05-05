@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:01:35.775+02:00</Created>
+        <LastChange>2020-11-17T08:08:58.652+01:00</LastChange>
+        <TranskribusMetadata docId="457178" pageId="18744787" pageNr="114" tsid="49319287" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MRTWVYQRUJDCGYJGVEIONTIK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KKNHJHYWMGMRMBDYZTJQDDZF" imageId="14360178"/>
+    </Metadata>
+    <Page imageFilename="0183_page_307413_line_r1l7_docId_13786.jpg" imageWidth="2070" imageHeight="350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426364036" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2070,0 2070,350 0,350"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,232 992,192 1151,243 1444,188 1559,242 1695,188 1855,234 1970,203 1970,126 100,150"/>
+                <Baseline points="113,185 205,185 297,185 389,183 481,183 574,183 666,183 758,183 850,183 942,183 1035,181 1127,181 1219,181 1311,181 1403,181 1496,181 1588,181 1680,181 1772,181 1864,183 1957,183"/>
+                <TextEquiv>
+                    <Unicode>gewesenen Nikfabrikanten in Zihlschlacht, zu verlangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gewesenen Nikfabrikanten in Zihlschlacht, zu verlangen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

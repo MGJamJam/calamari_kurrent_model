@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:58:31.197+02:00</Created>
+        <LastChange>2020-08-22T11:18:50.475+02:00</LastChange>
+        <TranskribusMetadata docId="457237" pageId="18747642" pageNr="65" tsid="37760601" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OIRMJTOFYUQBFOSXXPIRIOFM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FJLPGCCTDIMGCBIORWTJLVAY" imageId="14362822"/>
+    </Metadata>
+    <Page imageFilename="0139_page_386353_line_r1l11_docId_17258.jpg" imageWidth="2246" imageHeight="385">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425852999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2246,0 2246,385 0,385"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,250 221,212 321,275 421,214 492,285 571,229 711,273 785,210 911,278 1572,214 1649,269 1764,208 2146,212 2001,102 1862,160 1240,100 848,181 637,118 100,165"/>
+                <Baseline points="114,204 214,204 315,205 416,206 517,206 618,206 719,206 820,204 921,204 1022,203 1123,202 1223,202 1324,200 1425,200 1526,200 1627,198 1728,198 1829,198 1930,199 2031,200 2132,200"/>
+                <TextEquiv>
+                    <Unicode>der Genehmigung des erforderlichen Kre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der Genehmigung des erforderlichen Kre¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:43:54.943+02:00</Created>
+        <LastChange>2020-08-21T22:03:44.928+02:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744434" pageNr="51" tsid="37655322" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=DKNFXDTCVXIZYGZULOONRTHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXOQCEGZCDXIJOSCFEZRWCZC" imageId="14359825"/>
+    </Metadata>
+    <Page imageFilename="0080_page_304477_line_r2l2_docId_13783.jpg" imageWidth="2266" imageHeight="409">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426415396" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2266,0 2266,409 0,409"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,262 210,309 1109,240 1474,304 2166,251 2165,100 1936,177 906,176 721,104 436,204 100,137"/>
+                <Baseline points="112,244 214,242 316,240 418,238 520,238 622,236 724,236 826,236 928,234 1030,234 1132,234 1234,234 1336,234 1438,234 1540,234 1642,234 1744,234 1846,234 1948,234 2050,232 2152,232"/>
+                <TextEquiv>
+                    <Unicode>schweizerischen Bundesgericht zum Entscheid übermittelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schweizerischen Bundesgericht zum Entscheid übermittelt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

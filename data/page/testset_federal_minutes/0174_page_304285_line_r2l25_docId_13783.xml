@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T21:49:01.061+02:00</Created>
+        <LastChange>2020-11-18T18:06:58.090+01:00</LastChange>
+        <TranskribusMetadata docId="457176" pageId="18744575" pageNr="111" tsid="49319383" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=OVBHGAIBISISBDIJNZJEESCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DOQZZRICQXPXEPNHIRAGHSYP" imageId="14359966"/>
+    </Metadata>
+    <Page imageFilename="0174_page_304285_line_r2l25_docId_13783.jpg" imageWidth="552" imageHeight="321">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426423682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 552,0 552,321 0,321"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,183 153,181 186,211 222,201 275,216 333,196 368,219 406,221 451,209 452,138 416,141 378,120 340,128 315,108 280,118 217,110 194,125 153,100 123,118 100,112"/>
+                <Baseline points="112,165 137,167 162,167 187,168 212,169 238,169 263,169 288,169 313,169 339,167 364,167 389,167 414,167 440,169 500,166"/>
+                <TextEquiv>
+                    <Unicode>deführerin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>deführerin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:38:07.861+02:00</Created>
+        <LastChange>2020-10-12T20:55:17.106+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749243" pageNr="38" tsid="49314430" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=MZHFHRFLIUDYPORELVHMCUGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMDFAMVIBTBAVELGYMIPIRAM" imageId="14364419"/>
+    </Metadata>
+    <Page imageFilename="0078_page_410699_line_r2l8_docId_17281.jpg" imageWidth="2332" imageHeight="375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425590584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2332,0 2332,375 0,375"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,215 205,271 1945,211 2098,275 2232,212 2231,143 2102,103 1709,162 1309,100 100,140"/>
+                <Baseline points="114,209 219,209 324,209 429,209 534,209 640,207 745,207 850,207 955,205 1060,205 1166,203 1271,203 1376,201 1481,201 1586,199 1692,199 1797,199 1902,199 2007,199 2112,199 2218,199"/>
+                <TextEquiv>
+                    <Unicode>gehalt von Fr. 8000 (periodische Erneuerungswahl), Hrn. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehalt von Fr. 8000 (periodische Erneuerungswahl), Hrn. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

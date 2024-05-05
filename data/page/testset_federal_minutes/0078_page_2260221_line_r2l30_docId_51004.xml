@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:18:17.678+02:00</Created>
+        <LastChange>2020-11-16T07:44:43.744+01:00</LastChange>
+        <TranskribusMetadata docId="457194" pageId="18745486" pageNr="69" tsid="49318798" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=FBMPKULEERAWZBKCKQLJDBHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZHVTISIUIIKSZDRMGXEDBKZ" imageId="14360670"/>
+    </Metadata>
+    <Page imageFilename="0078_page_2260221_line_r2l30_docId_51004.jpg" imageWidth="2312" imageHeight="352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426192637" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2312,0 2312,352 0,352"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="100,230 1666,195 1862,245 1929,195 2047,252 2212,156 1879,100 1771,156 100,142"/>
+                <Baseline points="114,178 218,178 322,178 426,178 530,178 635,178 739,178 843,178 947,180 1051,180 1156,180 1260,182 1364,182 1468,184 1572,184 1677,186 1781,186 1885,188 1989,190 2093,190 2198,192"/>
+                <TextEquiv>
+                    <Unicode>geld bemerkt, dasselbe beruhe auf einer zwischen den Regierungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>geld bemerkt, dasselbe beruhe auf einer zwischen den Regierungen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

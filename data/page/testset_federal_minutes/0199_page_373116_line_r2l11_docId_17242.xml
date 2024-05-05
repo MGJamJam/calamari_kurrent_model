@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T22:15:12.890+02:00</Created>
+        <LastChange>2020-11-16T10:55:12.325+01:00</LastChange>
+        <TranskribusMetadata docId="457187" pageId="18745348" pageNr="108" tsid="49319008" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=BAVXBDSEBAVQFBPMEWPGUYQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGKUHVONKIMCWDZEFPGAVPMI" imageId="14360532"/>
+    </Metadata>
+    <Page imageFilename="0199_page_373116_line_r2l11_docId_17242.jpg" imageWidth="2112" imageHeight="351">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619426253135" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2112,0 2112,351 0,351"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="101,247 1953,241 2012,139 443,110 100,165"/>
+                <Baseline points="113,196 207,196 301,194 396,194 490,194 585,194 679,194 773,194 868,194 962,194 1057,194 1151,194 1245,194 1340,194 1434,194 1529,194 1623,192 1717,192 1812,192 1906,190 2001,190"/>
+                <TextEquiv>
+                    <Unicode>rechtliche Natur der schweizerischen Eisenbahnrente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rechtliche Natur der schweizerischen Eisenbahnrente</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

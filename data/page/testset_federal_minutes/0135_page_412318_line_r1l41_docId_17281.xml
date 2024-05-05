@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T23:41:18.148+02:00</Created>
+        <LastChange>2020-10-12T21:15:10.711+02:00</LastChange>
+        <TranskribusMetadata docId="457254" pageId="18749420" pageNr="65" tsid="49314520" status="GT" userId="537" imgUrl="https://files.transkribus.eu/Get?id=NRQNZKQCVGZXIBBBBPPJTHKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVRWJXLAQPVQTATBMNJVKZQD" imageId="14364596"/>
+    </Metadata>
+    <Page imageFilename="0135_page_412318_line_r1l41_docId_17281.jpg" imageWidth="601" imageHeight="344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425594399" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 601,0 601,344 0,344"/>
+            <TextLine id="r1_l1" custom="readingOrder {index:0;}">
+                <Coords points="104,244 163,217 202,227 221,215 244,234 284,213 375,216 400,237 441,236 501,206 498,113 388,122 308,100 209,106 185,126 138,102 100,117"/>
+                <Baseline points="116,192 142,190 168,189 195,188 221,186 248,186 274,185 301,184 327,183 353,182 380,182 406,182 433,181 459,180 486,178"/>
+                <TextEquiv>
+                    <Unicode>224'000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>224'000</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
