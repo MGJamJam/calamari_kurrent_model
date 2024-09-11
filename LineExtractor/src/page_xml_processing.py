@@ -24,22 +24,29 @@ class PageXMLProcessor:
         return self.root.find('.//ns:Page', namespaces=self.namespace)
 
     def update_xml(self, text_region_id, bbox, text_line, text_line_coords_points, base_line_coords_points, image_file_name):
-        #TODDo comments and docs
+        """Updates the PAGE XML file by stripping irrelevant information for the specified text line,
+        and adjusting the coordinates and file information to match the cropped image."""
+
+        # Remove all other text regions and text lines of given text region
         self.delete_text_regions_and_text_lines(text_region_id)
 
+        # Update coordinates to be relative to the bounding box of the cropped image
         new_text_line_coords = get_new_coords(text_line_coords_points, bbox)
         new_base_line_coords = get_new_coords(base_line_coords_points, bbox)
         new_text_region_coords = f"0,0 0,{bbox[3] - bbox[1]} {bbox[2] - bbox[0]},{bbox[3] - bbox[1]} {bbox[2] - bbox[0]},0"
 
+        # Update the filename, image width, and image height
         page = self.get_page()
         page.set('imageWidth', str(bbox[2] - bbox[0]))
         page.set('imageHeight', str(bbox[3] - bbox[1]))
         page.set('imageFilename', image_file_name)
 
+        # Update the text line with the new coordinates
         new_text_line = copy.deepcopy(text_line)
         new_text_line.find('.//ns:Coords', namespaces=self.namespace).set('points', new_text_line_coords)
         new_text_line.find('.//ns:Baseline', namespaces=self.namespace).set('points', new_base_line_coords)
 
+        # Update the text region's coordinates and append the updated text line
         text_region = self.get_textregions()[0]
         text_region.find('.//ns:Coords', namespaces=self.namespace).set('points', new_text_region_coords)
         text_region.append(new_text_line)
