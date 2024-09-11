@@ -54,17 +54,21 @@ def line_extractor_crop_polygons(xml_path, output_dir):
                 cropped_xml_processor.save_xml(os.path.join(output_dir, f"{cropped_image_base_name}.xml"))
                 print(f"Saved: {cropped_image_base_name}.png and XML")
 
+input_dir = "../input"
+output_base_dir = "../output"
 
+for file_name in os.listdir(input_dir):
+    if file_name.endswith(".xml"):
+        xml_path = os.path.join(input_dir, file_name)
 
-# TODO loop through an input folder
-xml_path = "bayerische-gesandtschaft-paepstlicher-stuhl-180-1824.xml"
-output_dir = "../output"
+        print(f"Processing {xml_path}")
 
-os.makedirs(output_dir, exist_ok=True)
+        # Create own output folder for every file in the output_base_dir
+        output_dir = os.path.join(output_base_dir, file_name.strip('.xml'))
+        os.makedirs(output_dir, exist_ok=True)
 
-# Draw Polygons
-line_extractor_draw_polygons(xml_path, output_dir)
+        # Draw Polygons
+        line_extractor_draw_polygons(xml_path, output_dir)
 
-# Extract Lines into own files
-line_extractor_crop_polygons(xml_path, output_dir)
-
+        # Extract Lines into own files
+        line_extractor_crop_polygons(xml_path, output_dir)
