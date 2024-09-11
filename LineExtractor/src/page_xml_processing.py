@@ -64,6 +64,7 @@ class PageXMLProcessor:
                     region.remove(text_line)
 
                 text_equiv = region.find('.//ns:TextEquiv', namespaces=self.namespace)
-                region.remove(text_equiv)
+                if text_equiv is not None:
+                    region.remove(text_equiv)
             else:
                 self.get_page().remove(region)
