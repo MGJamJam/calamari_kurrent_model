@@ -60,8 +60,10 @@ class PageXMLProcessor:
         """Delete all the text lines of a given text region and all other text regions."""
         for region in self.get_textregions():
             if region.attrib.get('id') == text_region_id:
-                # TODO also remove the general unicode or set it to the textline translation later?
                 for text_line in region.findall('.//ns:TextLine', namespaces=self.namespace):
                     region.remove(text_line)
+
+                text_equiv = region.find('.//ns:TextEquiv', namespaces=self.namespace)
+                region.remove(text_equiv)
             else:
                 self.get_page().remove(region)
