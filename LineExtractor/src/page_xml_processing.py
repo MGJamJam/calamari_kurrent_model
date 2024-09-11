@@ -8,6 +8,7 @@ class PageXMLProcessor:
     def __init__(self, xml_path):
         self.tree = ET.parse(xml_path)
         self.root = self.tree.getroot()
+        ET.register_namespace('', self.root.tag.split('}')[0].strip('{'))
         self.namespace = {'ns': self.root.tag.split('}')[0].strip('{')}
 
     def get_page_image_filename(self):
