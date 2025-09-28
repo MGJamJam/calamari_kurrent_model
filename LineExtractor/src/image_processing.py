@@ -14,6 +14,11 @@ class ImageProcessor:
         else:
             draw.polygon(points, outline='red', width=2)
 
+    def draw_line(self, points):
+        """Draws a line on the image."""
+        draw = ImageDraw.Draw(self.image)
+        draw.line(points, fill='blue', width=2)
+
     def crop_polygon(self, points):
         """Crop the polygon area from the image."""
 

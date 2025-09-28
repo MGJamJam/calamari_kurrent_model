@@ -12,9 +12,11 @@ def line_extractor_draw_polygons(xml_path, output_dir):
 
     # Draw polygons for every textline
     for textline in xml_processor.get_textlines():
-        coords = parse_points(textline.find('.//ns:Coords', namespaces=xml_processor.namespace).attrib['points'])
-        image_processor.draw_polygon(coords)
-
+        bb_coords = parse_points(textline.find('.//ns:Coords', namespaces=xml_processor.namespace).attrib['points'])
+        image_processor.draw_polygon(bb_coords)
+        bl_coords = parse_points(baseline.attrib['points'])
+        image_processor.draw_line(bl_coords)
+        
     # Save the annotated image
     output_image_path = os.path.join(output_dir, f"annotated_{os.path.basename(image_filename)}")
     image_processor.save_image(output_image_path)
