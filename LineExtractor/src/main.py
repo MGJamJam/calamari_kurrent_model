@@ -14,7 +14,7 @@ def line_extractor_draw_polygons(xml_path, output_dir):
     for textline in xml_processor.get_textlines():
         bb_coords = parse_points(textline.find('.//ns:Coords', namespaces=xml_processor.namespace).attrib['points'])
         image_processor.draw_polygon(bb_coords)
-        bl_coords = parse_points(baseline.attrib['points'])
+        bl_coords = parse_points(textline.find('.//ns:Baseline', namespaces=xml_processor.namespace).attrib['points'])
         image_processor.draw_line(bl_coords)
         
     # Save the annotated image
