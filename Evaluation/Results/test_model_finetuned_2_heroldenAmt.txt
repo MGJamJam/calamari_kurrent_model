@@ -1,0 +1,317 @@
+Loading model model_best_finetuned_2.mlmodel	✓
+Evaluating model_best_finetuned_2.mlmodel
+Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 19/19 0:00:00 0:00:03
+=== report  ===
+
+1203	Characters
+732	Errors
+39.15%	Character Accuracy
+39.90%	Character Accuracy (Case-insensitive)
+4.95%	Word Accuracy
+
+255	Insertions
+48	Deletions
+429	Substitutions
+
+Count	Missed	%Right
+211	46	78.20%	Common
+980	629	35.82%	Latin
+12	9	25.00%	Inherited
+
+Errors	Correct-Generated
+31	{ e } - {  }
+26	{ r } - {  }
+20	{ t } - {  }
+17	{ s } - {  }
+16	{ l } - {  }
+16	{ n } - { m }
+15	{ n } - {  }
+15	{ h } - {  }
+14	{ d } - {  }
+12	{ a } - {  }
+12	{ SPACE } - {  }
+11	{ i } - {  }
+11	{ r } - { n }
+10	{ e } - { n }
+8	{ c } - {  }
+8	{ g } - {  }
+8	{ . } - {  }
+7	{  } - { i }
+7	{ e } - { i }
+7	{ e } - { a }
+6	{ n } - { r }
+6	{ t } - { d }
+6	{ e } - { u }
+5	{ s } - { e }
+5	{ i } - { u }
+5	{  } - { n }
+5	{  } - { e }
+5	{ u } - { i }
+5	{ r } - { d }
+5	{ I } - {  }
+5	{  } - { u }
+5	{  } - { d }
+5	{ c } - { d }
+4	{ e } - { o }
+4	{ s } - { d }
+4	{ d } - { n }
+4	{ t } - { e }
+4	{ a } - { u }
+4	{ e } - { SPACE }
+4	{ l } - { d }
+4	{ h } - { e }
+4	{ o } - { e }
+4	{ s } - { u }
+4	{ , } - {  }
+4	{ A } - { W }
+4	{  } - { a }
+4	{ f } - {  }
+3	{ o } - { i }
+3	{ t } - { o }
+3	{ r } - { m }
+3	{ a } - { e }
+3	{  } - { r }
+3	{ n } - { d }
+3	{ s } - { a }
+3	{ d } - { i }
+3	{ e } - { m }
+3	{ i } - { d }
+3	{ V } - { B }
+3	{  } - { m }
+3	{ r } - { i }
+3	{ g } - { a }
+3	{ b } - {  }
+3	{ l } - { n }
+3	{ COMBINING DIAERESIS } - {  }
+3	{ F } - { B }
+3	{ u } - {  }
+3	{ w } - {  }
+3	{ g } - { m }
+3	{  } - { h }
+2	{ s } - { m }
+2	{ n } - { e }
+2	{ s } - { l }
+2	{ c } - { n }
+2	{ a } - { m }
+2	{ n } - { w }
+2	{ . } - { e }
+2	{ u } - { o }
+2	{ t } - { n }
+2	{ t } - { i }
+2	{ l } - { i }
+2	{ r } - { COMBINING DIAERESIS }
+2	{  } - { c }
+2	{ i } - { SPACE }
+2	{ n } - { a }
+2	{ h } - { d }
+2	{ o } - { n }
+2	{ t } - { s }
+2	{ n } - { u }
+2	{ r } - { a }
+2	{ f } - { n }
+2	{ o } - { m }
+2	{ r } - { SPACE }
+2	{ e } - { d }
+2	{ B } - { E }
+2	{ e } - { s }
+2	{ u } - { n }
+2	{ - } - {  }
+2	{ e } - { p }
+2	{ b } - { o }
+2	{ g } - { o }
+2	{ r } - { e }
+2	{ b } - { a }
+2	{ l } - { r }
+2	{ 1 } - {  }
+2	{ i } - { n }
+2	{ z } - {  }
+2	{ d } - { v }
+2	{ d } - { T }
+2	{ l } - { e }
+2	{ n } - { i }
+2	{ h } - { s }
+2	{ u } - { e }
+2	{ F } - { C }
+2	{ d } - { e }
+2	{ o } - { a }
+2	{ k } - { d }
+1	{ N } - { SPACE }
+1	{ b } - { c }
+1	{ D } - { U }
+1	{ g } - { p }
+1	{ S } - { R }
+1	{ u } - { a }
+1	{ h } - { , }
+1	{ h } - { n }
+1	{ l } - { T }
+1	{ c } - { s }
+1	{ c } - { COMBINING DIAERESIS }
+1	{ N } - { W }
+1	{ m } - { n }
+1	{ S } - { K }
+1	{ s } - { n }
+1	{ E } - { W }
+1	{ b } - { E }
+1	{ m } - { r }
+1	{ ß } - { e }
+1	{ t } - { k }
+1	{ E } - { d }
+1	{ s } - { w }
+1	{ f } - { T }
+1	{ s } - { r }
+1	{ t } - { b }
+1	{ o } - { u }
+1	{ A } - { 3 }
+1	{ d } - { . }
+1	{ l } - { a }
+1	{ v } - { SPACE }
+1	{ b } - { W }
+1	{ d } - { B }
+1	{ j } - { u }
+1	{  } - { COMBINING DIAERESIS }
+1	{ s } - { o }
+1	{ c } - { t }
+1	{ m } - { u }
+1	{ COMBINING DIAERESIS } - { u }
+1	{ g } - { n }
+1	{ l } - { , }
+1	{ d } - { u }
+1	{ ß } - {  }
+1	{ T } - { i }
+1	{ COMBINING DIAERESIS } - { SPACE }
+1	{ c } - { u }
+1	{ h } - { a }
+1	{ a } - { r }
+1	{ l } - { u }
+1	{ V } - { W }
+1	{ “ } - {  }
+1	{ k } - { K }
+1	{ ( } - { D }
+1	{ C } - { a }
+1	{ g } - { r }
+1	{ v } - {  }
+1	{ 8 } - { v }
+1	{ I } - { 4 }
+1	{ 9 } - { g }
+1	{ 4 } - { n }
+1	{ b } - { S }
+1	{ d } - { 2 }
+1	{ G } - { O }
+1	{ e } - { ß }
+1	{ s } - { i }
+1	{ u } - { g }
+1	{ H } - { R }
+1	{ v } - { a }
+1	{ S } - { u }
+1	{ f } - { s }
+1	{ SPACE } - { e }
+1	{ B } - { C }
+1	{ , } - { e }
+1	{ g } - { „ }
+1	{ b } - { n }
+1	{ v } - { u }
+1	{ E } - { M }
+1	{ a } - { A }
+1	{ b } - { d }
+1	{ s } - { . }
+1	{ - } - { SPACE }
+1	{ k } - { . }
+1	{ l } - { COMBINING DIAERESIS }
+1	{ w } - { n }
+1	{ L } - { u }
+1	{ B } - { T }
+1	{ F } - { W }
+1	{ 6 } - {  }
+1	{ ) } - {  }
+1	{ D } - {  }
+1	{ V } - { R }
+1	{ A } - { D }
+1	{ u } - { w }
+1	{ v } - { d }
+1	{ h } - { m }
+1	{ r } - { ß }
+1	{ w } - { u }
+1	{ p } - { n }
+1	{ i } - { e }
+1	{ W } - { n }
+1	{ 2 } - {  }
+1	{ 9 } - {  }
+1	{ 4 } - {  }
+1	{ l } - { o }
+1	{ W } - { V }
+1	{ SPACE } - { k }
+1	{ N } - {  }
+1	{ t } - { w }
+1	{ d } - { a }
+1	{ E } - { T }
+1	{ b } - { t }
+1	{  } - { w }
+1	{ c } - { a }
+1	{  } - { , }
+1	{ d } - { o }
+1	{ L } - { l }
+1	{ Z } - { d }
+1	{ t } - { g }
+1	{  } - { SPACE }
+1	{ R } - { W }
+1	{ i } - { m }
+1	{ g } - { z }
+1	{ r } - { u }
+1	{ a } - { w }
+1	{ SPACE } - { t }
+1	{ B } - { a }
+1	{ s } - { SPACE }
+1	{ i } - { W }
+1	{ t } - { a }
+1	{ A } - { m }
+1	{ c } - { o }
+1	{ h } - { r }
+1	{ L } - { T }
+1	{ e } - { r }
+1	{ g } - { v }
+1	{ COMBINING DIAERESIS } - { c }
+1	{ p } - { h }
+1	{ f } - { e }
+1	{ w } - { d }
+1	{ N } - { T }
+1	{  } - { o }
+1	{ f } - { i }
+1	{ o } - {  }
+1	{ s } - { g }
+1	{ f } - { D }
+1	{ COMBINING DIAERESIS } - { e }
+1	{ K } - { S }
+1	{ G } - { S }
+1	{ ß } - { l }
+1	{ Z } - { t }
+1	{ s } - { Z }
+1	{ v } - { w }
+1	{  } - { k }
+1	{ a } - { i }
+1	{ r } - { k }
+1	{ d } - { D }
+1	{ E } - { l }
+1	{ s } - { v }
+1	{ o } - { d }
+1	{ G } - { D }
+1	{ d } - { COMBINING DIAERESIS }
+1	{ r } - { l }
+1	{ SPACE } - { g }
+1	{ N } - { e }
+1	{ a } - { l }
+1	{ S } - { B }
+1	{ COMBINING DIAERESIS } - { n }
+1	{ w } - { m }
+1	{ d } - { r }
+1	{ V } - { 2 }
+1	{ a } - { n }
+1	{ COMBINING DIAERESIS } - { t }
+1	{ K } - { B }
+1	{ h } - { SPACE }
+1	{ p } - { z }
+1	{ a } - { b }
+1	{ m } - { e }
+1	{ b } - { w }
+
+Average character accuracy: 39.15%, (stddev: 0.00)
+Average word accuracy: 4.95%, (stddev: 0.00)

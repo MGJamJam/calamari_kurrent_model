@@ -1,0 +1,149 @@
+Loading model model_best_finetuned_2.mlmodel	✓
+Evaluating model_best_finetuned_2.mlmodel
+Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 30/30 0:00:00 0:00:04
+=== report  ===
+
+1405	Characters
+236	Errors
+83.20%	Character Accuracy
+83.91%	Character Accuracy (Case-insensitive)
+52.00%	Word Accuracy
+
+44	Insertions
+48	Deletions
+144	Substitutions
+
+Count	Missed	%Right
+251	18	92.83%	Common
+1143	166	85.48%	Latin
+11	4	63.64%	Inherited
+
+Errors	Correct-Generated
+10	{ e } - {  }
+9	{  } - { n }
+9	{  } - { e }
+7	{ D } - { d }
+7	{ e } - { u }
+7	{ t } - {  }
+6	{ s } - { c }
+6	{ n } - { r }
+5	{ e } - { n }
+5	{  } - { h }
+5	{  } - { COMBINING DIAERESIS }
+4	{ s } - { h }
+4	{ s } - { ſ }
+4	{ n } - {  }
+4	{  } - { t }
+4	{ SPACE } - {  }
+3	{ i } - { e }
+3	{ i } - { u }
+3	{ ß } - { s }
+3	{ COMBINING DIAERESIS } - {  }
+3	{ r } - { n }
+3	{ a } - { e }
+3	{ i } - {  }
+2	{  } - { . }
+2	{ z } - { g }
+2	{  } - { u }
+2	{  } - { r }
+2	{ t } - { h }
+2	{ n } - { u }
+2	{  } - { c }
+2	{ f } - { s }
+2	{  } - { g }
+2	{ f } - { t }
+2	{ B } - { b }
+2	{ r } - { e }
+2	{ u } - { i }
+2	{ t } - { l }
+2	{ e } - { r }
+2	{ e } - { o }
+2	{ u } - {  }
+1	{ 8 } - {  }
+1	{ 4 } - { 1 }
+1	{  } - { ſ }
+1	{ m } - { n }
+1	{ u } - { e }
+1	{ P } - { T }
+1	{ SPACE } - { m }
+1	{ n } - { i }
+1	{ u } - { SPACE }
+1	{ n } - { f }
+1	{ , } - { w }
+1	{ SPACE } - { a }
+1	{ w } - { COMBINING DIAERESIS }
+1	{ i } - { n }
+1	{ e } - { a }
+1	{ d } - { t }
+1	{ c } - { r }
+1	{ t } - { u }
+1	{ e } - { c }
+1	{ c } - { e }
+1	{ SPACE } - { l }
+1	{ z } - { l }
+1	{ m } - {  }
+1	{ - } - {  }
+1	{ a } - { o }
+1	{ . } - {  }
+1	{ m } - { w }
+1	{ w } - { e }
+1	{ p } - { c }
+1	{ t } - { k }
+1	{ ; } - { - }
+1	{ D } - {  }
+1	{ l } - { d }
+1	{ n } - { e }
+1	{  } - { - }
+1	{ ß } - { i }
+1	{ SPACE } - { r }
+1	{ D } - { l }
+1	{ f } - { ſ }
+1	{  } - { SPACE }
+1	{ m } - { a }
+1	{  } - { d }
+1	{ d } - { u }
+1	{ l } - { t }
+1	{  } - { o }
+1	{ k } - { t }
+1	{ e } - { m }
+1	{  } - { i }
+1	{ w } - { W }
+1	{ , } - {  }
+1	{ r } - { m }
+1	{ o } - { i }
+1	{ o } - { D }
+1	{ COMBINING DIAERESIS } - { s }
+1	{ f } - {  }
+1	{ e } - { h }
+1	{ y } - { r }
+1	{ a } - { u }
+1	{ V } - { M }
+1	{ n } - { a }
+1	{ I } - { S }
+1	{ SPACE } - { e }
+1	{ w } - {  }
+1	{ n } - { m }
+1	{ s } - { SPACE }
+1	{ R } - { n }
+1	{ SPACE } - { i }
+1	{ s } - { ß }
+1	{ z } - {  }
+1	{ f } - { h }
+1	{ o } - { a }
+1	{ r } - { w }
+1	{ w } - { a }
+1	{ V } - { A }
+1	{ k } - { N }
+1	{ f } - { G }
+1	{ c } - {  }
+1	{ . } - { r }
+1	{ d } - {  }
+1	{ e } - { . }
+1	{ D } - { F }
+1	{ w } - { i }
+1	{ w } - { m }
+1	{ t } - { s }
+1	{ e } - { i }
+
+Average character accuracy: 83.20%, (stddev: 0.00)
+Average word accuracy: 52.00%, (stddev: 0.00)
