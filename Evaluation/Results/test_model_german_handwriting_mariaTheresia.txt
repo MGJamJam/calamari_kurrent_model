@@ -1,0 +1,148 @@
+Loading model german_handwriting.mlmodel	✓
+Evaluating german_handwriting.mlmodel
+Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 30/30 0:00:00 0:00:04
+=== report  ===
+
+1405	Characters
+263	Errors
+81.28%	Character Accuracy
+82.21%	Character Accuracy (Case-insensitive)
+42.40%	Word Accuracy
+
+63	Insertions
+29	Deletions
+171	Substitutions
+
+Count	Missed	%Right
+251	16	93.63%	Common
+1143	207	81.89%	Latin
+11	11	0.00%	Inherited
+
+Errors	Correct-Generated
+18	{ s } - { ſ }
+11	{ n } - {  }
+9	{ D } - { d }
+8	{ COMBINING DIAERESIS } - {  }
+7	{ e } - { n }
+6	{ c } - {  }
+6	{ u } - { ü }
+6	{ SPACE } - {  }
+6	{ n } - { r }
+6	{ e } - {  }
+5	{ t } - {  }
+5	{  } - { e }
+4	{ t } - { l }
+4	{ i } - { ü }
+4	{ f } - { s }
+4	{  } - { n }
+3	{ n } - { e }
+3	{ s } - { c }
+3	{  } - { h }
+3	{ u } - { e }
+3	{ z } - {  }
+3	{  } - { SPACE }
+3	{ f } - { ſ }
+3	{ o } - { r }
+3	{  } - { t }
+2	{ z } - { g }
+2	{ u } - { n }
+2	{  } - { i }
+2	{ m } - { n }
+2	{ i } - { u }
+2	{ u } - { i }
+2	{ u } - {  }
+2	{ d } - {  }
+2	{ r } - { n }
+2	{ m } - {  }
+2	{ y } - { g }
+2	{ n } - { u }
+2	{ n } - { g }
+2	{ e } - { ü }
+2	{ t } - { s }
+2	{ ß } - { s }
+2	{ h } - {  }
+2	{ B } - { b }
+2	{ e } - { u }
+2	{  } - { „ }
+2	{ r } - { e }
+2	{ o } - { e }
+2	{ s } - { t }
+2	{ SPACE } - { i }
+2	{ a } - { o }
+2	{ I } - { S }
+2	{ n } - { m }
+2	{  } - { r }
+1	{ 4 } - { 7 }
+1	{ s } - { h }
+1	{ o } - { ö }
+1	{ P } - { T }
+1	{ a } - { ä }
+1	{ c } - { e }
+1	{ SPACE } - { e }
+1	{ i } - { e }
+1	{  } - { . }
+1	{ i } - { a }
+1	{ s } - { i }
+1	{ t } - { ß }
+1	{ - } - {  }
+1	{ . } - {  }
+1	{ I } - { s }
+1	{ h } - { s }
+1	{ s } - { S }
+1	{ p } - { c }
+1	{ ; } - { , }
+1	{ l } - { d }
+1	{ k } - { L }
+1	{ e } - { ¬ }
+1	{ COMBINING DIAERESIS } - { u }
+1	{ s } - { l }
+1	{ ß } - { c }
+1	{ h } - { ſ }
+1	{ e } - { m }
+1	{ A } - { U }
+1	{ l } - {  }
+1	{ B } - { k }
+1	{  } - { o }
+1	{ f } - { t }
+1	{ w } - { b }
+1	{ a } - { n }
+1	{ l } - { g }
+1	{ , } - {  }
+1	{  } - { s }
+1	{ e } - { c }
+1	{ s } - { f }
+1	{ e } - { r }
+1	{ o } - {  }
+1	{ h } - { j }
+1	{ n } - { „ }
+1	{ o } - { d }
+1	{ COMBINING DIAERESIS } - { s }
+1	{ f } - {  }
+1	{  } - { c }
+1	{ V } - { M }
+1	{  } - { a }
+1	{ g } - { z }
+1	{ COMBINING DIAERESIS } - { m }
+1	{ i } - { t }
+1	{ i } - { g }
+1	{ f } - { h }
+1	{ t } - { n }
+1	{ a } - {  }
+1	{ c } - { n }
+1	{ h } - { g }
+1	{ w } - {  }
+1	{ V } - { K }
+1	{ a } - { e }
+1	{ s } - { n }
+1	{ . } - { r }
+1	{ SPACE } - { a }
+1	{ A } - {  }
+1	{ i } - { „ }
+1	{ u } - { . }
+1	{ w } - { e }
+1	{ w } - { m }
+1	{ T } - { H }
+1	{ s } - {  }
+
+Average character accuracy: 81.28%, (stddev: 0.00)
+Average word accuracy: 42.40%, (stddev: 0.00)

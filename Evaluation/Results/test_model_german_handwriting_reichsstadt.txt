@@ -1,0 +1,139 @@
+Loading model german_handwriting.mlmodel	✓
+Evaluating german_handwriting.mlmodel
+Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 57/57 0:00:00 0:00:05
+=== report  ===
+
+1461	Characters
+247	Errors
+83.09%	Character Accuracy
+83.78%	Character Accuracy (Case-insensitive)
+43.50%	Word Accuracy
+
+70	Insertions
+7	Deletions
+170	Substitutions
+
+Count	Missed	%Right
+1198	176	85.31%	Latin
+237	38	83.97%	Common
+26	26	0.00%	Inherited
+
+Errors	Correct-Generated
+28	{ s } - { ſ }
+17	{ COMBINING DIAERESIS } - {  }
+13	{ - } - {  }
+9	{ o } - { ö }
+9	{ r } - {  }
+7	{ s } - {  }
+7	{ a } - { e }
+6	{ u } - { ü }
+5	{ a } - { ä }
+5	{ e } - { r }
+5	{ c } - {  }
+3	{ n } - { r }
+3	{ e } - { t }
+3	{ e } - {  }
+3	{ u } - { n }
+3	{ H } - { h }
+3	{ B } - { b }
+3	{ SPACE } - {  }
+2	{ COMBINING DIAERESIS } - { ſ }
+2	{ u } - {  }
+2	{ n } - { u }
+2	{ - } - { . }
+2	{ i } - { e }
+2	{ . } - { : }
+2	{  } - { : }
+2	{ m } - { n }
+2	{ i } - { ü }
+2	{ h } - { z }
+2	{ r } - { v }
+2	{ - } - { ¬ }
+2	{ - } - { „ }
+2	{ COMBINING DIAERESIS } - { e }
+2	{ h } - {  }
+2	{ c } - { t }
+2	{ n } - {  }
+2	{ = } - {  }
+1	{ COMBINING DIAERESIS } - { f }
+1	{ t } - { k }
+1	{ g } - { q }
+1	{  } - { . }
+1	{ f } - { d }
+1	{ r } - { s }
+1	{ a } - { n }
+1	{ v } - { y }
+1	{ e } - { w }
+1	{ K } - { F }
+1	{ m } - { w }
+1	{ a } - { t }
+1	{ f } - { F }
+1	{ COMBINING ACUTE ACCENT } - {  }
+1	{ . } - { l }
+1	{ = } - { e }
+1	{ k } - { f }
+1	{ T } - { H }
+1	{ h } - { ü }
+1	{ . } - { i }
+1	{  } - { „ }
+1	{ b } - { B }
+1	{ a } - { ö }
+1	{ y } - { g }
+1	{ e } - { c }
+1	{ L } - { S }
+1	{ e } - { B }
+1	{ B } - { K }
+1	{ s } - { t }
+1	{ s } - { e }
+1	{  } - { ſ }
+1	{ - } - { r }
+1	{ - } - { e }
+1	{ COMBINING DIAERESIS } - { r }
+1	{ ; } - {  }
+1	{ 7 } - { 4 }
+1	{ e } - { p }
+1	{ . } - { h }
+1	{ COMBINING DIAERESIS } - { i }
+1	{ x } - { v }
+1	{ r } - { d }
+1	{ , } - { e }
+1	{ c } - { g }
+1	{ h } - { , }
+1	{ z } - { ſ }
+1	{ , } - {  }
+1	{ a } - { o }
+1	{ s } - { ¬ }
+1	{ i } - { r }
+1	{  } - { r }
+1	{ n } - { a }
+1	{ S } - { R }
+1	{ L } - { T }
+1	{ d } - { „ }
+1	{ COMBINING DIAERESIS } - { d }
+1	{ e } - { i }
+1	{ 8 } - { 5 }
+1	{ E } - { f }
+1	{ o } - { ä }
+1	{ i } - { t }
+1	{ z } - { Z }
+1	{ i } - { ¬ }
+1	{ o } - { p }
+1	{ s } - { ä }
+1	{ a } - {  }
+1	{  } - { t }
+1	{ F } - { E }
+1	{ w } - { r }
+1	{ - } - { i }
+1	{ o } - { e }
+1	{ R } - { W }
+1	{ f } - { ſ }
+1	{ s } - { F }
+1	{ g } - { s }
+1	{ U } - { Ü }
+1	{ S } - { W }
+1	{ t } - {  }
+1	{ e } - { u }
+1	{ r } - { e }
+
+Average character accuracy: 83.09%, (stddev: 0.00)
+Average word accuracy: 43.50%, (stddev: 0.00)
