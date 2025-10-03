@@ -1,52 +1,104 @@
-# Calamari Kurrent Model
+# HTR Model for 19th century German Kurrent script
 
-This repository contains the practical part of my Bachelor thesis. 
-The goal is to train and evaluate an Handwritten Text Recognition (HTR) model using the OCR engine [calamari](https://github.com/Calamari-OCR/calamari) to recognizes 19th-century German Kurrent script. 
+This repository contains the practical work of my bachelor thesis. It includes:
 
-## Ground Truth Data
+- `19th_century_kurrent.mlmodel`: A Handwritten Text Recognition (HTR) model trained to recognize 19th-century German Kurrent script
+- A detailed description and link to the ground truth dataset used for training
+- The Line Extractor tool for extracting segmented lines from PageXML files and corresponding images
+- Evaluation results and description of datasets used for testing and validating the model
 
-### Protokolle des Akademischen Senats (1799-1847)
+The model was trained using Kraken. As a starting point, I fine-tuned the German Handwriting base model. Training was performed in two fine-tuning steps. Initial fine-tuning were the base model was adapted to the dataset. Second fine-tuning were the training was continued on the same dataset, starting from the weights of the already fine-tuned model, which achieved a better CER.
 
-The [Senatsprotokolle](GroundTruthData/Senatsprotokolle) folder contains transcriptions of the "Protokolle des Akademischen Senats" from Eberhard Karls Universität Tübingen during the period of 1799-1847. 
-
-The data was sourced from https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle
-
-#### Folder Structure
-- **AnnotatedImages**: Contains JPEG images with the textline layout outlined in red created using the [LineExtractor tool](LineExtractor)
-- **extracted_lines_UAT_047_15.zip**: Contains all 813 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_15) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_19.zip**: Contains all 696 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_19) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_19.zip**: Contains all 715 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_20a) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_22.zip**: Contains all 692 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_22) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_24.zip**: Contains all 1085 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_24) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_25.zip**: Contains all 854 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_25) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_28_1.zip**: Contains 1799 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_28) using the [LineExtractor tool](LineExtractor).
-- **extracted_lines_UAT_047_28_2.zip**: Contains 1862 textline images along with their respective PAGE XML files, extracted from the original Images and PageXML [files](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle/UAT_047_28) using the [LineExtractor tool](LineExtractor).
-
-#### Dataset Overview
-- **Pages**: 229 pages from seven volumes.
-- **Textlines**: 8_516 textlines.
-- **Words**: 37_313 words.
-- **Characters**: 235_612 characters.
-
-#### Script and Layout
-- **Script**: Mostly Kurrent by different scribes.
-- **Layout**: Text regions and baselines are manually corrected.
-
-#### Transcription guidelines 
-All transcriptions were created using Transkribus. The transcription rules are based on the OCR-D transcription guidelines Level 2
-
-#### Sources
-The transcriptions are based on digitized material available through OpenDigi from the University Library of Tübingen. Below are the specific volumes referenced:
-
-- [Protokolle des Akademischen Senats Band 63, UAT_047_15](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_15#p=1)
-- [Protokolle des Akademischen Senats Band 67, UAT_047_19](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_19#p=1)
-- [Protokolle des Akademischen Senats Band 69, UAT_047_20a](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_20a#p=1)
-- [Protokolle des Akademischen Senats Band 71, UAT_047_22](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_22#p=1)
-- [Protokolle des Akademischen Senats Band 73, UAT_047_24](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_24#p=1)
-- [Protokolle des Akademischen Senats Band 74, UAT_047_25](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_25#p=1)
-- [Protokolle des Akademischen Senats Band 77, UAT_047_28](https://opendigi.ub.uni-tuebingen.de/opendigi/UAT_047_28#p=1)
+The training was executed with the following command: 
+```
+ketos --device cuda:0 --precision bf16-mixed train -f page -t train.lst -e val.lst -i best_model_of_fine_tuning_german_handwriting.mlmodel --logger tensorboard --min-epochs 20 --resize new -B 4 -r 0.0001 -u NFD --schedule cosine
+```
 
 
-### Test Set: Minutes of the Swiss Federal Council (1848-1903)
-- **Description:** The data set consists of extracts of the minutes of the Swiss Federal Council. 
-- **Citation:** Hodel, T., & Schoch, D. (2021). Handwritten Text Recognition Test Set: Minutes of the Swiss Federal Council (1848-1903) (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4746342
+## Ground Truth Data used for model training
+
+The dataset available at https://zenodo.org/records/17252677 created and used for my Bachelorthesis comprises handwritten manuscripts in **19th-century German Kurrent**, prepared for the training of a Handwritten Text Recognition (HTR) model. It contains a total of **9,317 text lines**. The data was sourced from the following repositories:
+
+* **Senatsprotokolle**: [https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle](https://github.com/ubtue/Ground-Truth/tree/main/Senatsprotokolle)
+* **Digitale Schriftkunde (Bayerisches Hauptstaatsarchiv)**:
+  * [1806 Reichsstadt Nürnberg, Ratsverläße](https://www.gda.bayern.de/DigitaleSchriftkunde/1806_StAN_Reichsstadt-Nuernberg-Ratsverlaesse_4433.html)
+  * [1824 Maria Theresia, Privatkorrespondenz](https://www.gda.bayern.de/DigitaleSchriftkunde/1824_StAM_Von-Armansperg_47_1x.html#)
+  * [1894 Heroldenamt Akten](https://www.gda.bayern.de/DigitaleSchriftkunde/1894_BayHStA_Heroldenamt-Akten_134.html)
+* **Deutsches Textarchiv (DTA)**:
+  * [Libelt, Kosmos-Vorlesungen](https://www.deutschestextarchiv.de/book/show/libelt_hs6623ii_1828)
+  * [Hufeland, Privatbesitz 1829](https://www.deutschestextarchiv.de/book/show/hufeland_privatbesitz_1829)
+  * [Erbkam, Tagebuch 1842](https://www.deutschestextarchiv.de/book/view/erbkam_tagebuch01_1842)
+  * [Auerbach, Sanders 1869](https://www.deutschestextarchiv.de/book/view/auerbach_sanders_1869)
+  * [Auerbach, Sanders 1880](https://www.deutschestextarchiv.de/auerbach_sanders_1880)
+  * [Auerbach, Sanders II 1880](https://www.deutschestextarchiv.de/book/view/auerbach_sanders2_1880)
+
+For more details, see the README file of each dataset in the `data/pages/datasetname` folder.
+
+### Dataset Splits
+
+* **Training Set**:
+  * 130 lines from Auerbach
+  * 2,620 lines of low-quality Senatsprotokolle
+  * 4,758 lines of high-quality Senatsprotokolle
+  * 171 lines from Hufeland
+  * 217 lines from Erbkam
+  * **Total:** 7,896 lines
+
+* **Validation Set**: Randomly selected ~10% of lines from the entire training dataset, including:
+  * 16 lines from Auerbach
+  * 716 lines of high-quality Senatsprotokolle
+  * 21 lines from Hufeland
+  * 27 lines from Erbkam
+  * **Total:** 760 lines
+
+* **Test Set**: Randomly selected ~10% of lines from the entire training dataset, including:
+  * 16 lines from Auerbach Berthold
+  * 292 low-quality Senatsprotokolle
+  * 130 high-quality Senatsprotokolle
+  * 21 lines from Hufeland
+  * 27 lines from Erbkam
+  * All lines from Libelt, Reichsstadt, Maria Theresia, and Heroldenamt Akten
+  * **Total:** 640 lines (designed to include scribes not seen during training)
+
+### Line Detection
+
+For all datasets except the Senatsprotokolle (which already contained line annotations), line detection was performed automatically using **Transkribus**, followed by manual correction. Each line was extracted with ascenders and descenders fully included in the text region, while minimizing overlap with adjacent lines.
+
+
+### Line Extraction
+
+Line extraction was performed using a Python script, available at: https://github.com/MGJamJam/htr_german_kurrent_model/tree/main/LineExtractor
+
+
+### Transcription Guidelines
+
+Transcriptions were obtained from the original sources and adapted to follow the **OCR-D Level 2 transcription guidelines** to the best of the contributor’s knowledge and ability.
+
+**Disclaimer:** I am not a professional linguist and do not read Kurrent fluently. Although care was taken to apply OCR-D Level 2 rules consistently, transcription errors or oversights cannot be fully excluded.
+
+### Data Structure
+
+The dataset available at https://zenodo.org/records/17252677 is organized as follows:
+
+- lines/
+    - TestSet/
+        - PNG files: Line images
+        - PageXML files: Transcriptions
+    - TrainingSet/
+        - PNG files: Line images
+        - PageXML files: Transcriptions
+    - ValidationSet/
+        - PNG files: Line images
+        - PageXML files: Transcriptions
+- pages/
+    - DatasetName/
+        - annotatedJpeg/: full-page images with baselines and text areas visible
+        - pngAndXml/: page images with corresponding PageXML
+        - README.md: dataset-specific metadata and description
+
+### License
+
+* **Deutsches Textarchiv data:** All content is released under **[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)**.
+* **Bayerische Schriftkunde data:**
+  * **Digital reproductions (images):** CC0 / Public Domain Mark, per [Staatliche Archive Bayerns terms](https://www.gda.bayern.de/footer/nutzungsbedingungen).
+  * **Editorial content and transcriptions:** CC BY-NC-SA 4.0
